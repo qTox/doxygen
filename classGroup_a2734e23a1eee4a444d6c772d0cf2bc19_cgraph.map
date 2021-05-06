@@ -1,0 +1,12 @@
+<map id="Group::Group" name="Group::Group">
+<area shape="rect" id="node2" href="$classGroup.html#a9bd278e098e1268d274e5a700e70b7c5" title="Group::isAvGroupchat" alt="" coords="176,86,337,113"/>
+<area shape="rect" id="node3" href="$classGroup.html#a47adacfcfe1b45201f80e5933fc41654" title="Group::regeneratePeerList" alt="" coords="161,137,352,163"/>
+<area shape="rect" id="node4" href="$classICoreGroupQuery.html#af69db7e64f6284cee765f973329f6435" title="ICoreGroupQuery::getGroup\lPeerNames" alt="" coords="415,5,613,47"/>
+<area shape="rect" id="node5" href="$classICoreGroupQuery.html#a5c8f4ce8de04047b11042f833e096159" title="ICoreGroupQuery::getGroup\lPeerPk" alt="" coords="415,71,613,112"/>
+<area shape="rect" id="node6" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title="ICoreIdHandler::getSelfPublicKey" alt="" coords="400,137,628,163"/>
+<area shape="rect" id="node7" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title="ICoreIdHandler::getUsername" alt="" coords="408,187,620,214"/>
+<area shape="rect" id="node8" href="$classFriendList.html#a07754b90161c4b8bede6bc35c4fc1e7f" title="FriendList::decideNickname" alt="" coords="416,238,612,265"/>
+<area shape="rect" id="node9" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="696,187,847,214"/>
+<area shape="rect" id="node10" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="676,238,867,265"/>
+<area shape="rect" id="node11" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="700,289,843,315"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CameraSource::closeDevice" name="CameraSource::closeDevice">
+<area shape="rect" id="node2" href="$classCameraSource.html#af9add1ef2031e2c35fb09e3a75bb92c1" title="Change the device and mode. " alt="" coords="256,187,461,213"/>
+<area shape="rect" id="node15" href="$classCameraSource.html#aeacf1d2f3b9a439d0191634b0424c94a" title="Stop emitting frameAvailable signals, and free associated resources if necessary. ..." alt="" coords="257,249,460,276"/>
+<area shape="rect" id="node3" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device. " alt="" coords="509,39,717,65"/>
+<area shape="rect" id="node5" href="$classAVForm.html#ad2b6d3251dcb777464153d7f2e713127" title="AVForm::open" alt="" coords="557,148,669,175"/>
+<area shape="rect" id="node9" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="1016,225,1247,266"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="771,5,963,32"/>
+<area shape="rect" id="node6" href="$classAVForm.html#aa9450a6689adde55df0d1e86fd7c3234" title="AVForm::on_videoModescombo\lBox_currentIndexChanged" alt="" coords="1529,107,1751,149"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="1812,249,1985,276"/>
+<area shape="rect" id="node8" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="765,173,968,200"/>
+<area shape="rect" id="node10" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="1038,308,1225,335"/>
+<area shape="rect" id="node11" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="1307,325,1455,352"/>
+<area shape="rect" id="node12" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="1295,401,1468,428"/>
+<area shape="rect" id="node13" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="1833,452,1964,479"/>
+<area shape="rect" id="node14" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="1516,427,1764,453"/>
+<area shape="rect" id="node16" href="$classToxCall.html#a685d97fbfb82dd715a6b40f25610b583" title="ToxCall::~ToxCall" alt="" coords="550,275,677,301"/>
+</map>

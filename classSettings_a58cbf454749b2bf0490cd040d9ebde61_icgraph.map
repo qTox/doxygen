@@ -1,0 +1,4 @@
+<map id="Settings::autoAwayTimeChanged" name="Settings::autoAwayTimeChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a9594f6a76877efe6d0db2b5e54343ee4" title="Sets how long the user may stay idle, before online status is set to &quot;away&quot;. " alt="" coords="285,13,481,39"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#a25e5fa3437ad804792965dd2a9072fa2" title="GeneralForm::on_autoAway\lSpinBox_editingFinished" alt="" coords="529,5,727,47"/>
+</map>

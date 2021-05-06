@@ -1,0 +1,5 @@
+<map id="FriendListWidget::nextLayout" name="FriendListWidget::nextLayout">
+<area shape="rect" id="node2" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="503,26,676,67"/>
+<area shape="rect" id="node3" href="$classFriendListLayout.html#a7dc5044c075e05ce4a4e6b71a4342f5d" title="FriendListLayout::getLayout\lOnline" alt="" coords="257,26,455,67"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#aded6c05bde86af4afd33a382dc10d98c" title="FriendListLayout::getLayout\lOffline" alt="" coords="257,91,455,132"/>
+</map>

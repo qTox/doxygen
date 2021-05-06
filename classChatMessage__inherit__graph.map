@@ -1,0 +1,3 @@
+<map id="ChatMessage" name="ChatMessage">
+<area shape="rect" id="node2" href="$classChatLine.html" title="{ChatLine\n|&#45; row\l&#45; content\l&#45; format\l&#45; width\l&#45; columnSpacing\l&#45; bbox\l&#45; isVisible\l|+ ChatLine()\l+ ~ChatLine()\l+ sceneBoundingRect()\l+ replaceContent()\l+ layout()\l+ moveBy()\l+ removeFromScene()\l+ addToScene()\l+ setVisible()\l+ selectionCleared()\land 8 more...\l+ lessThanBSRectTop()\l+ lessThanBSRectBottom()\l+ lessThanRowIndex()\l# mapToContent()\l# addColumn()\l# updateBBox()\l# setRow()\l# visibilityChanged()\l}" alt="" coords="15,5,211,435"/>
+</map>

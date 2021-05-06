@@ -1,0 +1,51 @@
+<map id="Nexus::showMainGUI" name="Nexus::showMainGUI">
+<area shape="rect" id="node2" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="263,1085,355,1112"/>
+<area shape="rect" id="node44" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="516,2147,644,2173"/>
+<area shape="rect" id="node45" href="$classGUI.html#a5d9cbb76cdbe88b3240235fdde630ced" title="Will enable or disable the GUI. " alt="" coords="247,2083,371,2109"/>
+<area shape="rect" id="node46" href="$classWidget.html#a140da7fa0d939662a4b13382e751fa3b" title="Widget::onSelfAvatarLoaded" alt="" coords="208,2032,409,2059"/>
+<area shape="rect" id="node47" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="221,56,397,83"/>
+<area shape="rect" id="node48" href="$classWidget.html#add0b1ec9e29738662c5f42aac1a435bc" title="Widget::onFailedToStartCore" alt="" coords="209,2184,409,2211"/>
+<area shape="rect" id="node49" href="$classWidget.html#a5ba14b9f1d63f60448ebbd1fb6c02e0e" title="Widget::onBadProxyCore" alt="" coords="219,2235,398,2261"/>
+<area shape="rect" id="node50" href="$classProfile.html#ad48bf99a520e2e2a24da6674a6a6729b" title="Starts the Core thread. " alt="" coords="244,2285,373,2312"/>
+<area shape="rect" id="node3" href="$classWidget.html#a67ba3d5f0bc7944f3fdaaea5815aaf3d" title="Widget::forceShow" alt="" coords="511,309,649,336"/>
+<area shape="rect" id="node4" href="$classWidget.html#a4d9d8b0792fb069d5998eac7aaf6ead0" title="Widget::prepareIcon" alt="" coords="763,56,912,83"/>
+<area shape="rect" id="node5" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="764,183,911,209"/>
+<area shape="rect" id="node6" href="$classWidget.html#a75786f03357740fb7c6f49a5ac90b862" title="Widget::setStatusOnline" alt="" coords="493,512,667,539"/>
+<area shape="rect" id="node7" href="$classWidget.html#a28a90c528dfbad737b4db7e9d67641f8" title="Widget::setStatusAway" alt="" coords="497,563,663,589"/>
+<area shape="rect" id="node8" href="$classWidget.html#a4cfea5d2efa5fce331809e8f799f56a0" title="Widget::setStatusBusy" alt="" coords="497,613,663,640"/>
+<area shape="rect" id="node9" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="505,664,655,691"/>
+<area shape="rect" id="node10" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="751,2030,923,2071"/>
+<area shape="rect" id="node11" href="$classMaskablePixmapWidget.html#a5c2cf2917e41ea91c93a65f0a4d4ae0f" title="MaskablePixmapWidget\l::setClickable" alt="" coords="494,766,666,807"/>
+<area shape="rect" id="node12" href="$classSettings.html#ae0df0603d45e761e662faeffd01de9ee" title="Settings::getFriendSortingMode" alt="" coords="469,832,691,859"/>
+<area shape="rect" id="node13" href="$classProfile.html#adb0e1f8a30e1a9c5866f2f89926f1130" title="Profile::getCore" alt="" coords="520,883,640,909"/>
+<area shape="rect" id="node14" href="$classCore.html#a54577a68691f7f8385c9304cb1464b6c" title="Core::getExt" alt="" coords="529,56,631,83"/>
+<area shape="rect" id="node15" href="$classCore.html#acff7cfd5817964794979ed5f7846a0eb" title="Core::getMaxMessageSize" alt="" coords="485,933,675,960"/>
+<area shape="rect" id="node16" href="$classSettings.html#a903c5431048336af21a54902c341aa9a" title="Settings::getGroupchatPosition" alt="" coords="469,984,691,1011"/>
+<area shape="rect" id="node17" href="$classWidget.html#a84aff98cf6d19a8f8f76f98826f51a9a" title="Widget::searchCircle" alt="" coords="762,588,913,615"/>
+<area shape="rect" id="node18" href="$classWidget.html#ace15a543e8b3e60142630db958be498b" title="Widget::connectCircleWidget" alt="" coords="479,461,681,488"/>
+<area shape="rect" id="node19" href="$classWidget.html#a6a2d4c62b47692ca2ee6bd218311905f" title="Widget::onStatusSet" alt="" coords="503,5,657,32"/>
+<area shape="rect" id="node20" href="$classStyle.html#a0b09ebd79204ab5a4f8fc50789914c21" title="Style::setThemeColor" alt="" coords="501,1136,659,1163"/>
+<area shape="rect" id="node21" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="489,1187,671,1213"/>
+<area shape="rect" id="node22" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID. " alt="" coords="522,1237,638,1264"/>
+<area shape="rect" id="node23" href="$classWidget.html#a06152fa1ca349d12d860b3e8072c0a65" title="Widget::onUpdateAvailable" alt="" coords="484,1288,676,1315"/>
+<area shape="rect" id="node24" href="$classNotificationGenerator.html#a47954cc57ff0612f6ca75cae7b887d07" title="NotificationGenerator\l::onNotificationActivated" alt="" coords="491,1339,669,1381"/>
+<area shape="rect" id="node25" href="$classProfileForm.html#a1dca6d71b7c1528047809d39aafa0838" title="ProfileForm::onLogoutClicked" alt="" coords="477,1405,683,1432"/>
+<area shape="rect" id="node26" href="$classProfileForm.html#a2566f3169e29664115042a469ae9e95f" title="ProfileForm::onSelfAvatar\lLoaded" alt="" coords="489,2030,671,2071"/>
+<area shape="rect" id="node27" href="$classWidget.html#ad2c97769f252007710adb8364ec425af" title="Widget::onFileReceiveRequested" alt="" coords="468,1456,692,1483"/>
+<area shape="rect" id="node28" href="$classFilesForm.html#aba5feeefb9a45be4890c5fd5f33caeff" title="FilesForm::onFileDownload\lComplete" alt="" coords="486,1507,674,1549"/>
+<area shape="rect" id="node29" href="$classFilesForm.html#afa695377bdca8b3633ce54def6e5690b" title="FilesForm::onFileUploadComplete" alt="" coords="463,1573,697,1600"/>
+<area shape="rect" id="node30" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="501,1624,659,1651"/>
+<area shape="rect" id="node31" href="$classWidget.html#ac17fbd5de998fad14d0711014e9ddc71" title="Widget::onGroupClicked" alt="" coords="493,1675,667,1701"/>
+<area shape="rect" id="node32" href="$classWidget.html#a6f0a4f3fef72b277d13a25158a9b09b7" title="Widget::onTransferClicked" alt="" coords="488,1725,672,1752"/>
+<area shape="rect" id="node33" href="$classWidget.html#a8bd76efae0a0b8d08f0c8f1ea7e01222" title="Widget::onShowSettings" alt="" coords="492,2223,668,2249"/>
+<area shape="rect" id="node34" href="$classWidget.html#a6c7ca15e3638ea90ca7eeebaa79239cf" title="Widget::showProfile" alt="" coords="508,1776,652,1803"/>
+<area shape="rect" id="node35" href="$classWidget.html#ac784ebb283485f91dcd2869c9a1ed4ae" title="Widget::onStatusMessageChanged" alt="" coords="457,1827,703,1853"/>
+<area shape="rect" id="node36" href="$classWidget.html#a1ef4a85856a22d9264200468e08ff7ee" title="Widget::onSplitterMoved" alt="" coords="491,1877,669,1904"/>
+<area shape="rect" id="node37" href="$classCore.html#a514410817cad3ff8c78dc67e2650e969" title="Core::createGroup" alt="" coords="767,1060,907,1087"/>
+<area shape="rect" id="node38" href="$classWidget.html#aa136da36fd0ae13735ed953f9d1d255b" title="Widget::onUserAwayCheck" alt="" coords="485,1979,675,2005"/>
+<area shape="rect" id="node39" href="$classWidget.html#a989bfdcff013520503f9f3f30571f7d0" title="Widget::onEventIconTick" alt="" coords="493,157,667,184"/>
+<area shape="rect" id="node40" href="$classWidget.html#a72d7e074ec7e64460e29485d76c71412" title="Widget::onTryCreateTrayIcon" alt="" coords="480,208,680,235"/>
+<area shape="rect" id="node41" href="$classWidget.html#a47493974f1cad8953b5f976ceec7f1da" title="Widget::searchContacts" alt="" coords="751,385,924,412"/>
+<area shape="rect" id="node42" href="$classWidget.html#af0ad36083370875677670ccf7cf20243" title="Widget::changeDisplayMode" alt="" coords="479,360,681,387"/>
+<area shape="rect" id="node43" href="$classWidget.html#a73e3614ec756fd20e8dd05f2e14d62d2" title="Widget::friendListContextMenu" alt="" coords="472,1035,688,1061"/>
+</map>

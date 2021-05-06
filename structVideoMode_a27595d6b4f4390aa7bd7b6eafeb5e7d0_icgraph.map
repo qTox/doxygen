@@ -1,0 +1,11 @@
+<map id="VideoMode::tolerance" name="VideoMode::tolerance">
+<area shape="rect" id="node2" href="$classAVForm.html#aa2325ea35f7f5063fad40a8d1323dd6b" title="AVForm::selectBestModes" alt="" coords="215,307,404,334"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="452,259,655,286"/>
+<area shape="rect" id="node5" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="1455,183,1628,210"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="1167,285,1398,326"/>
+<area shape="rect" id="node6" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="703,158,889,184"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="950,183,1098,210"/>
+<area shape="rect" id="node8" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="937,56,1111,83"/>
+<area shape="rect" id="node9" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="1476,6,1607,32"/>
+<area shape="rect" id="node10" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="1159,31,1407,58"/>
+</map>

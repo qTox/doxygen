@@ -1,0 +1,5 @@
+<map id="Widget::onGroupMessageReceived" name="Widget::onGroupMessageReceived">
+<area shape="rect" id="node2" href="$classGroupList.html#a5cc346e34869028d7dba289076efefcf" title="GroupList::id2Key" alt="" coords="311,5,443,32"/>
+<area shape="rect" id="node3" href="$classGroupList.html#aaf9ef63d9f79b41f19356fa0e59255e7" title="GroupList::findGroup" alt="" coords="300,56,453,83"/>
+<area shape="rect" id="node4" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group. " alt="" coords="295,107,459,133"/>
+</map>

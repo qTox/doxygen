@@ -1,0 +1,5 @@
+<map id="src/platform/capslock.h" name="src/platform/capslock.h">
+<area shape="rect" id="node2" href="$capslock__osx_8cpp.html" title="src/platform/capslock\l_osx.cpp" alt="" coords="5,80,164,121"/>
+<area shape="rect" id="node3" href="$capslock__win_8cpp.html" title="src/platform/capslock\l_win.cpp" alt="" coords="188,80,347,121"/>
+<area shape="rect" id="node4" href="$capslock__x11_8cpp.html" title="src/platform/capslock\l_x11.cpp" alt="" coords="371,80,529,121"/>
+</map>

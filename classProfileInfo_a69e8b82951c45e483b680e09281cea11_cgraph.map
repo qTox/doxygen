@@ -1,0 +1,6 @@
+<map id="ProfileInfo::setUsername" name="ProfileInfo::setUsername">
+<area shape="rect" id="node2" href="$classCore.html#a7327032669eb2f2a70f15d8b2ed1f201" title="Core::setUsername" alt="" coords="232,56,379,83"/>
+<area shape="rect" id="node3" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure. " alt="" coords="427,5,575,32"/>
+<area shape="rect" id="node4" href="$classToxString.html#a02584d01004a68ed0dc91bdf5f02e80d" title="Returns a pointer to the beginning of the string data. " alt="" coords="442,56,559,83"/>
+<area shape="rect" id="node5" href="$classToxString.html#a3ef12632760c48153f603b35daf8ec96" title="Get the number of bytes in the string. " alt="" coords="444,107,557,133"/>
+</map>

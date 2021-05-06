@@ -1,0 +1,24 @@
+<map id="UserInterfaceForm::on_themeColorCBox_currentIndexChanged" name="UserInterfaceForm::on_themeColorCBox_currentIndexChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="922,107,1081,133"/>
+<area shape="rect" id="node13" href="$classSettings.html#aa439dc7090e16a942a07e7d252db8af3" title="Settings::setThemeColor" alt="" coords="293,144,473,171"/>
+<area shape="rect" id="node15" href="$classStyle.html#a0b09ebd79204ab5a4f8fc50789914c21" title="Style::setThemeColor" alt="" coords="304,195,463,221"/>
+<area shape="rect" id="node21" href="$classStyle.html#ae85ffcbe48d325706ee6567810503aa3" title="Reloads some CCS. " alt="" coords="313,271,453,297"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1140,107,1276,133"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1331,31,1467,57"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1324,132,1475,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1570,5,1670,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1523,56,1717,83"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1765,81,1951,108"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1537,157,1703,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1535,208,1705,235"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1565,259,1675,285"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1821,259,1895,285"/>
+<area shape="rect" id="node14" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="529,144,652,171"/>
+<area shape="rect" id="node16" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="528,195,653,221"/>
+<area shape="rect" id="node19" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="521,245,660,272"/>
+<area shape="rect" id="node17" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="708,169,863,196"/>
+<area shape="rect" id="node18" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="911,169,1092,196"/>
+<area shape="rect" id="node20" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="727,245,843,272"/>
+<area shape="rect" id="node22" href="$classGUI.html#a224eefd7923b9f160e0e7c6347b4a276" title="Reloads the application theme and redraw the window. " alt="" coords="522,296,659,323"/>
+<area shape="rect" id="node23" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="721,296,849,323"/>
+</map>

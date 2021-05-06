@@ -1,0 +1,4 @@
+<map id="ToxCall" name="ToxCall">
+<area shape="rect" id="node3" href="$classToxFriendCall.html" title="{ToxFriendCall\n|&#45; audioSinkInvalid\l&#45; state\l&#45; sink\l&#45; friendId\l|+ ToxFriendCall()\l+ ToxFriendCall()\l+ ToxFriendCall()\l+ operator=()\l+ ~ToxFriendCall()\l+ getState()\l+ setState()\l+ playAudioBuffer()\l&#45; onAudioSourceInvalidated()\l&#45; onAudioSinkInvalidated()\l}" alt="" coords="5,645,212,898"/>
+<area shape="rect" id="node4" href="$classToxGroupCall.html" title="{ToxGroupCall\n|&#45; peers\l&#45; sinkInvalid\l&#45; group\l|+ ToxGroupCall()\l+ ToxGroupCall()\l+ ToxGroupCall()\l+ ~ToxGroupCall()\l+ operator=()\l+ removePeer()\l+ playAudioBuffer()\l&#45; addPeer()\l&#45; havePeer()\l&#45; clearPeers()\l&#45; onAudioSourceInvalidated()\l&#45; onAudioSinkInvalidated()\l}" alt="" coords="236,637,443,905"/>
+</map>

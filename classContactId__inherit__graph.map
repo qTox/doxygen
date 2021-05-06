@@ -1,0 +1,4 @@
+<map id="ContactId" name="ContactId">
+<area shape="rect" id="node2" href="$classGroupId.html" title="This class represents a long term persistent group identifier. " alt="" coords="5,307,103,443"/>
+<area shape="rect" id="node3" href="$classToxPk.html" title="This class represents a Tox Public Key, which is a part of Tox ID. " alt="" coords="127,307,221,443"/>
+</map>

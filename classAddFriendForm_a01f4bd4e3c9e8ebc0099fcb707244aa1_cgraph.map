@@ -1,0 +1,34 @@
+<map id="AddFriendForm::onImportOpenClicked" name="AddFriendForm::onImportOpenClicked">
+<area shape="rect" id="node2" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="309,56,444,83"/>
+<area shape="rect" id="node9" href="$classAddFriendForm.html#aca9a8c998f85aacc920371753125f0bf" title="AddFriendForm::retranslateUi" alt="" coords="272,139,481,165"/>
+<area shape="rect" id="node3" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="571,5,699,32"/>
+<area shape="rect" id="node4" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="563,56,706,83"/>
+<area shape="rect" id="node5" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="790,56,937,83"/>
+<area shape="rect" id="node6" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="987,56,1153,83"/>
+<area shape="rect" id="node7" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1212,56,1357,83"/>
+<area shape="rect" id="node8" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1444,56,1555,83"/>
+<area shape="rect" id="node10" href="$classAddFriendForm.html#a2034347dfda8ba4fa55f00c271b1e6bd" title="AddFriendForm::onIdChanged" alt="" coords="529,107,740,133"/>
+<area shape="rect" id="node32" href="$classAddFriendForm.html#a4567fd50c66c1ac56a3c9cf6b844abe9" title="AddFriendForm::retranslate\lAcceptButton" alt="" coords="537,158,733,199"/>
+<area shape="rect" id="node33" href="$classAddFriendForm.html#a5f7dceb68212d17ea5674848cc60f267" title="AddFriendForm::retranslate\lRejectButton" alt="" coords="537,223,733,265"/>
+<area shape="rect" id="node11" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="788,107,939,133"/>
+<area shape="rect" id="node12" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1201,107,1368,133"/>
+<area shape="rect" id="node27" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="1016,208,1124,235"/>
+<area shape="rect" id="node13" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1416,107,1583,133"/>
+<area shape="rect" id="node14" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1422,157,1577,184"/>
+<area shape="rect" id="node15" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1642,120,1801,147"/>
+<area shape="rect" id="node26" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1631,171,1812,197"/>
+<area shape="rect" id="node16" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1860,120,1996,147"/>
+<area shape="rect" id="node17" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2051,44,2187,71"/>
+<area shape="rect" id="node19" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2044,145,2195,172"/>
+<area shape="rect" id="node18" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2290,5,2390,32"/>
+<area shape="rect" id="node20" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2243,56,2437,83"/>
+<area shape="rect" id="node21" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2485,81,2671,108"/>
+<area shape="rect" id="node22" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2257,157,2423,184"/>
+<area shape="rect" id="node23" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2255,208,2425,235"/>
+<area shape="rect" id="node24" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2285,259,2395,285"/>
+<area shape="rect" id="node25" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2541,259,2615,285"/>
+<area shape="rect" id="node28" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="1222,208,1347,235"/>
+<area shape="rect" id="node29" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="1215,309,1354,336"/>
+<area shape="rect" id="node31" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="1241,360,1328,387"/>
+<area shape="rect" id="node30" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1441,309,1557,336"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ChatLog::mouseMoveEvent" name="ChatLog::mouseMoveEvent">
+<area shape="rect" id="node2" href="$classChatLog.html#afcae0fed27f3c63045b39c2e8004d6ba" title="ChatLog::findLineByPosY" alt="" coords="283,5,462,32"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ae9e33f2b5235a8c5e36627d3728600bb" title="ChatLog::getContentFromPos" alt="" coords="267,56,478,83"/>
+<area shape="rect" id="node5" href="$classChatLineContent.html#a901c04d57346ed90d1dcc91758d7b0e3" title="ChatLineContent::getRow" alt="" coords="281,107,464,133"/>
+<area shape="rect" id="node6" href="$classChatLineContent.html#aad226840931e48d56d48106cf2c194fc" title="ChatLineContent::getColumn" alt="" coords="269,157,476,184"/>
+<area shape="rect" id="node7" href="$classChatLineContent.html#a2aeba05f202932fd958a87ccd88b595a" title="ChatLineContent::selection\lMouseMove" alt="" coords="275,209,470,250"/>
+<area shape="rect" id="node8" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="251,275,495,301"/>
+<area shape="rect" id="node3" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title="ChatLine::lessThanBSRect\lBottom" alt="" coords="543,23,729,65"/>
+</map>

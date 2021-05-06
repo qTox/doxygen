@@ -1,0 +1,5 @@
+<map id="FriendChatroom::possibleToOpenInNewWindow" name="FriendChatroom::possibleToOpenInNewWindow">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="261,5,409,32"/>
+<area shape="rect" id="node3" href="$classIDialogsManager.html#a1853e347c810e20eadb5473764867512" title="IDialogsManager::getFriend\lDialogs" alt="" coords="237,57,432,98"/>
+<area shape="rect" id="node4" href="$classIDialogs.html#a3d68456f3c01a6d1f5ba5854b6585d69" title="IDialogs::chatroomCount" alt="" coords="245,123,425,149"/>
+</map>

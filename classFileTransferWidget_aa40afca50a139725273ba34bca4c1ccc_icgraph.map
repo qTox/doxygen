@@ -1,0 +1,8 @@
+<map id="FileTransferWidget::tryRemoveFile" name="FileTransferWidget::tryRemoveFile">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a9f4eda5fdb4b51cb0a4295214b73ea41" title="FileTransferWidget\l::acceptTransfer" alt="" coords="188,71,323,112"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title="FileTransferWidget\l::handleButton" alt="" coords="371,71,505,112"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a5f29ffa2ccd11672b706981e7843591a" title="FileTransferWidget\l::onLeftButtonClicked" alt="" coords="565,5,724,47"/>
+<area shape="rect" id="node6" href="$classFileTransferWidget.html#af88381ef5a7d2ab692b3e0b1464d24a8" title="FileTransferWidget\l::onRightButtonClicked" alt="" coords="561,71,728,112"/>
+<area shape="rect" id="node7" href="$classFileTransferWidget.html#a63bb0160d22a50b91c490a836e0a5e56" title="FileTransferWidget\l::onPreviewButtonClicked" alt="" coords="553,136,736,177"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="784,71,927,112"/>
+</map>

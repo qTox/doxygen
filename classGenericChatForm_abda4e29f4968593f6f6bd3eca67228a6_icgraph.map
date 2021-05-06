@@ -1,0 +1,8 @@
+<map id="GenericChatForm::disableSearchText" name="GenericChatForm::disableSearchText">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a23ad56b2ce87bc6fe6e3b1755ebb6abe" title="GenericChatForm::onSearch\lTriggered" alt="" coords="805,5,1008,47"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#a734e66bb7e0c5c95d522fe564f981d94" title="GenericChatForm::searchIn\lBegin" alt="" coords="809,173,1005,215"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#af5d5cb166df8bb540c9fc52cef4cb56f" title="GenericChatForm::handleSearch\lResult" alt="" coords="240,91,471,132"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="1056,89,1247,131"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#a347540dd8693e7ff370c9fe4304f6fba" title="GenericChatForm::onSearchUp" alt="" coords="527,74,749,101"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#ac7eeeb0392a891391b901bc71910b0b6" title="GenericChatForm::onSearchDown" alt="" coords="519,125,757,151"/>
+</map>

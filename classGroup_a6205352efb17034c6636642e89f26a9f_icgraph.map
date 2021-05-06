@@ -1,0 +1,9 @@
+<map id="Group::getPeersCount" name="Group::getPeersCount">
+<area shape="rect" id="node2" href="$classToxGroupCall.html#a7825b68f9c9dc5749f2a95d20f71cdb7" title="ToxGroupCall::ToxGroupCall" alt="" coords="500,24,695,51"/>
+<area shape="rect" id="node3" href="$classToxGroupCall.html#a3911a018d01bb7c0e15ffc787c325cc3" title="ToxGroupCall::onAudioSource\lInvalidated" alt="" coords="220,46,429,87"/>
+<area shape="rect" id="node4" href="$classGroupMessageDispatcher.html#a99364f021757c18fd5d1f53e6ff7047a" title="Sends message to associated chat. " alt="" coords="231,111,418,153"/>
+<area shape="rect" id="node5" href="$classGroupChatForm.html#afa7e5cfbc07edea3bc4218a0ad89cf0c" title="GroupChatForm::retranslateUi" alt="" coords="217,177,432,204"/>
+<area shape="rect" id="node7" href="$classGroupWidget.html#a9537637d1371a987a117d9dd2be43a52" title="GroupWidget::GroupWidget" alt="" coords="500,253,695,280"/>
+<area shape="rect" id="node8" href="$classGroupWidget.html#aa9049af85f958b77f433449cc5f85540" title="GroupWidget::retranslateUi" alt="" coords="227,279,422,305"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="480,177,715,204"/>
+</map>

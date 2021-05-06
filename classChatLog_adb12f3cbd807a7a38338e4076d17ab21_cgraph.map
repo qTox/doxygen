@@ -1,0 +1,18 @@
+<map id="ChatLog::insertChatlineAtBottom" name="ChatLog::insertChatlineAtBottom">
+<area shape="rect" id="node2" href="$classChatLog.html#a25c74e0afda416d1960a88448581cd2b" title="ChatLog::removeFirsts" alt="" coords="254,81,419,108"/>
+<area shape="rect" id="node8" href="$classChatLog.html#a31bcdfe5379ae9e55bb85c6288f71182" title="ChatLog::layout" alt="" coords="275,161,398,188"/>
+<area shape="rect" id="node12" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="779,288,947,315"/>
+<area shape="rect" id="node13" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="250,263,423,289"/>
+<area shape="rect" id="node14" href="$classChatLog.html#add5b362b3a0767c8d04a59beafd5c626" title="ChatLog::startResizeWorker" alt="" coords="239,313,435,340"/>
+<area shape="rect" id="node16" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="239,364,434,391"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a2eae7c9f1e255dba79dc677514463795" title="Adjusts the selection based on chatlog changing lines. " alt="" coords="485,45,691,86"/>
+<area shape="rect" id="node4" href="$classChatLog.html#a770a285f0d59d6697d94ecea2ba31683" title="ChatLog::movePreciseSelectionUp" alt="" coords="741,5,984,32"/>
+<area shape="rect" id="node7" href="$classChatLog.html#acf76d0ec76b9bbee160218e3d2362fad" title="ChatLog::moveMultiSelectionUp" alt="" coords="749,56,976,83"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="1032,5,1205,32"/>
+<area shape="rect" id="node6" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="1253,31,1497,57"/>
+<area shape="rect" id="node9" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="525,111,651,137"/>
+<area shape="rect" id="node11" href="$classChatLine.html#a100422ac7d8adf7b0aa5f882ceccff3d" title="ChatLine::sceneBoundingRect" alt="" coords="483,161,693,188"/>
+<area shape="rect" id="node10" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title="ChatLine::updateBBox" alt="" coords="781,111,945,137"/>
+<area shape="rect" id="node15" href="$classChatLineContent.html#a0a075c41c4f2f6d494fe454d256ed6ce" title="ChatLineContent::getText" alt="" coords="497,313,679,340"/>
+<area shape="rect" id="node17" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="485,364,691,391"/>
+</map>

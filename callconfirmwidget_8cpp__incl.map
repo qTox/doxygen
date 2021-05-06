@@ -1,0 +1,19 @@
+<map id="src/widget/tool/callconfirmwidget.cpp" name="src/widget/tool/callconfirmwidget.cpp">
+<area shape="rect" id="node2" href="$callconfirmwidget_8h.html" title="callconfirmwidget.h" alt="" coords="555,80,699,107"/>
+<area shape="rect" id="node7" href="$style_8h.html" title="src/widget/style.h" alt="" coords="822,80,954,107"/>
+<area shape="rect" id="node10" href="$widget_8h.html" title="src/widget/widget.h" alt="" coords="2025,80,2167,107"/>
+<area shape="rect" id="node16" href="$genericchatitemwidget_8h.html" title="genericchatitemwidget.h" alt="" coords="2725,155,2904,181"/>
+<area shape="rect" id="node21" href="$core_8h.html" title="src/core/core.h" alt="" coords="1153,155,1271,181"/>
+<area shape="rect" id="node22" href="$groupid_8h.html" title="groupid.h" alt="" coords="1249,304,1332,331"/>
+<area shape="rect" id="node28" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="1511,379,1580,405"/>
+<area shape="rect" id="node30" href="$toxid_8h.html" title="toxid.h" alt="" coords="1513,304,1578,331"/>
+<area shape="rect" id="node31" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="5,229,77,256"/>
+<area shape="rect" id="node40" href="$friendmessagedispatcher_8h.html" title="src/model/friendmessagedispatcher.h" alt="" coords="1357,155,1619,181"/>
+<area shape="rect" id="node41" href="$groupmessagedispatcher_8h.html" title="src/model/groupmessagedispatcher.h" alt="" coords="1643,155,1906,181"/>
+<area shape="rect" id="node23" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="917,229,1120,256"/>
+<area shape="rect" id="node24" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="867,304,973,331"/>
+<area shape="rect" id="node26" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="1702,229,1906,256"/>
+<area shape="rect" id="node27" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="1144,229,1280,256"/>
+<area shape="rect" id="node29" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="1555,229,1677,256"/>
+<area shape="rect" id="node33" href="$status_8h.html" title="src/model/status.h" alt="" coords="152,229,293,256"/>
+</map>

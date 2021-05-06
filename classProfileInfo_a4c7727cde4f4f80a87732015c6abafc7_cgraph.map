@@ -1,0 +1,4 @@
+<map id="ProfileInfo::copyId" name="ProfileInfo::copyId">
+<area shape="rect" id="node2" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID. " alt="" coords="187,5,303,32"/>
+<area shape="rect" id="node3" href="$classToxId.html#adb1f169d946fcf7287feea0a26016fb8" title="Returns the Tox ID converted to QString. Is equal to getPublicKey() if the Tox ID was constructed fro..." alt="" coords="189,56,301,83"/>
+</map>

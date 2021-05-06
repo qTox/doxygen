@@ -1,0 +1,11 @@
+<map id="SplitterRestorer::restore" name="SplitterRestorer::restore">
+<area shape="rect" id="node2" href="$classContentDialog.html#a8a8b12cad8183bd13c070db359e5e936" title="ContentDialog::ContentDialog" alt="" coords="228,5,440,32"/>
+<area shape="rect" id="node3" href="$classWidget.html#af01d90acedeee89d47df3f07c4fb60bb" title="Widget::onSeparateWindow\lChanged" alt="" coords="237,57,431,98"/>
+<area shape="rect" id="node4" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="731,64,823,91"/>
+<area shape="rect" id="node10" href="$classWidget.html#a0c49ff49e9ccbfe82084436fd59fe93b" title="Widget::onSeparateWindow\lClicked" alt="" coords="488,86,683,127"/>
+<area shape="rect" id="node5" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="871,39,1025,65"/>
+<area shape="rect" id="node6" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1073,39,1173,65"/>
+<area shape="rect" id="node7" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1221,39,1420,65"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1652,64,1707,91"/>
+<area shape="rect" id="node9" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1468,89,1604,116"/>
+</map>

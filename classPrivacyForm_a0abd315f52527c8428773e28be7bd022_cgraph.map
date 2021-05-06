@@ -1,0 +1,5 @@
+<map id="PrivacyForm::PrivacyForm" name="PrivacyForm::PrivacyForm">
+<area shape="rect" id="node2" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll. " alt="" coords="248,5,423,32"/>
+<area shape="rect" id="node3" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="240,56,431,83"/>
+<area shape="rect" id="node4" href="$classPrivacyForm.html#abd83ceaba5a4a747a670d62de823fdd2" title="PrivacyForm::retranslateUi" alt="" coords="240,107,431,133"/>
+</map>

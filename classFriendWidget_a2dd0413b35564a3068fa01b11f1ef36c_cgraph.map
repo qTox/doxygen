@@ -1,0 +1,6 @@
+<map id="FriendWidget::setActive" name="FriendWidget::setActive">
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title="GenericChatroomWidget\l::setActive" alt="" coords="224,5,403,47"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="227,71,399,112"/>
+<area shape="rect" id="node3" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="481,13,593,39"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="451,71,623,112"/>
+</map>

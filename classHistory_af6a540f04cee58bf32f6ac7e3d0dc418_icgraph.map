@@ -1,0 +1,8 @@
+<map id="History::markAsBroken" name="History::markAsBroken">
+<area shape="rect" id="node2" href="$classChatHistory.html#a750f5d39ddd30b1f2a8c28dc0947d69f" title="ChatHistory::handleDispatched\lMessage" alt="" coords="221,57,440,98"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#a94791b3d1407d966e4a649838e07bc36" title="ChatHistory::breakMessage" alt="" coords="232,123,429,149"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a8c1fc9d72feb0b27fcf44f8d4fc68036" title="ChatHistory::onMessageSent" alt="" coords="496,5,703,32"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#ae5e2e3220f00ee68a3394388d253e366" title="Sends any unsent messages in history to the underlying message dispatcher. " alt="" coords="497,57,701,98"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title="ChatHistory::ChatHistory" alt="" coords="759,64,937,91"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#aa875c1b421ec3d24781b4ae95abfd159" title="ChatHistory::onMessageBroken" alt="" coords="488,123,711,149"/>
+</map>

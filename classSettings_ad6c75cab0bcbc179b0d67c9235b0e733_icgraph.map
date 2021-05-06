@@ -1,0 +1,5 @@
+<map id="Settings::smileyPackChanged" name="Settings::smileyPackChanged">
+<area shape="rect" id="node2" href="$classSettings.html#ac1c4cc5f4af4e7be1704365cde4619de" title="Settings::setSmileyPack" alt="" coords="264,20,439,47"/>
+<area shape="rect" id="node4" href="$classSmileyPack.html#a5bf0d5731ff19cc2ce89e6889a3d46f3" title="SmileyPack::SmileyPack" alt="" coords="264,71,439,97"/>
+<area shape="rect" id="node3" href="$classUserInterfaceForm.html#abf7b35d7007d378887053a7c12da56a1" title="UserInterfaceForm::\lon_smileyPackBrowser\l_currentIndexChanged" alt="" coords="487,5,653,61"/>
+</map>

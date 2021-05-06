@@ -1,0 +1,3 @@
+<map id="MessageProcessor" name="MessageProcessor">
+<area shape="rect" id="node2" href="$classMessageProcessor_1_1SharedParams.html" title="{MessageProcessor::Shared\lParams\n|&#45; maxCoreMessageSize\l&#45; maxExtendedMessageSize\l&#45; nameMention\l&#45; sanitizedNameMention\l&#45; pubKeyMention\l|+ SharedParams()\l+ getNameMention()\l+ getSanitizedNameMention()\l+ getPublicKeyMention()\l+ onUserNameSet()\l+ setPublicKey()\l+ getMaxCoreMessageSize()\l+ getMaxExtendedMessageSize()\l}" alt="" coords="7,5,246,259"/>
+</map>

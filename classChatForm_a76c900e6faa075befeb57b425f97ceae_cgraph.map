@@ -1,0 +1,6 @@
+<map id="ChatForm::onAvatarChanged" name="ChatForm::onAvatarChanged">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="287,5,435,32"/>
+<area shape="rect" id="node3" href="$classChatFormHeader.html#a91e8cff0cd068c015bf0afae62467971" title="ChatFormHeader::setAvatar" alt="" coords="260,56,461,83"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="509,49,681,90"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="729,49,901,90"/>
+</map>

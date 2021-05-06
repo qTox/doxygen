@@ -1,0 +1,6 @@
+<map id="ChatFormHeader::removeCallConfirm" name="ChatFormHeader::removeCallConfirm">
+<area shape="rect" id="node2" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="309,5,457,32"/>
+<area shape="rect" id="node4" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="265,56,501,83"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a4526248db6f1cd2244d7ccb96c88c433" title="ChatForm::onRejectCallTriggered" alt="" coords="269,107,497,133"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="549,56,705,83"/>
+</map>

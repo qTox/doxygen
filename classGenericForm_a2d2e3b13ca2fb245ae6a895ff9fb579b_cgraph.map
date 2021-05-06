@@ -1,0 +1,4 @@
+<map id="GenericForm::reloadTheme" name="GenericForm::reloadTheme">
+<area shape="rect" id="node2" href="$classGenericForm.html#a3f8eba603c18eb9a026326874d0fcf35" title="Ignore scroll on different controls. " alt="" coords="249,5,428,32"/>
+<area shape="rect" id="node3" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll. " alt="" coords="251,56,426,83"/>
+</map>

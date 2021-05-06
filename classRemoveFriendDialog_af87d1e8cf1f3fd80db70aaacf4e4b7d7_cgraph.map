@@ -1,0 +1,4 @@
+<map id="RemoveFriendDialog::RemoveFriendDialog" name="RemoveFriendDialog::RemoveFriendDialog">
+<area shape="rect" id="node2" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="212,5,403,32"/>
+<area shape="rect" id="node3" href="$classRemoveFriendDialog.html#aadc618077b326719d07ce394ce0440ca" title="RemoveFriendDialog\l::onAccepted" alt="" coords="232,57,383,98"/>
+</map>

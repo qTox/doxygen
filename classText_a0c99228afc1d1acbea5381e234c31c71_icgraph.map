@@ -1,0 +1,12 @@
+<map id="Text::visibilityChanged" name="Text::visibilityChanged">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a132373770e45c450fbf45f61231312b3" title="GenericChatForm::enableSearchText" alt="" coords="215,93,469,120"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#af0d89961de8436af41ee42046b16dfc1" title="GenericChatForm::loadHistoryTo load history before to date &quot;time&quot; or before the first &quot;messages&quot; item..." alt="" coords="519,64,746,91"/>
+<area shape="rect" id="node8" href="$classGenericChatForm.html#af5d5cb166df8bb540c9fc52cef4cb56f" title="GenericChatForm::handleSearch\lResult" alt="" coords="517,119,748,161"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#aa801732df208023a960f1909a3c7855e" title="GenericChatForm::loadHistory load history. " alt="" coords="808,9,1023,36"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#ac5d6113b34542e33b20513598ad1f79d" title="GenericChatForm::loadHistoryLower load history after scrolling chatlog before first &quot;messages&quot; item..." alt="" coords="1093,57,1307,98"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#ab0cdd3b351bfb914513081c59ed8a3f6" title="GenericChatForm::onLoadHistory" alt="" coords="1083,5,1317,32"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="1365,115,1556,157"/>
+<area shape="rect" id="node9" href="$classGenericChatForm.html#a347540dd8693e7ff370c9fe4304f6fba" title="GenericChatForm::onSearchUp" alt="" coords="805,127,1026,153"/>
+<area shape="rect" id="node11" href="$classGenericChatForm.html#ac7eeeb0392a891391b901bc71910b0b6" title="GenericChatForm::onSearchDown" alt="" coords="796,181,1035,208"/>
+<area shape="rect" id="node10" href="$classGenericChatForm.html#a734e66bb7e0c5c95d522fe564f981d94" title="GenericChatForm::searchIn\lBegin" alt="" coords="1102,174,1298,215"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CategoryWidget::removeFriendWidget" name="CategoryWidget::removeFriendWidget">
+<area shape="rect" id="node2" href="$classFriendListLayout.html#acda028395b347b92cad3df43529553c1" title="FriendListLayout::remove\lFriendWidget" alt="" coords="290,8,473,49"/>
+<area shape="rect" id="node7" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title="CategoryWidget::updateStatus" alt="" coords="272,75,491,102"/>
+<area shape="rect" id="node3" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="539,7,712,48"/>
+<area shape="rect" id="node4" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="760,5,971,47"/>
+<area shape="rect" id="node5" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1019,5,1192,47"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1240,13,1404,39"/>
+<area shape="rect" id="node8" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="781,71,950,112"/>
+<area shape="rect" id="node10" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="541,127,710,168"/>
+<area shape="rect" id="node9" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1019,100,1192,141"/>
+</map>

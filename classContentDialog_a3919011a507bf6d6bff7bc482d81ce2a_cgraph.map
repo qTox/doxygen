@@ -1,0 +1,25 @@
+<map id="ContentDialog::nextContact" name="ContentDialog::nextContact">
+<area shape="rect" id="node2" href="$classContentDialog.html#a371ae0fc6d29f7b70515ad8bd30fa519" title="Activate next/previous contact. " alt="" coords="252,305,463,331"/>
+<area shape="rect" id="node3" href="$classContentDialog.html#a3593ba52e331a5ce86fdb0a4d001b274" title="Get current layout and index of current wiget in it. Current layout – layout contains activated widg..." alt="" coords="526,119,717,160"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#a7dc5044c075e05ce4a4e6b71a4342f5d" title="FriendListLayout::getLayout\lOnline" alt="" coords="780,173,977,215"/>
+<area shape="rect" id="node5" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1025,207,1199,248"/>
+<area shape="rect" id="node11" href="$classFriendListLayout.html#aded6c05bde86af4afd33a382dc10d98c" title="FriendListLayout::getLayout\lOffline" alt="" coords="780,239,977,280"/>
+<area shape="rect" id="node12" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="542,355,701,382"/>
+<area shape="rect" id="node23" href="$classSettings.html#a903c5431048336af21a54902c341aa9a" title="Settings::getGroupchatPosition" alt="" coords="511,406,732,433"/>
+<area shape="rect" id="node24" href="$classContentDialog.html#ad97b3d08a707a858d04c1556d5e5c2fd" title="Find the next or previous layout in layout list. " alt="" coords="525,457,717,483"/>
+<area shape="rect" id="node6" href="$classFriendListLayout.html#ae56f128999b7bca37a1cf639d5c80d74" title="FriendListLayout::indexOf\lFriendWidget" alt="" coords="788,5,969,47"/>
+<area shape="rect" id="node7" href="$classGenericChatItemLayout.html#a6bca817679d5291c16e4985f0a4575e9" title="GenericChatItemLayout\l::indexOfSortedWidget" alt="" coords="1025,35,1199,76"/>
+<area shape="rect" id="node8" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="1247,35,1457,76"/>
+<area shape="rect" id="node9" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1511,35,1685,76"/>
+<area shape="rect" id="node10" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1739,42,1903,69"/>
+<area shape="rect" id="node13" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="811,355,947,382"/>
+<area shape="rect" id="node14" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1044,273,1180,299"/>
+<area shape="rect" id="node16" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1037,390,1187,417"/>
+<area shape="rect" id="node15" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1302,255,1402,282"/>
+<area shape="rect" id="node17" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1255,407,1449,434"/>
+<area shape="rect" id="node18" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1505,382,1691,409"/>
+<area shape="rect" id="node19" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1269,458,1435,485"/>
+<area shape="rect" id="node20" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1267,509,1437,535"/>
+<area shape="rect" id="node21" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1297,306,1407,333"/>
+<area shape="rect" id="node22" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1561,306,1635,333"/>
+</map>

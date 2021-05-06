@@ -1,0 +1,9 @@
+<map id="CategoryWidget::search" name="CategoryWidget::search">
+<area shape="rect" id="node2" href="$classFriendListLayout.html#ad0b39eee83439429d83a5b9410ca94df" title="FriendListLayout::search\lChatrooms" alt="" coords="253,8,429,49"/>
+<area shape="rect" id="node7" href="$classFriendListLayout.html#a04c5f011395ba1409145af33b64cc22d" title="FriendListLayout::hasChatrooms" alt="" coords="228,75,455,102"/>
+<area shape="rect" id="node3" href="$classGenericChatItemLayout.html#acaec0839c135f3ac347effb65458c816" title="GenericChatItemLayout\l::search" alt="" coords="503,5,676,47"/>
+<area shape="rect" id="node4" href="$classGenericChatItemWidget.html#ae706591d74a6de55844bbb74d8d54fc8" title="GenericChatItemWidget\l::searchName" alt="" coords="724,5,897,47"/>
+<area shape="rect" id="node5" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="945,5,1119,47"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1167,13,1331,39"/>
+<area shape="rect" id="node8" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="503,71,676,112"/>
+</map>

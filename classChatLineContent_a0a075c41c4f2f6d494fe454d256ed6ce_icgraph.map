@@ -1,0 +1,24 @@
+<map id="ChatLineContent::getText" name="ChatLineContent::getText">
+<area shape="rect" id="node2" href="$classChatLog.html#add5b362b3a0767c8d04a59beafd5c626" title="ChatLog::startResizeWorker" alt="" coords="236,379,432,406"/>
+<area shape="rect" id="node23" href="$classChatMessage.html#ae52bd3ba89aa55a25a7a2a4317eb47a8" title="ChatMessage::toString" alt="" coords="250,430,418,457"/>
+<area shape="rect" id="node3" href="$classChatLog.html#adb12f3cbd807a7a38338e4076d17ab21" title="ChatLog::insertChatlineAt\lBottom" alt="" coords="480,252,665,293"/>
+<area shape="rect" id="node4" href="$classChatLog.html#a8b0028a599e85fccf2525a28ecd1fb53" title="ChatLog::insertChatlines\lOnTop" alt="" coords="483,317,662,359"/>
+<area shape="rect" id="node20" href="$classChatLog.html#a20a008f9439fb49039bcc3a2d57128ec" title="ChatLog::forceRelayout" alt="" coords="1345,547,1514,574"/>
+<area shape="rect" id="node22" href="$classChatLog.html#a737e8560ae5536a159eae83cb0db7556" title="ChatLog::resizeEvent" alt="" coords="494,489,651,515"/>
+<area shape="rect" id="node5" href="$classChatLog.html#a0b64b3eeab4ee6e7c86b0020d1809b63" title="ChatLog::insertChatlineOnTop" alt="" coords="732,245,943,271"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#a00f2b0808c1c1c785c00c85257a09440" title="GenericChatForm::renderMessages" alt="" coords="713,295,961,322"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="1896,321,2087,363"/>
+<area shape="rect" id="node8" href="$classGenericChatForm.html#af0d89961de8436af41ee42046b16dfc1" title="GenericChatForm::loadHistoryTo load history before to date &quot;time&quot; or before the first &quot;messages&quot; item..." alt="" coords="1019,215,1246,242"/>
+<area shape="rect" id="node12" href="$classGenericChatForm.html#ae20378ccba9239d2cdb67f67764035d1" title="GenericChatForm::loadHistoryFrom load history starting from date &quot;time&quot; or from the last &quot;messages&quot; i..." alt="" coords="1009,270,1256,297"/>
+<area shape="rect" id="node14" href="$classGenericChatForm.html#af5d5cb166df8bb540c9fc52cef4cb56f" title="GenericChatForm::handleSearch\lResult" alt="" coords="1017,372,1248,413"/>
+<area shape="rect" id="node18" href="$classGenericChatForm.html#aa19c8d40ad49892ee020edafb8095625" title="GenericChatForm::renderMessage" alt="" coords="1012,43,1253,70"/>
+<area shape="rect" id="node19" href="$classGenericChatForm.html#af4b1a65206a94ab4a40008099b493988" title="GenericChatForm::goToCurrentDate" alt="" coords="1304,329,1555,355"/>
+<area shape="rect" id="node9" href="$classGenericChatForm.html#aa801732df208023a960f1909a3c7855e" title="GenericChatForm::loadHistory load history. " alt="" coords="1322,215,1537,242"/>
+<area shape="rect" id="node11" href="$classGenericChatForm.html#ac5d6113b34542e33b20513598ad1f79d" title="GenericChatForm::loadHistoryLower load history after scrolling chatlog before first &quot;messages&quot; item..." alt="" coords="1618,145,1833,187"/>
+<area shape="rect" id="node10" href="$classGenericChatForm.html#ab0cdd3b351bfb914513081c59ed8a3f6" title="GenericChatForm::onLoadHistory" alt="" coords="1608,211,1843,238"/>
+<area shape="rect" id="node13" href="$classGenericChatForm.html#ab2633d98c136c06a0c82ca4ec467ae59" title="GenericChatForm::loadHistoryUpper load history after scrolling chatlog after last &quot;messages&quot; item..." alt="" coords="1618,263,1833,304"/>
+<area shape="rect" id="node15" href="$classGenericChatForm.html#a347540dd8693e7ff370c9fe4304f6fba" title="GenericChatForm::onSearchUp" alt="" coords="1319,379,1540,406"/>
+<area shape="rect" id="node17" href="$classGenericChatForm.html#ac7eeeb0392a891391b901bc71910b0b6" title="GenericChatForm::onSearchDown" alt="" coords="1310,438,1549,465"/>
+<area shape="rect" id="node16" href="$classGenericChatForm.html#a734e66bb7e0c5c95d522fe564f981d94" title="GenericChatForm::searchIn\lBegin" alt="" coords="1627,431,1823,472"/>
+<area shape="rect" id="node21" href="$classGenericChatForm.html#aae968173cfddc255ae03e2407e275be3" title="GenericChatForm::onChatMessage\lFontChanged" alt="" coords="1603,599,1848,640"/>
+</map>

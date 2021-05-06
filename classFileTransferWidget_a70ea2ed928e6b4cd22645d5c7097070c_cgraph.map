@@ -1,0 +1,46 @@
+<map id="FileTransferWidget::updateWidget" name="FileTransferWidget::updateWidget">
+<area shape="rect" id="node2" href="$classToxFileProgress.html#a17d68c9d78d55936b120d01955db7da8" title="ToxFileProgress::needsUpdate" alt="" coords="387,5,599,32"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#aa9588af8c6cc80f4cf5f834ef1982f05" title="FileTransferWidget\l::updatePreview" alt="" coords="196,387,331,429"/>
+<area shape="rect" id="node8" href="$classFileTransferWidget.html#a96f9543d4a9627565da5415f4f00e2c1" title="FileTransferWidget\l::updateFileProgress" alt="" coords="188,179,339,221"/>
+<area shape="rect" id="node15" href="$classFileTransferWidget.html#ab813732f8e2a6cad81ece6c9a3433b8b" title="FileTransferWidget\l::updateWidgetText" alt="" coords="192,453,335,494"/>
+<area shape="rect" id="node17" href="$classFileTransferWidget.html#a074cb8d5064a836a6f72e9b465fa1747" title="FileTransferWidget\l::updateWidgetColor" alt="" coords="188,570,339,611"/>
+<area shape="rect" id="node42" href="$classFileTransferWidget.html#a3815efa04e818d624357a53367c3cf00" title="FileTransferWidget\l::setupButtons" alt="" coords="947,511,1081,553"/>
+<area shape="rect" id="node45" href="$classFileTransferWidget.html#a96100aa3c0910f178b2cda9dda4b13fa" title="FileTransferWidget\l::updateSignals" alt="" coords="196,635,331,677"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a493ab1945e40a8e3dfe62a40ebb07818" title="FileTransferWidget\l::showPreview" alt="" coords="425,391,560,433"/>
+<area shape="rect" id="node5" href="$namespaceExifTransform.html#a05040d424b8c08d36efc8f94d9325050" title="ExifTransform::getOrientation" alt="" coords="665,409,872,436"/>
+<area shape="rect" id="node6" href="$namespaceExifTransform.html#af906e696c75dfa97215bd9e86f3a400b" title="ExifTransform::applyTransformation" alt="" coords="647,292,891,319"/>
+<area shape="rect" id="node7" href="$classFileTransferWidget.html#a1ec7fcde2d0013ec685f63a44ef738eb" title="FileTransferWidget\l::scaleCropIntoSquare" alt="" coords="687,343,850,385"/>
+<area shape="rect" id="node9" href="$classToxFileProgress.html#a830f60958910a4dc61673543605ac997" title="ToxFileProgress::resetSpeed" alt="" coords="393,340,593,367"/>
+<area shape="rect" id="node10" href="$classToxFileProgress.html#a3b750993960277452b062bfb5a0a53c8" title="ToxFileProgress::addSample" alt="" coords="393,56,592,83"/>
+<area shape="rect" id="node11" href="$classToxFileProgress.html#aeaa1ececd5193c6548f2f1d1cfb02200" title="ToxFileProgress::getSpeed" alt="" coords="675,81,863,108"/>
+<area shape="rect" id="node12" href="$classToxFileProgress.html#ac45596b6f47d3186fd68613358bfd8e1" title="ToxFileProgress::getProgress" alt="" coords="391,157,594,184"/>
+<area shape="rect" id="node13" href="$classToxFileProgress.html#a12835e81b6d8b87fa0c270aaf89d67a8" title="ToxFileProgress::getTime\lLeftSeconds" alt="" coords="403,209,582,250"/>
+<area shape="rect" id="node14" href="$classFileTransferWidget.html#a77e948c8760ac93847a5be0e89c4874a" title="FileTransferWidget\l::getHumanReadableSize" alt="" coords="401,274,584,315"/>
+<area shape="rect" id="node16" href="$classToxFilePause.html#afd80fad6016ea250ce935eb9750dc96f" title="ToxFilePause::localPaused" alt="" coords="1137,435,1320,461"/>
+<area shape="rect" id="node18" href="$classFileTransferWidget.html#a79db3260e7f12557b419f6f5c5c8de1a" title="FileTransferWidget\l::updateBackgroundColor" alt="" coords="401,595,585,637"/>
+<area shape="rect" id="node19" href="$classFileTransferWidget.html#a543a2ddd1ff11de15c76ddd97d0556a4" title="FileTransferWidget\l::setBackgroundColor" alt="" coords="689,678,848,719"/>
+<area shape="rect" id="node39" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1608,603,1724,629"/>
+<area shape="rect" id="node20" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="939,783,1089,809"/>
+<area shape="rect" id="node41" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="958,685,1070,712"/>
+<area shape="rect" id="node21" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1368,957,1535,984"/>
+<area shape="rect" id="node36" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="1175,783,1283,809"/>
+<area shape="rect" id="node22" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1583,957,1749,984"/>
+<area shape="rect" id="node23" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1589,881,1743,908"/>
+<area shape="rect" id="node24" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1809,856,1967,883"/>
+<area shape="rect" id="node35" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1797,907,1979,933"/>
+<area shape="rect" id="node25" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="2027,856,2163,883"/>
+<area shape="rect" id="node26" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2218,780,2354,807"/>
+<area shape="rect" id="node28" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2211,856,2361,883"/>
+<area shape="rect" id="node27" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2457,755,2557,781"/>
+<area shape="rect" id="node29" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2409,907,2604,933"/>
+<area shape="rect" id="node30" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2652,881,2837,908"/>
+<area shape="rect" id="node31" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2423,957,2590,984"/>
+<area shape="rect" id="node32" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2422,805,2591,832"/>
+<area shape="rect" id="node33" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2451,704,2562,731"/>
+<area shape="rect" id="node34" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2707,704,2782,731"/>
+<area shape="rect" id="node37" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="1389,805,1514,832"/>
+<area shape="rect" id="node38" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="1382,653,1521,680"/>
+<area shape="rect" id="node40" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="1408,856,1495,883"/>
+<area shape="rect" id="node43" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1153,907,1304,933"/>
+<area shape="rect" id="node44" href="$classFileTransferWidget.html#a40e8cbc02f489ab5f84bd1bbc6fcd03a" title="FileTransferWidget\l::setButtonColor" alt="" coords="1161,486,1296,527"/>
+</map>

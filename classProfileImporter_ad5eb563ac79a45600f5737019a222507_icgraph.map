@@ -1,0 +1,8 @@
+<map id="ProfileImporter::askQuestion" name="ProfileImporter::askQuestion">
+<area shape="rect" id="node2" href="$classProfileImporter.html#a496a2b3130d477be2426ed1182895cd8" title="Try to import Tox profile. " alt="" coords="256,56,461,83"/>
+<area shape="rect" id="node3" href="$toxsave_8h.html#a85b45d571c0823f0ca48c6fe7a6485e2" title="Import new profile. " alt="" coords="554,31,671,57"/>
+<area shape="rect" id="node6" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title="LoginScreen::onImportProfile" alt="" coords="509,81,716,108"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1000,5,1055,32"/>
+<area shape="rect" id="node5" href="$toxsave_8h.html#a64a615c6eaeba0501e37e50c0bbb624b" title="toxSaveEventHandler" alt="" coords="778,31,938,57"/>
+<area shape="rect" id="node7" href="$classLoginScreen.html#ad9c62f243a271fb067dc15195500ec21" title="LoginScreen::LoginScreen" alt="" coords="764,81,952,108"/>
+</map>

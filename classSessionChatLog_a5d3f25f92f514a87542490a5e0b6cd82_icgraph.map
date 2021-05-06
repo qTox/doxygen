@@ -1,0 +1,7 @@
+<map id="SessionChatLog::onFileUpdated" name="SessionChatLog::onFileUpdated">
+<area shape="rect" id="node2" href="$classChatHistory.html#a46049bd99919563e0b5dd16fe90f7d74" title="ChatHistory::onFileUpdated" alt="" coords="289,5,484,32"/>
+<area shape="rect" id="node3" href="$classSessionChatLog.html#a1fecc026256c1c85fe70413717b78614" title="SessionChatLog::onFileTransfer\lRemotePausedUnpaused" alt="" coords="277,57,496,98"/>
+<area shape="rect" id="node5" href="$classSessionChatLog.html#a26621d3829ef2381a2d253d78995f6b1" title="SessionChatLog::onFileTransfer\lBrokenUnbroken" alt="" coords="277,122,496,163"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a2a7accf97c9238b9c45c7949fda929b1" title="ChatHistory::onFileTransfer\lRemotePausedUnpaused" alt="" coords="544,57,735,98"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#abddd05bb13f8ae19010a847aba7581a3" title="ChatHistory::onFileTransfer\lBrokenUnbroken" alt="" coords="544,122,735,163"/>
+</map>

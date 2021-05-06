@@ -1,0 +1,14 @@
+<map id="RawDatabase::process" name="RawDatabase::process">
+<area shape="rect" id="node2" href="$classRawDatabase.html#a22304dfd64495ba3666e3098a988ea28" title="Close the database and free its associated resources. " alt="" coords="220,220,371,247"/>
+<area shape="rect" id="node10" href="$classRawDatabase.html#aad13f2a1276986076a1bcaa687b299ba" title="Changes the database password, encrypting or decrypting if necessary. " alt="" coords="1251,144,1447,171"/>
+<area shape="rect" id="node12" href="$classRawDatabase.html#adcd9df8dfd9bf67cb0afadd67cf72eac" title="Moves the database file on disk to match the new path. " alt="" coords="707,144,874,171"/>
+<area shape="rect" id="node3" href="$classRawDatabase.html#a2a576628b0c68901adfcf471e8f7d544" title="Tries to open a database. " alt="" coords="1523,363,1727,389"/>
+<area shape="rect" id="node4" href="$classRawDatabase.html#a094101f6f49e39eebb40a646d5923acc" title="RawDatabase::~RawDatabase" alt="" coords="419,195,633,221"/>
+<area shape="rect" id="node5" href="$classRawDatabase.html#a6dc2990b0d582cf1f3bcfaf294c21aec" title="Tries to open the database with the given (possibly empty) key. " alt="" coords="451,347,601,373"/>
+<area shape="rect" id="node6" href="$classRawDatabase.html#a33faa326a37de9d66691a696d7bc661a" title="RawDatabase::commitDbSwap" alt="" coords="681,253,900,280"/>
+<area shape="rect" id="node13" href="$classRawDatabase.html#a3e9fac7c020b726f2703794589fe1338" title="Deletes the on disk database file after closing it. " alt="" coords="443,245,609,272"/>
+<area shape="rect" id="node7" href="$classRawDatabase.html#a16cd829c14a0eb39c80180131f8d6bd9" title="Changes stored db encryption from SQLCipher 3.x defaults to 4.x defaults. " alt="" coords="960,246,1163,287"/>
+<area shape="rect" id="node9" href="$classRawDatabase.html#a1ba0ce437611f0a0269ec24993ee568d" title="RawDatabase::encryptDatabase" alt="" coords="948,195,1175,221"/>
+<area shape="rect" id="node11" href="$classRawDatabase.html#a1644d4bb884e5d4919a671afbd65f62f" title="RawDatabase::decryptDatabase" alt="" coords="948,144,1175,171"/>
+<area shape="rect" id="node8" href="$classRawDatabase.html#abb185352f31b05643f9798e3f82dc565" title="RawDatabase::openEncrypted\lDatabaseAtLatestSupportedVersion" alt="" coords="1223,271,1475,313"/>
+</map>

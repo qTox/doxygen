@@ -1,0 +1,17 @@
+<map id="GUI::_askQuestion" name="GUI::_askQuestion">
+<area shape="rect" id="node2" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons. " alt="" coords="192,130,324,157"/>
+<area shape="rect" id="node3" href="$classAboutFriendForm.html#a43f6177b8c53e0d45babb404e8122734" title="AboutFriendForm::onRemove\lHistoryClicked" alt="" coords="381,5,588,47"/>
+<area shape="rect" id="node5" href="$classProfileForm.html#afeaf9f454a38a783d980d6b894923da8" title="ProfileForm::onDeleteClicked" alt="" coords="382,71,587,98"/>
+<area shape="rect" id="node7" href="$classProfileForm.html#a6f0d3552425770bfa18b6a7e6354e1c3" title="ProfileForm::onDeletePass\lClicked" alt="" coords="390,123,579,164"/>
+<area shape="rect" id="node8" href="$classAdvancedForm.html#a1b048c3e9e7a45e26fe2051a61000753" title="AdvancedForm::on_resetButton\l_clicked" alt="" coords="372,188,597,229"/>
+<area shape="rect" id="node9" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title="Widget::confirmExecutableOpen" alt="" coords="372,254,597,281"/>
+<area shape="rect" id="node4" href="$classAboutFriendForm.html#ad92c7a6c4b38cb98dab059408edceb3e" title="AboutFriendForm::AboutFriendForm" alt="" coords="645,13,893,39"/>
+<area shape="rect" id="node6" href="$classProfileForm.html#aa71ffbf1dc7ed19568c0814df8445af9" title="ProfileForm::ProfileForm" alt="" coords="682,101,857,127"/>
+<area shape="rect" id="node10" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title="FileTransferWidget\l::handleButton" alt="" coords="702,216,837,257"/>
+<area shape="rect" id="node15" href="$classFilesForm.html#a23dd58a4876c0d0d0c930eedfabb9db7" title="FilesForm::onFileActivated" alt="" coords="676,285,863,311"/>
+<area shape="rect" id="node11" href="$classFileTransferWidget.html#a5f29ffa2ccd11672b706981e7843591a" title="FileTransferWidget\l::onLeftButtonClicked" alt="" coords="953,120,1112,161"/>
+<area shape="rect" id="node13" href="$classFileTransferWidget.html#af88381ef5a7d2ab692b3e0b1464d24a8" title="FileTransferWidget\l::onRightButtonClicked" alt="" coords="949,185,1116,227"/>
+<area shape="rect" id="node14" href="$classFileTransferWidget.html#a63bb0160d22a50b91c490a836e0a5e56" title="FileTransferWidget\l::onPreviewButtonClicked" alt="" coords="941,251,1124,292"/>
+<area shape="rect" id="node12" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="1172,185,1315,227"/>
+<area shape="rect" id="node16" href="$classFilesForm.html#ae5393e6e8ac7702bf7c036930132c155" title="FilesForm::FilesForm" alt="" coords="957,317,1108,343"/>
+</map>

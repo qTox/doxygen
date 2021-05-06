@@ -1,0 +1,4 @@
+<map id="CoreAV::sendGroupCallAudio" name="CoreAV::sendGroupCallAudio">
+<area shape="rect" id="node2" href="$classToxGroupCall.html#a7825b68f9c9dc5749f2a95d20f71cdb7" title="ToxGroupCall::ToxGroupCall" alt="" coords="516,5,711,32"/>
+<area shape="rect" id="node3" href="$classToxGroupCall.html#a3911a018d01bb7c0e15ffc787c325cc3" title="ToxGroupCall::onAudioSource\lInvalidated" alt="" coords="259,27,468,69"/>
+</map>

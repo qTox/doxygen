@@ -1,0 +1,31 @@
+<map id="Core::onStarted" name="Core::onStarted">
+<area shape="rect" id="node2" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure. " alt="" coords="193,5,341,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a7b6ca7659c49472b5699d47963d44dee" title="Returns our status message, or an empty string on failure. " alt="" coords="177,56,357,83"/>
+<area shape="rect" id="node4" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID. " alt="" coords="209,107,325,133"/>
+<area shape="rect" id="node5" href="$classCore.html#ade915e7fc09d358c175f4ee3c9d84f5b" title="Core::loadFriends" alt="" coords="201,157,333,184"/>
+<area shape="rect" id="node8" href="$classCore.html#ad1ebcac9f4ea64560d076f011b0b386e" title="Core::loadGroups" alt="" coords="201,233,334,260"/>
+<area shape="rect" id="node23" href="$classCore.html#ae16fbf434051c93fc709ddf1eda16ef0" title="Processes toxcore events and ensure we stay connected, called by its own timer. " alt="" coords="212,481,323,508"/>
+<area shape="rect" id="node6" href="$classCore.html#af7f12e95f90f1ccf6fa5f261fdb98e3c" title="Get the username of a friend. " alt="" coords="409,93,596,120"/>
+<area shape="rect" id="node7" href="$classCore.html#a07764afdb5657159786c6f353b60e30f" title="Core::checkLastOnline" alt="" coords="421,144,585,171"/>
+<area shape="rect" id="node9" href="$classCore.html#a7d107c6374c41d81bde6dc1c68b62344" title="Core::getGroupPersistentId" alt="" coords="405,195,600,221"/>
+<area shape="rect" id="node10" href="$classCore.html#a8e6630437852c5cfff6c259d14beac9f" title="Check, that group has audio or video stream. " alt="" coords="409,245,596,272"/>
+<area shape="rect" id="node11" href="$classCoreAV.html#a755de116aa91e3b4c3a0f29fb8b6f422" title="Called from Tox API when group call receives audio data. " alt="" coords="408,296,597,323"/>
+<area shape="rect" id="node12" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="706,119,802,145"/>
+<area shape="rect" id="node13" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group. " alt="" coords="672,169,836,196"/>
+<area shape="rect" id="node14" href="$classIGroupSettings.html#afb7ab1450a73506229ebe41adea29571" title="IGroupSettings::getBlackList" alt="" coords="653,220,855,247"/>
+<area shape="rect" id="node15" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="1605,321,1748,348"/>
+<area shape="rect" id="node16" href="$classToxCall.html#a8b29c0a502c544eeb3823a3884c47a41" title="ToxCall::getMuteVol" alt="" coords="681,321,827,348"/>
+<area shape="rect" id="node17" href="$classToxCall.html#a46ae1e53efb2bfa06d86f9f70ddfd5a8" title="ToxCall::isActive" alt="" coords="693,372,815,399"/>
+<area shape="rect" id="node18" href="$classToxGroupCall.html#acb1de57d6a236ad6f48366fc471f0ad2" title="ToxGroupCall::playAudioBuffer" alt="" coords="648,423,860,449"/>
+<area shape="rect" id="node19" href="$classToxGroupCall.html#a795b16b176a6b386d6b07bfc4367827e" title="ToxGroupCall::havePeer" alt="" coords="908,372,1080,399"/>
+<area shape="rect" id="node20" href="$classToxGroupCall.html#a4e4ac83c18623cef27eabb6752712a9c" title="ToxGroupCall::addPeer" alt="" coords="911,423,1077,449"/>
+<area shape="rect" id="node21" href="$classToxGroupCall.html#a3286dace2733f7bef27afcda751c35ab" title="ToxGroupCall::onAudioSink\lInvalidated" alt="" coords="1128,415,1319,457"/>
+<area shape="rect" id="node22" href="$classToxGroupCall.html#aa6a7f1a687cd25e80e1b38b12df7e4af" title="ToxGroupCall::removePeer" alt="" coords="1367,372,1557,399"/>
+<area shape="rect" id="node24" href="$classCore.html#a2c4cf238a65083affe97ef1cfcdc74c4" title="Core::checkConnection" alt="" coords="418,431,587,457"/>
+<area shape="rect" id="node25" href="$classCore.html#a31a9203e17de26471abfedf8736603d8" title="Connects us to the Tox network. " alt="" coords="430,481,575,508"/>
+<area shape="rect" id="node29" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="437,532,568,559"/>
+<area shape="rect" id="node30" href="$classCoreFile.html#a4b686fc92a5e26f547b4c2ac4347dafd" title="Get corefile iteration interval. " alt="" coords="413,583,592,625"/>
+<area shape="rect" id="node26" href="$classIBootstrapListGenerator.html#a0178d3d62b3111a210f2240530ecddc6" title="IBootstrapListGenerator\l::getBootstrapnodes" alt="" coords="667,474,841,515"/>
+<area shape="rect" id="node27" href="$classContactId.html#a816f052f669373dab7435769b755ad33" title="Returns a pointer to the raw id data. " alt="" coords="683,540,825,567"/>
+<area shape="rect" id="node28" href="$classContactId.html#a3c607decf796f71ba6518d262dc55648" title="Checks if the ContactId contains a id. " alt="" coords="923,540,1065,567"/>
+</map>

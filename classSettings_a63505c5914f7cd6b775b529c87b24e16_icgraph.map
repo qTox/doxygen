@@ -1,0 +1,19 @@
+<map id="Settings::saveGlobal" name="Settings::saveGlobal">
+<area shape="rect" id="node2" href="$classProfileInfo.html#acc65397b6ae85adc8060e8f64549b513" title="Log out from current profile. " alt="" coords="249,5,381,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#aa190dda405426cc99cf80be6661e7629" title="Nexus::setSettings" alt="" coords="1010,56,1153,83"/>
+<area shape="rect" id="node5" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title="Nexus::connectLoginScreen" alt="" coords="981,157,1181,184"/>
+<area shape="rect" id="node11" href="$classSettings.html#ac7a38c986de52b871c2d1dc0b704cb79" title="Settings::updateProfileData" alt="" coords="216,157,415,184"/>
+<area shape="rect" id="node16" href="$classSettings.html#a5817c9fce905c15c713658935e45f84a" title="Settings::setMakeToxPortable" alt="" coords="210,208,421,235"/>
+<area shape="rect" id="node18" href="$classGeneralForm.html#a49dad2dcd9addfcbdd2fc2b59ca4ffce" title="GeneralForm::on_showSystem\lTray_stateChanged" alt="" coords="207,259,424,301"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2151,183,2205,209"/>
+<area shape="rect" id="node6" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1229,157,1365,184"/>
+<area shape="rect" id="node7" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1413,107,1505,133"/>
+<area shape="rect" id="node8" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1553,107,1708,133"/>
+<area shape="rect" id="node9" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1756,107,1856,133"/>
+<area shape="rect" id="node10" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1904,157,2103,184"/>
+<area shape="rect" id="node12" href="$classProfile.html#ae47e26ce2e5fea00de176f02df139deb" title="Locks and loads an existing profile and creates the associate Core* instance. " alt="" coords="514,208,649,235"/>
+<area shape="rect" id="node14" href="$classProfile.html#ad70346022a584b8c1e81c79b00f212d5" title="Creates a new profile and the associated Core* instance. " alt="" coords="507,157,656,184"/>
+<area shape="rect" id="node13" href="$classNexus.html#a1c57af6d4bb385fba2e601da910d64c6" title="Nexus::onLoadProfile" alt="" coords="758,208,914,235"/>
+<area shape="rect" id="node15" href="$classNexus.html#ac0ec013e4903e8f1c4b4bba022be413c" title="Creates a new profile and replaces the current one. " alt="" coords="739,157,933,184"/>
+<area shape="rect" id="node17" href="$classAdvancedForm.html#aeeb5fb52647f80f5557c7659dc454bb0" title="AdvancedForm::on_cbMakeTox\lPortable_stateChanged" alt="" coords="472,259,691,301"/>
+</map>

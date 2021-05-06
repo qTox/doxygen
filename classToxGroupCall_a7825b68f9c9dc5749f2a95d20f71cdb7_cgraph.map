@@ -1,0 +1,6 @@
+<map id="ToxGroupCall::ToxGroupCall" name="ToxGroupCall::ToxGroupCall">
+<area shape="rect" id="node2" href="$classGroup.html#a6205352efb17034c6636642e89f26a9f" title="Group::getPeersCount" alt="" coords="526,12,690,38"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#a57a319807fe9fc52cf597fa8dc3bc7d3" title="CoreAV::sendGroupCallAudio" alt="" coords="505,66,711,93"/>
+<area shape="rect" id="node4" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="557,132,659,158"/>
+<area shape="rect" id="node5" href="$classToxGroupCall.html#a3911a018d01bb7c0e15ffc787c325cc3" title="ToxGroupCall::onAudioSource\lInvalidated" alt="" coords="248,31,457,72"/>
+</map>

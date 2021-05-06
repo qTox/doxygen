@@ -1,0 +1,8 @@
+<map id="SessionChatLog::insertIncompleteMessageAtIdx" name="SessionChatLog::insertIncompleteMessageAtIdx">
+<area shape="rect" id="node2" href="$classChatHistory.html#a80acd075f7df8605164260fb0590b658" title="Unconditionally loads the given index and all future messages that are not in the session chat log in..." alt="" coords="293,49,469,90"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title="ChatHistory::ChatHistory" alt="" coords="532,5,711,32"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter ..." alt="" coords="517,56,725,83"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#a1251dbd4899918516a46a964bf6a0b3e" title="Forces the given index and all future indexes to be in the chatlog. " alt="" coords="533,107,710,149"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#a47c4d731377614a72939cf9aa6925ca9" title="Returns reference to item at idx. " alt="" coords="813,89,931,116"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#ab2719a6a9cfa86eaa1907e4ee9d64674" title="searches forwards through the chat log until phrase is found according to parameter ..." alt="" coords="773,140,971,167"/>
+</map>

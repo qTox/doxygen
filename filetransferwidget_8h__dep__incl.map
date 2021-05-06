@@ -1,0 +1,10 @@
+<map id="src/chatlog/content/filetransferwidget.h" name="src/chatlog/content/filetransferwidget.h">
+<area shape="rect" id="node2" href="$chatlinecontentproxy_8cpp.html" title="src/chatlog/chatlinecontentproxy.cpp" alt="" coords="5,102,260,129"/>
+<area shape="rect" id="node3" href="$chatlog_8cpp.html" title="src/chatlog/chatlog.cpp" alt="" coords="285,102,455,129"/>
+<area shape="rect" id="node4" href="$chatmessage_8cpp.html" title="src/chatlog/chatmessage.cpp" alt="" coords="479,102,690,129"/>
+<area shape="rect" id="node5" href="$filetransferwidget_8cpp.html" title="src/chatlog/content\l/filetransferwidget.cpp" alt="" coords="714,95,877,136"/>
+<area shape="rect" id="node6" href="$notificationgenerator_8cpp.html" title="src/model/notificationgenerator.cpp" alt="" coords="901,102,1149,129"/>
+<area shape="rect" id="node7" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1173,102,1383,129"/>
+<area shape="rect" id="node8" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="1407,102,1663,129"/>
+<area shape="rect" id="node9" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="1688,102,1847,129"/>
+</map>

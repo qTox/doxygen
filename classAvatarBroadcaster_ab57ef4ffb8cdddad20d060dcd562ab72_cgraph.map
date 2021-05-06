@@ -1,0 +1,5 @@
+<map id="AvatarBroadcaster::sendAvatarTo" name="AvatarBroadcaster::sendAvatarTo">
+<area shape="rect" id="node2" href="$classCore.html#ac2922886051390e6c77dbe8130ce8173" title="Checks if a friend is online. Unknown friends are considered offline. " alt="" coords="215,5,363,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="223,56,354,83"/>
+<area shape="rect" id="node4" href="$classCoreFile.html#a6829e228f42c5e1f14462124d38c0fbd" title="CoreFile::sendAvatarFile" alt="" coords="203,107,375,133"/>
+</map>

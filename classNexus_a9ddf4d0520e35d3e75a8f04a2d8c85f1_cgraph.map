@@ -1,0 +1,51 @@
+<map id="Nexus::showLogin" name="Nexus::showLogin">
+<area shape="rect" id="node2" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title="Nexus::connectLoginScreen" alt="" coords="189,249,389,275"/>
+<area shape="rect" id="node37" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="190,797,389,823"/>
+<area shape="rect" id="node3" href="$classLoginScreen.html#a9f58629ab8ecf25abe7ab2ac5bd26d9f" title="LoginScreen::onProfileLoaded" alt="" coords="437,219,648,246"/>
+<area shape="rect" id="node4" href="$classLoginScreen.html#acb249c61dbf91003c4619647727672d4" title="LoginScreen::onProfileLoad\lFailed" alt="" coords="445,271,640,312"/>
+<area shape="rect" id="node5" href="$classNexus.html#ac0ec013e4903e8f1c4b4bba022be413c" title="Creates a new profile and replaces the current one. " alt="" coords="445,337,640,363"/>
+<area shape="rect" id="node15" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings. " alt="" coords="1177,34,1330,61"/>
+<area shape="rect" id="node29" href="$classNexus.html#a1c57af6d4bb385fba2e601da910d64c6" title="Nexus::onLoadProfile" alt="" coords="465,387,621,414"/>
+<area shape="rect" id="node34" href="$classSettings.html#a386007e92d53fba606ed093476f456a3" title="Settings::setAutoLogin" alt="" coords="459,102,626,129"/>
+<area shape="rect" id="node36" href="$classLoginScreen.html#a6de395839187628be451d6c991b2dafb" title="LoginScreen::onAutoLogin\lChanged" alt="" coords="448,153,637,195"/>
+<area shape="rect" id="node6" href="$classNexus.html#ad8f37f916cde6bb0168ab72a70b7fa27" title="Nexus::setProfile" alt="" coords="709,365,838,391"/>
+<area shape="rect" id="node7" href="$classProfile.html#ad70346022a584b8c1e81c79b00f212d5" title="Creates a new profile and the associated Core* instance. " alt="" coords="699,302,848,329"/>
+<area shape="rect" id="node8" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title="Settings::getPaths" alt="" coords="930,266,1069,293"/>
+<area shape="rect" id="node9" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1407,135,1592,162"/>
+<area shape="rect" id="node10" href="$classSettings.html#a1b9737021f5dcb9f3e0de008a4e8c982" title="Write a default personal .ini settings file for a profile. " alt="" coords="1164,85,1343,111"/>
+<area shape="rect" id="node11" href="$classProfile.html#a52ad2d035c38690961b386330d2e1e65" title="Profile::Profile" alt="" coords="945,317,1053,343"/>
+<area shape="rect" id="node12" href="$classSettings.html#ac7a38c986de52b871c2d1dc0b704cb79" title="Settings::updateProfileData" alt="" coords="900,367,1099,394"/>
+<area shape="rect" id="node21" href="$classProfile.html#a95bfc4ae33dc4a80a48c1e2f126ab48f" title="Profile::initCore" alt="" coords="940,506,1059,533"/>
+<area shape="rect" id="node28" href="$classProfile.html#a1c1db91082221fb5096ad119008d3769" title="Profile::loadDatabase" alt="" coords="920,215,1079,242"/>
+<area shape="rect" id="node13" href="$classSettings.html#ad8f9b7cf953cff5ada0d152a884cb809" title="Settings::setCurrentProfile" alt="" coords="1158,303,1349,330"/>
+<area shape="rect" id="node14" href="$classProfile.html#a4d99c719bf0c1770d0020f3449011f6b" title="Profile::getName" alt="" coords="1189,354,1318,381"/>
+<area shape="rect" id="node18" href="$classSettings.html#aac723ad8327cbc386d41cb611fceb83b" title="Settings::loadPersonal" alt="" coords="1171,405,1336,431"/>
+<area shape="rect" id="node19" href="$classProfile.html#a6030c09dacd1ac21065ac4733867e073" title="Profile::getPasskey" alt="" coords="1183,186,1324,213"/>
+<area shape="rect" id="node20" href="$classSettings.html#a3f19ec46ab508d2b22b1e12f2d9e8d4a" title="Settings::applyCommandLine\lOptions" alt="" coords="1148,237,1359,279"/>
+<area shape="rect" id="node16" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1420,34,1579,61"/>
+<area shape="rect" id="node17" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1640,34,1776,61"/>
+<area shape="rect" id="node22" href="$classSettings.html#aec7ace9d812dde426adee179f00f1650" title="Settings::getProxy" alt="" coords="1184,658,1323,685"/>
+<area shape="rect" id="node23" href="$classCore.html#a5704c674f8b4214bd200b5f4a595f46e" title="Factory method for the Core object. " alt="" coords="1180,506,1327,533"/>
+<area shape="rect" id="node24" href="$classCoreAV.html#aa21ee50e4df2daaba46a4f179b805a25" title="Factory method for CoreAV. " alt="" coords="1174,557,1333,583"/>
+<area shape="rect" id="node25" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed. " alt="" coords="1169,607,1338,634"/>
+<area shape="rect" id="node26" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar. " alt="" coords="1174,759,1333,786"/>
+<area shape="rect" id="node27" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar. " alt="" coords="1415,734,1583,761"/>
+<area shape="rect" id="node30" href="$classProfile.html#ae47e26ce2e5fea00de176f02df139deb" title="Locks and loads an existing profile and creates the associate Core* instance. " alt="" coords="706,430,841,457"/>
+<area shape="rect" id="node31" href="$classProfileLocker.html#a2017dc3153c1d2f4fc88a75de24c9580" title="Chacks, that profile locked. " alt="" coords="918,658,1081,685"/>
+<area shape="rect" id="node32" href="$classProfileLocker.html#a316602739a054879e833ee6808832db5" title="Tries to acquire the lock on a profile, will not block. " alt="" coords="931,557,1067,583"/>
+<area shape="rect" id="node33" href="$classProfileLocker.html#ae87d40c397f31f1819349df653b1a70d" title="Releases the lock on the current profile. " alt="" coords="923,607,1075,634"/>
+<area shape="rect" id="node35" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="712,102,835,129"/>
+<area shape="rect" id="node38" href="$classProfile.html#adb0e1f8a30e1a9c5866f2f89926f1130" title="Profile::getCore" alt="" coords="1193,911,1313,938"/>
+<area shape="rect" id="node39" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="495,771,591,798"/>
+<area shape="rect" id="node40" href="$classCoreAV.html#a98cee1cac0769aaa177c7a33031ffafa" title="Set the audio backend. " alt="" coords="477,822,609,849"/>
+<area shape="rect" id="node41" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="493,898,593,925"/>
+<area shape="rect" id="node42" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="696,911,851,938"/>
+<area shape="rect" id="node43" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="953,1063,1045,1090"/>
+<area shape="rect" id="node44" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="1189,1063,1317,1090"/>
+<area shape="rect" id="node45" href="$classGUI.html#a5d9cbb76cdbe88b3240235fdde630ced" title="Will enable or disable the GUI. " alt="" coords="937,1114,1061,1141"/>
+<area shape="rect" id="node46" href="$classWidget.html#a140da7fa0d939662a4b13382e751fa3b" title="Widget::onSelfAvatarLoaded" alt="" coords="899,759,1100,786"/>
+<area shape="rect" id="node47" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="911,810,1087,837"/>
+<area shape="rect" id="node48" href="$classWidget.html#add0b1ec9e29738662c5f42aac1a435bc" title="Widget::onFailedToStartCore" alt="" coords="899,861,1099,887"/>
+<area shape="rect" id="node49" href="$classWidget.html#a5ba14b9f1d63f60448ebbd1fb6c02e0e" title="Widget::onBadProxyCore" alt="" coords="910,911,1089,938"/>
+<area shape="rect" id="node50" href="$classProfile.html#ad48bf99a520e2e2a24da6674a6a6729b" title="Starts the Core thread. " alt="" coords="935,962,1064,989"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Profile::createProfile" name="Profile::createProfile">
+<area shape="rect" id="node2" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title="Settings::getPaths" alt="" coords="1005,7,1144,34"/>
+<area shape="rect" id="node3" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="982,146,1167,173"/>
+<area shape="rect" id="node4" href="$classSettings.html#a1b9737021f5dcb9f3e0de008a4e8c982" title="Write a default personal .ini settings file for a profile. " alt="" coords="203,203,381,230"/>
+<area shape="rect" id="node5" href="$classProfile.html#a52ad2d035c38690961b386330d2e1e65" title="Profile::Profile" alt="" coords="238,777,346,803"/>
+<area shape="rect" id="node6" href="$classSettings.html#ac7a38c986de52b871c2d1dc0b704cb79" title="Settings::updateProfileData" alt="" coords="437,457,635,483"/>
+<area shape="rect" id="node27" href="$classProfile.html#a95bfc4ae33dc4a80a48c1e2f126ab48f" title="Profile::initCore" alt="" coords="233,726,351,753"/>
+<area shape="rect" id="node48" href="$classProfile.html#a1c1db91082221fb5096ad119008d3769" title="Profile::loadDatabase" alt="" coords="457,102,615,129"/>
+<area shape="rect" id="node7" href="$classSettings.html#ad8f9b7cf953cff5ada0d152a884cb809" title="Settings::setCurrentProfile" alt="" coords="712,406,903,433"/>
+<area shape="rect" id="node9" href="$classProfile.html#a4d99c719bf0c1770d0020f3449011f6b" title="Profile::getName" alt="" coords="743,507,872,534"/>
+<area shape="rect" id="node10" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings. " alt="" coords="731,254,884,281"/>
+<area shape="rect" id="node12" href="$classSettings.html#aac723ad8327cbc386d41cb611fceb83b" title="Settings::loadPersonal" alt="" coords="725,457,890,483"/>
+<area shape="rect" id="node24" href="$classProfile.html#a6030c09dacd1ac21065ac4733867e073" title="Profile::getPasskey" alt="" coords="737,558,878,585"/>
+<area shape="rect" id="node25" href="$classSettings.html#a3f19ec46ab508d2b22b1e12f2d9e8d4a" title="Settings::applyCommandLine\lOptions" alt="" coords="702,660,913,701"/>
+<area shape="rect" id="node8" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="990,197,1159,223"/>
+<area shape="rect" id="node11" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="995,70,1154,97"/>
+<area shape="rect" id="node13" href="$classSettingsSerializer.html#a47da063b2e5628d7aab6714ce547eed8" title="Loads the settings from file. " alt="" coords="1007,248,1142,289"/>
+<area shape="rect" id="node14" href="$classSettingsSerializer.html#a2735e383a3ad5a17e444b895d7d7c76f" title="SettingsSerializer\l::beginGroup" alt="" coords="1007,365,1142,407"/>
+<area shape="rect" id="node15" href="$classSettingsSerializer.html#af982be2a95ab2857fa38c1f02594052b" title="SettingsSerializer\l::endGroup" alt="" coords="1225,336,1360,377"/>
+<area shape="rect" id="node16" href="$classSettingsSerializer.html#aa8dfd34b274b17315d341404cc8cb099" title="SettingsSerializer\l::value" alt="" coords="1007,431,1142,472"/>
+<area shape="rect" id="node17" href="$classSettingsSerializer.html#a2a6ae88b8210fb9917ae187ff92883ea" title="SettingsSerializer\l::beginReadArray" alt="" coords="1007,496,1142,537"/>
+<area shape="rect" id="node18" href="$classSettingsSerializer.html#a191f0f05452eaa7fe9edcaf80011a97a" title="SettingsSerializer\l::setArrayIndex" alt="" coords="1007,561,1142,603"/>
+<area shape="rect" id="node19" href="$classSettings.html#aa3d4c8c7582f245d4971f63a214ccadd" title="Settings::getEnableLogging" alt="" coords="976,627,1173,654"/>
+<area shape="rect" id="node20" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="1004,678,1145,705"/>
+<area shape="rect" id="node21" href="$classContactId.html#a2ef2beeefa31a8bc2dd393c83b66bcb8" title="Get a copy of the id. " alt="" coords="987,846,1162,873"/>
+<area shape="rect" id="node22" href="$classSettingsSerializer.html#a3402c04efc6d12f238a3d5f949540bc5" title="SettingsSerializer\l::endArray" alt="" coords="1007,729,1142,771"/>
+<area shape="rect" id="node23" href="$classSettings.html#a28fa04ff3489ebb83caa6625c1105e87" title="Settings::fixInvalidProxyType" alt="" coords="975,795,1175,822"/>
+<area shape="rect" id="node26" href="$classSettings.html#af843e686a30d20094cb721e952bda724" title="Settings::verifyProxySettings" alt="" coords="972,897,1177,923"/>
+<area shape="rect" id="node28" href="$classSettings.html#aec7ace9d812dde426adee179f00f1650" title="Settings::getProxy" alt="" coords="467,802,605,829"/>
+<area shape="rect" id="node32" href="$classCore.html#a5704c674f8b4214bd200b5f4a595f46e" title="Factory method for the Core object. " alt="" coords="463,1005,609,1031"/>
+<area shape="rect" id="node40" href="$classCoreAV.html#aa21ee50e4df2daaba46a4f179b805a25" title="Factory method for CoreAV. " alt="" coords="457,1055,615,1082"/>
+<area shape="rect" id="node41" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed. " alt="" coords="451,355,621,382"/>
+<area shape="rect" id="node43" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar. " alt="" coords="457,642,615,669"/>
+<area shape="rect" id="node46" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar. " alt="" coords="723,726,891,753"/>
+<area shape="rect" id="node47" href="$classProfile.html#a7fc42d3937a7b8a22b81eddff3737260" title="Profile::onAvatarOfferReceived" alt="" coords="429,1106,643,1133"/>
+<area shape="rect" id="node29" href="$classSettings.html#a733ea826935339156196917570941db5" title="Settings::getProxyType" alt="" coords="724,777,891,803"/>
+<area shape="rect" id="node30" href="$classSettings.html#aa0eba5b3bd1aa54c52a95e950f587b5a" title="Settings::getProxyAddr" alt="" coords="723,827,892,854"/>
+<area shape="rect" id="node31" href="$classSettings.html#a1fedabbce788fe1a4f29362a90567be6" title="Settings::getProxyPort" alt="" coords="725,878,890,905"/>
+<area shape="rect" id="node33" href="$classToxOptions.html#ac791d12af61413fd4e08f4776f593d5b" title="Initializes a ToxOptions instance. " alt="" coords="705,929,909,955"/>
+<area shape="rect" id="node34" href="$classCore.html#ae639e75893da8e609e50f1094cc0ce78" title="Core::Core" alt="" coords="762,979,853,1006"/>
+<area shape="rect" id="node35" href="$classCoreFile.html#a23b88b6459d4133cd8f061698113c08b" title="CoreFile::makeCoreFile" alt="" coords="724,1030,891,1057"/>
+<area shape="rect" id="node36" href="$classCoreExt.html#a2de8fc4ad9545320ce52b61c2853ee98" title="Creates a CoreExt instance. Using a pointer here makes our registrations with extensions significantl..." alt="" coords="724,1081,891,1107"/>
+<area shape="rect" id="node37" href="$classCoreExt.html#acae2e09f69e9beafa892160e99116389" title="CoreExt::onFriendStatusChanged" alt="" coords="691,1131,924,1158"/>
+<area shape="rect" id="node38" href="$classCore.html#a260257ad4ee098aa767a739bdf0e724a" title="Registers all toxcore callbacks. " alt="" coords="723,1182,892,1209"/>
+<area shape="rect" id="node39" href="$classCore.html#ae4d185eaa869d82d63754e446ea45c73" title="Core::onStarted" alt="" coords="745,1233,869,1259"/>
+<area shape="rect" id="node42" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed. " alt="" coords="732,305,883,331"/>
+<area shape="rect" id="node44" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID..." alt="" coords="738,355,877,382"/>
+<area shape="rect" id="node45" href="$classProfile.html#aca1cdaef5152d76b2e3d2197f8132ab3" title="Sets our own avatar. " alt="" coords="742,609,873,635"/>
+<area shape="rect" id="node49" href="$classGUI.html#af7a20885f4bda93998e9832eeb4f8c2c" title="Show an error to the user. " alt="" coords="749,102,865,129"/>
+<area shape="rect" id="node50" href="$classProfile.html#a028cd7240ff4bc9a4c7b57d4e9532866" title="Retrieves the path to the database file for a given profile. " alt="" coords="739,51,875,78"/>
+</map>

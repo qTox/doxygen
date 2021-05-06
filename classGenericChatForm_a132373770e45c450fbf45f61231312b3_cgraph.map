@@ -1,0 +1,14 @@
+<map id="GenericChatForm::enableSearchText" name="GenericChatForm::enableSearchText">
+<area shape="rect" id="node2" href="$classChatLog.html#a33c6e0346d0a3ac59547a620d663fbad" title="ChatLog::scrollToLine" alt="" coords="311,69,466,96"/>
+<area shape="rect" id="node6" href="$classText.html#a0c99228afc1d1acbea5381e234c31c71" title="Text::visibilityChanged" alt="" coords="308,145,469,172"/>
+<area shape="rect" id="node3" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="517,19,712,45"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="760,5,967,32"/>
+<area shape="rect" id="node5" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1037,5,1205,32"/>
+<area shape="rect" id="node7" href="$classText.html#a1a5e55b8fc5c67a03fa60b43253b5ac1" title="Text::regenerate" alt="" coords="551,157,678,184"/>
+<area shape="rect" id="node8" href="$classDocumentCache.html#aab295120da5a20e9b4abe1115b371b83" title="Returns the singleton instance. " alt="" coords="1015,132,1227,159"/>
+<area shape="rect" id="node9" href="$classDocumentCache.html#aa8f04b81552fe72368e9a58c8d34ac5a" title="DocumentCache::pop" alt="" coords="783,107,944,133"/>
+<area shape="rect" id="node10" href="$classText.html#a8189e01ee4761059ad9da81dc79060d5" title="Text::idealSize" alt="" coords="807,157,919,184"/>
+<area shape="rect" id="node11" href="$classText.html#a1fe6ae767f84d5f2a24083fd3f0b4708" title="Text::selectText" alt="" coords="804,208,923,235"/>
+<area shape="rect" id="node12" href="$classText.html#a4605dc4e996d7608baa0c404502375b0" title="Text::freeResources" alt="" coords="791,259,936,285"/>
+<area shape="rect" id="node13" href="$classDocumentCache.html#a58069a1d20f55b4b23ee3506771541e5" title="DocumentCache::push" alt="" coords="1037,259,1205,285"/>
+</map>

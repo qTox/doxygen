@@ -1,0 +1,26 @@
+<map id="AddFriendForm::addFriend" name="AddFriendForm::addFriend">
+<area shape="rect" id="node2" href="$classToxId.html#abb994cbc7dc5a867c679531f9a58d719" title="Check it it&#39;s a valid Tox ID by verifying the checksum. " alt="" coords="293,16,394,43"/>
+<area shape="rect" id="node3" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="276,67,411,93"/>
+<area shape="rect" id="node10" href="$classAddFriendForm.html#a349c7276eed501e8cd4a8aa2b8ee46eb" title="AddFriendForm::deleteFriend\lRequest" alt="" coords="241,139,445,181"/>
+<area shape="rect" id="node25" href="$classAddFriendForm.html#a16fed9718f82acff4d5c47a49252f8b3" title="AddFriendForm::getMessage" alt="" coords="241,205,445,232"/>
+<area shape="rect" id="node4" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="540,5,668,32"/>
+<area shape="rect" id="node5" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="533,56,675,83"/>
+<area shape="rect" id="node6" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="763,56,909,83"/>
+<area shape="rect" id="node7" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="957,56,1124,83"/>
+<area shape="rect" id="node8" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1197,56,1342,83"/>
+<area shape="rect" id="node9" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1452,56,1563,83"/>
+<area shape="rect" id="node11" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="525,107,683,133"/>
+<area shape="rect" id="node22" href="$classSettings.html#a1c2e55f5b6e732482f4b50603776b320" title="Settings::getFriendRequestSize" alt="" coords="494,157,714,184"/>
+<area shape="rect" id="node23" href="$classSettings.html#a77a6b8d0ee9463a8bbdc699676660c26" title="Settings::getFriendRequest" alt="" coords="507,208,701,235"/>
+<area shape="rect" id="node24" href="$classSettings.html#a9bf7be23026b81700ba7cf4395100688" title="Settings::removeFriendRequest" alt="" coords="493,259,715,285"/>
+<area shape="rect" id="node12" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="768,107,904,133"/>
+<area shape="rect" id="node13" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="973,107,1109,133"/>
+<area shape="rect" id="node15" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="965,233,1116,260"/>
+<area shape="rect" id="node14" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1219,107,1319,133"/>
+<area shape="rect" id="node16" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1172,157,1367,184"/>
+<area shape="rect" id="node17" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1415,183,1600,209"/>
+<area shape="rect" id="node18" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1186,259,1353,285"/>
+<area shape="rect" id="node19" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1185,309,1354,336"/>
+<area shape="rect" id="node20" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1214,360,1325,387"/>
+<area shape="rect" id="node21" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1470,360,1545,387"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ContentDialog::updateFriendWidget" name="ContentDialog::updateFriendWidget">
+<area shape="rect" id="node2" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="279,5,430,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="289,56,420,83"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title="FriendListLayout::addFriend\lWidget" alt="" coords="257,107,452,149"/>
+<area shape="rect" id="node5" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="500,74,673,115"/>
+<area shape="rect" id="node9" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title="GenericChatItemLayout\l::addSortedWidget" alt="" coords="500,139,673,181"/>
+<area shape="rect" id="node6" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="721,107,932,149"/>
+<area shape="rect" id="node7" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="980,107,1153,149"/>
+<area shape="rect" id="node8" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1201,115,1365,141"/>
+</map>

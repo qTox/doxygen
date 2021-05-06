@@ -1,0 +1,37 @@
+<map id="ContentDialog::removeFriend" name="ContentDialog::removeFriend">
+<area shape="rect" id="node2" href="$classContentDialog.html#a8ceb9ec47bc57b9c5fb0ec3d98911bd3" title="Update friend widget name and position. " alt="" coords="270,89,474,131"/>
+<area shape="rect" id="node11" href="$classContentDialog.html#a371ae0fc6d29f7b70515ad8bd30fa519" title="Activate next/previous contact. " alt="" coords="267,391,477,418"/>
+<area shape="rect" id="node31" href="$classFriendListLayout.html#acda028395b347b92cad3df43529553c1" title="FriendListLayout::remove\lFriendWidget" alt="" coords="281,245,463,287"/>
+<area shape="rect" id="node32" href="$classContentDialog.html#a0b85757591c84b58307b3de790ee832f" title="ContentDialog::chatroomCount" alt="" coords="261,442,483,469"/>
+<area shape="rect" id="node35" href="$classContentLayout.html#a1975e7c8e9d7df7a2e9fbc6a39fd7cd1" title="ContentLayout::clear" alt="" coords="295,493,449,519"/>
+<area shape="rect" id="node36" href="$classContentDialog.html#a43e911ad56e7e0c208859ae852f22cd4" title="ContentDialog::closeIfEmpty" alt="" coords="271,543,473,570"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="566,71,717,98"/>
+<area shape="rect" id="node4" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="576,122,707,149"/>
+<area shape="rect" id="node5" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title="FriendListLayout::addFriend\lWidget" alt="" coords="544,5,739,47"/>
+<area shape="rect" id="node6" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="812,96,985,137"/>
+<area shape="rect" id="node10" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title="GenericChatItemLayout\l::addSortedWidget" alt="" coords="1045,29,1219,71"/>
+<area shape="rect" id="node7" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="1267,96,1477,137"/>
+<area shape="rect" id="node8" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1531,96,1705,137"/>
+<area shape="rect" id="node9" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1759,103,1923,130"/>
+<area shape="rect" id="node12" href="$classContentDialog.html#a3593ba52e331a5ce86fdb0a4d001b274" title="Get current layout and index of current wiget in it. Current layout – layout contains activated widg..." alt="" coords="546,325,737,367"/>
+<area shape="rect" id="node13" href="$classFriendListLayout.html#a7dc5044c075e05ce4a4e6b71a4342f5d" title="FriendListLayout::getLayout\lOnline" alt="" coords="800,427,997,468"/>
+<area shape="rect" id="node14" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1045,485,1219,527"/>
+<area shape="rect" id="node17" href="$classFriendListLayout.html#aded6c05bde86af4afd33a382dc10d98c" title="FriendListLayout::getLayout\lOffline" alt="" coords="800,361,997,403"/>
+<area shape="rect" id="node18" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="562,610,721,637"/>
+<area shape="rect" id="node29" href="$classSettings.html#a903c5431048336af21a54902c341aa9a" title="Settings::getGroupchatPosition" alt="" coords="531,223,752,250"/>
+<area shape="rect" id="node30" href="$classContentDialog.html#ad97b3d08a707a858d04c1556d5e5c2fd" title="Find the next or previous layout in layout list. " alt="" coords="545,274,737,301"/>
+<area shape="rect" id="node15" href="$classFriendListLayout.html#ae56f128999b7bca37a1cf639d5c80d74" title="FriendListLayout::indexOf\lFriendWidget" alt="" coords="808,193,989,235"/>
+<area shape="rect" id="node16" href="$classGenericChatItemLayout.html#a6bca817679d5291c16e4985f0a4575e9" title="GenericChatItemLayout\l::indexOfSortedWidget" alt="" coords="1045,193,1219,235"/>
+<area shape="rect" id="node19" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="831,711,967,738"/>
+<area shape="rect" id="node20" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1064,686,1200,713"/>
+<area shape="rect" id="node22" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1057,787,1207,814"/>
+<area shape="rect" id="node21" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1322,661,1422,687"/>
+<area shape="rect" id="node23" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1275,813,1469,839"/>
+<area shape="rect" id="node24" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1525,838,1711,865"/>
+<area shape="rect" id="node25" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1289,914,1455,941"/>
+<area shape="rect" id="node26" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1287,711,1457,738"/>
+<area shape="rect" id="node27" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1317,762,1427,789"/>
+<area shape="rect" id="node28" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1581,762,1655,789"/>
+<area shape="rect" id="node33" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="557,544,726,585"/>
+<area shape="rect" id="node34" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="814,595,983,636"/>
+</map>

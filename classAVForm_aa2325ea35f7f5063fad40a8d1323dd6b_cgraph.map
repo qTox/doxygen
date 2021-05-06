@@ -1,0 +1,7 @@
+<map id="AVForm::selectBestModes" name="AVForm::selectBestModes">
+<area shape="rect" id="node2" href="$structVideoMode.html#a4f0a7f83485d0f1d4ef82dbace3d60a0" title="VideoMode::norm" alt="" coords="271,5,406,32"/>
+<area shape="rect" id="node3" href="$structVideoMode.html#a27595d6b4f4390aa7bd7b6eafeb5e7d0" title="VideoMode::tolerance" alt="" coords="258,56,419,83"/>
+<area shape="rect" id="node4" href="$classCameraDevice.html#a25308c2e3a8a51225d35da8348e707b4" title="Compare two pixel formats. " alt="" coords="243,107,435,149"/>
+<area shape="rect" id="node6" href="$classAVForm.html#ab09487f52fcb64c5c409efbb046fd356" title="AVForm::getModeSize" alt="" coords="257,173,420,200"/>
+<area shape="rect" id="node5" href="$namespacev4l2.html#a9f0ec59fff492a2049aa1c9d4cf97799" title="v4l2::betterPixelFormat" alt="" coords="483,115,653,141"/>
+</map>

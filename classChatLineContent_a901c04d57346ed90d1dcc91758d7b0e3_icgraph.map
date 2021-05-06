@@ -1,0 +1,6 @@
+<map id="ChatLineContent::getRow" name="ChatLineContent::getRow">
+<area shape="rect" id="node2" href="$classChatLog.html#ae5c68df0a79106789f3c3079ac8b2896" title="ChatLog::mouseMoveEvent" alt="" coords="236,5,433,32"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a11df02b62b55c46caee48f3e97f3258f" title="ChatLog::handleMultiClick\lEvent" alt="" coords="242,57,427,98"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ae3dada37357700d6a90030eb5933549c" title="ChatLog::mousePressEvent" alt="" coords="483,35,681,61"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ae86822cb6aa89fd3418798d4d66fb0d0" title="ChatLog::mouseDoubleClick\lEvent" alt="" coords="481,86,683,127"/>
+</map>

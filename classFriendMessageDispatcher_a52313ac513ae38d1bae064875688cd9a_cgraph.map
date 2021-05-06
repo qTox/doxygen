@@ -1,0 +1,15 @@
+<map id="FriendMessageDispatcher::sendProcessedMessage" name="FriendMessageDispatcher::sendProcessedMessage">
+<area shape="rect" id="node2" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="301,27,423,54"/>
+<area shape="rect" id="node3" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="297,78,427,105"/>
+<area shape="rect" id="node4" href="$classOfflineMsgEngine.html#ac9e1ea7985d1de02d21cbb70497a502b" title="Add a message which has been saved to history, but not sent yet to the peer. " alt="" coords="540,188,749,229"/>
+<area shape="rect" id="node5" href="$classFriendMessageDispatcher.html#a3d4102ffd4fff9718b17df5a05e20104" title="FriendMessageDispatcher\l::sendExtendedProcessedMessage" alt="" coords="240,129,484,171"/>
+<area shape="rect" id="node11" href="$classFriendMessageDispatcher.html#a8d60791509df22bf6ec37a928280d9d7" title="FriendMessageDispatcher\l::sendCoreProcessedMessage" alt="" coords="255,276,469,317"/>
+<area shape="rect" id="node6" href="$classFriend.html#acc47c7c2d0c9ebae8be637a06440e026" title="Friend::getSupportedExtensions" alt="" coords="532,71,757,98"/>
+<area shape="rect" id="node7" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="595,254,695,281"/>
+<area shape="rect" id="node8" href="$classICoreExtPacketAllocator.html#a46164040e73adeb53c56c5562c18c369" title="Gets a new packet builder for friend with core friend id friendId. " alt="" coords="558,5,731,47"/>
+<area shape="rect" id="node9" href="$classOfflineMsgEngine.html#a1967b8940f8fc7ab4f52b9461ef29976" title="OfflineMsgEngine::addSent\lExtendedMessage" alt="" coords="548,123,741,164"/>
+<area shape="rect" id="node10" href="$classOfflineMsgEngine_1_1ReceiptResolver.html#acfe8e72e34a9165682389130fb394f96" title="OfflineMsgEngine::Receipt\lResolver::notifyMessageSent" alt="" coords="805,247,1011,288"/>
+<area shape="rect" id="node12" href="$classICoreFriendMessageSender.html#a419e9ae92425e4695a8c7b76f7f3dd28" title="ICoreFriendMessageSender\l::sendAction" alt="" coords="547,436,743,477"/>
+<area shape="rect" id="node13" href="$classICoreFriendMessageSender.html#a954e938aa1e3bb0173689093e8e37f50" title="ICoreFriendMessageSender\l::sendMessage" alt="" coords="547,305,743,347"/>
+<area shape="rect" id="node14" href="$classOfflineMsgEngine.html#a9171cb6cacf4a5f0ae20421fa7a3cfbf" title="Add a message which has been saved to history, and which has been sent to the peer. " alt="" coords="548,371,741,412"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="VideoSurface::getRatio" name="VideoSurface::getRatio">
+<area shape="rect" id="node2" href="$classNetCamView.html#a15a69417f13255d39698367fdcbe8895" title="NetCamView::NetCamView" alt="" coords="492,24,685,51"/>
+<area shape="rect" id="node3" href="$classNetCamView.html#a131d5f0ad5a7488d718b3b697581338f" title="NetCamView::updateRatio" alt="" coords="239,24,427,51"/>
+<area shape="rect" id="node4" href="$classNetCamView.html#a6f37f45977a4db00624951854aacb25c" title="NetCamView::updateFrameSize" alt="" coords="221,75,444,102"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="GroupWidget::GroupWidget" name="GroupWidget::GroupWidget">
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html#a5c205d1613e2e396fbdb89ab1dc3770b" title="GenericChatroomWidget\l::getGroup" alt="" coords="256,631,435,673"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="770,188,937,215"/>
+<area shape="rect" id="node39" href="$classGroup.html#ad1aec7a34d26978e11f3166d339735fa" title="Group::getPersistentId" alt="" coords="263,748,428,775"/>
+<area shape="rect" id="node40" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="767,1141,939,1182"/>
+<area shape="rect" id="node41" href="$classStyle.html#a9edf6120c3e488891a3711fe2e08464e" title="Style::scaleSvgImage" alt="" coords="266,799,425,825"/>
+<area shape="rect" id="node42" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="272,849,419,876"/>
+<area shape="rect" id="node44" href="$classGroup.html#aa7245289990bf9292e827038ff192e7a" title="Group::getName" alt="" coords="281,900,410,927"/>
+<area shape="rect" id="node45" href="$classGroupWidget.html#a3118f63d0bc9b636a303f96fde87b8bf" title="GroupWidget::updateUserCount" alt="" coords="491,36,716,63"/>
+<area shape="rect" id="node46" href="$classGroup.html#a6205352efb17034c6636642e89f26a9f" title="Group::getPeersCount" alt="" coords="521,87,685,113"/>
+<area shape="rect" id="node47" href="$classGroupWidget.html#ae0b923b3bc64d0ef500abd714845284e" title="GroupWidget::updateTitle" alt="" coords="254,397,437,424"/>
+<area shape="rect" id="node48" href="$classGroup.html#ad01fdb973f6f13670885d3980d56b750" title="Group::setName" alt="" coords="281,951,409,977"/>
+<area shape="rect" id="node49" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="250,1001,441,1028"/>
+<area shape="rect" id="node50" href="$classGroupWidget.html#aa9049af85f958b77f433449cc5f85540" title="GroupWidget::retranslateUi" alt="" coords="248,61,443,88"/>
+<area shape="rect" id="node3" href="$classGenericChatroomWidget.html#a75b361770b7c449f50aa9f2df8c76bf7" title="GenericChatroomWidget\l::eventFilter" alt="" coords="514,566,693,607"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title="GenericChatroomWidget\l::isActive" alt="" coords="514,697,693,738"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html#af00168ae7ab62d19eca2b14e94bbfbaf" title="GenericChatroomWidget\l::setName" alt="" coords="514,239,693,281"/>
+<area shape="rect" id="node8" href="$classGenericChatroomWidget.html#a3e92d0f2f57ef8b4be4890301557f4c8" title="GenericChatroomWidget\l::setStatusMsg" alt="" coords="514,501,693,542"/>
+<area shape="rect" id="node9" href="$classGenericChatroomWidget.html#a60626f17959aa1e5418fc9c48e91e401" title="GenericChatroomWidget\l::getStatusMsg" alt="" coords="514,827,693,869"/>
+<area shape="rect" id="node10" href="$classGenericChatroomWidget.html#af647c5bd4201c6ec14e2cd949999345b" title="GenericChatroomWidget\l::getTitle" alt="" coords="514,631,693,673"/>
+<area shape="rect" id="node14" href="$classGenericChatroomWidget.html#a73724f8e99fee905bcb51b95cd197fa7" title="GenericChatroomWidget\l::activate" alt="" coords="514,893,693,934"/>
+<area shape="rect" id="node15" href="$classGenericChatroomWidget.html#ae2cbfdef580df734f6f1fa6cc7c22857" title="GenericChatroomWidget\l::compactChange" alt="" coords="514,958,693,999"/>
+<area shape="rect" id="node22" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title="GenericChatroomWidget\l::reloadTheme" alt="" coords="514,762,693,803"/>
+<area shape="rect" id="node34" href="$classGenericChatroomWidget.html#a392e93c2c1c86982b441de947403ba29" title="GenericChatroomWidget\l::mouseReleaseEvent" alt="" coords="514,305,693,346"/>
+<area shape="rect" id="node35" href="$classGenericChatroomWidget.html#adec7a2b3d6eab5b59dcf420e64b3efb4" title="GenericChatroomWidget\l::enterEvent" alt="" coords="514,370,693,411"/>
+<area shape="rect" id="node36" href="$classGenericChatroomWidget.html#a0fbab87369ba7e55d8ed5b0984a1cfe2" title="GenericChatroomWidget\l::leaveEvent" alt="" coords="514,435,693,477"/>
+<area shape="rect" id="node37" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title="GenericChatroomWidget\l::setActive" alt="" coords="514,1023,693,1065"/>
+<area shape="rect" id="node7" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="991,188,1195,215"/>
+<area shape="rect" id="node11" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="767,646,940,687"/>
+<area shape="rect" id="node13" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title="GenericChatroomWidget\l::getStatusString" alt="" coords="764,581,943,622"/>
+<area shape="rect" id="node12" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1011,653,1175,680"/>
+<area shape="rect" id="node16" href="$classGenericChatItemWidget.html#a42f9800b7828189122d466b19853e307" title="GenericChatItemWidget\l::isCompact" alt="" coords="767,958,940,999"/>
+<area shape="rect" id="node17" href="$classGenericChatItemWidget.html#ab426d1dafe136064a14eb726a6c623d6" title="GenericChatItemWidget\l::setCompact" alt="" coords="767,1023,940,1065"/>
+<area shape="rect" id="node18" href="$classMaskablePixmapWidget.html#ac435e5332d7bbb6eae346c6c10315234" title="MaskablePixmapWidget\l::setSize" alt="" coords="767,893,939,934"/>
+<area shape="rect" id="node20" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1271,892,1381,919"/>
+<area shape="rect" id="node19" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="1007,1017,1179,1058"/>
+<area shape="rect" id="node21" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1503,892,1578,919"/>
+<area shape="rect" id="node23" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="778,765,929,792"/>
+<area shape="rect" id="node24" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1243,639,1409,665"/>
+<area shape="rect" id="node29" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="1039,765,1147,792"/>
+<area shape="rect" id="node25" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1457,639,1624,665"/>
+<area shape="rect" id="node26" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1463,689,1618,716"/>
+<area shape="rect" id="node27" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1683,664,1842,691"/>
+<area shape="rect" id="node28" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1672,715,1853,741"/>
+<area shape="rect" id="node30" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="1263,740,1389,767"/>
+<area shape="rect" id="node31" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="1257,791,1395,817"/>
+<area shape="rect" id="node33" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="1283,841,1369,868"/>
+<area shape="rect" id="node32" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1483,791,1599,817"/>
+<area shape="rect" id="node38" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="797,1089,909,1116"/>
+<area shape="rect" id="node43" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="521,1140,685,1167"/>
+</map>

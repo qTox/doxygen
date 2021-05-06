@@ -1,0 +1,6 @@
+<map id="ProfileForm" name="ProfileForm">
+<area shape="rect" id="node3" href="$classQRWidget.html" title="{QRWidget\n|&#45; data\l&#45; image\l&#45; size\l|+ QRWidget()\l+ ~QRWidget()\l+ setQRData()\l+ getImage()\l+ saveImage()\l&#45; paintImage()\l}" alt="" coords="55,176,174,356"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html" title="{MaskablePixmapWidget\n|&#45; pixmap\l&#45; mask\l&#45; unscaled\l&#45; renderTarget\l&#45; maskName\l&#45; clickable\l|+ MaskablePixmapWidget()\l+ ~MaskablePixmapWidget()\l+ autopickBackground()\l+ setClickable()\l+ setPixmap()\l+ getPixmap()\l+ setSize()\l# mousePressEvent()\l&#45; updatePixmap()\l}" alt="" coords="199,132,407,400"/>
+<area shape="rect" id="node7" href="$classClickableTE.html" title="{ClickableTE\n||# mouseReleaseEvent()\l}" alt="" coords="431,227,607,305"/>
+<area shape="rect" id="node6" href="$classIProfileInfo.html" title="{IProfileInfo\n||+ ~IProfileInfo()\l+ setPassword()\l+ deletePassword()\l+ isEncrypted()\l+ copyId()\l+ setUsername()\l+ setStatusMessage()\l+ getProfileName()\l+ renameProfile()\l+ exportProfile()\land 9 more...\l}" alt="" coords="631,154,798,378"/>
+</map>

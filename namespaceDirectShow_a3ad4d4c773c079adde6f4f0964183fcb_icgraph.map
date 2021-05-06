@@ -1,0 +1,12 @@
+<map id="DirectShow::getDeviceList" name="DirectShow::getDeviceList">
+<area shape="rect" id="node2" href="$classCameraDevice.html#a68fe877af30ae067d85da383c59eed7d" title="Get device list with desciption. " alt="" coords="240,56,451,83"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#affa8877e347ad77abcce1b6bbeb9f938" title="Get the default device name. " alt="" coords="499,9,689,50"/>
+<area shape="rect" id="node6" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="501,96,687,123"/>
+<area shape="rect" id="node4" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device. " alt="" coords="737,5,945,32"/>
+<area shape="rect" id="node5" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="1021,5,1213,32"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="1043,56,1191,83"/>
+<area shape="rect" id="node8" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="1289,132,1463,159"/>
+<area shape="rect" id="node9" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="755,183,928,209"/>
+<area shape="rect" id="node10" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="1311,233,1441,260"/>
+<area shape="rect" id="node11" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="993,208,1241,235"/>
+</map>

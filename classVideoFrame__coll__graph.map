@@ -1,0 +1,3 @@
+<map id="VideoFrame" name="VideoFrame">
+<area shape="rect" id="node2" href="$classVideoFrame_1_1FrameBufferKey.html" title="{VideoFrame::FrameBufferKey\n|+ frameWidth\l+ frameHeight\l+ pixelFormat\l+ linesizeAligned\l|+ FrameBufferKey()\l+ FrameBufferKey()\l+ FrameBufferKey()\l+ ~FrameBufferKey()\l+ operator=()\l+ operator=()\l+ operator==()\l+ operator!=()\l+ hash()\l}" alt="" coords="5,5,212,244"/>
+</map>

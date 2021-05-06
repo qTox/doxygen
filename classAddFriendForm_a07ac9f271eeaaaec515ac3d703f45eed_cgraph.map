@@ -1,0 +1,51 @@
+<map id="AddFriendForm::AddFriendForm" name="AddFriendForm::AddFriendForm">
+<area shape="rect" id="node2" href="$classAddFriendForm.html#a2bcf8d6ef490913c60a0eb4f75b71886" title="AddFriendForm::onSendTriggered" alt="" coords="276,181,509,208"/>
+<area shape="rect" id="node10" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1987,448,2145,475"/>
+<area shape="rect" id="node16" href="$classSettings.html#a1c2e55f5b6e732482f4b50603776b320" title="Settings::getFriendRequestSize" alt="" coords="1094,144,1314,171"/>
+<area shape="rect" id="node17" href="$classSettings.html#a77a6b8d0ee9463a8bbdc699676660c26" title="Settings::getFriendRequest" alt="" coords="1107,379,1301,405"/>
+<area shape="rect" id="node20" href="$classAddFriendForm.html#a2034347dfda8ba4fa55f00c271b1e6bd" title="AddFriendForm::onIdChanged" alt="" coords="825,335,1035,361"/>
+<area shape="rect" id="node29" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title="AddFriendForm::onCurrent\lChanged" alt="" coords="835,847,1025,889"/>
+<area shape="rect" id="node35" href="$classAddFriendForm.html#a6b4aa62d034c5fda6dda399a1e4cb603" title="AddFriendForm::onImportSend\lClicked" alt="" coords="284,350,501,391"/>
+<area shape="rect" id="node36" href="$classAddFriendForm.html#aca9a8c998f85aacc920371753125f0bf" title="AddFriendForm::retranslateUi" alt="" coords="557,393,767,420"/>
+<area shape="rect" id="node39" href="$classAddFriendForm.html#a01f4bd4e3c9e8ebc0099fcb707244aa1" title="AddFriendForm::onImportOpen\lClicked" alt="" coords="283,233,502,274"/>
+<area shape="rect" id="node40" href="$classNexus.html#afb7493da9f29676c4a46a0c4adefd880" title="Get core instance. " alt="" coords="332,684,453,711"/>
+<area shape="rect" id="node42" href="$classAddFriendForm.html#a0ed33261ef3cf36a1e5c17ab5acb8240" title="AddFriendForm::onUsernameSet" alt="" coords="277,467,508,493"/>
+<area shape="rect" id="node43" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="297,897,488,924"/>
+<area shape="rect" id="node44" href="$classAddFriendForm.html#aca363e4637d331d454c4433b95577000" title="AddFriendForm::addFriend\lRequestWidget" alt="" coords="568,569,756,610"/>
+<area shape="rect" id="node3" href="$classAddFriendForm.html#ad57a4223a519b32d8370af0d447e1d20" title="AddFriendForm::addFriend" alt="" coords="568,200,756,227"/>
+<area shape="rect" id="node4" href="$classToxId.html#abb994cbc7dc5a867c679531f9a58d719" title="Check it it&#39;s a valid Tox ID by verifying the checksum. " alt="" coords="879,167,981,193"/>
+<area shape="rect" id="node5" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="863,65,997,92"/>
+<area shape="rect" id="node9" href="$classAddFriendForm.html#a349c7276eed501e8cd4a8aa2b8ee46eb" title="AddFriendForm::deleteFriend\lRequest" alt="" coords="828,269,1032,310"/>
+<area shape="rect" id="node19" href="$classAddFriendForm.html#a16fed9718f82acff4d5c47a49252f8b3" title="AddFriendForm::getMessage" alt="" coords="828,217,1032,244"/>
+<area shape="rect" id="node6" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="1140,43,1268,69"/>
+<area shape="rect" id="node7" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="1133,93,1275,120"/>
+<area shape="rect" id="node8" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="1363,93,1509,120"/>
+<area shape="rect" id="node18" href="$classSettings.html#a9bf7be23026b81700ba7cf4395100688" title="Settings::removeFriendRequest" alt="" coords="1093,531,1315,557"/>
+<area shape="rect" id="node11" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="2193,423,2329,449"/>
+<area shape="rect" id="node12" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2385,423,2521,449"/>
+<area shape="rect" id="node14" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2377,360,2528,387"/>
+<area shape="rect" id="node13" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2581,423,2681,449"/>
+<area shape="rect" id="node15" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2576,360,2687,387"/>
+<area shape="rect" id="node21" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="1129,328,1279,355"/>
+<area shape="rect" id="node22" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1557,245,1724,272"/>
+<area shape="rect" id="node25" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="1382,347,1490,373"/>
+<area shape="rect" id="node23" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1772,245,1939,272"/>
+<area shape="rect" id="node24" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1778,448,1933,475"/>
+<area shape="rect" id="node26" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="1578,448,1703,475"/>
+<area shape="rect" id="node27" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="1571,347,1710,373"/>
+<area shape="rect" id="node28" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="1597,397,1684,424"/>
+<area shape="rect" id="node30" href="$classSettings.html#accf237ab89ab4e6f6db5311f09ee60c0" title="Settings::clearUnreadFriend\lRequests" alt="" coords="1105,902,1303,943"/>
+<area shape="rect" id="node31" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="1120,648,1288,675"/>
+<area shape="rect" id="node32" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="1371,613,1501,640"/>
+<area shape="rect" id="node33" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1568,617,1713,644"/>
+<area shape="rect" id="node34" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1800,617,1911,644"/>
+<area shape="rect" id="node37" href="$classAddFriendForm.html#a4567fd50c66c1ac56a3c9cf6b844abe9" title="AddFriendForm::retranslate\lAcceptButton" alt="" coords="832,386,1028,427"/>
+<area shape="rect" id="node38" href="$classAddFriendForm.html#a5f7dceb68212d17ea5674848cc60f267" title="AddFriendForm::retranslate\lRejectButton" alt="" coords="832,451,1028,493"/>
+<area shape="rect" id="node41" href="$classProfile.html#adb0e1f8a30e1a9c5866f2f89926f1130" title="Profile::getCore" alt="" coords="602,684,722,711"/>
+<area shape="rect" id="node45" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="847,717,1013,744"/>
+<area shape="rect" id="node47" href="$classAddFriendForm.html#a9d34fd4815724e158b3c4eda512d0389" title="AddFriendForm::onFriendRequest\lAccepted" alt="" coords="815,569,1045,610"/>
+<area shape="rect" id="node50" href="$classAddFriendForm.html#a60bff5dd6bbf1742af9fd8d40d1c9eb5" title="AddFriendForm::onFriendRequest\lRejected" alt="" coords="815,634,1045,675"/>
+<area shape="rect" id="node46" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="1102,749,1306,776"/>
+<area shape="rect" id="node48" href="$classAddFriendForm.html#afbb4c961477901f94e4ab06b0f67d85c" title="AddFriendForm::removeFriend\lRequestWidget" alt="" coords="1097,582,1311,623"/>
+<area shape="rect" id="node49" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="1133,480,1275,507"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="FileTransferWidget::FileTransferWidget" name="FileTransferWidget::FileTransferWidget">
+<area shape="rect" id="node2" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="963,1127,1079,1154"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a77e948c8760ac93847a5be0e89c4874a" title="FileTransferWidget\l::getHumanReadableSize" alt="" coords="647,805,829,846"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a5f29ffa2ccd11672b706981e7843591a" title="FileTransferWidget\l::onLeftButtonClicked" alt="" coords="208,389,367,430"/>
+<area shape="rect" id="node16" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="1202,74,1330,100"/>
+<area shape="rect" id="node22" href="$classFileTransferWidget.html#af88381ef5a7d2ab692b3e0b1464d24a8" title="FileTransferWidget\l::onRightButtonClicked" alt="" coords="204,498,371,540"/>
+<area shape="rect" id="node23" href="$classFileTransferWidget.html#a63bb0160d22a50b91c490a836e0a5e56" title="FileTransferWidget\l::onPreviewButtonClicked" alt="" coords="196,650,379,692"/>
+<area shape="rect" id="node24" href="$classFileTransferWidget.html#a5b761e2be24d890d3407ac6a570a5711" title="FileTransferWidget\l::reloadTheme" alt="" coords="220,1134,355,1176"/>
+<area shape="rect" id="node31" href="$classFileTransferWidget.html#a70ea2ed928e6b4cd22645d5c7097070c" title="FileTransferWidget\l::updateWidget" alt="" coords="220,814,355,856"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title="FileTransferWidget\l::handleButton" alt="" coords="435,376,569,417"/>
+<area shape="rect" id="node6" href="$classCoreFile.html#a66c54cb1db593c01e6576e1de16f3c4b" title="CoreFile::cancelFileSend" alt="" coords="651,332,825,359"/>
+<area shape="rect" id="node7" href="$classCoreFile.html#aa6126719c80800e3a76f47ca4d1cfc9d" title="CoreFile::pauseResumeFile" alt="" coords="643,383,833,410"/>
+<area shape="rect" id="node8" href="$classCoreFile.html#ac5a92c0510055b33d6e81ef191d6c803" title="CoreFile::cancelFileRecv" alt="" coords="653,434,823,460"/>
+<area shape="rect" id="node9" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1807,556,1965,583"/>
+<area shape="rect" id="node13" href="$classFileTransferWidget.html#a9f4eda5fdb4b51cb0a4295214b73ea41" title="FileTransferWidget\l::acceptTransfer" alt="" coords="671,133,805,174"/>
+<area shape="rect" id="node19" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title="Widget::confirmExecutableOpen" alt="" coords="625,231,851,258"/>
+<area shape="rect" id="node10" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="2013,556,2149,583"/>
+<area shape="rect" id="node11" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2205,531,2341,558"/>
+<area shape="rect" id="node12" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2197,582,2348,608"/>
+<area shape="rect" id="node14" href="$classFileTransferWidget.html#aa40afca50a139725273ba34bca4c1ccc" title="Dangerous way to find out if a path is writable. " alt="" coords="953,165,1088,206"/>
+<area shape="rect" id="node15" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="953,48,1088,75"/>
+<area shape="rect" id="node18" href="$classCoreFile.html#a1df491ab7c453d59aa746e41ef9018ab" title="CoreFile::acceptFileRecv\lRequest" alt="" coords="935,100,1107,141"/>
+<area shape="rect" id="node17" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="1195,23,1337,50"/>
+<area shape="rect" id="node20" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons. " alt="" coords="955,231,1087,258"/>
+<area shape="rect" id="node21" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title="GUI::_askQuestion" alt="" coords="1197,231,1335,258"/>
+<area shape="rect" id="node25" href="$classFileTransferWidget.html#a79db3260e7f12557b419f6f5c5c8de1a" title="FileTransferWidget\l::updateBackgroundColor" alt="" coords="646,1134,830,1176"/>
+<area shape="rect" id="node26" href="$classFileTransferWidget.html#a543a2ddd1ff11de15c76ddd97d0556a4" title="FileTransferWidget\l::setBackgroundColor" alt="" coords="941,1178,1100,1220"/>
+<area shape="rect" id="node27" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="1191,1186,1341,1212"/>
+<area shape="rect" id="node30" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="1210,1135,1322,1162"/>
+<area shape="rect" id="node28" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1389,867,1556,894"/>
+<area shape="rect" id="node29" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1604,816,1759,843"/>
+<area shape="rect" id="node32" href="$classToxFileProgress.html#a17d68c9d78d55936b120d01955db7da8" title="ToxFileProgress::needsUpdate" alt="" coords="632,484,844,511"/>
+<area shape="rect" id="node33" href="$classFileTransferWidget.html#aa9588af8c6cc80f4cf5f834ef1982f05" title="FileTransferWidget\l::updatePreview" alt="" coords="435,984,569,1025"/>
+<area shape="rect" id="node38" href="$classFileTransferWidget.html#a96f9543d4a9627565da5415f4f00e2c1" title="FileTransferWidget\l::updateFileProgress" alt="" coords="427,646,577,688"/>
+<area shape="rect" id="node44" href="$classFileTransferWidget.html#ab813732f8e2a6cad81ece6c9a3433b8b" title="FileTransferWidget\l::updateWidgetText" alt="" coords="431,798,573,840"/>
+<area shape="rect" id="node46" href="$classFileTransferWidget.html#a074cb8d5064a836a6f72e9b465fa1747" title="FileTransferWidget\l::updateWidgetColor" alt="" coords="427,1105,577,1146"/>
+<area shape="rect" id="node47" href="$classFileTransferWidget.html#a3815efa04e818d624357a53367c3cf00" title="FileTransferWidget\l::setupButtons" alt="" coords="671,922,805,964"/>
+<area shape="rect" id="node50" href="$classFileTransferWidget.html#a96100aa3c0910f178b2cda9dda4b13fa" title="FileTransferWidget\l::updateSignals" alt="" coords="435,864,569,905"/>
+<area shape="rect" id="node34" href="$classFileTransferWidget.html#a493ab1945e40a8e3dfe62a40ebb07818" title="FileTransferWidget\l::showPreview" alt="" coords="671,988,805,1029"/>
+<area shape="rect" id="node35" href="$namespaceExifTransform.html#a05040d424b8c08d36efc8f94d9325050" title="ExifTransform::getOrientation" alt="" coords="917,959,1124,986"/>
+<area shape="rect" id="node36" href="$namespaceExifTransform.html#af906e696c75dfa97215bd9e86f3a400b" title="ExifTransform::applyTransformation" alt="" coords="899,1010,1143,1036"/>
+<area shape="rect" id="node37" href="$classFileTransferWidget.html#a1ec7fcde2d0013ec685f63a44ef738eb" title="FileTransferWidget\l::scaleCropIntoSquare" alt="" coords="939,1061,1102,1102"/>
+<area shape="rect" id="node39" href="$classToxFileProgress.html#a830f60958910a4dc61673543605ac997" title="ToxFileProgress::resetSpeed" alt="" coords="638,754,838,780"/>
+<area shape="rect" id="node40" href="$classToxFileProgress.html#a3b750993960277452b062bfb5a0a53c8" title="ToxFileProgress::addSample" alt="" coords="639,586,837,612"/>
+<area shape="rect" id="node41" href="$classToxFileProgress.html#aeaa1ececd5193c6548f2f1d1cfb02200" title="ToxFileProgress::getSpeed" alt="" coords="927,560,1115,587"/>
+<area shape="rect" id="node42" href="$classToxFileProgress.html#ac45596b6f47d3186fd68613358bfd8e1" title="ToxFileProgress::getProgress" alt="" coords="637,636,839,663"/>
+<area shape="rect" id="node43" href="$classToxFileProgress.html#a12835e81b6d8b87fa0c270aaf89d67a8" title="ToxFileProgress::getTime\lLeftSeconds" alt="" coords="649,688,827,729"/>
+<area shape="rect" id="node45" href="$classToxFilePause.html#afd80fad6016ea250ce935eb9750dc96f" title="ToxFilePause::localPaused" alt="" coords="929,791,1112,818"/>
+<area shape="rect" id="node48" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1191,842,1341,868"/>
+<area shape="rect" id="node49" href="$classFileTransferWidget.html#a40e8cbc02f489ab5f84bd1bbc6fcd03a" title="FileTransferWidget\l::setButtonColor" alt="" coords="953,893,1088,934"/>
+</map>

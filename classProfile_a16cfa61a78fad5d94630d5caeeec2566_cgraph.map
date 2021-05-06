@@ -1,0 +1,4 @@
+<map id="Profile::onRequestSent" name="Profile::onRequestSent">
+<area shape="rect" id="node2" href="$classProfile.html#ac400040b6f5d5d16cd369e2b3d916d2f" title="Checks that the history is enabled in the settings, and loaded successfully for this profile..." alt="" coords="220,5,395,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#aa3d4c8c7582f245d4971f63a214ccadd" title="Settings::getEnableLogging" alt="" coords="443,5,640,32"/>
+</map>

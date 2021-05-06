@@ -1,0 +1,5 @@
+<map id="CoreAV::isCallActive" name="CoreAV::isCallActive">
+<area shape="rect" id="node2" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="229,5,331,32"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#af8432a32e765788698692e89c89cd87a" title="Checks the call status for a Tox friend. " alt="" coords="201,56,359,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="407,56,507,83"/>
+</map>

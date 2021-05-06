@@ -1,0 +1,6 @@
+<map id="Profile::getAvatarHash" name="Profile::getAvatarHash">
+<area shape="rect" id="node2" href="$classProfile.html#ae8984eaa8c764e59bfa77eca55113db9" title="Get a contact&#39;s avatar from cache. " alt="" coords="217,31,385,57"/>
+<area shape="rect" id="node3" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID..." alt="" coords="433,31,572,57"/>
+<area shape="rect" id="node4" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="641,5,784,32"/>
+<area shape="rect" id="node5" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="620,56,805,83"/>
+</map>

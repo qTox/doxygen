@@ -1,0 +1,4 @@
+<map id="BootstrapNodeUpdater" name="BootstrapNodeUpdater">
+<area shape="rect" id="node3" href="$classIBootstrapListGenerator.html" title="{IBootstrapListGenerator\n||+ ~IBootstrapListGenerator()\l+ getBootstrapnodes()\l}" alt="" coords="102,49,313,141"/>
+<area shape="rect" id="node4" href="$classPaths.html" title="{Paths\n|&#45; basePath\l&#45; portable\l|+ isPortable()\l+ getSettingsDirPath()\l+ getAppDataDirPath()\l+ getAppCacheDirPath()\l+ getUserNodesFilePath()\l+ makePaths()\l&#45; Paths()\l}" alt="" coords="337,5,523,185"/>
+</map>

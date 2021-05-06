@@ -1,0 +1,11 @@
+<map id="Widget::newMessageAlert" name="Widget::newMessageAlert">
+<area shape="rect" id="node2" href="$classSettings.html#a66e5adbc280d3c2a477fc0355fcf9c20" title="Settings::getShowWindow" alt="" coords="243,5,429,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a613bebef785a7db1e348f65cbd9022bf" title="Settings::getNotify" alt="" coords="265,56,407,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#a8b0ce74addf5bfab6b7be07447275fb2" title="Settings::getDesktopNotify" alt="" coords="239,107,433,133"/>
+<area shape="rect" id="node5" href="$classCore.html#a678a842bb26b85d9e30b0a332716986b" title="Returns our user status. " alt="" coords="275,157,397,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#aca822c6f005a3b89a67d227cfedfcefb" title="Settings::getBusySound" alt="" coords="248,208,424,235"/>
+<area shape="rect" id="node7" href="$classSettings.html#aecdd88599186fd0159682b6b1416f999" title="Settings::getNotifySound" alt="" coords="245,259,427,285"/>
+<area shape="rect" id="node8" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink. " alt="" coords="251,310,421,351"/>
+<area shape="rect" id="node9" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title="Settings::getAudioOutDev\lEnabled" alt="" coords="485,277,673,318"/>
+<area shape="rect" id="node10" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title="Widget::cleanupNotification\lSound" alt="" coords="481,342,676,383"/>
+</map>

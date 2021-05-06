@@ -1,0 +1,4 @@
+<map id="Settings::autoAcceptMaxSizeChanged" name="Settings::autoAcceptMaxSizeChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a6808c432c25611a3597c388360fa0cfe" title="Settings::setMaxAutoAcceptSize" alt="" coords="263,13,493,39"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#a8d3b2a62aecb6e95833902a8d0850773" title="GeneralForm::on_maxAutoAccept\lSizeMB_editingFinished" alt="" coords="541,5,780,47"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="LoginScreen::onLogin" name="LoginScreen::onLogin">
+<area shape="rect" id="node2" href="$classProfileLocker.html#ad97674e5a4a673cd43219f8c25ab0e1b" title="Checks if a profile is currently locked by another instance. If we own the lock, we consider it locka..." alt="" coords="212,5,389,32"/>
+</map>

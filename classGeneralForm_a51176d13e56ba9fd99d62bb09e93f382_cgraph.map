@@ -1,0 +1,30 @@
+<map id="GeneralForm::GeneralForm" name="GeneralForm::GeneralForm">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="288,81,447,108"/>
+<area shape="rect" id="node13" href="$classSettings.html#a912dc4478b64252f406dd9033142ae3e" title="Settings::getCheckUpdates" alt="" coords="269,132,466,159"/>
+<area shape="rect" id="node14" href="$classSettings.html#a6058950cee4552b6be6f34458e1b8bdd" title="Settings::getTranslation" alt="" coords="281,183,453,209"/>
+<area shape="rect" id="node15" href="$classSettings.html#ae1f42b12796c7e03c09df6412065c507" title="Settings::getAutorun" alt="" coords="290,233,445,260"/>
+<area shape="rect" id="node16" href="$classSettings.html#a74b9c6873961ebd0bbb9936a9bd34139" title="Settings::getSpellChecking\lEnabled" alt="" coords="271,285,464,326"/>
+<area shape="rect" id="node17" href="$classSettings.html#ab9eeed3a0e193a645e1719979d8f2105" title="Settings::getLightTrayIcon" alt="" coords="274,351,461,377"/>
+<area shape="rect" id="node18" href="$classSettings.html#a84977968a2eb50ff54d298ba0d10b302" title="Settings::getShowSystemTray" alt="" coords="261,401,473,428"/>
+<area shape="rect" id="node19" href="$classSettings.html#ad53124f82f4a89c69b6dfbc24fdcd47a" title="Settings::getAutostartInTray" alt="" coords="267,452,467,479"/>
+<area shape="rect" id="node20" href="$classSettings.html#a238c138ead4f4900eb029347cf51cee4" title="Settings::getMinimizeToTray" alt="" coords="268,503,467,529"/>
+<area shape="rect" id="node21" href="$classSettings.html#a5dae8c109bfcf60a2b3193356dc9c5e3" title="Settings::getCloseToTray" alt="" coords="279,553,456,580"/>
+<area shape="rect" id="node22" href="$classSettings.html#af830963b94f61eb5c944f270504da917" title="Settings::getStatusChange\lNotificationEnabled" alt="" coords="270,605,465,646"/>
+<area shape="rect" id="node23" href="$classSettings.html#a8972803107ea6c615a9bf99479794afc" title="Settings::getAutoAwayTime" alt="" coords="269,671,466,697"/>
+<area shape="rect" id="node24" href="$classSettings.html#a99204fe168f419f94e2a464a71c8f3e4" title="Settings::getGlobalAutoAcceptDir" alt="" coords="249,721,485,748"/>
+<area shape="rect" id="node25" href="$classSettings.html#a679d4544299cda9e2d1319adfbb43d37" title="Settings::getMaxAutoAcceptSize" alt="" coords="252,772,483,799"/>
+<area shape="rect" id="node26" href="$classSettings.html#ab309feeb371ba1d89079e770efe625d9" title="Settings::getAutoSaveEnabled" alt="" coords="259,823,476,849"/>
+<area shape="rect" id="node27" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll. " alt="" coords="280,873,455,900"/>
+<area shape="rect" id="node28" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="272,924,463,951"/>
+<area shape="rect" id="node29" href="$classGeneralForm.html#aec66789906029ec19f9e64aee60d81f9" title="Retranslate all elements in the form. " alt="" coords="269,975,465,1001"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="533,81,669,108"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="725,31,861,57"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="717,132,868,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="963,5,1063,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="916,56,1111,83"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1159,81,1344,108"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="930,157,1097,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="929,208,1098,235"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="958,259,1069,285"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1214,259,1289,285"/>
+</map>

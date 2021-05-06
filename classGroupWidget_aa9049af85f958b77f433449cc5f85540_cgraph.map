@@ -1,0 +1,6 @@
+<map id="GroupWidget::retranslateUi" name="GroupWidget::retranslateUi">
+<area shape="rect" id="node2" href="$classGroupWidget.html#a3118f63d0bc9b636a303f96fde87b8bf" title="GroupWidget::updateUserCount" alt="" coords="248,5,473,32"/>
+<area shape="rect" id="node5" href="$classGroup.html#a6205352efb17034c6636642e89f26a9f" title="Group::getPeersCount" alt="" coords="279,56,443,83"/>
+<area shape="rect" id="node3" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="521,5,688,32"/>
+<area shape="rect" id="node4" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="736,5,940,32"/>
+</map>

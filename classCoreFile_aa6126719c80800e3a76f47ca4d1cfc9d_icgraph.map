@@ -1,0 +1,7 @@
+<map id="CoreFile::pauseResumeFile" name="CoreFile::pauseResumeFile">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title="FileTransferWidget\l::handleButton" alt="" coords="244,71,379,112"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a5f29ffa2ccd11672b706981e7843591a" title="FileTransferWidget\l::onLeftButtonClicked" alt="" coords="439,5,597,47"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#af88381ef5a7d2ab692b3e0b1464d24a8" title="FileTransferWidget\l::onRightButtonClicked" alt="" coords="435,71,601,112"/>
+<area shape="rect" id="node6" href="$classFileTransferWidget.html#a63bb0160d22a50b91c490a836e0a5e56" title="FileTransferWidget\l::onPreviewButtonClicked" alt="" coords="427,136,609,177"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="657,71,800,112"/>
+</map>

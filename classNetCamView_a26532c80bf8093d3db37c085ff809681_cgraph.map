@@ -1,0 +1,5 @@
+<map id="NetCamView::showEvent" name="NetCamView::showEvent">
+<area shape="rect" id="node2" href="$classMovableWidget.html#a14f1bf1fdbe2674786e8d4c1007796b2" title="MovableWidget::resetBoundary" alt="" coords="233,5,453,32"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#aeabf1feaccae3d2ac7c52b973298d76a" title="VideoSurface::getBoundingRect" alt="" coords="232,56,455,83"/>
+<area shape="rect" id="node3" href="$classMovableWidget.html#a5a52130302ad33845f4d837fcccf9dd9" title="MovableWidget::checkBoundary" alt="" coords="503,5,727,32"/>
+</map>

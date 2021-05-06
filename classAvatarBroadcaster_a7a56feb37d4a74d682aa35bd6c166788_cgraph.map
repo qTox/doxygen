@@ -1,0 +1,6 @@
+<map id="AvatarBroadcaster::enableAutoBroadcast" name="AvatarBroadcaster::enableAutoBroadcast">
+<area shape="rect" id="node2" href="$classAvatarBroadcaster.html#ab57ef4ffb8cdddad20d060dcd562ab72" title="Send our current avatar to this friend, if not already sent. " alt="" coords="213,49,363,90"/>
+<area shape="rect" id="node3" href="$classCore.html#ac2922886051390e6c77dbe8130ce8173" title="Checks if a friend is online. Unknown friends are considered offline. " alt="" coords="423,5,571,32"/>
+<area shape="rect" id="node4" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="431,56,562,83"/>
+<area shape="rect" id="node5" href="$classCoreFile.html#a6829e228f42c5e1f14462124d38c0fbd" title="CoreFile::sendAvatarFile" alt="" coords="411,107,583,133"/>
+</map>

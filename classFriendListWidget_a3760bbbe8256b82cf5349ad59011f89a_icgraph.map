@@ -1,0 +1,19 @@
+<map id="FriendListWidget::createCircleWidget" name="FriendListWidget::createCircleWidget">
+<area shape="rect" id="node2" href="$classFriendListWidget.html#ac95b76edcb63ba5a1cecf69aed7d15c2" title="FriendListWidget::addCircle\lWidget" alt="" coords="228,124,420,165"/>
+<area shape="rect" id="node3" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title="FriendListWidget::sortByMode" alt="" coords="475,59,684,86"/>
+<area shape="rect" id="node14" href="$classFriendWidget.html#aa43f8d1662249a20a17c3e0d8b2dcb56" title="FriendWidget::moveToNewCircle" alt="" coords="468,186,691,213"/>
+<area shape="rect" id="node18" href="$classWidget.html#a73e3614ec756fd20e8dd05f2e14d62d2" title="Widget::friendListContextMenu" alt="" coords="739,131,955,158"/>
+<area shape="rect" id="node4" href="$classFriendListWidget.html#aa22c87294220a60baba0e0949a9fe8c0" title="FriendListWidget::Friend\lListWidget" alt="" coords="1261,5,1432,47"/>
+<area shape="rect" id="node5" href="$classFriendListWidget.html#ae0474b3c997940fe1926eb2fb14f8094" title="FriendListWidget::setMode" alt="" coords="753,59,941,86"/>
+<area shape="rect" id="node6" href="$classFriendListWidget.html#ad9017b74163a2d9e4892fc5b232ba391" title="FriendListWidget::dayTimeout" alt="" coords="1003,38,1211,65"/>
+<area shape="rect" id="node7" href="$classWidget.html#af0ad36083370875677670ccf7cf20243" title="Widget::changeDisplayMode" alt="" coords="1006,89,1207,115"/>
+<area shape="rect" id="node8" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1301,139,1393,166"/>
+<area shape="rect" id="node9" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1483,190,1637,217"/>
+<area shape="rect" id="node10" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1685,190,1785,217"/>
+<area shape="rect" id="node11" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1833,190,2032,217"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2264,165,2319,191"/>
+<area shape="rect" id="node13" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="2080,139,2216,166"/>
+<area shape="rect" id="node15" href="$classFriendWidget.html#a3a8fe557dc813d12eeaccd881b1552b0" title="FriendWidget::onContextMenuCalled. " alt="" coords="741,183,953,224"/>
+<area shape="rect" id="node16" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="1039,190,1174,217"/>
+<area shape="rect" id="node17" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="1259,190,1435,217"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ChatLineContentProxy::getWidget" name="ChatLineContentProxy::getWidget">
+<area shape="rect" id="node2" href="$classChatLog.html#ae1e7329c5c63c8c3fc9a18499a2c2bad" title="ChatLog::isActiveFileTransfer" alt="" coords="217,119,420,145"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a6d0cb376da5368a4c04f138f2dd111f4" title="ChatLog::clear" alt="" coords="468,119,583,145"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#aa801732df208023a960f1909a3c7855e" title="GenericChatForm::loadHistory load history. " alt="" coords="640,23,855,49"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#afeea0440aedece73b0701be9cad171d6" title="GenericChatForm::clearChatArea" alt="" coords="631,199,864,225"/>
+<area shape="rect" id="node8" href="$classGenericChatForm.html#af5d5cb166df8bb540c9fc52cef4cb56f" title="GenericChatForm::handleSearch\lResult" alt="" coords="632,82,863,123"/>
+<area shape="rect" id="node12" href="$classGenericChatForm.html#af4b1a65206a94ab4a40008099b493988" title="GenericChatForm::goToCurrentDate" alt="" coords="912,165,1163,192"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#ab0cdd3b351bfb914513081c59ed8a3f6" title="GenericChatForm::onLoadHistory" alt="" coords="1211,5,1445,32"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="1493,99,1684,141"/>
+<area shape="rect" id="node9" href="$classGenericChatForm.html#a347540dd8693e7ff370c9fe4304f6fba" title="GenericChatForm::onSearchUp" alt="" coords="927,60,1148,87"/>
+<area shape="rect" id="node11" href="$classGenericChatForm.html#ac7eeeb0392a891391b901bc71910b0b6" title="GenericChatForm::onSearchDown" alt="" coords="918,111,1157,137"/>
+<area shape="rect" id="node10" href="$classGenericChatForm.html#a734e66bb7e0c5c95d522fe564f981d94" title="GenericChatForm::searchIn\lBegin" alt="" coords="1230,158,1426,199"/>
+</map>

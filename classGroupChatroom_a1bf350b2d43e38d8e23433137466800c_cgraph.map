@@ -1,0 +1,5 @@
+<map id="GroupChatroom::removeGroupFromDialogs" name="GroupChatroom::removeGroupFromDialogs">
+<area shape="rect" id="node2" href="$classGroup.html#ad1aec7a34d26978e11f3166d339735fa" title="Group::getPersistentId" alt="" coords="290,5,455,32"/>
+<area shape="rect" id="node3" href="$classIDialogsManager.html#a9fd32426d1f546900baa01d7b0cf2bbf" title="IDialogsManager::getGroup\lDialogs" alt="" coords="275,57,471,98"/>
+<area shape="rect" id="node4" href="$classIDialogs.html#ab3678e1ca546f44a3220c480b16447c9" title="IDialogs::removeGroup" alt="" coords="289,123,457,149"/>
+</map>

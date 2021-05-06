@@ -1,0 +1,12 @@
+<map id="FriendListWidget::addGroupWidget" name="FriendListWidget::addGroupWidget">
+<area shape="rect" id="node2" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title="Widget::createGroup" alt="" coords="249,68,403,95"/>
+<area shape="rect" id="node3" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="451,43,671,69"/>
+<area shape="rect" id="node11" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="477,93,644,120"/>
+<area shape="rect" id="node4" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="719,68,895,95"/>
+<area shape="rect" id="node5" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="943,68,1097,95"/>
+<area shape="rect" id="node6" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1145,43,1245,69"/>
+<area shape="rect" id="node7" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1293,43,1492,69"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1743,5,1797,32"/>
+<area shape="rect" id="node9" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1540,43,1676,69"/>
+<area shape="rect" id="node10" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1724,81,1816,108"/>
+</map>

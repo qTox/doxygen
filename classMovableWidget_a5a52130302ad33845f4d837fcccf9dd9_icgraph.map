@@ -1,0 +1,9 @@
+<map id="MovableWidget::checkBoundary" name="MovableWidget::checkBoundary">
+<area shape="rect" id="node2" href="$classMovableWidget.html#a14f1bf1fdbe2674786e8d4c1007796b2" title="MovableWidget::resetBoundary" alt="" coords="277,24,497,50"/>
+<area shape="rect" id="node5" href="$classMovableWidget.html#a393021c3964ed9149c817b3ee68c473b" title="MovableWidget::setRatio" alt="" coords="298,74,477,101"/>
+<area shape="rect" id="node8" href="$classMovableWidget.html#a965f364a9d81f594d3609d7483943708" title="MovableWidget::mouseMove\lEvent" alt="" coords="285,126,489,167"/>
+<area shape="rect" id="node3" href="$classNetCamView.html#a15a69417f13255d39698367fdcbe8895" title="NetCamView::NetCamView" alt="" coords="816,24,1009,50"/>
+<area shape="rect" id="node4" href="$classNetCamView.html#a26532c80bf8093d3db37c085ff809681" title="NetCamView::showEvent" alt="" coords="567,24,746,50"/>
+<area shape="rect" id="node6" href="$classNetCamView.html#a131d5f0ad5a7488d718b3b697581338f" title="NetCamView::updateRatio" alt="" coords="563,74,751,101"/>
+<area shape="rect" id="node7" href="$classMovableWidget.html#a32a6a8b9a45cb68296355c375c2f15a5" title="MovableWidget::MovableWidget" alt="" coords="545,125,768,152"/>
+</map>

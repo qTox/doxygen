@@ -1,0 +1,17 @@
+<map id="src/nexus.h" name="src/nexus.h">
+<area shape="rect" id="node2" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="5,87,109,114"/>
+<area shape="rect" id="node3" href="$aboutfriend_8cpp.html" title="src/model/about/aboutfriend.cpp" alt="" coords="134,87,365,114"/>
+<area shape="rect" id="node4" href="$profileinfo_8cpp.html" title="src/model/profile/profileinfo.cpp" alt="" coords="389,87,611,114"/>
+<area shape="rect" id="node5" href="$nexus_8cpp.html" title="src/nexus.cpp" alt="" coords="635,87,746,114"/>
+<area shape="rect" id="node6" href="$offlinemsgengine_8cpp.html" title="src/persistence/offlinemsgengine.cpp" alt="" coords="771,87,1029,114"/>
+<area shape="rect" id="node7" href="$profile_8cpp.html" title="src/persistence/profile.cpp" alt="" coords="1053,87,1243,114"/>
+<area shape="rect" id="node8" href="$settings_8cpp.html" title="src/persistence/settings.cpp" alt="" coords="1267,87,1469,114"/>
+<area shape="rect" id="node9" href="$netcamview_8cpp.html" title="src/video/netcamview.cpp" alt="" coords="1493,87,1678,114"/>
+<area shape="rect" id="node10" href="$addfriendform_8cpp.html" title="src/widget/form/addfriendform.cpp" alt="" coords="1702,87,1943,114"/>
+<area shape="rect" id="node11" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1967,87,2177,114"/>
+<area shape="rect" id="node12" href="$groupinvitewidget_8cpp.html" title="src/widget/form/groupinvitewidget.cpp" alt="" coords="2201,87,2463,114"/>
+<area shape="rect" id="node13" href="$loadhistorydialog_8cpp.html" title="src/widget/form/loadhistorydialog.cpp" alt="" coords="2488,87,2747,114"/>
+<area shape="rect" id="node14" href="$privacyform_8cpp.html" title="src/widget/form/settings\l/privacyform.cpp" alt="" coords="2771,80,2946,121"/>
+<area shape="rect" id="node15" href="$gui_8cpp.html" title="src/widget/gui.cpp" alt="" coords="2971,87,3107,114"/>
+<area shape="rect" id="node16" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="3131,87,3290,114"/>
+</map>

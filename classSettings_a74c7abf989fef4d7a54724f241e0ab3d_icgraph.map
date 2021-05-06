@@ -1,0 +1,5 @@
+<map id="Settings::getVideoDev" name="Settings::getVideoDev">
+<area shape="rect" id="node2" href="$classCameraDevice.html#affa8877e347ad77abcce1b6bbeb9f938" title="Get the default device name. " alt="" coords="219,5,409,47"/>
+<area shape="rect" id="node3" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device. " alt="" coords="457,13,665,39"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="713,13,905,39"/>
+</map>

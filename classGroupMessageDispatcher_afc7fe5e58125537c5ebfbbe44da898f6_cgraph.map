@@ -1,0 +1,9 @@
+<map id="GroupMessageDispatcher::onMessageReceived" name="GroupMessageDispatcher::onMessageReceived">
+<area shape="rect" id="node2" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title="ICoreIdHandler::getSelfPublicKey" alt="" coords="240,5,468,32"/>
+<area shape="rect" id="node3" href="$classIGroupSettings.html#afb7ab1450a73506229ebe41adea29571" title="IGroupSettings::getBlackList" alt="" coords="253,56,455,83"/>
+<area shape="rect" id="node4" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="283,107,425,133"/>
+<area shape="rect" id="node5" href="$classMessageProcessor.html#a9f7e000600663929230c4c38e6dae9cb" title="Converts an incoming message into a sanitized Message. " alt="" coords="254,158,454,199"/>
+<area shape="rect" id="node6" href="$classMessageProcessor_1_1SharedParams.html#a7206c5a3ab3d9bcb301293e29ccd49c9" title="MessageProcessor::Shared\lParams::getNameMention" alt="" coords="542,93,738,134"/>
+<area shape="rect" id="node7" href="$classMessageProcessor_1_1SharedParams.html#a2ee9908f4a870b476026593f5f15de3f" title="MessageProcessor::Shared\lParams::getSanitizedNameMention" alt="" coords="516,158,764,199"/>
+<area shape="rect" id="node8" href="$classMessageProcessor_1_1SharedParams.html#a968bd9104e2d19cdc7e3524883c5b35c" title="MessageProcessor::Shared\lParams::getPublicKeyMention" alt="" coords="535,223,745,265"/>
+</map>

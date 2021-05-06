@@ -1,0 +1,31 @@
+<map id="AddFriendForm::addFriendRequest" name="AddFriendForm::addFriendRequest">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="787,248,946,275"/>
+<area shape="rect" id="node13" href="$classAddFriendForm.html#aca363e4637d331d454c4433b95577000" title="AddFriendForm::addFriend\lRequestWidget" alt="" coords="241,353,429,394"/>
+<area shape="rect" id="node28" href="$classAddFriendForm.html#ae1b4472502e8eb6b6efeec0838903d66" title="AddFriendForm::isShown" alt="" coords="246,419,425,445"/>
+<area shape="rect" id="node29" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title="AddFriendForm::onCurrent\lChanged" alt="" coords="497,170,688,211"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1025,248,1161,275"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1217,255,1353,281"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1209,132,1360,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1455,259,1555,285"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1408,107,1603,133"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1651,132,1836,159"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1422,208,1589,235"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1421,5,1590,32"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1450,56,1561,83"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1706,56,1781,83"/>
+<area shape="rect" id="node14" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="509,571,676,597"/>
+<area shape="rect" id="node16" href="$classAddFriendForm.html#a9d34fd4815724e158b3c4eda512d0389" title="AddFriendForm::onFriendRequest\lAccepted" alt="" coords="477,483,708,525"/>
+<area shape="rect" id="node25" href="$classAddFriendForm.html#a4567fd50c66c1ac56a3c9cf6b844abe9" title="AddFriendForm::retranslate\lAcceptButton" alt="" coords="495,287,691,329"/>
+<area shape="rect" id="node26" href="$classAddFriendForm.html#a60bff5dd6bbf1742af9fd8d40d1c9eb5" title="AddFriendForm::onFriendRequest\lRejected" alt="" coords="477,353,708,394"/>
+<area shape="rect" id="node27" href="$classAddFriendForm.html#a5f7dceb68212d17ea5674848cc60f267" title="AddFriendForm::retranslate\lRejectButton" alt="" coords="495,418,691,459"/>
+<area shape="rect" id="node15" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="765,581,969,608"/>
+<area shape="rect" id="node17" href="$classAddFriendForm.html#afbb4c961477901f94e4ab06b0f67d85c" title="AddFriendForm::removeFriend\lRequestWidget" alt="" coords="760,363,973,405"/>
+<area shape="rect" id="node18" href="$classSettings.html#a77a6b8d0ee9463a8bbdc699676660c26" title="Settings::getFriendRequest" alt="" coords="770,480,963,507"/>
+<area shape="rect" id="node19" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="796,531,937,557"/>
+<area shape="rect" id="node20" href="$classSettings.html#a9bf7be23026b81700ba7cf4395100688" title="Settings::removeFriendRequest" alt="" coords="756,429,977,456"/>
+<area shape="rect" id="node21" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="783,312,951,339"/>
+<area shape="rect" id="node22" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="1028,312,1159,339"/>
+<area shape="rect" id="node23" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1212,312,1357,339"/>
+<area shape="rect" id="node24" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1450,312,1561,339"/>
+<area shape="rect" id="node30" href="$classSettings.html#accf237ab89ab4e6f6db5311f09ee60c0" title="Settings::clearUnreadFriend\lRequests" alt="" coords="767,170,966,211"/>
+</map>

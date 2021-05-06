@@ -1,0 +1,4 @@
+<map id="Settings::getFriendAddress" name="Settings::getFriendAddress">
+<area shape="rect" id="node2" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="265,5,406,32"/>
+<area shape="rect" id="node3" href="$classContactId.html#a2ef2beeefa31a8bc2dd393c83b66bcb8" title="Get a copy of the id. " alt="" coords="248,56,423,83"/>
+</map>

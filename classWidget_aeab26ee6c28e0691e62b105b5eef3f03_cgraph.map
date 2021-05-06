@@ -1,0 +1,11 @@
+<map id="Widget::~Widget" name="Widget::~Widget">
+<area shape="rect" id="node2" href="$classTranslator.html#a421f4d6d5f03b3b8d30d2a453f1b7e33" title="Unregisters all handlers of an owner. " alt="" coords="188,5,345,32"/>
+<area shape="rect" id="node3" href="$classGroupList.html#a5ffb42751599ff984fcf5c52b64e2bcf" title="GroupList::getAllGroups" alt="" coords="180,56,353,83"/>
+<area shape="rect" id="node4" href="$classWidget.html#a5b08000841437b914692323115c9b70f" title="Widget::removeGroup" alt="" coords="186,107,347,133"/>
+<area shape="rect" id="node6" href="$classFriendList.html#aa135b1606dec0fa0d956998169492c97" title="FriendList::getAllFriends" alt="" coords="181,157,352,184"/>
+<area shape="rect" id="node7" href="$classWidget.html#a44d68e2b67e88e0160ea9d1a6fea99d1" title="Widget::removeFriend" alt="" coords="187,208,347,235"/>
+<area shape="rect" id="node9" href="$classFriendList.html#ac76bc431631204635756a5b533c78bda" title="FriendList::clear" alt="" coords="206,259,327,285"/>
+<area shape="rect" id="node10" href="$classGroupList.html#ad21aa5c75c4d11aff64a185f0acd84ad" title="GroupList::clear" alt="" coords="205,309,328,336"/>
+<area shape="rect" id="node5" href="$classGroupList.html#aaf9ef63d9f79b41f19356fa0e59255e7" title="GroupList::findGroup" alt="" coords="401,107,555,133"/>
+<area shape="rect" id="node8" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="403,208,553,235"/>
+</map>

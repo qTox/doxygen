@@ -1,0 +1,6 @@
+<map id="Settings::autorunChanged" name="Settings::autorunChanged">
+<area shape="rect" id="node2" href="$classSettings.html#aaeda95c3b6aa6129be73ab5ca9e983a6" title="Settings::setAutorun" alt="" coords="244,35,399,61"/>
+<area shape="rect" id="node3" href="$classProfile.html#a6a2b691e33df3302bb151e716d607f02" title="Tries to rename the profile. " alt="" coords="489,5,607,32"/>
+<area shape="rect" id="node5" href="$classGeneralForm.html#aac8e3d6dd7df47c7d50501b84d48cf2a" title="GeneralForm::on_cbAutorun\l_stateChanged" alt="" coords="447,57,649,98"/>
+<area shape="rect" id="node4" href="$classProfileInfo.html#ae4cb258c3c84d41dc06c5980938e98bf" title="Rename profile file. " alt="" coords="697,5,879,32"/>
+</map>

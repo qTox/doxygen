@@ -1,0 +1,12 @@
+<map id="Widget::onFriendDisplayedNameChanged" name="Widget::onFriendDisplayedNameChanged">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="258,5,406,32"/>
+<area shape="rect" id="node3" href="$classGroupList.html#a5ffb42751599ff984fcf5c52b64e2bcf" title="GroupList::getAllGroups" alt="" coords="245,56,419,83"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title="GenericChatroomWidget\l::isActive" alt="" coords="243,107,421,149"/>
+<area shape="rect" id="node5" href="$classGUI.html#a68fb4983f43f6bda71db25f7db1a93d3" title="Change the title of the main window. " alt="" coords="259,173,405,200"/>
+<area shape="rect" id="node6" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="482,148,610,175"/>
+<area shape="rect" id="node7" href="$classGUI.html#a79a9c847005f9008aa757fc0b462cbe6" title="GUI::_setWindowTitle" alt="" coords="469,199,623,225"/>
+<area shape="rect" id="node8" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="671,199,817,225"/>
+<area shape="rect" id="node9" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="865,199,1032,225"/>
+<area shape="rect" id="node10" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1080,199,1225,225"/>
+<area shape="rect" id="node11" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1273,199,1384,225"/>
+</map>

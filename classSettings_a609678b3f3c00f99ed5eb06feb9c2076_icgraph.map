@@ -1,0 +1,5 @@
+<map id="Settings::setDialogGeometry" name="Settings::setDialogGeometry">
+<area shape="rect" id="node2" href="$classContentDialog.html#a90e66dfcd858f25364beac307d87e2d8" title="Save size of dialog window. " alt="" coords="260,23,451,65"/>
+<area shape="rect" id="node3" href="$classContentDialog.html#ab1faea703e6c558210dd26915c11509e" title="ContentDialog::resizeEvent" alt="" coords="499,5,693,32"/>
+<area shape="rect" id="node4" href="$classContentDialog.html#a8b435605438269f446744d6c5671d29b" title="ContentDialog::moveEvent" alt="" coords="499,56,693,83"/>
+</map>

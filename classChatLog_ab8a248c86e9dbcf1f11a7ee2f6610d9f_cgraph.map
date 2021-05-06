@@ -1,0 +1,5 @@
+<map id="ChatLog::scrollToBottom" name="ChatLog::scrollToBottom">
+<area shape="rect" id="node2" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="231,5,425,32"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="473,5,680,32"/>
+<area shape="rect" id="node4" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="728,5,896,32"/>
+</map>

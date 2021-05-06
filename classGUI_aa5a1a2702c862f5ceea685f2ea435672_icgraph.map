@@ -1,0 +1,6 @@
+<map id="GUI::showInfo" name="GUI::showInfo">
+<area shape="rect" id="node2" href="$classProfileForm.html#a6f0d3552425770bfa18b6a7e6354e1c3" title="ProfileForm::onDeletePass\lClicked" alt="" coords="179,5,369,47"/>
+<area shape="rect" id="node4" href="$classProfileForm.html#afb5f308dd3ee9fb53981d7c33d3dbed1" title="ProfileForm::onChangePass\lClicked" alt="" coords="176,71,372,112"/>
+<area shape="rect" id="node5" href="$classAdvancedForm.html#a1b048c3e9e7a45e26fe2051a61000753" title="AdvancedForm::on_resetButton\l_clicked" alt="" coords="161,136,387,177"/>
+<area shape="rect" id="node3" href="$classProfileForm.html#aa71ffbf1dc7ed19568c0814df8445af9" title="ProfileForm::ProfileForm" alt="" coords="435,46,609,73"/>
+</map>

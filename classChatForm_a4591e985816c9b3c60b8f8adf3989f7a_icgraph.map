@@ -1,0 +1,6 @@
+<map id="ChatForm::showNetcam" name="ChatForm::showNetcam">
+<area shape="rect" id="node2" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="229,25,385,52"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="717,25,873,52"/>
+<area shape="rect" id="node4" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="472,25,631,52"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="433,76,669,103"/>
+</map>

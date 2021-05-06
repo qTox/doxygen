@@ -1,0 +1,5 @@
+<map id="History::getNumMessagesForFriendBeforeDate" name="History::getNumMessagesForFriendBeforeDate">
+<area shape="rect" id="node2" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter ..." alt="" coords="265,5,473,32"/>
+<area shape="rect" id="node3" href="$classHistory.html#ac44641454765cf9ce2c71ed1e17adccf" title="History::getNumMessagesFor\lFriend" alt="" coords="264,57,475,98"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a684f48ef1baf92f9c049f29e39c14542" title="Gets the initial chat log index for a sessionChatLog with 0 items loaded from history. Needed to keep history indexes in sync with chat log indexes. " alt="" coords="523,57,711,98"/>
+</map>

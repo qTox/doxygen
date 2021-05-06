@@ -1,0 +1,14 @@
+<map id="Profile::getHistory" name="Profile::getHistory">
+<area shape="rect" id="node2" href="$classAboutFriend.html#a9dc8e083c5560992abc24a5ae94c6599" title="AboutFriend::clearHistory" alt="" coords="208,5,391,32"/>
+<area shape="rect" id="node3" href="$classAboutFriend.html#a0d170f4e26de5f7af1fbfa2eb4f164da" title="AboutFriend::isHistoryExistence" alt="" coords="188,56,411,83"/>
+<area shape="rect" id="node4" href="$classPrivacyForm.html#a460c853b8107d52c39d8702ebfd652b1" title="PrivacyForm::on_cbKeepHistory\l_stateChanged" alt="" coords="188,107,411,149"/>
+<area shape="rect" id="node5" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="232,173,367,200"/>
+<area shape="rect" id="node13" href="$classWidget.html#afeb18b9fa9a2822cbe3c36a73f1a1baf" title="Widget::removeFriend" alt="" coords="219,224,379,251"/>
+<area shape="rect" id="node6" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="459,173,635,200"/>
+<area shape="rect" id="node7" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="683,173,837,200"/>
+<area shape="rect" id="node8" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="885,148,985,175"/>
+<area shape="rect" id="node9" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1033,148,1232,175"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1483,111,1537,137"/>
+<area shape="rect" id="node11" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1280,148,1416,175"/>
+<area shape="rect" id="node12" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1464,187,1556,213"/>
+</map>

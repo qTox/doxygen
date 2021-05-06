@@ -1,0 +1,7 @@
+<map id="FlyoutOverlayWidget::animateHide" name="FlyoutOverlayWidget::animateHide">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a28ed52eb28a80188a9adf9223e0102d2" title="GenericChatForm::hideFileMenu" alt="" coords="204,56,428,83"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a060864869ee24c333641373ad8b58efc" title="ChatForm::onScreenshotClicked" alt="" coords="476,5,703,32"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#a302b2a413db4deb98b97f351c702c80b" title="GenericChatForm::hideEvent" alt="" coords="487,56,692,83"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#a4382ccc031dd677f2a0edcbf05dfb527" title="GenericChatForm::eventFilter" alt="" coords="485,107,693,133"/>
+<area shape="rect" id="node5" href="$classChatForm.html#ae91ae757823da61ccb3349ca1abe2028" title="ChatForm::hideEvent" alt="" coords="751,56,907,83"/>
+</map>

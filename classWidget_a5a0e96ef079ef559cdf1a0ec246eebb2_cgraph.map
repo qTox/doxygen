@@ -1,0 +1,8 @@
+<map id="Widget::onDialogShown" name="Widget::onDialogShown">
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html#a3558f62ffc5d4f8389b02fd23f69698a" title="GenericChatroomWidget\l::resetEventFlags" alt="" coords="224,5,403,47"/>
+<area shape="rect" id="node3" href="$classGenericChatroomWidget.html#a396495200786e011fee6fb3eb73626f5" title="GenericChatroomWidget\l::updateStatusLight" alt="" coords="224,71,403,112"/>
+<area shape="rect" id="node4" href="$classWidget.html#ac6dac03c495a002ff0694955aff1f0f3" title="Used to reset the blinking icon. " alt="" coords="247,137,379,163"/>
+<area shape="rect" id="node5" href="$classWidget.html#a6c7a3d2c72dea0136164108dec6e96e6" title="Widget::updateIcons" alt="" coords="451,137,601,163"/>
+<area shape="rect" id="node6" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="661,111,825,138"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab9eeed3a0e193a645e1719979d8f2105" title="Settings::getLightTrayIcon" alt="" coords="649,162,836,189"/>
+</map>

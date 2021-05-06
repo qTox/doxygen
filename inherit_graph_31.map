@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classGenericChatItemWidget.html" title="GenericChatItemWidget" alt="" coords="125,31,299,57"/>
+<area shape="rect" id="node3" href="$classCategoryWidget.html" title="CategoryWidget" alt="" coords="375,5,497,32"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html" title="GenericChatroomWidget" alt="" coords="347,56,525,83"/>
+<area shape="rect" id="node4" href="$classCircleWidget.html" title="CircleWidget" alt="" coords="575,5,675,32"/>
+<area shape="rect" id="node6" href="$classFriendWidget.html" title="FriendWidget" alt="" coords="574,56,677,83"/>
+<area shape="rect" id="node7" href="$classGroupWidget.html" title="GroupWidget" alt="" coords="573,107,677,133"/>
+</map>

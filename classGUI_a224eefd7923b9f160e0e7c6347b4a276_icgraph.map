@@ -1,0 +1,4 @@
+<map id="GUI::reloadTheme" name="GUI::reloadTheme">
+<area shape="rect" id="node2" href="$classStyle.html#ae85ffcbe48d325706ee6567810503aa3" title="Reloads some CCS. " alt="" coords="191,20,331,47"/>
+<area shape="rect" id="node3" href="$classUserInterfaceForm.html#a8dfdea15984aca78a0b3ae66394d7493" title="UserInterfaceForm::\lon_themeColorCBox_currentIndex\lChanged" alt="" coords="379,5,619,61"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Friend::extensionSupportChanged" name="Friend::extensionSupportChanged">
+<area shape="rect" id="node2" href="$classFriend.html#a36a1a2bd0025b6e8f1a606af5b3900d5" title="Friend::setExtendedMessage\lSupport" alt="" coords="235,61,440,102"/>
+<area shape="rect" id="node11" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="259,127,415,153"/>
+<area shape="rect" id="node3" href="$classWidget.html#a7d6a1bed064a612385b132702a0e4b9a" title="Widget::onExtendedMessage\lSupport" alt="" coords="488,61,695,102"/>
+<area shape="rect" id="node4" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="743,68,919,95"/>
+<area shape="rect" id="node5" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="967,68,1121,95"/>
+<area shape="rect" id="node6" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1169,43,1269,69"/>
+<area shape="rect" id="node7" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1317,43,1516,69"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1767,5,1821,32"/>
+<area shape="rect" id="node9" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1564,43,1700,69"/>
+<area shape="rect" id="node10" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1748,81,1840,108"/>
+</map>

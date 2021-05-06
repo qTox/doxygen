@@ -1,0 +1,51 @@
+<map id="ContentDialog::ContentDialog" name="ContentDialog::ContentDialog">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1539,593,1697,619"/>
+<area shape="rect" id="node12" href="$classFriendListLayout.html#a7dc5044c075e05ce4a4e6b71a4342f5d" title="FriendListLayout::getLayout\lOnline" alt="" coords="1067,476,1264,517"/>
+<area shape="rect" id="node13" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1315,213,1488,255"/>
+<area shape="rect" id="node14" href="$classFriendListLayout.html#aded6c05bde86af4afd33a382dc10d98c" title="FriendListLayout::getLayout\lOffline" alt="" coords="1067,243,1264,284"/>
+<area shape="rect" id="node15" href="$classSettings.html#a903c5431048336af21a54902c341aa9a" title="Settings::getGroupchatPosition" alt="" coords="797,171,1019,198"/>
+<area shape="rect" id="node16" href="$classContentDialog.html#a77f294072dd5dfcab0749194289da692" title="Handler of groupchatPositionChanged action. Move group layout on the top or on the buttom..." alt="" coords="542,55,746,96"/>
+<area shape="rect" id="node17" href="$classSettings.html#a612271516b7a74b36c8edae09608900f" title="Settings::getDialogGeometry" alt="" coords="274,323,482,350"/>
+<area shape="rect" id="node18" href="$classSplitterRestorer.html#a75919ce94b19a38abc93f7261704b8d6" title="Restore splitter from state. And reset in case of error. Set the splitter to a reasonnable width by d..." alt="" coords="291,374,465,401"/>
+<area shape="rect" id="node19" href="$classSettings.html#ad97d3594d229b02293035d43d003128d" title="Settings::getDialogSplitter\lState" alt="" coords="283,425,473,467"/>
+<area shape="rect" id="node20" href="$classContentDialog.html#ab503522a7ae915ff44d3c260c69c9f33" title="ContentDialog::reloadTheme" alt="" coords="275,710,481,737"/>
+<area shape="rect" id="node29" href="$classContentDialog.html#acb66bb5b75196b6a25f30a1802788177" title="ContentDialog::previousContact" alt="" coords="265,222,491,249"/>
+<area shape="rect" id="node35" href="$classContentDialog.html#a3919011a507bf6d6bff7bc482d81ce2a" title="Enable next contact. " alt="" coords="279,273,477,299"/>
+<area shape="rect" id="node36" href="$classContentDialog.html#a08b6b8fd4c24fb265b652bc8a76a1d72" title="Save state of splitter between dialog and dialog list. " alt="" coords="279,644,477,685"/>
+<area shape="rect" id="node39" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="283,761,473,787"/>
+<area shape="rect" id="node40" href="$classContentDialog.html#ac4fc0767b137c7ca5b316509bcb825d5" title="Retranslate all elements in the form. " alt="" coords="276,913,480,939"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1745,593,1881,619"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1937,491,2073,518"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1929,593,2080,619"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2175,441,2275,467"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2128,491,2323,518"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2371,517,2556,543"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2142,593,2309,619"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2141,643,2310,670"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2170,694,2281,721"/>
+<area shape="rect" id="node21" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="569,795,719,822"/>
+<area shape="rect" id="node22" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1082,947,1249,974"/>
+<area shape="rect" id="node25" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="854,795,962,822"/>
+<area shape="rect" id="node23" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1318,947,1485,974"/>
+<area shape="rect" id="node24" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1324,871,1479,898"/>
+<area shape="rect" id="node26" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="1103,846,1228,873"/>
+<area shape="rect" id="node27" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="1096,745,1235,771"/>
+<area shape="rect" id="node28" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="1122,795,1209,822"/>
+<area shape="rect" id="node30" href="$classContentDialog.html#a371ae0fc6d29f7b70515ad8bd30fa519" title="Activate next/previous contact. " alt="" coords="539,273,749,299"/>
+<area shape="rect" id="node31" href="$classContentDialog.html#a3593ba52e331a5ce86fdb0a4d001b274" title="Get current layout and index of current wiget in it. Current layout – layout contains activated widg..." alt="" coords="813,324,1003,365"/>
+<area shape="rect" id="node34" href="$classContentDialog.html#ad97b3d08a707a858d04c1556d5e5c2fd" title="Find the next or previous layout in layout list. " alt="" coords="812,441,1004,467"/>
+<area shape="rect" id="node32" href="$classFriendListLayout.html#ae56f128999b7bca37a1cf639d5c80d74" title="FriendListLayout::indexOf\lFriendWidget" alt="" coords="1075,411,1256,452"/>
+<area shape="rect" id="node33" href="$classGenericChatItemLayout.html#a6bca817679d5291c16e4985f0a4575e9" title="GenericChatItemLayout\l::indexOfSortedWidget" alt="" coords="1315,381,1488,423"/>
+<area shape="rect" id="node37" href="$classSettings.html#a43660ab76b35d823361b7139cc553ecc" title="Settings::setDialogSplitter\lState" alt="" coords="549,695,739,736"/>
+<area shape="rect" id="node38" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="847,702,969,729"/>
+<area shape="rect" id="node41" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon. " alt="" coords="548,981,740,1023"/>
+<area shape="rect" id="node42" href="$classGenericChatroomWidget.html#af647c5bd4201c6ec14e2cd949999345b" title="GenericChatroomWidget\l::getTitle" alt="" coords="1076,1055,1255,1096"/>
+<area shape="rect" id="node45" href="$classGenericChatroomWidget.html#a5c205d1613e2e396fbdb89ab1dc3770b" title="GenericChatroomWidget\l::getGroup" alt="" coords="819,1119,997,1160"/>
+<area shape="rect" id="node48" href="$classGenericChatroomWidget.html#a23173b4233af494aa6c48ce433a6a035" title="GenericChatroomWidget\l::getFriend" alt="" coords="819,897,997,939"/>
+<area shape="rect" id="node49" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="843,963,973,990"/>
+<area shape="rect" id="node50" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="835,1014,981,1041"/>
+<area shape="rect" id="node43" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1315,1027,1488,1068"/>
+<area shape="rect" id="node44" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title="GenericChatroomWidget\l::getStatusString" alt="" coords="1312,1092,1491,1133"/>
+<area shape="rect" id="node46" href="$classGenericChatroomWidget.html#a75b361770b7c449f50aa9f2df8c76bf7" title="GenericChatroomWidget\l::eventFilter" alt="" coords="1076,1120,1255,1161"/>
+<area shape="rect" id="node47" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title="GenericChatroomWidget\l::isActive" alt="" coords="1076,1185,1255,1227"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CoreAV::sendCallAudio" name="CoreAV::sendCallAudio">
+<area shape="rect" id="node2" href="$classToxCall.html#a15623f05c225b46faa533ae7a1add4cc" title="ToxCall::getMuteMic" alt="" coords="230,5,377,32"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a46ae1e53efb2bfa06d86f9f70ddfd5a8" title="ToxCall::isActive" alt="" coords="242,56,365,83"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae196472b4200030c5eed958a55ab3ae7" title="ToxFriendCall::getState" alt="" coords="220,107,387,133"/>
+</map>

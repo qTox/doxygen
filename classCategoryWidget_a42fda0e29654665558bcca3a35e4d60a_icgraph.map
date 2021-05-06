@@ -1,0 +1,12 @@
+<map id="CategoryWidget::cycleContacts" name="CategoryWidget::cycleContacts">
+<area shape="rect" id="node2" href="$classFriendListWidget.html#a64312ce037b676e257eb39d4bfd9e4cb" title="FriendListWidget::cycleContacts" alt="" coords="273,31,496,57"/>
+<area shape="rect" id="node3" href="$classWidget.html#a30b4b14a4b87a9b6456cd721e69d5bc4" title="Widget::cycleContacts" alt="" coords="544,31,707,57"/>
+<area shape="rect" id="node4" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="980,31,1072,57"/>
+<area shape="rect" id="node10" href="$classWidget.html#a0cc81b7bee380b368b72f041e7f69efb" title="Widget::nextContact" alt="" coords="768,31,919,57"/>
+<area shape="rect" id="node11" href="$classWidget.html#aa7605dceaf96ad1435c2d2f713dc3be3" title="Widget::previousContact" alt="" coords="755,81,932,108"/>
+<area shape="rect" id="node5" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1120,5,1275,32"/>
+<area shape="rect" id="node6" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1323,5,1423,32"/>
+<area shape="rect" id="node7" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1471,5,1669,32"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1901,31,1956,57"/>
+<area shape="rect" id="node9" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1717,56,1853,83"/>
+</map>

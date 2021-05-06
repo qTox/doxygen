@@ -1,0 +1,13 @@
+<map id="SettingsSerializer::readSerialized" name="SettingsSerializer::readSerialized">
+<area shape="rect" id="node2" href="$classToxEncrypt.html#a491755ce79ebb5f73b11254dd8e28095" title="Checks if the data was encrypted by this module. " alt="" coords="383,18,555,44"/>
+<area shape="rect" id="node3" href="$classToxEncrypt.html#a837e6baed0b235b2959b4ebb1b7bf2c9" title="Decrypts data encrypted with this module, using the stored key. " alt="" coords="188,47,335,74"/>
+<area shape="rect" id="node4" href="$classSettingsSerializer.html#aa8dfd34b274b17315d341404cc8cb099" title="SettingsSerializer\l::value" alt="" coords="401,90,536,132"/>
+<area shape="rect" id="node6" href="$classSettingsSerializer.html#a03002eb33a14184949a0863af4d02cef" title="SettingsSerializer\l::setValue" alt="" coords="194,149,329,190"/>
+<area shape="rect" id="node7" href="$classSettingsSerializer.html#a2735e383a3ad5a17e444b895d7d7c76f" title="SettingsSerializer\l::beginGroup" alt="" coords="194,214,329,256"/>
+<area shape="rect" id="node9" href="$classSettingsSerializer.html#a2a6ae88b8210fb9917ae187ff92883ea" title="SettingsSerializer\l::beginReadArray" alt="" coords="194,280,329,321"/>
+<area shape="rect" id="node10" href="$serialize_8cpp.html#a2d22bfead56502823b901fe858a1eadb" title="dataToVInt" alt="" coords="217,346,306,372"/>
+<area shape="rect" id="node11" href="$classSettingsSerializer.html#a191f0f05452eaa7fe9edcaf80011a97a" title="SettingsSerializer\l::setArrayIndex" alt="" coords="194,397,329,438"/>
+<area shape="rect" id="node12" href="$classSettingsSerializer.html#a3402c04efc6d12f238a3d5f949540bc5" title="SettingsSerializer\l::endArray" alt="" coords="194,462,329,504"/>
+<area shape="rect" id="node5" href="$classSettingsSerializer.html#a807aac607d5308228d2e029ceb434a8f" title="SettingsSerializer\l::findValue" alt="" coords="603,120,737,161"/>
+<area shape="rect" id="node8" href="$classSettingsSerializer.html#af982be2a95ab2857fa38c1f02594052b" title="SettingsSerializer\l::endGroup" alt="" coords="401,214,536,256"/>
+</map>

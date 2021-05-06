@@ -1,0 +1,7 @@
+<map id="ToxGroupCall::playAudioBuffer" name="ToxGroupCall::playAudioBuffer">
+<area shape="rect" id="node2" href="$classToxGroupCall.html#a795b16b176a6b386d6b07bfc4367827e" title="ToxGroupCall::havePeer" alt="" coords="265,5,437,32"/>
+<area shape="rect" id="node3" href="$classToxGroupCall.html#a4e4ac83c18623cef27eabb6752712a9c" title="ToxGroupCall::addPeer" alt="" coords="269,56,434,83"/>
+<area shape="rect" id="node4" href="$classToxGroupCall.html#a3286dace2733f7bef27afcda751c35ab" title="ToxGroupCall::onAudioSink\lInvalidated" alt="" coords="485,49,676,90"/>
+<area shape="rect" id="node5" href="$classToxGroupCall.html#aa6a7f1a687cd25e80e1b38b12df7e4af" title="ToxGroupCall::removePeer" alt="" coords="724,56,915,83"/>
+<area shape="rect" id="node6" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="963,56,1105,83"/>
+</map>

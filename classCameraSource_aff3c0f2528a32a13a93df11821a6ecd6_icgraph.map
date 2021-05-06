@@ -1,0 +1,6 @@
+<map id="CameraSource::getInstance" name="CameraSource::getInstance">
+<area shape="rect" id="node2" href="$classToxCall.html#a685d97fbfb82dd715a6b40f25610b583" title="ToxCall::~ToxCall" alt="" coords="287,5,414,32"/>
+<area shape="rect" id="node3" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="255,56,447,83"/>
+<area shape="rect" id="node4" href="$classNetCamView.html#a10889193d494b3ac0a93ff38b285cf11" title="NetCamView::show" alt="" coords="279,107,422,133"/>
+<area shape="rect" id="node5" href="$classSettingsWidget.html#a5395e06a3da833fdb83dc20ea5ccb7a1" title="SettingsWidget::Settings\lWidget" alt="" coords="261,158,440,199"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="FriendList" name="FriendList">
+<area shape="rect" id="node2" href="$classQHash.html" title="{QHash\&lt; ToxPk, Friend * \&gt;\n||}" alt="" coords="5,5,192,83"/>
+<area shape="rect" id="node3" href="$classQHash.html" title="{QHash\&lt; uint32_t, ToxPk \&gt;\n||}" alt="" coords="217,5,407,83"/>
+</map>

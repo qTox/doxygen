@@ -1,0 +1,6 @@
+<map id="OfflineMsgEngine::ReceiptResolver::clear" name="OfflineMsgEngine::ReceiptResolver::clear">
+<area shape="rect" id="node2" href="$classOfflineMsgEngine.html#a00efecfc24645f0ed4e766b72d9c9d92" title="Removes all messages which are being tracked. " alt="" coords="239,39,427,80"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#ac5b79248d6d7328826b8705f4b467989" title="Handles status change for friend. " alt="" coords="475,5,696,47"/>
+<area shape="rect" id="node5" href="$classFriendMessageDispatcher.html#a8014670be1d98511ce572bdadd30adc8" title="Clears all currently outgoing messages. " alt="" coords="492,71,679,112"/>
+<area shape="rect" id="node4" href="$classFriendMessageDispatcher.html#a759af89993bfcd1575568b14be24dc2b" title="FriendMessageDispatcher\l::FriendMessageDispatcher" alt="" coords="744,5,939,47"/>
+</map>

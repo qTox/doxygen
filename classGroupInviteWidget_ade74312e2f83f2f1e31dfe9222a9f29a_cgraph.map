@@ -1,0 +1,22 @@
+<map id="GroupInviteWidget::retranslateUi" name="GroupInviteWidget::retranslateUi">
+<area shape="rect" id="node2" href="$classNexus.html#afb7493da9f29676c4a46a0c4adefd880" title="Get core instance. " alt="" coords="234,31,355,57"/>
+<area shape="rect" id="node6" href="$classCore.html#af7f12e95f90f1ccf6fa5f261fdb98e3c" title="Get the username of a friend. " alt="" coords="201,81,388,108"/>
+<area shape="rect" id="node7" href="$classGroupInvite.html#a30b5d8b5fe9afbb2c8c352a76b7cb942" title="GroupInvite::getFriendId" alt="" coords="208,132,381,159"/>
+<area shape="rect" id="node8" href="$classGroupInvite.html#aa125b58350cfcea5f2c77fcc2779281f" title="GroupInvite::getInviteDate" alt="" coords="200,183,389,209"/>
+<area shape="rect" id="node9" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="215,233,374,260"/>
+<area shape="rect" id="node20" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="211,284,378,311"/>
+<area shape="rect" id="node3" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="467,5,612,32"/>
+<area shape="rect" id="node5" href="$classProfile.html#adb0e1f8a30e1a9c5866f2f89926f1130" title="Profile::getCore" alt="" coords="479,56,599,83"/>
+<area shape="rect" id="node4" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="709,5,820,32"/>
+<area shape="rect" id="node10" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="471,233,607,260"/>
+<area shape="rect" id="node11" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="697,157,833,184"/>
+<area shape="rect" id="node13" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="689,259,840,285"/>
+<area shape="rect" id="node12" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="935,132,1035,159"/>
+<area shape="rect" id="node14" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="888,183,1083,209"/>
+<area shape="rect" id="node15" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1131,208,1316,235"/>
+<area shape="rect" id="node16" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="902,284,1069,311"/>
+<area shape="rect" id="node17" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="901,335,1070,361"/>
+<area shape="rect" id="node18" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="930,385,1041,412"/>
+<area shape="rect" id="node19" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1186,385,1261,412"/>
+<area shape="rect" id="node21" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="437,284,641,311"/>
+</map>

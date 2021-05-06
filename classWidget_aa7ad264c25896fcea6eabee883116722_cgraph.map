@@ -1,0 +1,51 @@
+<map id="Widget::onFriendStatusChanged" name="Widget::onFriendStatusChanged">
+<area shape="rect" id="node2" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="303,621,426,648"/>
+<area shape="rect" id="node3" href="$classFriendListWidget.html#a5f7af661ea69ad90b30bfd5d209cbc68" title="FriendListWidget::moveWidget" alt="" coords="499,384,711,411"/>
+<area shape="rect" id="node30" href="$classFriendWidget.html#a2b0c87a9ee66203c9cccf1e2c66f67bb" title="FriendWidget::updateStatus\lLight" alt="" coords="506,534,705,575"/>
+<area shape="rect" id="node37" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title="GenericChatroomWidget\l::isActive" alt="" coords="1044,1026,1223,1067"/>
+<area shape="rect" id="node38" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title="Widget::setWindowTitle" alt="" coords="281,840,448,867"/>
+<area shape="rect" id="node39" href="$classGenericChatroomWidget.html#af647c5bd4201c6ec14e2cd949999345b" title="GenericChatroomWidget\l::getTitle" alt="" coords="1044,879,1223,921"/>
+<area shape="rect" id="node41" href="$classContentDialogManager.html#adf636d0f1287a0dc33246e7287691c2e" title="ContentDialogManager\l::getInstance" alt="" coords="280,1014,449,1055"/>
+<area shape="rect" id="node42" href="$classContentDialogManager.html#a407cfa6df6094800828ec6e66b301eae" title="ContentDialogManager\l::updateFriendStatus" alt="" coords="280,774,449,815"/>
+<area shape="rect" id="node4" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="783,5,954,32"/>
+<area shape="rect" id="node5" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1301,208,1459,235"/>
+<area shape="rect" id="node9" href="$classSettings.html#ad2bea7550d0fe0f24a392edbfbb5ba3b" title="Settings::getFriendCircleID" alt="" coords="773,544,964,571"/>
+<area shape="rect" id="node10" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="1306,107,1454,133"/>
+<area shape="rect" id="node11" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title="CircleWidget::getFromID" alt="" coords="781,493,956,520"/>
+<area shape="rect" id="node12" href="$classSettings.html#a166c57a193cb7b627a6a5ff01763de6e" title="Settings::setFriendCircleID" alt="" coords="774,271,963,297"/>
+<area shape="rect" id="node14" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title="FriendListLayout::addFriend\lWidget" alt="" coords="1036,494,1231,535"/>
+<area shape="rect" id="node20" href="$classCategoryWidget.html#accb1ef391fc9bc2cc341b6e33977839c" title="CategoryWidget::addFriend\lWidget" alt="" coords="772,377,965,418"/>
+<area shape="rect" id="node26" href="$classFriendListWidget.html#a108259b33903cd084857d5414f761acc" title="FriendListWidget::getTime\lCategoryWidget" alt="" coords="776,142,961,183"/>
+<area shape="rect" id="node29" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="803,712,934,739"/>
+<area shape="rect" id="node6" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1555,208,1691,235"/>
+<area shape="rect" id="node7" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1795,233,1931,260"/>
+<area shape="rect" id="node8" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1787,183,1938,209"/>
+<area shape="rect" id="node13" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="1037,259,1230,301"/>
+<area shape="rect" id="node15" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="1293,501,1467,542"/>
+<area shape="rect" id="node19" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title="GenericChatItemLayout\l::addSortedWidget" alt="" coords="1293,566,1467,607"/>
+<area shape="rect" id="node16" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="1517,566,1728,607"/>
+<area shape="rect" id="node17" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1776,643,1949,685"/>
+<area shape="rect" id="node18" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1997,651,2161,677"/>
+<area shape="rect" id="node21" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title="CategoryWidget::updateStatus" alt="" coords="1024,443,1243,469"/>
+<area shape="rect" id="node24" href="$classCategoryWidget.html#a29f7946a53f0cdd854b6e4fdfabef616" title="CategoryWidget::onAddFriend\lWidget" alt="" coords="1028,377,1239,418"/>
+<area shape="rect" id="node25" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title="GenericChatroomWidget\l::reloadTheme" alt="" coords="1044,611,1223,653"/>
+<area shape="rect" id="node22" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="1538,406,1707,447"/>
+<area shape="rect" id="node23" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="1295,435,1465,477"/>
+<area shape="rect" id="node27" href="$friendlistwidget_8cpp.html#aebc8015b1f38422016488c59c2a8a607" title="getActiveTimeFriend" alt="" coords="1058,157,1209,184"/>
+<area shape="rect" id="node28" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title="getTimeBucket" alt="" coords="1074,107,1193,133"/>
+<area shape="rect" id="node31" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="795,763,942,789"/>
+<area shape="rect" id="node33" href="$classCategoryWidget.html#a18244f18d8cb90aa44a1fc658f02a65e" title="CategoryWidget::setExpanded" alt="" coords="761,661,976,688"/>
+<area shape="rect" id="node32" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="1051,779,1215,805"/>
+<area shape="rect" id="node34" href="$classCategoryWidget.html#a3a3fd497cdd9c5bb9e3a0b85ef950510" title="CategoryWidget::isExpanded" alt="" coords="1031,728,1235,755"/>
+<area shape="rect" id="node35" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1058,560,1209,587"/>
+<area shape="rect" id="node36" href="$classCategoryWidget.html#a4a0d3de71cd2bc2329711142919c196f" title="CategoryWidget::onExpand" alt="" coords="1036,677,1231,704"/>
+<area shape="rect" id="node40" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title="GenericChatroomWidget\l::getStatusString" alt="" coords="1291,879,1469,921"/>
+<area shape="rect" id="node43" href="$classContentDialog.html#abf082b0c9dd81c55fae5d7f965c4b910" title="ContentDialog::updateContact\lStatusLight" alt="" coords="497,898,713,939"/>
+<area shape="rect" id="node44" href="$classContentDialog.html#ac3d916cee313e0cc1b3e372636e38cc7" title="ContentDialog::isContact\lActive" alt="" coords="515,665,696,706"/>
+<area shape="rect" id="node45" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon. " alt="" coords="509,833,701,874"/>
+<area shape="rect" id="node48" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="530,731,681,757"/>
+<area shape="rect" id="node49" href="$classContentDialog.html#a22d2e632aee2159e64c54d438e39e498" title="ContentDialog::updateFriend\lStatus" alt="" coords="503,599,707,641"/>
+<area shape="rect" id="node46" href="$classGenericChatroomWidget.html#a5c205d1613e2e396fbdb89ab1dc3770b" title="GenericChatroomWidget\l::getGroup" alt="" coords="779,930,958,971"/>
+<area shape="rect" id="node47" href="$classGenericChatroomWidget.html#a23173b4233af494aa6c48ce433a6a035" title="GenericChatroomWidget\l::getFriend" alt="" coords="779,865,958,906"/>
+<area shape="rect" id="node50" href="$classContentDialog.html#ad4a9d8d24cc122cbc162859171bc89f6" title="ContentDialog::addFriend\lWidget" alt="" coords="777,595,960,637"/>
+</map>

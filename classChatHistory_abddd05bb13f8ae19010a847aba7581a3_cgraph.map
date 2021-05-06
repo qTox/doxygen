@@ -1,0 +1,8 @@
+<map id="ChatHistory::onFileTransferBrokenUnbroken" name="ChatHistory::onFileTransferBrokenUnbroken">
+<area shape="rect" id="node2" href="$classSessionChatLog.html#a26621d3829ef2381a2d253d78995f6b1" title="SessionChatLog::onFileTransfer\lBrokenUnbroken" alt="" coords="244,49,463,90"/>
+<area shape="rect" id="node3" href="$classSessionChatLog.html#a5d3f25f92f514a87542490a5e0b6cd82" title="Updates file state in the chatlog. " alt="" coords="511,56,735,83"/>
+<area shape="rect" id="node4" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title="SessionChatLog::resolveSender\lNameFromSender" alt="" coords="783,49,1008,90"/>
+<area shape="rect" id="node5" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title="ICoreIdHandler::getSelfPublicKey" alt="" coords="1056,5,1284,32"/>
+<area shape="rect" id="node6" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title="ICoreIdHandler::getUsername" alt="" coords="1064,56,1276,83"/>
+<area shape="rect" id="node7" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="1099,107,1241,133"/>
+</map>

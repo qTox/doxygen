@@ -1,0 +1,6 @@
+<map id="ToxFriendCall::playAudioBuffer" name="ToxFriendCall::playAudioBuffer">
+<area shape="rect" id="node2" href="$classCoreAV.html#ab808429e714fa181e9191dcc42611dc5" title="CoreAV::audioFrameCallback" alt="" coords="227,81,431,108"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#ad6aa4216c003e23fb2a2567d239ed573" title="CoreAV::connectCallbacks" alt="" coords="479,56,665,83"/>
+<area shape="rect" id="node5" href="$structCoreAV_1_1ToxAVDeleter.html#a2f5ddf6417be44446243401d6b1262b8" title="CoreAV::ToxAVDeleter\l::operator()" alt="" coords="884,49,1044,90"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#a3f815bf87d1e79c27b2683458055d6a1" title="CoreAV::CoreAV" alt="" coords="713,5,836,32"/>
+</map>

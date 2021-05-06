@@ -1,0 +1,5 @@
+<map id="Widget::onReceiptReceived" name="Widget::onReceiptReceived">
+<area shape="rect" id="node2" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title="FriendList::id2Key" alt="" coords="254,5,385,32"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="244,56,395,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="245,107,393,133"/>
+</map>

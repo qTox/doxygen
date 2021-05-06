@@ -1,0 +1,9 @@
+<map id="FileTransferWidget::updateFileProgress" name="FileTransferWidget::updateFileProgress">
+<area shape="rect" id="node2" href="$classToxFileProgress.html#a830f60958910a4dc61673543605ac997" title="ToxFileProgress::resetSpeed" alt="" coords="210,5,410,32"/>
+<area shape="rect" id="node3" href="$classToxFileProgress.html#a17d68c9d78d55936b120d01955db7da8" title="ToxFileProgress::needsUpdate" alt="" coords="204,56,416,83"/>
+<area shape="rect" id="node4" href="$classToxFileProgress.html#a3b750993960277452b062bfb5a0a53c8" title="ToxFileProgress::addSample" alt="" coords="211,107,409,133"/>
+<area shape="rect" id="node5" href="$classToxFileProgress.html#aeaa1ececd5193c6548f2f1d1cfb02200" title="ToxFileProgress::getSpeed" alt="" coords="464,132,652,159"/>
+<area shape="rect" id="node6" href="$classToxFileProgress.html#ac45596b6f47d3186fd68613358bfd8e1" title="ToxFileProgress::getProgress" alt="" coords="209,208,411,235"/>
+<area shape="rect" id="node7" href="$classToxFileProgress.html#a12835e81b6d8b87fa0c270aaf89d67a8" title="ToxFileProgress::getTime\lLeftSeconds" alt="" coords="221,259,399,301"/>
+<area shape="rect" id="node8" href="$classFileTransferWidget.html#a77e948c8760ac93847a5be0e89c4874a" title="FileTransferWidget\l::getHumanReadableSize" alt="" coords="219,325,401,366"/>
+</map>

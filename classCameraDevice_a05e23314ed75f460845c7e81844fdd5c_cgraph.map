@@ -1,0 +1,7 @@
+<map id="CameraDevice::getVideoModes" name="CameraDevice::getVideoModes">
+<area shape="rect" id="node2" href="$classCameraDevice.html#a99f7ee01ff1dadfd682627890bf3d639" title="Checks if a device name specifies a display. " alt="" coords="303,5,481,32"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#a445e5484dc771f323ddd97775d11f2ba" title="Get list of resolutions and position of screens. " alt="" coords="276,56,508,83"/>
+<area shape="rect" id="node4" href="$namespaceDirectShow.html#a1e4ebf2f9078001f6bc23cfd4d058315" title="DirectShow::getDeviceModes" alt="" coords="289,107,495,133"/>
+<area shape="rect" id="node5" href="$namespacev4l2.html#a1a4811c518dde911fa328dc19a04e5a4" title="v4l2::getDeviceModes" alt="" coords="311,157,473,184"/>
+<area shape="rect" id="node6" href="$namespaceavfoundation.html#aea5e4b308b0557afea164d8ae7f40459" title="avfoundation::getDeviceModes" alt="" coords="283,208,501,235"/>
+</map>

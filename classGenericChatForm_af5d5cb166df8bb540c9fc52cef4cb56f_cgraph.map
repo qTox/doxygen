@@ -1,0 +1,51 @@
+<map id="GenericChatForm::handleSearchResult" name="GenericChatForm::handleSearchResult">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#abda4e29f4968593f6f6bd3eca67228a6" title="GenericChatForm::disable\lSearchText" alt="" coords="318,128,505,169"/>
+<area shape="rect" id="node10" href="$classIChatLog.html#a061b44a9023ee5d6b60603e22deeed95" title="The underlying chat log instance may not want to start at 0. " alt="" coords="336,1107,487,1134"/>
+<area shape="rect" id="node11" href="$classIChatLog.html#a428117207ce4b942e4cdada9bf4c1663" title="IChatLog::getNextIdx" alt="" coords="334,1158,489,1185"/>
+<area shape="rect" id="node12" href="$classChatLog.html#a6d0cb376da5368a4c04f138f2dd111f4" title="ChatLog::clear" alt="" coords="354,1057,469,1083"/>
+<area shape="rect" id="node27" href="$classGenericChatForm.html#a00f2b0808c1c1c785c00c85257a09440" title="GenericChatForm::renderMessages" alt="" coords="287,842,535,869"/>
+<area shape="rect" id="node48" href="$classGenericChatForm.html#a132373770e45c450fbf45f61231312b3" title="GenericChatForm::enableSearchText" alt="" coords="284,215,539,242"/>
+<area shape="rect" id="node3" href="$classText.html#a8a69861038aa61b9cf6df1c92d4d61b8" title="Text::deselectText" alt="" coords="632,114,767,141"/>
+<area shape="rect" id="node4" href="$classText.html#a1a5e55b8fc5c67a03fa60b43253b5ac1" title="Text::regenerate" alt="" coords="919,114,1045,141"/>
+<area shape="rect" id="node5" href="$classDocumentCache.html#aab295120da5a20e9b4abe1115b371b83" title="Returns the singleton instance. " alt="" coords="1433,13,1645,39"/>
+<area shape="rect" id="node6" href="$classDocumentCache.html#aa8f04b81552fe72368e9a58c8d34ac5a" title="DocumentCache::pop" alt="" coords="1181,89,1343,115"/>
+<area shape="rect" id="node7" href="$classText.html#a8189e01ee4761059ad9da81dc79060d5" title="Text::idealSize" alt="" coords="1206,139,1318,166"/>
+<area shape="rect" id="node8" href="$classText.html#a1fe6ae767f84d5f2a24083fd3f0b4708" title="Text::selectText" alt="" coords="1203,190,1321,217"/>
+<area shape="rect" id="node9" href="$classText.html#a4605dc4e996d7608baa0c404502375b0" title="Text::freeResources" alt="" coords="1189,38,1335,65"/>
+<area shape="rect" id="node13" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="613,1270,786,1297"/>
+<area shape="rect" id="node15" href="$classChatLog.html#ae1e7329c5c63c8c3fc9a18499a2c2bad" title="ChatLog::isActiveFileTransfer" alt="" coords="598,1354,801,1381"/>
+<area shape="rect" id="node18" href="$classChatLog.html#ac35868b9fc96b5e49ad8da68898e3465" title="ChatLog::insertChatlineAt\lBottom" alt="" coords="607,1049,792,1091"/>
+<area shape="rect" id="node22" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="1165,1093,1359,1119"/>
+<area shape="rect" id="node14" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="860,1295,1104,1322"/>
+<area shape="rect" id="node16" href="$classChatLineContentProxy.html#ae6f1a5512220435d1a88104dd026cf3e" title="ChatLineContentProxy\l::getWidget" alt="" coords="900,1347,1064,1388"/>
+<area shape="rect" id="node17" href="$classFileTransferWidget.html#ae7622644bf9b0bc9b680ffd66a97b579" title="FileTransferWidget\l::isActive" alt="" coords="915,1412,1049,1453"/>
+<area shape="rect" id="node19" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="895,890,1069,917"/>
+<area shape="rect" id="node20" href="$classChatLog.html#a31bcdfe5379ae9e55bb85c6288f71182" title="ChatLog::layout" alt="" coords="921,1093,1043,1119"/>
+<area shape="rect" id="node21" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1707,1093,1875,1119"/>
+<area shape="rect" id="node24" href="$classChatLog.html#ab8a248c86e9dbcf1f11a7ee2f6610d9f" title="ChatLog::scrollToBottom" alt="" coords="893,1042,1071,1069"/>
+<area shape="rect" id="node25" href="$classChatLog.html#a5e7b6f5ce783c80bac7e63eb741c3910" title="ChatLog::checkVisibility" alt="" coords="897,991,1067,1018"/>
+<area shape="rect" id="node26" href="$classChatLog.html#a018a145f63e7361dd9ef3a81d6ffc649" title="ChatLog::updateTypingNotification" alt="" coords="1420,1169,1659,1195"/>
+<area shape="rect" id="node23" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="1436,1093,1643,1119"/>
+<area shape="rect" id="node28" href="$classGenericChatForm.html#a1a8ec9db049a3f90dbceecc9eec1313e" title="GenericChatForm::renderItem" alt="" coords="593,443,806,470"/>
+<area shape="rect" id="node38" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx. " alt="" coords="933,671,1031,698"/>
+<area shape="rect" id="node39" href="$classGenericChatForm.html#a4c9e59a8bc773887d0e8050e30b4860d" title="Show, is it needed to hide message author name or not. " alt="" coords="602,633,797,675"/>
+<area shape="rect" id="node40" href="$classChatLog.html#aa83ca14fa1e3641d9500be0d6dd7bc5a" title="ChatLog::setScroll" alt="" coords="630,817,769,843"/>
+<area shape="rect" id="node41" href="$classChatLog.html#ad17b071e4c8390434c254e59578fcfc5" title="ChatLog::getNumRemove" alt="" coords="606,867,793,894"/>
+<area shape="rect" id="node42" href="$classGenericChatForm.html#a251d88eb08875c63c2e52326cb25902a" title="GenericChatForm::removeFirsts\lMessages" alt="" coords="587,919,811,960"/>
+<area shape="rect" id="node43" href="$classChatLog.html#a8b0028a599e85fccf2525a28ecd1fb53" title="ChatLog::insertChatlines\lOnTop" alt="" coords="610,751,789,792"/>
+<area shape="rect" id="node47" href="$classGenericChatForm.html#ab6af4b2e382cae3fd478fa429fee3c4a" title="GenericChatForm::removeLasts\lMessages" alt="" coords="587,984,812,1025"/>
+<area shape="rect" id="node29" href="$classChatLogItem.html#a3ed46a88c68e9d06d039b4045f44094b" title="ChatLogItem::getSender" alt="" coords="893,367,1071,394"/>
+<area shape="rect" id="node30" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID. " alt="" coords="924,418,1040,445"/>
+<area shape="rect" id="node31" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="911,469,1053,495"/>
+<area shape="rect" id="node32" href="$classChatLogItem.html#af9a21f5337e65e5423c64c2a5435790c" title="ChatLogItem::getContentType" alt="" coords="876,519,1088,546"/>
+<area shape="rect" id="node33" href="$classChatLogItem.html#a361f2114d383927adb74360e970d802c" title="ChatLogItem::getContentAs\lMessage" alt="" coords="1162,385,1362,427"/>
+<area shape="rect" id="node34" href="$classChatLogItem.html#a4b62e1ff9fa0a23baaaa532257bf0054" title="ChatLogItem::getDisplayName" alt="" coords="873,266,1091,293"/>
+<area shape="rect" id="node35" href="$classChatLogItem.html#a24b78c5ac092db238d3bd2bf63113137" title="ChatLogItem::getContentAsFile" alt="" coords="1152,595,1372,622"/>
+<area shape="rect" id="node36" href="$classGenericChatForm.html#ac3ba681258ac9cdb657576dff3faa3a4" title="GenericChatForm::renderFile" alt="" coords="880,317,1084,343"/>
+<area shape="rect" id="node37" href="$classChatLogItem.html#abbd0f77880ee821cd9048ce52b514102" title="ChatLogItem::getTimestamp" alt="" coords="879,570,1085,597"/>
+<area shape="rect" id="node44" href="$classChatLog.html#a567f21568f26c365572452efd072a5f4" title="ChatLog::removeLasts" alt="" coords="899,773,1065,799"/>
+<area shape="rect" id="node45" href="$classChatLog.html#a79f16af4624ae7d2a8fa095b0f42d4ac" title="Adjusts the selections based on chatlog changing lines. " alt="" coords="879,824,1085,865"/>
+<area shape="rect" id="node46" href="$classChatLog.html#add5b362b3a0767c8d04a59beafd5c626" title="ChatLog::startResizeWorker" alt="" coords="884,722,1080,749"/>
+<area shape="rect" id="node49" href="$classChatLog.html#a33c6e0346d0a3ac59547a620d663fbad" title="ChatLog::scrollToLine" alt="" coords="622,215,777,242"/>
+<area shape="rect" id="node50" href="$classText.html#a0c99228afc1d1acbea5381e234c31c71" title="Text::visibilityChanged" alt="" coords="619,165,780,191"/>
+</map>

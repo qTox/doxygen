@@ -1,0 +1,21 @@
+<map id="Core::getStatus" name="Core::getStatus">
+<area shape="rect" id="node2" href="$classWidget.html#a2f93ad9c300a33679726d17c9045a641" title="Widget::onConnected" alt="" coords="189,71,348,98"/>
+<area shape="rect" id="node10" href="$classWidget.html#a3bd6419cad95ffbcf90fc02204d00bae" title="Widget::newMessageAlert" alt="" coords="176,173,361,199"/>
+<area shape="rect" id="node3" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="1256,173,1432,199"/>
+<area shape="rect" id="node4" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1504,179,1659,206"/>
+<area shape="rect" id="node5" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1707,179,1807,206"/>
+<area shape="rect" id="node6" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1855,179,2053,206"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2304,166,2359,193"/>
+<area shape="rect" id="node8" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="2101,191,2237,218"/>
+<area shape="rect" id="node9" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="2285,242,2377,269"/>
+<area shape="rect" id="node11" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="425,296,618,337"/>
+<area shape="rect" id="node15" href="$classWidget.html#a81bb9f8d7c59e5437912b13f262bde21" title="Widget::newGroupMessageAlert" alt="" coords="409,122,633,149"/>
+<area shape="rect" id="node19" href="$classWidget.html#a6f768ec379b8d3bc29ea71321e32eb23" title="Widget::onFriendRequestReceived" alt="" coords="681,173,916,199"/>
+<area shape="rect" id="node20" href="$classWidget.html#a0be320a889ace3ff0087af6dfe4ea3b8" title="Widget::onGroupInviteReceived" alt="" coords="412,223,631,250"/>
+<area shape="rect" id="node12" href="$classWidget.html#ac7b29a6df8a8ba6e6344c70a4c9cd799" title="Widget::incomingNotification" alt="" coords="697,325,900,351"/>
+<area shape="rect" id="node13" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="1007,274,1141,301"/>
+<area shape="rect" id="node14" href="$classWidget.html#ad2c97769f252007710adb8364ec425af" title="Widget::onFileReceiveRequested" alt="" coords="1232,369,1456,395"/>
+<area shape="rect" id="node16" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title="Widget::createGroup" alt="" coords="722,122,875,149"/>
+<area shape="rect" id="node17" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="964,71,1184,98"/>
+<area shape="rect" id="node18" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="991,122,1157,149"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="src/widget/form/settings/generalform.cpp" name="src/widget/form/settings/generalform.cpp">
+<area shape="rect" id="node2" href="$generalform_8h.html" title="generalform.h" alt="" coords="579,95,691,121"/>
+<area shape="rect" id="node7" href="$core_8h.html" title="src/core/core.h" alt="" coords="1130,169,1247,196"/>
+<area shape="rect" id="node29" href="$coreav_8h.html" title="src/core/coreav.h" alt="" coords="3737,169,3867,196"/>
+<area shape="rect" id="node34" href="$profile_8h.html" title="src/persistence/profile.h" alt="" coords="2167,95,2341,121"/>
+<area shape="rect" id="node40" href="$settings_8h.html" title="src/persistence/settings.h" alt="" coords="2366,169,2553,196"/>
+<area shape="rect" id="node45" href="$smileypack_8h.html" title="src/persistence/smileypack.h" alt="" coords="3441,169,3648,196"/>
+<area shape="rect" id="node46" href="$settingswidget_8h.html" title="src/widget/form/settingswidget.h" alt="" coords="2569,95,2797,121"/>
+<area shape="rect" id="node47" href="$style_8h.html" title="src/widget/style.h" alt="" coords="2873,95,3005,121"/>
+<area shape="rect" id="node48" href="$recursivesignalblocker_8h.html" title="src/widget/tool/recursivesignalblocker.h" alt="" coords="3095,169,3365,196"/>
+<area shape="rect" id="node49" href="$translator_8h.html" title="src/widget/translator.h" alt="" coords="2907,169,3070,196"/>
+<area shape="rect" id="node50" href="$widget_8h.html" title="src/widget/widget.h" alt="" coords="1656,95,1799,121"/>
+<area shape="rect" id="node3" href="$genericsettings_8h.html" title="genericsettings.h" alt="" coords="5,169,137,196"/>
+<area shape="rect" id="node8" href="$groupid_8h.html" title="groupid.h" alt="" coords="1197,319,1279,345"/>
+<area shape="rect" id="node10" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="415,244,618,271"/>
+<area shape="rect" id="node11" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="254,319,361,345"/>
+<area shape="rect" id="node14" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="1456,319,1660,345"/>
+<area shape="rect" id="node15" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="1287,244,1423,271"/>
+<area shape="rect" id="node16" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="1193,393,1262,420"/>
+<area shape="rect" id="node17" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="642,244,765,271"/>
+<area shape="rect" id="node18" href="$toxid_8h.html" title="toxid.h" alt="" coords="1107,319,1172,345"/>
+<area shape="rect" id="node19" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="1866,244,1938,271"/>
+<area shape="rect" id="node21" href="$status_8h.html" title="src/model/status.h" alt="" coords="1549,244,1690,271"/>
+<area shape="rect" id="node30" href="$toxcall_8h.html" title="src/core/toxcall.h" alt="" coords="3762,244,3893,271"/>
+<area shape="rect" id="node35" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="3134,244,3291,271"/>
+<area shape="rect" id="node36" href="$avatarbroadcaster_8h.html" title="src/net/avatarbroadcaster.h" alt="" coords="2911,244,3109,271"/>
+<area shape="rect" id="node37" href="$history_8h.html" title="src/persistence/history.h" alt="" coords="1866,169,2042,196"/>
+<area shape="rect" id="node39" href="$bootstrapnodeupdater_8h.html" title="src/net/bootstrapnodeupdater.h" alt="" coords="2067,169,2292,196"/>
+<area shape="rect" id="node42" href="$icoresettings_8h.html" title="src/core/icoresettings.h" alt="" coords="1957,319,2127,345"/>
+<area shape="rect" id="node43" href="$paths_8h.html" title="src/persistence/paths.h" alt="" coords="2169,319,2339,345"/>
+<area shape="rect" id="node44" href="$ifriendsettings_8h.html" title="src/persistence/ifriendsettings.h" alt="" coords="2324,244,2549,271"/>
+</map>

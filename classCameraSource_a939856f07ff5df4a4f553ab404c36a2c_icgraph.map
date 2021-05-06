@@ -1,0 +1,7 @@
+<map id="CameraSource::CameraSource" name="CameraSource::CameraSource">
+<area shape="rect" id="node2" href="$classCameraSource.html#aff3c0f2528a32a13a93df11821a6ecd6" title="Returns the singleton instance. " alt="" coords="276,81,477,108"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a685d97fbfb82dd715a6b40f25610b583" title="ToxCall::~ToxCall" alt="" coords="558,5,685,32"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="525,56,717,83"/>
+<area shape="rect" id="node5" href="$classNetCamView.html#a10889193d494b3ac0a93ff38b285cf11" title="NetCamView::show" alt="" coords="550,107,693,133"/>
+<area shape="rect" id="node6" href="$classSettingsWidget.html#a5395e06a3da833fdb83dc20ea5ccb7a1" title="SettingsWidget::Settings\lWidget" alt="" coords="532,158,711,199"/>
+</map>

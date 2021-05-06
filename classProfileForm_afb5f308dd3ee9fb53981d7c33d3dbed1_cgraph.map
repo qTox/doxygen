@@ -1,0 +1,11 @@
+<map id="ProfileForm::onChangePassClicked" name="ProfileForm::onChangePassClicked">
+<area shape="rect" id="node2" href="$classSetPasswordDialog.html#aec3edc9403f1ad00122c68b1279a609b" title="SetPasswordDialog::\lgetPassword" alt="" coords="261,5,412,47"/>
+<area shape="rect" id="node3" href="$classIProfileInfo.html#a9e209e5cd597eac2051609ca8830bee0" title="IProfileInfo::setPassword" alt="" coords="249,71,424,98"/>
+<area shape="rect" id="node4" href="$classGUI.html#aa5a1a2702c862f5ceea685f2ea435672" title="Show some text to the user. " alt="" coords="283,122,391,149"/>
+<area shape="rect" id="node5" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="472,97,600,123"/>
+<area shape="rect" id="node6" href="$classGUI.html#a264704256d4f4d7038068850e3c71a9f" title="GUI::_showInfo" alt="" coords="479,147,593,174"/>
+<area shape="rect" id="node7" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="648,147,795,174"/>
+<area shape="rect" id="node8" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="843,147,1009,174"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1057,147,1203,174"/>
+<area shape="rect" id="node10" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1251,147,1361,174"/>
+</map>

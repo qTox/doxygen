@@ -1,0 +1,5 @@
+<map id="AboutFriend::setAutoAcceptDir" name="AboutFriend::setAutoAcceptDir">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="294,5,442,32"/>
+<area shape="rect" id="node3" href="$classIFriendSettings.html#a2531e7a8461b1eaa00aa979c2948269b" title="IFriendSettings::setAuto\lAcceptDir" alt="" coords="281,57,455,98"/>
+<area shape="rect" id="node4" href="$classIFriendSettings.html#a6c65155169e5dcd349cc3ae3490bfec6" title="IFriendSettings::saveFriend\lSettings" alt="" coords="272,122,464,163"/>
+</map>

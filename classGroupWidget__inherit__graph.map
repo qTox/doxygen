@@ -1,0 +1,4 @@
+<map id="GroupWidget" name="GroupWidget">
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html" title="{GenericChatroomWidget\n|# dragStartPos\l# lastColor\l# mainLayout\l# textLayout\l# avatar\l# statusMessageLabel\l# active\l|+ GenericChatroomWidget()\l+ setAsActiveChatroom()\l+ setAsInactiveChatroom()\l+ updateStatusLight()\l+ resetEventFlags()\l+ getStatusString()\l+ getContact()\l+ getFriend()\l+ getGroup()\l+ eventFilter()\l+ isActive()\land 7 more...\l# mouseReleaseEvent()\l# enterEvent()\l# leaveEvent()\l# setActive()\l}" alt="" coords="5,359,208,744"/>
+<area shape="rect" id="node3" href="$classGenericChatItemWidget.html" title="{GenericChatItemWidget\n|+ compact\l# nameLabel\l# statusPic\l|+ GenericChatItemWidget()\l+ isCompact()\l+ setCompact()\l+ getName()\l+ searchName()\l+ reloadTheme()\l}" alt="" coords="7,131,206,311"/>
+</map>

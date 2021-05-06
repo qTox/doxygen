@@ -1,0 +1,6 @@
+<map id="NotificationGenerator::fileTransferNotification" name="NotificationGenerator::fileTransferNotification">
+<area shape="rect" id="node2" href="$classINotificationSettings.html#acc58c7a221d18da768d970b0624f3726" title="INotificationSettings\l::getNotifyHide" alt="" coords="244,5,395,47"/>
+<area shape="rect" id="node3" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="245,71,393,98"/>
+<area shape="rect" id="node4" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="224,122,415,149"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#a77e948c8760ac93847a5be0e89c4874a" title="FileTransferWidget\l::getHumanReadableSize" alt="" coords="228,173,411,215"/>
+</map>

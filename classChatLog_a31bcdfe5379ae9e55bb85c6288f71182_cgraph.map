@@ -1,0 +1,5 @@
+<map id="ChatLog::layout" name="ChatLog::layout">
+<area shape="rect" id="node2" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="219,5,344,32"/>
+<area shape="rect" id="node4" href="$classChatLine.html#a100422ac7d8adf7b0aa5f882ceccff3d" title="ChatLine::sceneBoundingRect" alt="" coords="176,56,387,83"/>
+<area shape="rect" id="node3" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title="ChatLine::updateBBox" alt="" coords="435,5,599,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ScreenGrabberChooserRectItem::forwardHandleEvent" name="ScreenGrabberChooserRectItem::forwardHandleEvent">
+<area shape="rect" id="node2" href="$classScreenGrabberChooserRectItem.html#a0b5816204154da62007e18f252d7a6ba" title="ScreenGrabberChooserRect\lItem::getHandleMultiplier" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classScreenGrabberChooserRectItem.html#a05b42fe4038d625892d26f09d48d6b2e" title="ScreenGrabberChooserRect\lItem::mousePressHandle" alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$classScreenGrabberChooserRectItem.html#a871300fe2403710183cf7ff6e3e3a7fd" title="ScreenGrabberChooserRect\lItem::mouseMoveHandle" alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node7" href="$classScreenGrabberChooserRectItem.html#a873c9a403aa509ba6ef41b68f3f7c289" title="ScreenGrabberChooserRect\lItem::mouseReleaseHandle" alt="" coords="252,201,451,243"/>
+<area shape="rect" id="node5" href="$classScreenGrabberChooserRectItem.html#a78954a7067c0bbdd621c91c069ab28fb" title="ScreenGrabberChooserRect\lItem::updateHandlePositions" alt="" coords="499,104,705,145"/>
+<area shape="rect" id="node6" href="$classScreenGrabberChooserRectItem.html#a814f941f9128e55f958474678d7b25f1" title="ScreenGrabberChooserRect\lItem::chosenRect" alt="" coords="503,169,701,211"/>
+</map>

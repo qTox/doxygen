@@ -1,0 +1,10 @@
+<map id="ChatLog::mousePressEvent" name="ChatLog::mousePressEvent">
+<area shape="rect" id="node2" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="258,31,431,57"/>
+<area shape="rect" id="node4" href="$classChatLog.html#a11df02b62b55c46caee48f3e97f3258f" title="ChatLog::handleMultiClick\lEvent" alt="" coords="252,107,437,149"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="485,5,729,32"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ae9e33f2b5235a8c5e36627d3728600bb" title="ChatLog::getContentFromPos" alt="" coords="502,56,713,83"/>
+<area shape="rect" id="node7" href="$classChatLineContent.html#abe5ddbf4f713781fc2fea1b2c4e152e2" title="ChatLineContent::selection\lTripleClick" alt="" coords="510,107,705,149"/>
+<area shape="rect" id="node8" href="$classChatLineContent.html#aad226840931e48d56d48106cf2c194fc" title="ChatLineContent::getColumn" alt="" coords="504,173,711,200"/>
+<area shape="rect" id="node9" href="$classChatLineContent.html#a901c04d57346ed90d1dcc91758d7b0e3" title="ChatLineContent::getRow" alt="" coords="516,224,699,251"/>
+<area shape="rect" id="node6" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title="ChatLine::lessThanBSRect\lBottom" alt="" coords="777,49,964,90"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Group" name="Group">
+<area shape="rect" id="node2" href="$classContact.html" title="{Contact\n||+ ~Contact()\l+ setName()\l+ getDisplayedName()\l+ getId()\l+ getPersistentId()\l+ setEventFlag()\l+ getEventFlag()\l+ useHistory()\l}" alt="" coords="5,308,175,488"/>
+<area shape="rect" id="node4" href="$classICoreGroupQuery.html" title="{ICoreGroupQuery\n||+ ~ICoreGroupQuery()\l+ getGroupPersistentId()\l+ getGroupNumberPeers()\l+ getGroupPeerName()\l+ getGroupPeerPk()\l+ getGroupPeerNames()\l+ getGroupAvEnabled()\l}" alt="" coords="199,315,394,481"/>
+<area shape="rect" id="node5" href="$classICoreIdHandler.html" title="{ICoreIdHandler\n||+ ~ICoreIdHandler()\l+ getSelfId()\l+ getSelfPublicKey()\l+ getUsername()\l}" alt="" coords="418,337,570,459"/>
+<area shape="rect" id="node6" href="$classGroupId.html" title="This class represents a long term persistent group identifier. " alt="" coords="595,330,692,466"/>
+<area shape="rect" id="node7" href="$classContactId.html" title="{ContactId\n|# id\l|+ ~ContactId()\l+ operator=()\l+ operator=()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ toString()\l+ getByteArray()\l+ getData()\l+ isEmpty()\l+ getSize()\l# ContactId()\l# ContactId()\l}" alt="" coords="578,5,709,259"/>
+</map>

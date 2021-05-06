@@ -1,0 +1,4 @@
+<map id="Settings::spellCheckingEnabledChanged" name="Settings::spellCheckingEnabledChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a50d40c14361412984654a5b7f766ddc7" title="Settings::setSpellChecking\lEnabled" alt="" coords="275,5,467,47"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#a347b2d24fae823375322ea7caa6d837b" title="GeneralForm::on_cbSpellChecking\l_stateChanged" alt="" coords="515,5,755,47"/>
+</map>

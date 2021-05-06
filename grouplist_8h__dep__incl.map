@@ -1,0 +1,23 @@
+<map id="src/grouplist.h" name="src/grouplist.h">
+<area shape="rect" id="node2" href="$grouplist_8cpp.html" title="src/grouplist.cpp" alt="" coords="291,87,417,114"/>
+<area shape="rect" id="node3" href="$ichatlog_8h.html" title="src/model/ichatlog.h" alt="" coords="1044,87,1195,114"/>
+<area shape="rect" id="node6" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="215,319,373,345"/>
+<area shape="rect" id="node8" href="$sessionchatlog_8cpp.html" title="src/model/sessionchatlog.cpp" alt="" coords="493,244,703,271"/>
+<area shape="rect" id="node13" href="$contentdialog_8cpp.html" title="src/widget/contentdialog.cpp" alt="" coords="1513,319,1717,345"/>
+<area shape="rect" id="node15" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="1742,319,1998,345"/>
+<area shape="rect" id="node19" href="$groupwidget_8cpp.html" title="src/widget/groupwidget.cpp" alt="" coords="2022,319,2217,345"/>
+<area shape="rect" id="node21" href="$friendchatroom_8cpp.html" title="src/model/chatroom\l/friendchatroom.cpp" alt="" coords="1705,80,1856,121"/>
+<area shape="rect" id="node22" href="$contentdialogmanager_8cpp.html" title="src/widget/contentdialogmanager.cpp" alt="" coords="1881,87,2142,114"/>
+<area shape="rect" id="node4" href="$chathistory_8h.html" title="src/model/chathistory.h" alt="" coords="727,244,898,271"/>
+<area shape="rect" id="node7" href="$sessionchatlog_8h.html" title="src/model/sessionchatlog.h" alt="" coords="636,169,832,196"/>
+<area shape="rect" id="node9" href="$genericchatform_8h.html" title="src/widget/form/genericchatform.h" alt="" coords="1241,169,1483,196"/>
+<area shape="rect" id="node10" href="$chatform_8h.html" title="src/widget/form/chatform.h" alt="" coords="1023,244,1218,271"/>
+<area shape="rect" id="node20" href="$loadhistorydialog_8cpp.html" title="src/widget/form/loadhistorydialog.cpp" alt="" coords="907,169,1166,196"/>
+<area shape="rect" id="node5" href="$chathistory_8cpp.html" title="src/model/chathistory.cpp" alt="" coords="5,319,191,345"/>
+<area shape="rect" id="node18" href="$groupchatform_8h.html" title="src/widget/form/groupchatform.h" alt="" coords="1247,244,1477,271"/>
+<area shape="rect" id="node11" href="$friend_8cpp.html" title="src/model/friend.cpp" alt="" coords="398,319,550,345"/>
+<area shape="rect" id="node12" href="$circlewidget_8cpp.html" title="src/widget/circlewidget.cpp" alt="" coords="575,319,765,345"/>
+<area shape="rect" id="node14" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="789,319,999,345"/>
+<area shape="rect" id="node16" href="$groupchatform_8cpp.html" title="src/widget/form/groupchatform.cpp" alt="" coords="1243,319,1489,345"/>
+<area shape="rect" id="node17" href="$friendwidget_8cpp.html" title="src/widget/friendwidget.cpp" alt="" coords="1023,319,1218,345"/>
+</map>

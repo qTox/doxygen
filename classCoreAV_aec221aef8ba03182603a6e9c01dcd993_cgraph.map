@@ -1,0 +1,7 @@
+<map id="CoreAV::sendCallVideo" name="CoreAV::sendCallVideo">
+<area shape="rect" id="node2" href="$classToxCall.html#a24f6ecbc0c73ac62cbd10ab8e958e98c" title="ToxCall::getVideoEnabled" alt="" coords="228,5,409,32"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a46ae1e53efb2bfa06d86f9f70ddfd5a8" title="ToxCall::isActive" alt="" coords="257,56,380,83"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae196472b4200030c5eed958a55ab3ae7" title="ToxFriendCall::getState" alt="" coords="235,107,402,133"/>
+<area shape="rect" id="node5" href="$classToxCall.html#ade7b91d4b876e1511fac273e743a08b4" title="ToxCall::getNullVideoBitrate" alt="" coords="220,157,417,184"/>
+<area shape="rect" id="node6" href="$classToxCall.html#a9e20e6a6bac38e37b15a8aaf3491a104" title="ToxCall::setNullVideoBitrate" alt="" coords="221,208,417,235"/>
+</map>

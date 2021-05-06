@@ -1,0 +1,21 @@
+<map id="AddFriendForm::show" name="AddFriendForm::show">
+<area shape="rect" id="node2" href="$classAddFriendForm.html#a8cbdadda64ff8b9bc035238c632589ac" title="AddFriendForm::setIdFrom\lClipboard" alt="" coords="213,114,402,155"/>
+<area shape="rect" id="node4" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title="AddFriendForm::onCurrent\lChanged" alt="" coords="212,201,403,242"/>
+<area shape="rect" id="node3" href="$classToxId.html#a833f176a68c64f7661b370209d4b2eba" title="Check, that id is probably a valid Tox ID. " alt="" coords="499,109,601,136"/>
+<area shape="rect" id="node5" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="471,160,629,187"/>
+<area shape="rect" id="node16" href="$classSettings.html#accf237ab89ab4e6f6db5311f09ee60c0" title="Settings::clearUnreadFriend\lRequests" alt="" coords="451,211,649,253"/>
+<area shape="rect" id="node17" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="466,285,634,312"/>
+<area shape="rect" id="node6" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="697,157,833,184"/>
+<area shape="rect" id="node7" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="889,56,1025,83"/>
+<area shape="rect" id="node9" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="881,157,1032,184"/>
+<area shape="rect" id="node8" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1127,5,1227,32"/>
+<area shape="rect" id="node10" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1080,56,1275,83"/>
+<area shape="rect" id="node11" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1323,81,1508,108"/>
+<area shape="rect" id="node12" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1094,157,1261,184"/>
+<area shape="rect" id="node13" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1093,208,1262,235"/>
+<area shape="rect" id="node14" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1122,259,1233,285"/>
+<area shape="rect" id="node15" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1378,259,1453,285"/>
+<area shape="rect" id="node18" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="700,303,831,329"/>
+<area shape="rect" id="node19" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="884,307,1029,333"/>
+<area shape="rect" id="node20" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1122,309,1233,336"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Profile::friendAvatarSet" name="Profile::friendAvatarSet">
+<area shape="rect" id="node2" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar. " alt="" coords="639,144,807,171"/>
+<area shape="rect" id="node19" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="2153,948,2287,975"/>
+<area shape="rect" id="node21" href="$classWidget.html#ae372211b641bd400b6aa769f1333139d" title="Widget::addFriendDialog" alt="" coords="221,759,396,785"/>
+<area shape="rect" id="node3" href="$classProfile.html#a95bfc4ae33dc4a80a48c1e2f126ab48f" title="Profile::initCore" alt="" coords="1129,93,1247,120"/>
+<area shape="rect" id="node15" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar. " alt="" coords="866,144,1025,171"/>
+<area shape="rect" id="node4" href="$classProfile.html#ae47e26ce2e5fea00de176f02df139deb" title="Locks and loads an existing profile and creates the associate Core* instance. " alt="" coords="1378,43,1513,69"/>
+<area shape="rect" id="node13" href="$classProfile.html#ad70346022a584b8c1e81c79b00f212d5" title="Creates a new profile and the associated Core* instance. " alt="" coords="1371,93,1520,120"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="3209,68,3264,95"/>
+<area shape="rect" id="node6" href="$classNexus.html#a1c57af6d4bb385fba2e601da910d64c6" title="Nexus::onLoadProfile" alt="" coords="1616,43,1772,69"/>
+<area shape="rect" id="node7" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title="Nexus::connectLoginScreen" alt="" coords="1847,93,2047,120"/>
+<area shape="rect" id="node8" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="2152,93,2288,120"/>
+<area shape="rect" id="node9" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="2429,429,2521,456"/>
+<area shape="rect" id="node10" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="2612,364,2767,391"/>
+<area shape="rect" id="node11" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="2815,299,2915,325"/>
+<area shape="rect" id="node12" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="2963,119,3161,145"/>
+<area shape="rect" id="node14" href="$classNexus.html#ac0ec013e4903e8f1c4b4bba022be413c" title="Creates a new profile and replaces the current one. " alt="" coords="1597,93,1791,120"/>
+<area shape="rect" id="node16" href="$classProfile.html#a1c2f8f882e3a6eabddfb28c74b4455cf" title="Removes our own avatar. " alt="" coords="1097,144,1279,171"/>
+<area shape="rect" id="node18" href="$classProfile.html#a96521eeac50c8caf3753755699e59d25" title="Removes friend avatar. " alt="" coords="1089,195,1287,221"/>
+<area shape="rect" id="node17" href="$classProfileInfo.html#a49d3b257510a92ea761b5bd12403e440" title="Remove self avatar. " alt="" coords="1354,144,1537,171"/>
+<area shape="rect" id="node20" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="2387,879,2563,905"/>
+<area shape="rect" id="node22" href="$classWidget.html#a9e0305229bb57666c2228c49fb59ba8f" title="Widget::openDialog" alt="" coords="444,759,589,785"/>
+<area shape="rect" id="node29" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="1081,531,1295,557"/>
+<area shape="rect" id="node47" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="1597,827,1791,869"/>
+<area shape="rect" id="node23" href="$classWidget.html#aee76ea812a6baac001a581324e9532c1" title="Widget::onChatroomWidget\lClicked" alt="" coords="1596,971,1792,1013"/>
+<area shape="rect" id="node27" href="$classWidget.html#a8b019d7946683af0eacf69650da666d4" title="Widget::openNewDialog" alt="" coords="637,885,809,912"/>
+<area shape="rect" id="node24" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title="Widget::createGroup" alt="" coords="1871,1139,2024,1165"/>
+<area shape="rect" id="node25" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="2110,1125,2330,1152"/>
+<area shape="rect" id="node26" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="2137,1024,2303,1051"/>
+<area shape="rect" id="node28" href="$classWidget.html#a0eb8943737c2603a50735fd4681f11bb" title="Widget::addGroupDialog" alt="" coords="857,720,1033,747"/>
+<area shape="rect" id="node30" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="1343,531,1548,557"/>
+<area shape="rect" id="node50" href="$classWidget.html#ace15a543e8b3e60142630db958be498b" title="Widget::connectCircleWidget" alt="" coords="1344,337,1547,364"/>
+<area shape="rect" id="node31" href="$classWidget.html#af01d90acedeee89d47df3f07c4fb60bb" title="Widget::onSeparateWindow\lChanged" alt="" coords="1850,246,2045,287"/>
+<area shape="rect" id="node33" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="1615,632,1773,659"/>
+<area shape="rect" id="node39" href="$classWidget.html#ac17fbd5de998fad14d0711014e9ddc71" title="Widget::onGroupClicked" alt="" coords="1607,733,1781,760"/>
+<area shape="rect" id="node42" href="$classWidget.html#a6f0a4f3fef72b277d13a25158a9b09b7" title="Widget::onTransferClicked" alt="" coords="2128,261,2312,288"/>
+<area shape="rect" id="node43" href="$classWidget.html#a8bd76efae0a0b8d08f0c8f1ea7e01222" title="Widget::onShowSettings" alt="" coords="1606,371,1782,397"/>
+<area shape="rect" id="node46" href="$classWidget.html#a6c7ca15e3638ea90ca7eeebaa79239cf" title="Widget::showProfile" alt="" coords="1622,505,1766,532"/>
+<area shape="rect" id="node32" href="$classWidget.html#a0c49ff49e9ccbfe82084436fd59fe93b" title="Widget::onSeparateWindow\lClicked" alt="" coords="2123,313,2317,354"/>
+<area shape="rect" id="node34" href="$classWidget.html#afeb18b9fa9a2822cbe3c36a73f1a1baf" title="Widget::removeFriend" alt="" coords="1867,683,2027,709"/>
+<area shape="rect" id="node35" href="$classWidget.html#a29e878bb6df8cb3b0b5cc9b22592ae60" title="Widget::removeGroup" alt="" coords="1867,632,2028,659"/>
+<area shape="rect" id="node36" href="$classWidget.html#a8e61126cba34b3361e9f86d8a40b78cd" title="Widget::friendRequestsUpdate" alt="" coords="1840,581,2055,608"/>
+<area shape="rect" id="node37" href="$classWidget.html#a6f768ec379b8d3bc29ea71321e32eb23" title="Widget::onFriendRequestReceived" alt="" coords="2103,708,2337,735"/>
+<area shape="rect" id="node38" href="$classWidget.html#a14db0c793f7c623b55320cabcb7cbe1f" title="Widget::retranslateUi" alt="" coords="2142,759,2298,785"/>
+<area shape="rect" id="node40" href="$classWidget.html#a82e5c2dd8ca0915943e7753f56d2068e" title="Widget::groupInvitesUpdate" alt="" coords="1848,784,2047,811"/>
+<area shape="rect" id="node41" href="$classWidget.html#a0be320a889ace3ff0087af6dfe4ea3b8" title="Widget::onGroupInviteReceived" alt="" coords="2111,809,2329,836"/>
+<area shape="rect" id="node44" href="$classWidget.html#a7edf2a9d7c349daf3319300c552be3c8" title="Switches to the About settings page. " alt="" coords="1840,363,2055,405"/>
+<area shape="rect" id="node45" href="$classWidget.html#a5ba14b9f1d63f60448ebbd1fb6c02e0e" title="Widget::onBadProxyCore" alt="" coords="2385,295,2564,321"/>
+<area shape="rect" id="node48" href="$classWidget.html#ac7b29a6df8a8ba6e6344c70a4c9cd799" title="Widget::incomingNotification" alt="" coords="1846,885,2049,912"/>
+<area shape="rect" id="node49" href="$classWidget.html#ad2c97769f252007710adb8364ec425af" title="Widget::onFileReceiveRequested" alt="" coords="2108,860,2332,887"/>
+</map>

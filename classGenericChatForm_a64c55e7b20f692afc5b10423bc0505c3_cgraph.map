@@ -1,0 +1,4 @@
+<map id="GenericChatForm::onSendTriggered" name="GenericChatForm::onSendTriggered">
+<area shape="rect" id="node2" href="$classChatTextEdit.html#a1464c98ff1b68c7fc5af1835d707f82f" title="ChatTextEdit::setLastMessage" alt="" coords="303,5,516,32"/>
+<area shape="rect" id="node3" href="$classIMessageDispatcher.html#a717366726b6aeb6455a34554a6055aac" title="Sends message to associated chat. " alt="" coords="334,57,485,98"/>
+</map>

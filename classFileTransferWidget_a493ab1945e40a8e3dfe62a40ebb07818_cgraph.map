@@ -1,0 +1,5 @@
+<map id="FileTransferWidget::showPreview" name="FileTransferWidget::showPreview">
+<area shape="rect" id="node2" href="$namespaceExifTransform.html#a05040d424b8c08d36efc8f94d9325050" title="ExifTransform::getOrientation" alt="" coords="207,5,413,32"/>
+<area shape="rect" id="node3" href="$namespaceExifTransform.html#af906e696c75dfa97215bd9e86f3a400b" title="ExifTransform::applyTransformation" alt="" coords="188,56,432,83"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a1ec7fcde2d0013ec685f63a44ef738eb" title="FileTransferWidget\l::scaleCropIntoSquare" alt="" coords="229,107,391,149"/>
+</map>

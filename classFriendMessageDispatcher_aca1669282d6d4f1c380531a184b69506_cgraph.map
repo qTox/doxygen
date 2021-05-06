@@ -1,0 +1,4 @@
+<map id="FriendMessageDispatcher::onReceiptReceived" name="FriendMessageDispatcher::onReceiptReceived">
+<area shape="rect" id="node2" href="$classOfflineMsgEngine.html#a481282c0e7bad82ad07d504505917aa8" title="Notification that the message is now delivered. " alt="" coords="240,5,441,47"/>
+<area shape="rect" id="node3" href="$classOfflineMsgEngine_1_1ReceiptResolver.html#a8ff606d8fdb4ad1ca5749357cdfc233b" title="OfflineMsgEngine::Receipt\lResolver::notifyReceiptReceived" alt="" coords="489,5,709,47"/>
+</map>

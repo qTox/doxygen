@@ -1,0 +1,44 @@
+<map id="LoginScreen::LoginScreen" name="LoginScreen::LoginScreen">
+<area shape="rect" id="node2" href="$classLoginScreen.html#adab9c6b1bdfe11c0da5871ddd4508e87" title="LoginScreen::onNewProfile\lPageClicked" alt="" coords="259,39,450,80"/>
+<area shape="rect" id="node3" href="$classLoginScreen.html#ab5811b73b7670c7834f3fb15b419f07c" title="LoginScreen::onLoginPage\lClicked" alt="" coords="259,104,450,146"/>
+<area shape="rect" id="node4" href="$classLoginScreen.html#a0e02949bcd7de793e93f6fc54a093da3" title="LoginScreen::onCreateNew\lProfile" alt="" coords="516,146,711,187"/>
+<area shape="rect" id="node18" href="$classLoginScreen.html#a133220005b416d6ae000d3e06e37a377" title="LoginScreen::onLogin" alt="" coords="275,373,434,400"/>
+<area shape="rect" id="node20" href="$classLoginScreen.html#af0d47235d3fd6dc46fe517f43bd09c8a" title="LoginScreen::onLoginUsername\lSelected" alt="" coords="241,424,468,466"/>
+<area shape="rect" id="node22" href="$classLoginScreen.html#aff055cfd0583b5ff590d11738ea89275" title="LoginScreen::onPasswordEdited" alt="" coords="243,490,467,517"/>
+<area shape="rect" id="node24" href="$classLoginScreen.html#a357737b986bc297cd89f0e9cb19987e1" title="LoginScreen::onAutoLogin\lCheckboxChanged" alt="" coords="260,542,449,583"/>
+<area shape="rect" id="node25" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title="LoginScreen::onImportProfile" alt="" coords="251,170,458,197"/>
+<area shape="rect" id="node28" href="$classLoginScreen.html#a0f4294515145af8429170543f0b0b57f" title="Resets the UI, clears all fields. " alt="" coords="542,229,685,256"/>
+<area shape="rect" id="node32" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="279,322,430,349"/>
+<area shape="rect" id="node42" href="$classLoginScreen.html#adbdf35ad56f4c766879643103fe6bf97" title="LoginScreen::retranslateUi" alt="" coords="259,608,451,634"/>
+<area shape="rect" id="node43" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="259,658,450,685"/>
+<area shape="rect" id="node5" href="$classProfile.html#af6f4a8a10ccb1b5fc1c2d89e0df0d0a7" title="Profile::exists" alt="" coords="1047,133,1153,160"/>
+<area shape="rect" id="node6" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1273,222,1431,249"/>
+<area shape="rect" id="node12" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2169,197,2355,224"/>
+<area shape="rect" id="node17" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title="Settings::getPaths" alt="" coords="1283,96,1421,122"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1523,298,1659,325"/>
+<area shape="rect" id="node8" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1735,349,1871,376"/>
+<area shape="rect" id="node10" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1728,298,1879,325"/>
+<area shape="rect" id="node9" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1974,501,2074,528"/>
+<area shape="rect" id="node11" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1927,248,2121,274"/>
+<area shape="rect" id="node13" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1941,349,2107,376"/>
+<area shape="rect" id="node14" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1939,298,2109,325"/>
+<area shape="rect" id="node15" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1969,450,2079,477"/>
+<area shape="rect" id="node16" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2225,450,2299,477"/>
+<area shape="rect" id="node19" href="$classProfileLocker.html#ad97674e5a4a673cd43219f8c25ab0e1b" title="Checks if a profile is currently locked by another instance. If we own the lock, we consider it locka..." alt="" coords="525,381,702,408"/>
+<area shape="rect" id="node21" href="$classProfile.html#ad494b5afe5db73a0d2a7be2f71a2052c" title="Checks, if profile has a password. " alt="" coords="542,432,685,458"/>
+<area shape="rect" id="node23" href="$classSetPasswordDialog.html#acbfb2c90c22a7535feebad2b9c3edbc7" title="SetPasswordDialog::\lgetPasswordStrength" alt="" coords="534,483,693,524"/>
+<area shape="rect" id="node26" href="$classProfileImporter.html#a496a2b3130d477be2426ed1182895cd8" title="Try to import Tox profile. " alt="" coords="997,82,1203,109"/>
+<area shape="rect" id="node27" href="$classProfileImporter.html#ad5eb563ac79a45600f5737019a222507" title="Asks the user a question with Yes/No choices. " alt="" coords="1251,45,1453,72"/>
+<area shape="rect" id="node29" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed. " alt="" coords="759,229,949,256"/>
+<area shape="rect" id="node30" href="$classProfile.html#aabeadb45eb2baabb1c5d257bc831f6ad" title="Lists all the files in the config dir with a given extension. " alt="" coords="1023,184,1177,210"/>
+<area shape="rect" id="node31" href="$classSettings.html#a1b9737021f5dcb9f3e0de008a4e8c982" title="Write a default personal .ini settings file for a profile. " alt="" coords="1501,374,1680,401"/>
+<area shape="rect" id="node33" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="771,280,937,306"/>
+<area shape="rect" id="node37" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="559,330,667,357"/>
+<area shape="rect" id="node34" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1017,336,1183,362"/>
+<area shape="rect" id="node35" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1023,386,1177,413"/>
+<area shape="rect" id="node36" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1261,386,1443,413"/>
+<area shape="rect" id="node38" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="791,381,917,408"/>
+<area shape="rect" id="node39" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="785,482,923,509"/>
+<area shape="rect" id="node41" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="811,330,897,357"/>
+<area shape="rect" id="node40" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1042,482,1158,509"/>
+</map>

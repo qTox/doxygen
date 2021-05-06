@@ -1,0 +1,4 @@
+<map id="Chatroom" name="Chatroom">
+<area shape="rect" id="node2" href="$classFriendChatroom.html" title="{FriendChatroom\n|&#45; active\l&#45; frnd\l&#45; dialogsManager\l&#45; core\l|+ FriendChatroom()\l+ getContact()\l+ getFriend()\l+ setActive()\l+ canBeInvited()\l+ getCircleId()\l+ getCircleName()\l+ inviteToNewGroup()\l+ inviteFriend()\l+ autoAcceptEnabled()\l+ getAutoAcceptDir()\l+ disableAutoAccept()\land 8 more...\l}" alt="" coords="5,131,176,428"/>
+<area shape="rect" id="node3" href="$classGroupChatroom.html" title="{GroupChatroom\n|&#45; group\l&#45; dialogsManager\l&#45; core\l|+ GroupChatroom()\l+ getContact()\l+ getGroup()\l+ hasNewMessage()\l+ resetEventFlags()\l+ friendExists()\l+ inviteFriend()\l+ possibleToOpenInNewWindow()\l+ canBeRemovedFromWindow()\l+ removeGroupFromDialogs()\l}" alt="" coords="201,160,431,399"/>
+</map>

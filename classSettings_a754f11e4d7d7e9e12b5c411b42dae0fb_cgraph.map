@@ -1,0 +1,12 @@
+<map id="Settings::getInstance" name="Settings::getInstance">
+<area shape="rect" id="node2" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="212,81,348,108"/>
+<area shape="rect" id="node3" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="403,31,539,57"/>
+<area shape="rect" id="node5" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="396,132,547,159"/>
+<area shape="rect" id="node4" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="642,5,742,32"/>
+<area shape="rect" id="node6" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="595,56,789,83"/>
+<area shape="rect" id="node7" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="837,81,1023,108"/>
+<area shape="rect" id="node8" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="609,157,775,184"/>
+<area shape="rect" id="node9" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="607,208,777,235"/>
+<area shape="rect" id="node10" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="637,259,747,285"/>
+<area shape="rect" id="node11" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="893,259,967,285"/>
+</map>

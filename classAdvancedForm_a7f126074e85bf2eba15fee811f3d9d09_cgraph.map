@@ -1,0 +1,25 @@
+<map id="AdvancedForm::AdvancedForm" name="AdvancedForm::AdvancedForm">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="560,107,719,133"/>
+<area shape="rect" id="node13" href="$classSettings.html#a4f022919834935eb1d5bd095bdcc9101" title="Settings::getEnableIPv6" alt="" coords="305,52,479,79"/>
+<area shape="rect" id="node14" href="$classSettings.html#aa0eba5b3bd1aa54c52a95e950f587b5a" title="Settings::getProxyAddr" alt="" coords="307,103,477,129"/>
+<area shape="rect" id="node15" href="$classSettings.html#a1fedabbce788fe1a4f29362a90567be6" title="Settings::getProxyPort" alt="" coords="309,153,475,180"/>
+<area shape="rect" id="node16" href="$classSettings.html#a733ea826935339156196917570941db5" title="Settings::getProxyType" alt="" coords="309,204,475,231"/>
+<area shape="rect" id="node17" href="$classAdvancedForm.html#a04651f510a708e6c1566fe768ad973ad" title="AdvancedForm::on_proxyType\l_currentIndexChanged" alt="" coords="286,255,498,297"/>
+<area shape="rect" id="node20" href="$classSettings.html#a7c8c81aa265f65fcfdde03f8e6db8cc0" title="Settings::getForceTCP" alt="" coords="311,321,473,348"/>
+<area shape="rect" id="node21" href="$classSettings.html#a6ffefa70731c8b1e27c2731d1ef4e8c3" title="Settings::getEnableLanDiscovery" alt="" coords="276,372,508,399"/>
+<area shape="rect" id="node22" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll. " alt="" coords="305,423,479,449"/>
+<area shape="rect" id="node23" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="297,473,487,500"/>
+<area shape="rect" id="node24" href="$classAdvancedForm.html#a046c1e7da640fc82a2d5d4e4d62a7ce9" title="Retranslate all elements in the form. " alt="" coords="287,524,497,551"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="771,107,907,133"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="962,31,1098,57"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="955,132,1105,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1201,5,1301,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1153,56,1348,83"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1396,81,1581,108"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1167,157,1334,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1166,208,1335,235"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1195,259,1306,285"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1451,259,1526,285"/>
+<area shape="rect" id="node18" href="$classSettings.html#a69f9d8e0466066847849cbd614342d98" title="Settings::setProxyType" alt="" coords="556,263,723,289"/>
+<area shape="rect" id="node19" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="777,263,900,289"/>
+</map>

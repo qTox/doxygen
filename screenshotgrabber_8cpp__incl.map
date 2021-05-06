@@ -1,0 +1,22 @@
+<map id="src/widget/tool/screenshotgrabber.cpp" name="src/widget/tool/screenshotgrabber.cpp">
+<area shape="rect" id="node2" href="$screenshotgrabber_8h.html" title="screenshotgrabber.h" alt="" coords="1931,80,2086,107"/>
+<area shape="rect" id="node15" href="$screengrabberchooserrectitem_8h.html" title="screengrabberchooserrectitem.h" alt="" coords="1486,80,1718,107"/>
+<area shape="rect" id="node17" href="$screengrabberoverlayitem_8h.html" title="screengrabberoverlayitem.h" alt="" coords="1259,80,1462,107"/>
+<area shape="rect" id="node18" href="$toolboxgraphicsitem_8h.html" title="toolboxgraphicsitem.h" alt="" coords="1742,80,1906,107"/>
+<area shape="rect" id="node21" href="$widget_8h.html" title="src/widget/widget.h" alt="" coords="3529,80,3672,107"/>
+<area shape="rect" id="node26" href="$genericchatitemwidget_8h.html" title="genericchatitemwidget.h" alt="" coords="3772,155,3951,181"/>
+<area shape="rect" id="node31" href="$core_8h.html" title="src/core/core.h" alt="" coords="2532,155,2650,181"/>
+<area shape="rect" id="node32" href="$groupid_8h.html" title="groupid.h" alt="" coords="3012,304,3095,331"/>
+<area shape="rect" id="node40" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="3179,379,3248,405"/>
+<area shape="rect" id="node42" href="$toxid_8h.html" title="toxid.h" alt="" coords="3222,304,3288,331"/>
+<area shape="rect" id="node43" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="2002,229,2074,256"/>
+<area shape="rect" id="node49" href="$friendmessagedispatcher_8h.html" title="src/model/friendmessagedispatcher.h" alt="" coords="3097,155,3360,181"/>
+<area shape="rect" id="node50" href="$groupmessagedispatcher_8h.html" title="src/model/groupmessagedispatcher.h" alt="" coords="3384,155,3646,181"/>
+<area shape="rect" id="node35" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="2759,229,2962,256"/>
+<area shape="rect" id="node36" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="2398,304,2504,331"/>
+<area shape="rect" id="node38" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="3442,229,3646,256"/>
+<area shape="rect" id="node39" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="2986,229,3122,256"/>
+<area shape="rect" id="node41" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="3295,229,3418,256"/>
+<area shape="rect" id="node44" href="$status_8h.html" title="src/model/status.h" alt="" coords="1836,229,1978,256"/>
+<area shape="rect" id="node33" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="2980,453,3128,480"/>
+</map>

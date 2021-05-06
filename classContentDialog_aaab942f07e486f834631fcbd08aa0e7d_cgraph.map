@@ -1,0 +1,6 @@
+<map id="ContentDialog::dragEnterEvent" name="ContentDialog::dragEnterEvent">
+<area shape="rect" id="node2" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="259,5,410,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="261,56,409,83"/>
+<area shape="rect" id="node4" href="$classContentDialog.html#a4bdc2c24dd5212fc2e339dc569103c01" title="ContentDialog::hasContact" alt="" coords="237,107,432,133"/>
+<area shape="rect" id="node5" href="$classGroupList.html#aaf9ef63d9f79b41f19356fa0e59255e7" title="GroupList::findGroup" alt="" coords="258,157,411,184"/>
+</map>

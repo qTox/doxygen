@@ -1,0 +1,17 @@
+<map id="CircleWidget::onAddFriendWidget" name="CircleWidget::onAddFriendWidget">
+<area shape="rect" id="node2" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="249,8,420,35"/>
+<area shape="rect" id="node3" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="261,59,409,85"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="255,109,414,136"/>
+<area shape="rect" id="node15" href="$classSettings.html#a166c57a193cb7b627a6a5ff01763de6e" title="Settings::setFriendCircleID" alt="" coords="240,161,429,188"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="506,107,642,133"/>
+<area shape="rect" id="node6" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="726,31,862,57"/>
+<area shape="rect" id="node8" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="719,132,869,159"/>
+<area shape="rect" id="node7" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="965,5,1065,32"/>
+<area shape="rect" id="node9" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="917,56,1112,83"/>
+<area shape="rect" id="node10" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1160,81,1345,108"/>
+<area shape="rect" id="node11" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="931,157,1098,184"/>
+<area shape="rect" id="node12" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="930,208,1099,235"/>
+<area shape="rect" id="node13" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="959,259,1070,285"/>
+<area shape="rect" id="node14" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1215,259,1290,285"/>
+<area shape="rect" id="node16" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="477,158,671,199"/>
+</map>

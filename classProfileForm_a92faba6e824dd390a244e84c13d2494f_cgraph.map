@@ -1,0 +1,11 @@
+<map id="ProfileForm::onAvatarClicked" name="ProfileForm::onAvatarClicked">
+<area shape="rect" id="node2" href="$classProfileForm.html#abd239134e31e7e6ad98e36f6112f1cf2" title="ProfileForm::getSupported\lImageFilter" alt="" coords="257,5,448,47"/>
+<area shape="rect" id="node3" href="$classIProfileInfo.html#a67da2373767fda04cb11998d46cfa041" title="IProfileInfo::setAvatar" alt="" coords="275,71,431,98"/>
+<area shape="rect" id="node4" href="$classGUI.html#af7a20885f4bda93998e9832eeb4f8c2c" title="Show an error to the user. " alt="" coords="295,122,411,149"/>
+<area shape="rect" id="node5" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="867,110,1033,137"/>
+<area shape="rect" id="node8" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="496,122,624,149"/>
+<area shape="rect" id="node9" href="$classGUI.html#a1feecde036a99e13477c786560ee641b" title="GUI::_showError" alt="" coords="499,173,621,199"/>
+<area shape="rect" id="node6" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1081,110,1227,137"/>
+<area shape="rect" id="node7" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1275,110,1385,137"/>
+<area shape="rect" id="node10" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="672,147,819,174"/>
+</map>

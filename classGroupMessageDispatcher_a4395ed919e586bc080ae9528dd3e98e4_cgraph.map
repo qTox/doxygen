@@ -1,0 +1,5 @@
+<map id="GroupMessageDispatcher::sendExtendedMessage" name="GroupMessageDispatcher::sendExtendedMessage">
+<area shape="rect" id="node2" href="$classMessageProcessor.html#a645c60c98eddd3994ae7abc5eb82b5ca" title="Converts an outgoing message into one (or many) sanitized Message(s) " alt="" coords="240,39,440,80"/>
+<area shape="rect" id="node3" href="$classMessageProcessor_1_1SharedParams.html#af0fee5e2aabac04fc6faa1881e19c32d" title="MessageProcessor::Shared\lParams::getMaxExtendedMessageSize" alt="" coords="488,5,757,47"/>
+<area shape="rect" id="node4" href="$classMessageProcessor_1_1SharedParams.html#aa67f2472da51c023022cc194e5df0780" title="MessageProcessor::Shared\lParams::getMaxCoreMessageSize" alt="" coords="503,71,742,112"/>
+</map>

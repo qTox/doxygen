@@ -1,0 +1,48 @@
+<map id="AVForm::trackNewScreenGeometry" name="AVForm::trackNewScreenGeometry">
+<area shape="rect" id="node2" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="301,56,475,83"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a0c850b94fc3e7abb9a579c6d5428adf0" title="AVForm::getAudioInDevices" alt="" coords="529,5,727,32"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a7327cc4f3cc4394c3c93d465b5dc2ebd" title="AVForm::getAudioOutDevices" alt="" coords="523,56,733,83"/>
+<area shape="rect" id="node5" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="535,107,721,133"/>
+<area shape="rect" id="node6" href="$classIVideoSettings.html#a04641cdda615647b943157714cc2150c" title="IVideoSettings::getVideoDev" alt="" coords="781,56,985,83"/>
+<area shape="rect" id="node7" href="$classCameraDevice.html#a68fe877af30ae067d85da383c59eed7d" title="Get device list with desciption. " alt="" coords="1619,115,1829,141"/>
+<area shape="rect" id="node13" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="782,365,985,392"/>
+<area shape="rect" id="node8" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default. " alt="" coords="2139,50,2329,91"/>
+<area shape="rect" id="node9" href="$namespaceDirectShow.html#a3ad4d4c773c079adde6f4f0964183fcb" title="DirectShow::getDeviceList" alt="" coords="1891,116,2077,143"/>
+<area shape="rect" id="node10" href="$namespacev4l2.html#afd254d0d2ba893c98349483280fc3320" title="v4l2::getDeviceList" alt="" coords="1913,167,2055,193"/>
+<area shape="rect" id="node11" href="$namespaceavfoundation.html#ac3912d2558e0da9f0c481164e45a3758" title="avfoundation::getDeviceList" alt="" coords="1885,217,2083,244"/>
+<area shape="rect" id="node12" href="$classCameraDevice.html#a7336fe048554c670f5eeeb1f1f466038" title="Get raw device list. " alt="" coords="1877,50,2091,91"/>
+<area shape="rect" id="node14" href="$classCameraDevice.html#a05e23314ed75f460845c7e81844fdd5c" title="Get the list of video modes for a device. " alt="" coords="1050,611,1273,637"/>
+<area shape="rect" id="node15" href="$classCameraDevice.html#a99f7ee01ff1dadfd682627890bf3d639" title="Checks if a device name specifies a display. " alt="" coords="1365,535,1543,561"/>
+<area shape="rect" id="node20" href="$classAVForm.html#aeb961181f0ec244ad02b8dbdaf349af5" title="AVForm::fillScreenModesComboBox" alt="" coords="1036,340,1287,367"/>
+<area shape="rect" id="node23" href="$classAVForm.html#aa2325ea35f7f5063fad40a8d1323dd6b" title="AVForm::selectBestModes" alt="" coords="1067,839,1256,865"/>
+<area shape="rect" id="node29" href="$classAVForm.html#a5662623779cfe3c705d58396f5719db4" title="AVForm::fillCameraModesComboBox" alt="" coords="1033,391,1289,417"/>
+<area shape="rect" id="node30" href="$classAVForm.html#ac41371f32324ada2a0c8331524b745ea" title="AVForm::searchPreferredIndex" alt="" coords="1053,157,1269,184"/>
+<area shape="rect" id="node33" href="$classIVideoSettings.html#a019e9e0b5a1419d224d8e9f5e026cdc7" title="IVideoSettings::setScreen\lGrabbed" alt="" coords="1068,209,1255,250"/>
+<area shape="rect" id="node34" href="$classAVForm.html#ad2b6d3251dcb777464153d7f2e713127" title="AVForm::open" alt="" coords="1105,441,1217,468"/>
+<area shape="rect" id="node47" href="$classIVideoSettings.html#a267b8d8d04d9f3722ab15c343f830daa" title="IVideoSettings::getScreen\lRegion" alt="" coords="1067,274,1255,315"/>
+<area shape="rect" id="node16" href="$classCameraDevice.html#a445e5484dc771f323ddd97775d11f2ba" title="Get list of resolutions and position of screens. " alt="" coords="1338,636,1570,663"/>
+<area shape="rect" id="node17" href="$namespaceDirectShow.html#a1e4ebf2f9078001f6bc23cfd4d058315" title="DirectShow::getDeviceModes" alt="" coords="1351,687,1557,713"/>
+<area shape="rect" id="node18" href="$namespacev4l2.html#a1a4811c518dde911fa328dc19a04e5a4" title="v4l2::getDeviceModes" alt="" coords="1373,737,1535,764"/>
+<area shape="rect" id="node19" href="$namespaceavfoundation.html#aea5e4b308b0557afea164d8ae7f40459" title="avfoundation::getDeviceModes" alt="" coords="1345,585,1563,612"/>
+<area shape="rect" id="node21" href="$classCameraDevice.html#a332e9caac6a1306df2a64ef67feb29e7" title="Get the name of the pixel format of a video mode. " alt="" coords="1344,266,1564,307"/>
+<area shape="rect" id="node22" href="$namespacev4l2.html#a07cc34a50812f9f0e7ae7afba4347eb5" title="v4l2::getPixelFormatString" alt="" coords="2139,323,2329,349"/>
+<area shape="rect" id="node24" href="$structVideoMode.html#a4f0a7f83485d0f1d4ef82dbace3d60a0" title="VideoMode::norm" alt="" coords="1387,839,1521,865"/>
+<area shape="rect" id="node25" href="$structVideoMode.html#a27595d6b4f4390aa7bd7b6eafeb5e7d0" title="VideoMode::tolerance" alt="" coords="1373,889,1535,916"/>
+<area shape="rect" id="node26" href="$classCameraDevice.html#a25308c2e3a8a51225d35da8348e707b4" title="Compare two pixel formats. " alt="" coords="1358,941,1550,982"/>
+<area shape="rect" id="node28" href="$classAVForm.html#ab09487f52fcb64c5c409efbb046fd356" title="AVForm::getModeSize" alt="" coords="1373,788,1535,815"/>
+<area shape="rect" id="node27" href="$namespacev4l2.html#a9f0ec59fff492a2049aa1c9d4cf97799" title="v4l2::betterPixelFormat" alt="" coords="1639,948,1809,975"/>
+<area shape="rect" id="node31" href="$classIVideoSettings.html#aea130239249a15106e08e5e9f0a0f0ee" title="IVideoSettings::getCamVideoRes" alt="" coords="1339,208,1569,235"/>
+<area shape="rect" id="node32" href="$classIVideoSettings.html#aea5eea95da79855f24374e6013d122ef" title="IVideoSettings::getCamVideoFPS" alt="" coords="1337,157,1571,184"/>
+<area shape="rect" id="node35" href="$structVideoMode.html#a31494019a0e9ac665f0db47af100b10b" title="VideoMode::toRect" alt="" coords="1383,433,1525,460"/>
+<area shape="rect" id="node36" href="$classIVideoSettings.html#a6d469663b11143b5c209be812361728c" title="IVideoSettings::setCamVideoRes" alt="" coords="1339,484,1569,511"/>
+<area shape="rect" id="node37" href="$classIVideoSettings.html#aa649cdfc48e8be590a539bc67b4efccd" title="IVideoSettings::setCamVideoFPS" alt="" coords="1338,332,1570,359"/>
+<area shape="rect" id="node38" href="$classCameraSource.html#af9add1ef2031e2c35fb09e3a75bb92c1" title="Change the device and mode. " alt="" coords="1351,383,1557,409"/>
+<area shape="rect" id="node39" href="$classCameraSource.html#a3cbf9f978255ddaf522941d6603231f6" title="Closes the video device and stops streaming. " alt="" coords="1623,373,1825,400"/>
+<area shape="rect" id="node42" href="$classCameraSource.html#a8feedbf91ec5c596003144d0cacd1807" title="Opens the video device and starts streaming. " alt="" coords="1623,424,1825,451"/>
+<area shape="rect" id="node40" href="$classVideoFrame.html#a979d1ff7ddbb8bc13a4a77143a433f7f" title="Untracks all the frames for the given VideoSource, releasing them if specified. " alt="" coords="1883,323,2085,349"/>
+<area shape="rect" id="node41" href="$classCameraDevice.html#a85adc6040ff8cf4d49009902a4eb309d" title="Closes the device. Never fails. " alt="" coords="1905,373,2063,400"/>
+<area shape="rect" id="node43" href="$classCameraDevice.html#ada4c5ffa63328de35c7965818ffaaa4a" title="Opens a device. " alt="" coords="1906,424,2062,451"/>
+<area shape="rect" id="node45" href="$classCameraSource.html#a64c38c6f510cf63da910f7095d4b276f" title="Blocking. Decodes video stream and emits new frames. " alt="" coords="1898,475,2070,501"/>
+<area shape="rect" id="node44" href="$classCameraDevice.html#aba87c77c9bea25351eca0c32e67aa7f8" title="Opens the device again. Never fails. " alt="" coords="2156,424,2312,451"/>
+<area shape="rect" id="node46" href="$classVideoFrame.html#a1bca3ccca0fe614db7474e748c263422" title="Causes the VideoFrame class to maintain an internal reference for the frame. " alt="" coords="2145,475,2323,501"/>
+</map>

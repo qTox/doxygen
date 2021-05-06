@@ -1,0 +1,8 @@
+<map id="ChatTextEdit::pasteImage" name="ChatTextEdit::pasteImage">
+<area shape="rect" id="node2" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="257,5,413,32"/>
+<area shape="rect" id="node3" href="$classChatTextEdit.html#a04b526eeef7bb7c84a6f93d70b3d74b0" title="ChatTextEdit::pasteIfImage" alt="" coords="239,56,431,83"/>
+<area shape="rect" id="node4" href="$classChatTextEdit.html#acdde78140dfbb742caa9b9157ae1ce6e" title="ChatTextEdit::keyPressEvent" alt="" coords="479,56,681,83"/>
+<area shape="rect" id="node5" href="$classChatTextEdit.html#aea5e18e908ab2f1ecdf9fe9c7cbbf427" title="ChatTextEdit::sendKeyEvent" alt="" coords="729,56,928,83"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#a92900c8df54e2233c4e91f68272880e7" title="GenericChatForm::event" alt="" coords="976,31,1155,57"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#a4382ccc031dd677f2a0edcbf05dfb527" title="GenericChatForm::eventFilter" alt="" coords="1203,56,1411,83"/>
+</map>

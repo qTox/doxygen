@@ -1,0 +1,13 @@
+<map id="src/platform/autorun_xdg.cpp" name="src/platform/autorun_xdg.cpp">
+<area shape="rect" id="node3" href="$settings_8h.html" title="src/persistence/settings.h" alt="" coords="1341,95,1528,121"/>
+<area shape="rect" id="node31" href="$autorun_8h.html" title="src/platform/autorun.h" alt="" coords="1552,95,1717,121"/>
+<area shape="rect" id="node5" href="$icoresettings_8h.html" title="src/core/icoresettings.h" alt="" coords="1032,169,1203,196"/>
+<area shape="rect" id="node10" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="699,169,856,196"/>
+<area shape="rect" id="node13" href="$toxfile_8h.html" title="src/core/toxfile.h" alt="" coords="881,169,1007,196"/>
+<area shape="rect" id="node16" href="$paths_8h.html" title="src/persistence/paths.h" alt="" coords="1227,169,1397,196"/>
+<area shape="rect" id="node18" href="$ifriendsettings_8h.html" title="src/persistence/ifriendsettings.h" alt="" coords="242,169,467,196"/>
+<area shape="rect" id="node21" href="$igroupsettings_8h.html" title="src/persistence/igroupsettings.h" alt="" coords="1472,169,1699,196"/>
+<area shape="rect" id="node22" href="$inotificationsettings_8h.html" title="src/persistence/inotificationsettings.h" alt="" coords="1723,169,1981,196"/>
+<area shape="rect" id="node23" href="$ivideosettings_8h.html" title="src/video/ivideosettings.h" alt="" coords="491,169,674,196"/>
+<area shape="rect" id="node14" href="$toxfilepause_8h.html" title="src/core/toxfilepause.h" alt="" coords="938,244,1105,271"/>
+</map>

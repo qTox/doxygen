@@ -1,0 +1,26 @@
+<map id="src/widget/widget.h" name="src/widget/widget.h">
+<area shape="rect" id="node7" href="$genericchatitemwidget_8h.html" title="genericchatitemwidget.h" alt="" coords="648,80,827,107"/>
+<area shape="rect" id="node12" href="$core_8h.html" title="src/core/core.h" alt="" coords="2856,304,2973,331"/>
+<area shape="rect" id="node13" href="$groupid_8h.html" title="groupid.h" alt="" coords="1235,453,1317,480"/>
+<area shape="rect" id="node26" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="1573,528,1643,555"/>
+<area shape="rect" id="node29" href="$toxid_8h.html" title="toxid.h" alt="" coords="1905,453,1970,480"/>
+<area shape="rect" id="node30" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="3888,379,3960,405"/>
+<area shape="rect" id="node41" href="$friendmessagedispatcher_8h.html" title="src/model/friendmessagedispatcher.h" alt="" coords="2541,80,2803,107"/>
+<area shape="rect" id="node49" href="$groupmessagedispatcher_8h.html" title="src/model/groupmessagedispatcher.h" alt="" coords="1667,80,1930,107"/>
+<area shape="rect" id="node20" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="3407,379,3609,405"/>
+<area shape="rect" id="node21" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="2905,453,3012,480"/>
+<area shape="rect" id="node24" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="2507,379,2711,405"/>
+<area shape="rect" id="node25" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="1493,379,1629,405"/>
+<area shape="rect" id="node28" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="1704,379,1827,405"/>
+<area shape="rect" id="node33" href="$status_8h.html" title="src/model/status.h" alt="" coords="2736,379,2877,405"/>
+<area shape="rect" id="node14" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="1534,603,1682,629"/>
+<area shape="rect" id="node31" href="$toxfilepause_8h.html" title="src/core/toxfilepause.h" alt="" coords="4026,453,4193,480"/>
+<area shape="rect" id="node42" href="$friend_8h.html" title="src/model/friend.h" alt="" coords="2345,229,2482,256"/>
+<area shape="rect" id="node45" href="$imessagedispatcher_8h.html" title="src/model/imessagedispatcher.h" alt="" coords="2112,155,2341,181"/>
+<area shape="rect" id="node46" href="$message_8h.html" title="src/model/message.h" alt="" coords="2557,229,2717,256"/>
+<area shape="rect" id="node48" href="$offlinemsgengine_8h.html" title="src/persistence/offlinemsgengine.h" alt="" coords="2793,155,3037,181"/>
+<area shape="rect" id="node43" href="$contact_8h.html" title="contact.h" alt="" coords="1971,304,2053,331"/>
+<area shape="rect" id="node44" href="$extension_8h.html" title="src/core/extension.h" alt="" coords="2566,304,2717,331"/>
+<area shape="rect" id="node47" href="$brokenmessagereason_8h.html" title="src/model/brokenmessagereason.h" alt="" coords="2021,229,2269,256"/>
+<area shape="rect" id="node50" href="$group_8h.html" title="src/model/group.h" alt="" coords="1453,229,1592,256"/>
+</map>

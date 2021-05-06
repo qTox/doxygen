@@ -1,0 +1,4 @@
+<map id="CoreAV::audioFrameCallback" name="CoreAV::audioFrameCallback">
+<area shape="rect" id="node2" href="$classToxCall.html#a8b29c0a502c544eeb3823a3884c47a41" title="ToxCall::getMuteVol" alt="" coords="271,5,417,32"/>
+<area shape="rect" id="node3" href="$classToxFriendCall.html#a278f1cbc7636cda357df55a55cc08643" title="ToxFriendCall::playAudio\lBuffer" alt="" coords="257,57,431,98"/>
+</map>

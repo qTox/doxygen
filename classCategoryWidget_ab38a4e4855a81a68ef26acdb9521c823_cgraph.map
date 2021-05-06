@@ -1,0 +1,21 @@
+<map id="CategoryWidget::mouseReleaseEvent" name="CategoryWidget::mouseReleaseEvent">
+<area shape="rect" id="node2" href="$classCategoryWidget.html#a18244f18d8cb90aa44a1fc658f02a65e" title="CategoryWidget::setExpanded" alt="" coords="277,107,492,133"/>
+<area shape="rect" id="node3" href="$classCategoryWidget.html#a3a3fd497cdd9c5bb9e3a0b85ef950510" title="CategoryWidget::isExpanded" alt="" coords="540,56,744,83"/>
+<area shape="rect" id="node4" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="567,107,717,133"/>
+<area shape="rect" id="node20" href="$classCategoryWidget.html#a4a0d3de71cd2bc2329711142919c196f" title="CategoryWidget::onExpand" alt="" coords="545,157,739,184"/>
+<area shape="rect" id="node5" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="792,81,959,108"/>
+<area shape="rect" id="node7" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1013,132,1167,159"/>
+<area shape="rect" id="node6" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1007,81,1173,108"/>
+<area shape="rect" id="node8" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1233,107,1391,133"/>
+<area shape="rect" id="node19" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1221,157,1403,184"/>
+<area shape="rect" id="node9" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1451,107,1587,133"/>
+<area shape="rect" id="node10" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1642,31,1778,57"/>
+<area shape="rect" id="node12" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1635,132,1785,159"/>
+<area shape="rect" id="node11" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1881,5,1981,32"/>
+<area shape="rect" id="node13" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1833,56,2028,83"/>
+<area shape="rect" id="node14" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2076,81,2261,108"/>
+<area shape="rect" id="node15" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1847,157,2014,184"/>
+<area shape="rect" id="node16" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1846,208,2015,235"/>
+<area shape="rect" id="node17" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1875,259,1986,285"/>
+<area shape="rect" id="node18" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2131,259,2206,285"/>
+</map>

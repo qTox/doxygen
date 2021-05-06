@@ -1,0 +1,51 @@
+<map id="Widget::onCoreChanged" name="Widget::onCoreChanged">
+<area shape="rect" id="node2" href="$classWidget.html#a2f93ad9c300a33679726d17c9045a641" title="Widget::onConnected" alt="" coords="277,31,435,57"/>
+<area shape="rect" id="node4" href="$classWidget.html#a2a30a98260a3a8c874ade9e9b84b9e50" title="Widget::onDisconnected" alt="" coords="268,107,444,133"/>
+<area shape="rect" id="node5" href="$classWidget.html#a6a2d4c62b47692ca2ee6bd218311905f" title="Widget::onStatusSet" alt="" coords="279,157,433,184"/>
+<area shape="rect" id="node9" href="$classWidget.html#a2baa3c1ff94ea61a06e2ffffc3c6a229" title="Widget::setUsername" alt="" coords="276,249,436,276"/>
+<area shape="rect" id="node10" href="$classWidget.html#ab3def901c3227c462b2598a68d7dc972" title="Widget::setStatusMessage" alt="" coords="260,300,452,327"/>
+<area shape="rect" id="node11" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="289,452,423,479"/>
+<area shape="rect" id="node13" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="573,208,715,235"/>
+<area shape="rect" id="node19" href="$classCore.html#a54577a68691f7f8385c9304cb1464b6c" title="Core::getExt" alt="" coords="593,864,695,891"/>
+<area shape="rect" id="node25" href="$classWidget.html#aa36c69544969e8172cf6ea2ef29f1b05" title="Widget::addFriendFailed" alt="" coords="271,604,441,631"/>
+<area shape="rect" id="node26" href="$classWidget.html#a0f64f5f316c4cf48c02973a1e6b460fb" title="Widget::onFriendUsername\lChanged" alt="" coords="259,655,453,697"/>
+<area shape="rect" id="node27" href="$classWidget.html#a0a73b280e77524b83c9e96906d9b7a6c" title="Widget::onCoreFriendStatus\lChanged" alt="" coords="257,721,455,762"/>
+<area shape="rect" id="node28" href="$classWidget.html#a7c2b815480c9409502059bde473cba0a" title="Widget::onFriendStatusMessage\lChanged" alt="" coords="243,786,469,827"/>
+<area shape="rect" id="node29" href="$classWidget.html#a6f768ec379b8d3bc29ea71321e32eb23" title="Widget::onFriendRequestReceived" alt="" coords="239,401,473,428"/>
+<area shape="rect" id="node30" href="$classWidget.html#a733970614ee2a5d28d8678e5986eda6e" title="Widget::onFriendMessageReceived" alt="" coords="236,852,476,879"/>
+<area shape="rect" id="node31" href="$classWidget.html#acb94f0305fe2cdf89bfc02882bbba60c" title="Widget::onReceiptReceived" alt="" coords="261,903,451,929"/>
+<area shape="rect" id="node32" href="$classWidget.html#a0be320a889ace3ff0087af6dfe4ea3b8" title="Widget::onGroupInviteReceived" alt="" coords="535,915,753,941"/>
+<area shape="rect" id="node33" href="$classWidget.html#aea24861685d0286b7c8e8358cf03a158" title="Widget::onGroupMessageReceived" alt="" coords="235,953,477,980"/>
+<area shape="rect" id="node34" href="$classWidget.html#a31a8fd9d41a45ee0f2f1c97269e71aee" title="Widget::onGroupPeerlistChanged" alt="" coords="240,1004,472,1031"/>
+<area shape="rect" id="node35" href="$classWidget.html#a99a21d49a4d4d9d432707e6f99bb9abc" title="Widget::onGroupPeerNameChanged" alt="" coords="229,1055,483,1081"/>
+<area shape="rect" id="node36" href="$classWidget.html#a881dfef107da2511ce437335e06b1847" title="Widget::onGroupTitleChanged" alt="" coords="251,1105,461,1132"/>
+<area shape="rect" id="node37" href="$classWidget.html#a6f7c4bb02beee11cbd872010c18fc55a" title="Widget::onGroupPeerAudio\lPlaying" alt="" coords="259,1157,453,1198"/>
+<area shape="rect" id="node38" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="246,1223,466,1249"/>
+<area shape="rect" id="node39" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="273,1273,439,1300"/>
+<area shape="rect" id="node40" href="$classWidget.html#a9309adf815503f36316a64de377c0b88" title="Widget::onFriendTypingChanged" alt="" coords="245,1324,467,1351"/>
+<area shape="rect" id="node41" href="$classWidget.html#ad846d5be6a1c930e92047d1d910ff550" title="Widget::onGroupSendFailed" alt="" coords="257,1375,455,1401"/>
+<area shape="rect" id="node42" href="$classWidget.html#acb4e80b952403d3cc23b8e9d6c1603cc" title="Widget::refreshPeerLists\lLocal" alt="" coords="268,1477,444,1518"/>
+<area shape="rect" id="node43" href="$classCore.html#a6db1a3c431ef63160d3d112ac7079604" title="Gets self public key. " alt="" coords="562,1455,726,1481"/>
+<area shape="rect" id="node44" href="$classWidget.html#a4e864101626bd8dd4e8c5f60acdd0abb" title="Widget::onFriendExtMessage\lReceived" alt="" coords="254,1542,458,1583"/>
+<area shape="rect" id="node45" href="$classWidget.html#a52511f33646c2386552035df17863941" title="Widget::onExtReceiptReceived" alt="" coords="251,1608,461,1635"/>
+<area shape="rect" id="node46" href="$classWidget.html#a7d6a1bed064a612385b132702a0e4b9a" title="Widget::onExtendedMessage\lSupport" alt="" coords="253,1659,459,1701"/>
+<area shape="rect" id="node47" href="$classCore.html#a5b8c6efa6f9f43de6cdf2f52c6eda79f" title="Core::setStatus" alt="" coords="295,1725,417,1752"/>
+<area shape="rect" id="node48" href="$classCore.html#a1581da2a89ec3a0886aa576e51b2a0d0" title="Core::requestFriendship" alt="" coords="269,1776,443,1803"/>
+<area shape="rect" id="node49" href="$classCore.html#a0531d37ae78cdbaf5c59e18f8038c662" title="Core::acceptFriendRequest" alt="" coords="260,1827,452,1853"/>
+<area shape="rect" id="node50" href="$classCore.html#a7eda75082564c09e09df3ed6ac48532c" title="Core::changeGroupTitle" alt="" coords="270,1877,442,1904"/>
+<area shape="rect" id="node3" href="$classCore.html#a678a842bb26b85d9e30b0a332716986b" title="Returns our user status. " alt="" coords="583,5,705,32"/>
+<area shape="rect" id="node6" href="$classWidget.html#a4d9d8b0792fb069d5998eac7aaf6ead0" title="Widget::prepareIcon" alt="" coords="569,107,719,133"/>
+<area shape="rect" id="node7" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="571,157,717,184"/>
+<area shape="rect" id="node8" href="$classWidget.html#a6c7a3d2c72dea0136164108dec6e96e6" title="Widget::updateIcons" alt="" coords="569,56,719,83"/>
+<area shape="rect" id="node12" href="$classSettings.html#a790419429d37bb53d292211e37730456" title="Settings::updateFriendAddress" alt="" coords="535,712,753,739"/>
+<area shape="rect" id="node14" href="$classFriendList.html#aeca02e324803c1b2791fcd677265e2d7" title="FriendList::addFriend" alt="" coords="568,763,720,789"/>
+<area shape="rect" id="node15" href="$classContentDialogManager.html#adf636d0f1287a0dc33246e7287691c2e" title="ContentDialogManager\l::getInstance" alt="" coords="822,310,991,351"/>
+<area shape="rect" id="node16" href="$classWidget.html#a8971b12493d4a407d3142c6a609d3b53" title="Widget::connectFriendWidget" alt="" coords="541,813,747,840"/>
+<area shape="rect" id="node17" href="$classWidget.html#ab223ccd9f265fb55d44d9cf227048f01" title="Widget::updateFriendActivity" alt="" coords="805,813,1008,840"/>
+<area shape="rect" id="node18" href="$classProfile.html#a86935da89fafad74f461e98d6670d7df" title="Get chat history. " alt="" coords="577,477,711,504"/>
+<area shape="rect" id="node20" href="$classFriendListWidget.html#a0f32d3e1231ebd8a1a95624513ec4449" title="FriendListWidget::addFriend\lWidget" alt="" coords="547,529,741,570"/>
+<area shape="rect" id="node21" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="547,310,741,351"/>
+<area shape="rect" id="node22" href="$classWidget.html#ae408fc2cade1cc67f6510a959e8424be" title="Widget::onFriendAliasChanged" alt="" coords="537,595,751,621"/>
+<area shape="rect" id="node23" href="$classWidget.html#a577db95c97ff689190c29f6cf0e2ee39" title="Widget::onFriendDisplayed\lNameChanged" alt="" coords="549,646,739,687"/>
+<area shape="rect" id="node24" href="$classWidget.html#aa7ad264c25896fcea6eabee883116722" title="Widget::onFriendStatusChanged" alt="" coords="531,376,757,403"/>
+</map>

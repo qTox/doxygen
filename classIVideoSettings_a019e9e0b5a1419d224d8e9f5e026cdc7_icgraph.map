@@ -1,0 +1,11 @@
+<map id="IVideoSettings::setScreenGrabbed" name="IVideoSettings::setScreenGrabbed">
+<area shape="rect" id="node2" href="$classAVForm.html#aa9450a6689adde55df0d1e86fd7c3234" title="AVForm::on_videoModescombo\lBox_currentIndexChanged" alt="" coords="1003,78,1226,119"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="240,141,443,168"/>
+<area shape="rect" id="node5" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="491,20,721,62"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="1287,194,1460,221"/>
+<area shape="rect" id="node6" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="513,220,699,246"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="782,245,930,272"/>
+<area shape="rect" id="node8" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="769,321,943,348"/>
+<area shape="rect" id="node9" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="1308,372,1439,398"/>
+<area shape="rect" id="node10" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="991,346,1239,373"/>
+</map>

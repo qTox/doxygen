@@ -1,0 +1,9 @@
+<map id="GroupMessageDispatcher::sendMessage" name="GroupMessageDispatcher::sendMessage">
+<area shape="rect" id="node2" href="$classMessageProcessor.html#a645c60c98eddd3994ae7abc5eb82b5ca" title="Converts an outgoing message into one (or many) sanitized Message(s) " alt="" coords="240,37,440,79"/>
+<area shape="rect" id="node5" href="$classGroup.html#a6205352efb17034c6636642e89f26a9f" title="Group::getPeersCount" alt="" coords="258,103,422,130"/>
+<area shape="rect" id="node6" href="$classICoreGroupMessageSender.html#a850b7bfb9ff72d309983d2bbcb8679a4" title="ICoreGroupMessageSender\l::sendGroupAction" alt="" coords="241,155,439,196"/>
+<area shape="rect" id="node7" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="289,221,391,247"/>
+<area shape="rect" id="node8" href="$classICoreGroupMessageSender.html#a514777b4e4343bf4923e604b249a781e" title="ICoreGroupMessageSender\l::sendGroupMessage" alt="" coords="241,272,439,313"/>
+<area shape="rect" id="node3" href="$classMessageProcessor_1_1SharedParams.html#af0fee5e2aabac04fc6faa1881e19c32d" title="MessageProcessor::Shared\lParams::getMaxExtendedMessageSize" alt="" coords="488,5,757,47"/>
+<area shape="rect" id="node4" href="$classMessageProcessor_1_1SharedParams.html#aa67f2472da51c023022cc194e5df0780" title="MessageProcessor::Shared\lParams::getMaxCoreMessageSize" alt="" coords="503,71,742,112"/>
+</map>

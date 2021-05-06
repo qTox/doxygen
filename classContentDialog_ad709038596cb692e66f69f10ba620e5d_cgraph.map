@@ -1,0 +1,51 @@
+<map id="ContentDialog::addFriend" name="ContentDialog::addFriend">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="259,202,417,228"/>
+<area shape="rect" id="node13" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title="FriendListLayout::addFriend\lWidget" alt="" coords="488,249,683,290"/>
+<area shape="rect" id="node19" href="$classContentDialog.html#a8ceb9ec47bc57b9c5fb0ec3d98911bd3" title="Update friend widget name and position. " alt="" coords="236,308,440,349"/>
+<area shape="rect" id="node22" href="$classContentDialog.html#aa8ee86efddba67e9b4132850b7805ce5" title="ContentDialog::setStatus\lMessage" alt="" coords="247,373,429,414"/>
+<area shape="rect" id="node23" href="$classContentDialog.html#ad823b3ce8772328eef8024f61bd046e6" title="Show ContentDialog, activate chatroom widget. " alt="" coords="252,620,424,647"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="517,198,653,224"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="752,198,888,224"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="745,122,895,148"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1013,243,1113,270"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="965,40,1160,67"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1216,15,1401,42"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="979,91,1146,118"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="978,142,1147,168"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1253,247,1364,274"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1494,247,1569,274"/>
+<area shape="rect" id="node14" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="733,314,907,356"/>
+<area shape="rect" id="node18" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title="GenericChatItemLayout\l::addSortedWidget" alt="" coords="733,249,907,290"/>
+<area shape="rect" id="node15" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="957,294,1168,336"/>
+<area shape="rect" id="node16" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1222,353,1395,394"/>
+<area shape="rect" id="node17" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1449,360,1613,387"/>
+<area shape="rect" id="node20" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="510,315,661,342"/>
+<area shape="rect" id="node21" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="755,398,885,424"/>
+<area shape="rect" id="node24" href="$classContentLayout.html#a1975e7c8e9d7df7a2e9fbc6a39fd7cd1" title="ContentLayout::clear" alt="" coords="508,679,663,706"/>
+<area shape="rect" id="node25" href="$classGenericChatroomWidget.html#a8bad475d4a08ad812ee535a03c232e74" title="GenericChatroomWidget\l::setAsInactiveChatroom" alt="" coords="496,730,675,772"/>
+<area shape="rect" id="node26" href="$classGenericChatroomWidget.html#a193f7bae714e7bdc2fa59b8e47aff674" title="GenericChatroomWidget\l::getContact" alt="" coords="496,796,675,837"/>
+<area shape="rect" id="node27" href="$classContact.html#a94bf1cd136a00dd894614cca1901850b" title="Contact::getPersistentId" alt="" coords="497,862,673,888"/>
+<area shape="rect" id="node28" href="$classGenericChatroomWidget.html#a11206e1a3d9ce26eaea8bccc0e34e980" title="GenericChatroomWidget\l::setAsActiveChatroom" alt="" coords="496,417,675,458"/>
+<area shape="rect" id="node29" href="$classGenericChatroomWidget.html#a3558f62ffc5d4f8389b02fd23f69698a" title="GenericChatroomWidget\l::resetEventFlags" alt="" coords="496,482,675,524"/>
+<area shape="rect" id="node30" href="$classGenericChatroomWidget.html#a396495200786e011fee6fb3eb73626f5" title="GenericChatroomWidget\l::updateStatusLight" alt="" coords="496,548,675,589"/>
+<area shape="rect" id="node31" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon. " alt="" coords="489,613,681,654"/>
+<area shape="rect" id="node32" href="$classGenericChatroomWidget.html#af647c5bd4201c6ec14e2cd949999345b" title="GenericChatroomWidget\l::getTitle" alt="" coords="973,477,1152,518"/>
+<area shape="rect" id="node34" href="$classGenericChatroomWidget.html#a5c205d1613e2e396fbdb89ab1dc3770b" title="GenericChatroomWidget\l::getGroup" alt="" coords="731,738,909,780"/>
+<area shape="rect" id="node48" href="$classGenericChatroomWidget.html#a23173b4233af494aa6c48ce433a6a035" title="GenericChatroomWidget\l::getFriend" alt="" coords="731,804,909,845"/>
+<area shape="rect" id="node49" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="747,483,893,510"/>
+<area shape="rect" id="node33" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title="GenericChatroomWidget\l::getStatusString" alt="" coords="1219,477,1398,518"/>
+<area shape="rect" id="node35" href="$classGenericChatroomWidget.html#a75b361770b7c449f50aa9f2df8c76bf7" title="GenericChatroomWidget\l::eventFilter" alt="" coords="973,1000,1152,1041"/>
+<area shape="rect" id="node36" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title="GenericChatroomWidget\l::isActive" alt="" coords="973,1065,1152,1106"/>
+<area shape="rect" id="node37" href="$classGenericChatroomWidget.html#af00168ae7ab62d19eca2b14e94bbfbaf" title="GenericChatroomWidget\l::setName" alt="" coords="973,1196,1152,1237"/>
+<area shape="rect" id="node39" href="$classGenericChatroomWidget.html#a3e92d0f2f57ef8b4be4890301557f4c8" title="GenericChatroomWidget\l::setStatusMsg" alt="" coords="973,1130,1152,1172"/>
+<area shape="rect" id="node40" href="$classGenericChatroomWidget.html#a60626f17959aa1e5418fc9c48e91e401" title="GenericChatroomWidget\l::getStatusMsg" alt="" coords="973,542,1152,584"/>
+<area shape="rect" id="node41" href="$classGenericChatroomWidget.html#a73724f8e99fee905bcb51b95cd197fa7" title="GenericChatroomWidget\l::activate" alt="" coords="973,608,1152,649"/>
+<area shape="rect" id="node42" href="$classGenericChatroomWidget.html#ae2cbfdef580df734f6f1fa6cc7c22857" title="GenericChatroomWidget\l::compactChange" alt="" coords="973,412,1152,453"/>
+<area shape="rect" id="node43" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title="GenericChatroomWidget\l::reloadTheme" alt="" coords="973,673,1152,714"/>
+<area shape="rect" id="node44" href="$classGenericChatroomWidget.html#a392e93c2c1c86982b441de947403ba29" title="GenericChatroomWidget\l::mouseReleaseEvent" alt="" coords="973,738,1152,780"/>
+<area shape="rect" id="node45" href="$classGenericChatroomWidget.html#adec7a2b3d6eab5b59dcf420e64b3efb4" title="GenericChatroomWidget\l::enterEvent" alt="" coords="973,804,1152,845"/>
+<area shape="rect" id="node46" href="$classGenericChatroomWidget.html#a0fbab87369ba7e55d8ed5b0984a1cfe2" title="GenericChatroomWidget\l::leaveEvent" alt="" coords="973,869,1152,910"/>
+<area shape="rect" id="node47" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title="GenericChatroomWidget\l::setActive" alt="" coords="973,934,1152,976"/>
+<area shape="rect" id="node38" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="1225,1171,1392,1198"/>
+<area shape="rect" id="node50" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="981,360,1145,387"/>
+</map>

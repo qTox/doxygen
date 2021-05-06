@@ -1,0 +1,5 @@
+<map id="ChatLine::getContent" name="ChatLine::getContent">
+<area shape="rect" id="node2" href="$classChatMessage.html#ae52bd3ba89aa55a25a7a2a4317eb47a8" title="ChatMessage::toString" alt="" coords="223,5,391,32"/>
+<area shape="rect" id="node3" href="$classChatMessage.html#a85068e4ba4dc0f64d3501781618e765f" title="ChatMessage::hideSender" alt="" coords="212,56,403,83"/>
+<area shape="rect" id="node4" href="$classChatMessage.html#af934a2a6a3753113b8b07961f90bf311" title="ChatMessage::hideDate" alt="" coords="220,107,395,133"/>
+</map>

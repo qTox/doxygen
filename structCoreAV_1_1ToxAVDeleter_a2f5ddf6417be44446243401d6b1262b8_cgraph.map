@@ -1,0 +1,21 @@
+<map id="CoreAV::ToxAVDeleter::operator()" name="CoreAV::ToxAVDeleter::operator()">
+<area shape="rect" id="node2" href="$classCoreAV.html#a3f815bf87d1e79c27b2683458055d6a1" title="CoreAV::CoreAV" alt="" coords="213,275,336,301"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#ad6aa4216c003e23fb2a2567d239ed573" title="CoreAV::connectCallbacks" alt="" coords="384,224,571,251"/>
+<area shape="rect" id="node15" href="$classCoreAV.html#ab808429e714fa181e9191dcc42611dc5" title="CoreAV::audioFrameCallback" alt="" coords="620,376,824,403"/>
+<area shape="rect" id="node18" href="$classCoreAV.html#a8b9fc6cf0fa6f37e622fb43546d6db50" title="CoreAV::videoFrameCallback" alt="" coords="621,427,823,453"/>
+<area shape="rect" id="node20" href="$classCoreAV.html#a0cec8056fb0fbcd6af2ff182a9ebcfb3" title="CoreAV::process" alt="" coords="414,300,541,327"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#aa35cb6ba40f996fa8080da51d9e3306c" title="CoreAV::callCallback" alt="" coords="647,173,797,200"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#a7e1df21d4ab194a847548b2e5933a63e" title="CoreAV::stateCallback" alt="" coords="641,224,803,251"/>
+<area shape="rect" id="node13" href="$classCoreAV.html#a5ffd68827c233398de18e9bb97a6224d" title="CoreAV::audioBitrateCallback" alt="" coords="619,72,825,99"/>
+<area shape="rect" id="node14" href="$classCoreAV.html#af2e8b8565b9728ebc4eba772c2e167b5" title="CoreAV::videoBitrateCallback" alt="" coords="619,123,825,149"/>
+<area shape="rect" id="node6" href="$classToxFriendCall.html#ae196472b4200030c5eed958a55ab3ae7" title="ToxFriendCall::getState" alt="" coords="897,123,1064,149"/>
+<area shape="rect" id="node7" href="$classToxCall.html#a82772647ab86dca63abcf114ccd5c32c" title="ToxCall::setActive" alt="" coords="915,173,1047,200"/>
+<area shape="rect" id="node8" href="$classToxCall.html#a24f6ecbc0c73ac62cbd10ab8e958e98c" title="ToxCall::getVideoEnabled" alt="" coords="890,224,1071,251"/>
+<area shape="rect" id="node9" href="$classToxFriendCall.html#ae375bdc0acfedf54da491aeec748944e" title="ToxFriendCall::setState" alt="" coords="897,275,1064,301"/>
+<area shape="rect" id="node10" href="$classToxCall.html#a2b2ba6bba61e54f703f46a868aa27c3b" title="ToxCall::getVideoSource" alt="" coords="893,325,1068,352"/>
+<area shape="rect" id="node11" href="$classCoreVideoSource.html#ae0fd7ae1b057d641669b5427796f22f0" title="Stopping the source. " alt="" coords="873,5,1088,32"/>
+<area shape="rect" id="node12" href="$classCoreVideoSource.html#a6b682ef3178ea66eb0e58da35b827e76" title="CoreVideoSource::restart\lSource" alt="" coords="889,57,1073,98"/>
+<area shape="rect" id="node16" href="$classToxCall.html#a8b29c0a502c544eeb3823a3884c47a41" title="ToxCall::getMuteVol" alt="" coords="908,376,1053,403"/>
+<area shape="rect" id="node17" href="$classToxFriendCall.html#a278f1cbc7636cda357df55a55cc08643" title="ToxFriendCall::playAudio\lBuffer" alt="" coords="894,427,1067,469"/>
+<area shape="rect" id="node19" href="$classCoreVideoSource.html#a874b46673e90beded7bfd7b33ad04975" title="Makes a copy of the vpx_image_t and emits it as a new VideoFrame. " alt="" coords="875,493,1087,520"/>
+</map>

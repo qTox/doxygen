@@ -1,0 +1,27 @@
+<map id="ChatForm::onScreenshotClicked" name="ChatForm::onScreenshotClicked">
+<area shape="rect" id="node2" href="$classChatForm.html#ad818082e302b100fe7ac90b12eb5ddd6" title="ChatForm::doScreenshot" alt="" coords="301,317,483,344"/>
+<area shape="rect" id="node21" href="$classGenericChatForm.html#a28ed52eb28a80188a9adf9223e0102d2" title="GenericChatForm::hideFileMenu" alt="" coords="280,416,504,443"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a5d4fda8f8b4cc18bb4bb1ca84a36aed8" title="ChatForm::sendImage" alt="" coords="552,208,716,235"/>
+<area shape="rect" id="node18" href="$classScreenshotGrabber.html#a9d95a4c820e5c1dbe83b2bdeb8eb7421" title="ScreenshotGrabber::\lshowGrabber" alt="" coords="557,310,711,351"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="764,107,923,133"/>
+<area shape="rect" id="node15" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="778,157,909,184"/>
+<area shape="rect" id="node16" href="$classCoreFile.html#a5fb9ee55a3b897ce59e92231801b8a00" title="CoreFile::sendFile" alt="" coords="778,208,909,235"/>
+<area shape="rect" id="node17" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="793,259,893,285"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="971,107,1107,133"/>
+<area shape="rect" id="node6" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1162,31,1298,57"/>
+<area shape="rect" id="node8" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1155,132,1305,159"/>
+<area shape="rect" id="node7" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1401,5,1501,32"/>
+<area shape="rect" id="node9" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1353,56,1548,83"/>
+<area shape="rect" id="node10" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1596,81,1781,108"/>
+<area shape="rect" id="node11" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1367,157,1534,184"/>
+<area shape="rect" id="node12" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1366,208,1535,235"/>
+<area shape="rect" id="node13" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1395,259,1506,285"/>
+<area shape="rect" id="node14" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1651,259,1726,285"/>
+<area shape="rect" id="node19" href="$classScreenshotGrabber.html#adca61b007fe86428c06597bffa3ded74" title="ScreenshotGrabber::\lgrabScreen" alt="" coords="766,310,921,351"/>
+<area shape="rect" id="node20" href="$classScreenshotGrabber.html#a28d8a9f0d5c8c28b32b719edc1249db7" title="ScreenshotGrabber::\ladjustTooltipPosition" alt="" coords="766,375,921,417"/>
+<area shape="rect" id="node22" href="$classFlyoutOverlayWidget.html#a823ec10f062bc07dff6a949e09c14292" title="FlyoutOverlayWidget\l::isShown" alt="" coords="559,375,709,417"/>
+<area shape="rect" id="node23" href="$classFlyoutOverlayWidget.html#aa768bd1848882db048fcb7b31acf357f" title="FlyoutOverlayWidget\l::isBeingShown" alt="" coords="559,441,709,482"/>
+<area shape="rect" id="node25" href="$classFlyoutOverlayWidget.html#a0e3c6999c666bcb69f4af49f0dc80479" title="FlyoutOverlayWidget\l::animateHide" alt="" coords="559,506,709,547"/>
+<area shape="rect" id="node24" href="$classFlyoutOverlayWidget.html#abc0794450d6d6cd2b23dad08d166cc3a" title="FlyoutOverlayWidget\l::isBeingAnimated" alt="" coords="768,441,919,482"/>
+<area shape="rect" id="node26" href="$classFlyoutOverlayWidget.html#abecb66e0bf7787c549c08ae009479c1a" title="FlyoutOverlayWidget\l::startAnimation" alt="" coords="768,506,919,547"/>
+</map>

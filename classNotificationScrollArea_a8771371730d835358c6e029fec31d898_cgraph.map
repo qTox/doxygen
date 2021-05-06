@@ -1,0 +1,6 @@
+<map id="NotificationScrollArea::NotificationScrollArea" name="NotificationScrollArea::NotificationScrollArea">
+<area shape="rect" id="node2" href="$classNotificationScrollArea.html#a8a63f717ad51d6e080a6c6f67e317dd6" title="Delete notification bar from visible elements on scroll area. " alt="" coords="220,39,384,80"/>
+<area shape="rect" id="node3" href="$classNotificationScrollArea.html#a3898d9b087fc634583d804d52578e89e" title="Delete notification bar from visible elements and widget on scroll area. " alt="" coords="432,39,591,80"/>
+<area shape="rect" id="node4" href="$classNotificationScrollArea.html#a5f255cd196738c2582438f8c3ffb74ca" title="NotificationScrollArea\l::widgetVisible" alt="" coords="652,5,811,47"/>
+<area shape="rect" id="node5" href="$classNotificationEdgeWidget.html#ad8ee5664ad08c1fe50ddb22e591648e5" title="NotificationEdgeWidget\l::updateNotificationCount" alt="" coords="639,71,824,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/chatlog/content/text.h" name="src/chatlog/content/text.h">
+<area shape="rect" id="node2" href="$chatlog_8cpp.html" title="src/chatlog/chatlog.cpp" alt="" coords="5,102,176,129"/>
+<area shape="rect" id="node3" href="$chatmessage_8cpp.html" title="src/chatlog/chatmessage.cpp" alt="" coords="63,191,273,218"/>
+<area shape="rect" id="node4" href="$timestamp_8h.html" title="src/chatlog/content\l/timestamp.h" alt="" coords="251,95,397,136"/>
+<area shape="rect" id="node7" href="$text_8cpp.html" title="src/chatlog/content\l/text.cpp" alt="" coords="421,95,566,136"/>
+<area shape="rect" id="node8" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="590,102,799,129"/>
+<area shape="rect" id="node9" href="$groupchatform_8cpp.html" title="src/widget/form/groupchatform.cpp" alt="" coords="823,102,1070,129"/>
+<area shape="rect" id="node5" href="$timestamp_8cpp.html" title="src/chatlog/content\l/timestamp.cpp" alt="" coords="298,184,443,225"/>
+<area shape="rect" id="node6" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="468,191,724,218"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ChatTextEdit::enterPressed" name="ChatTextEdit::enterPressed">
+<area shape="rect" id="node2" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="271,5,427,32"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="254,57,445,98"/>
+<area shape="rect" id="node4" href="$classChatTextEdit.html#acdde78140dfbb742caa9b9157ae1ce6e" title="ChatTextEdit::keyPressEvent" alt="" coords="248,123,451,149"/>
+<area shape="rect" id="node5" href="$classChatTextEdit.html#aea5e18e908ab2f1ecdf9fe9c7cbbf427" title="ChatTextEdit::sendKeyEvent" alt="" coords="499,123,697,149"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#a92900c8df54e2233c4e91f68272880e7" title="GenericChatForm::event" alt="" coords="745,97,924,124"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#a4382ccc031dd677f2a0edcbf05dfb527" title="GenericChatForm::eventFilter" alt="" coords="972,123,1180,149"/>
+</map>

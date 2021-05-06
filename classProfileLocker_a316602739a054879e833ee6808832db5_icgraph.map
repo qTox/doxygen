@@ -1,0 +1,13 @@
+<map id="ProfileLocker::lock" name="ProfileLocker::lock">
+<area shape="rect" id="node2" href="$classProfile.html#ae47e26ce2e5fea00de176f02df139deb" title="Locks and loads an existing profile and creates the associate Core* instance. " alt="" coords="189,68,324,95"/>
+<area shape="rect" id="node11" href="$classProfile.html#a6a2b691e33df3302bb151e716d607f02" title="Tries to rename the profile. " alt="" coords="197,119,316,145"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1771,43,1825,69"/>
+<area shape="rect" id="node4" href="$classNexus.html#a1c57af6d4bb385fba2e601da910d64c6" title="Nexus::onLoadProfile" alt="" coords="385,68,541,95"/>
+<area shape="rect" id="node5" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title="Nexus::connectLoginScreen" alt="" coords="601,75,801,101"/>
+<area shape="rect" id="node6" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="849,87,985,113"/>
+<area shape="rect" id="node7" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1033,93,1125,120"/>
+<area shape="rect" id="node8" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1173,93,1328,120"/>
+<area shape="rect" id="node9" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1376,93,1476,120"/>
+<area shape="rect" id="node10" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1524,93,1723,120"/>
+<area shape="rect" id="node12" href="$classProfileInfo.html#ae4cb258c3c84d41dc06c5980938e98bf" title="Rename profile file. " alt="" coords="372,119,553,145"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GroupList" name="GroupList">
+<area shape="rect" id="node2" href="$classQHash.html" title="{QHash\&lt; uint32_t, GroupId \&gt;\n||}" alt="" coords="5,13,211,90"/>
+<area shape="rect" id="node3" href="$classQHash.html" title="{QHash\&lt; const GroupId,\l Group * \&gt;\n||}" alt="" coords="235,5,408,97"/>
+</map>

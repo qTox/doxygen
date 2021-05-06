@@ -1,0 +1,12 @@
+<map id="src/chatlog/toxfileprogress.h" name="src/chatlog/toxfileprogress.h">
+<area shape="rect" id="node2" href="$filetransferwidget_8h.html" title="src/chatlog/content\l/filetransferwidget.h" alt="" coords="837,80,983,121"/>
+<area shape="rect" id="node11" href="$toxfileprogress_8cpp.html" title="src/chatlog/toxfileprogress.cpp" alt="" coords="1008,87,1225,114"/>
+<area shape="rect" id="node3" href="$chatlinecontentproxy_8cpp.html" title="src/chatlog/chatlinecontentproxy.cpp" alt="" coords="5,177,260,203"/>
+<area shape="rect" id="node4" href="$chatlog_8cpp.html" title="src/chatlog/chatlog.cpp" alt="" coords="285,177,455,203"/>
+<area shape="rect" id="node5" href="$chatmessage_8cpp.html" title="src/chatlog/chatmessage.cpp" alt="" coords="479,177,690,203"/>
+<area shape="rect" id="node6" href="$filetransferwidget_8cpp.html" title="src/chatlog/content\l/filetransferwidget.cpp" alt="" coords="714,169,877,211"/>
+<area shape="rect" id="node7" href="$notificationgenerator_8cpp.html" title="src/model/notificationgenerator.cpp" alt="" coords="901,177,1149,203"/>
+<area shape="rect" id="node8" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1173,177,1383,203"/>
+<area shape="rect" id="node9" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="1407,177,1663,203"/>
+<area shape="rect" id="node10" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="1688,177,1847,203"/>
+</map>

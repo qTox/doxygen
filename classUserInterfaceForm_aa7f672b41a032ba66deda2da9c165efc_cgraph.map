@@ -1,0 +1,5 @@
+<map id="UserInterfaceForm::reloadSmileys" name="UserInterfaceForm::reloadSmileys">
+<area shape="rect" id="node2" href="$classSmileyPack.html#a7f77017891a40454236a7d84c6b34d71" title="Returns the singleton instance. " alt="" coords="209,5,387,32"/>
+<area shape="rect" id="node3" href="$classSmileyPack.html#a8919b1143ff3c651298e5a60a51ea544" title="Returns all emoticons that was extracted from files, grouped by according icon file. " alt="" coords="203,56,393,83"/>
+<area shape="rect" id="node4" href="$classSmileyPack.html#a0a902a69653946c27a689b1b6cd42859" title="Gets icon accoring to passed emoticon. " alt="" coords="215,107,381,133"/>
+</map>

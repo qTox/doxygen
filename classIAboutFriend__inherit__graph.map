@@ -1,0 +1,3 @@
+<map id="IAboutFriend" name="IAboutFriend">
+<area shape="rect" id="node2" href="$classAboutFriend.html" title="{AboutFriend\n|&#45; f\l&#45; settings\l|+ AboutFriend()\l+ getName()\l+ getStatusMessage()\l+ getPublicKey()\l+ getAvatar()\l+ getNote()\l+ setNote()\l+ getAutoAcceptDir()\l+ setAutoAcceptDir()\l+ getAutoAcceptCall()\l+ setAutoAcceptCall()\l+ getAutoGroupInvite()\l+ setAutoGroupInvite()\l+ clearHistory()\l+ isHistoryExistence()\l}" alt="" coords="5,277,176,575"/>
+</map>

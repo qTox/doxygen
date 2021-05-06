@@ -1,0 +1,7 @@
+<map id="Core::getFriendRequestErrorMessage" name="Core::getFriendRequestErrorMessage">
+<area shape="rect" id="node2" href="$classToxId.html#abb994cbc7dc5a867c679531f9a58d719" title="Check it it&#39;s a valid Tox ID by verifying the checksum. " alt="" coords="307,5,409,32"/>
+<area shape="rect" id="node3" href="$classCore.html#ad5a1e61bcc3d1eeb3c9f66bd75c134ee" title="Checks if we have a friend by public key. " alt="" coords="255,56,461,83"/>
+<area shape="rect" id="node6" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="287,107,429,133"/>
+<area shape="rect" id="node4" href="$classContactId.html#a3c607decf796f71ba6518d262dc55648" title="Checks if the ContactId contains a id. " alt="" coords="700,56,843,83"/>
+<area shape="rect" id="node5" href="$classContactId.html#a816f052f669373dab7435769b755ad33" title="Returns a pointer to the raw id data. " alt="" coords="509,81,652,108"/>
+</map>

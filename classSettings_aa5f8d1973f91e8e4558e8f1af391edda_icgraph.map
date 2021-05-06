@@ -1,0 +1,4 @@
+<map id="Settings::minimizeToTrayChanged" name="Settings::minimizeToTrayChanged">
+<area shape="rect" id="node2" href="$classSettings.html#aecc8608b373e05d73cf96e8a5f22a18b" title="Settings::setMinimizeToTray" alt="" coords="232,13,429,39"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#ad542f104f838dbca2540cccff3da3110" title="GeneralForm::on_minimize\lToTray_stateChanged" alt="" coords="477,5,672,47"/>
+</map>

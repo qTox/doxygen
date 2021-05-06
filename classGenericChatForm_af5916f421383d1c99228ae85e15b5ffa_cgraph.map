@@ -1,0 +1,5 @@
+<map id="GenericChatForm::getLatestTime" name="GenericChatForm::getLatestTime">
+<area shape="rect" id="node2" href="$classIChatLog.html#a061b44a9023ee5d6b60603e22deeed95" title="The underlying chat log instance may not want to start at 0. " alt="" coords="290,5,441,32"/>
+<area shape="rect" id="node3" href="$classIChatLog.html#a428117207ce4b942e4cdada9bf4c1663" title="IChatLog::getNextIdx" alt="" coords="288,56,443,83"/>
+<area shape="rect" id="node4" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx. " alt="" coords="316,107,415,133"/>
+</map>

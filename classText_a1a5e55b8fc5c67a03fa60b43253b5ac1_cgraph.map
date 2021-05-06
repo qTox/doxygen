@@ -1,0 +1,8 @@
+<map id="Text::regenerate" name="Text::regenerate">
+<area shape="rect" id="node2" href="$classDocumentCache.html#aab295120da5a20e9b4abe1115b371b83" title="Returns the singleton instance. " alt="" coords="389,57,601,84"/>
+<area shape="rect" id="node3" href="$classDocumentCache.html#aa8f04b81552fe72368e9a58c8d34ac5a" title="DocumentCache::pop" alt="" coords="180,32,341,59"/>
+<area shape="rect" id="node4" href="$classText.html#a8189e01ee4761059ad9da81dc79060d5" title="Text::idealSize" alt="" coords="205,83,317,109"/>
+<area shape="rect" id="node5" href="$classText.html#a1fe6ae767f84d5f2a24083fd3f0b4708" title="Text::selectText" alt="" coords="201,133,320,160"/>
+<area shape="rect" id="node6" href="$classText.html#a4605dc4e996d7608baa0c404502375b0" title="Text::freeResources" alt="" coords="188,184,333,211"/>
+<area shape="rect" id="node7" href="$classDocumentCache.html#a58069a1d20f55b4b23ee3506771541e5" title="DocumentCache::push" alt="" coords="411,184,579,211"/>
+</map>

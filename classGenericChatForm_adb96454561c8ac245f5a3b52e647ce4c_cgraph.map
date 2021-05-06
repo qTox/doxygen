@@ -1,0 +1,5 @@
+<map id="GenericChatForm::onCopyLogClicked" name="GenericChatForm::onCopyLogClicked">
+<area shape="rect" id="node2" href="$classChatLog.html#a20ad57abc03db82e53d2a1934acef6c6" title="ChatLog::copySelectedText" alt="" coords="267,13,461,39"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ac6387506bed4cfe63b44fe0802fc6c7d" title="ChatLog::getSelectedText" alt="" coords="509,13,695,39"/>
+<area shape="rect" id="node4" href="$classChatLog.html#a816745ea601255958c0d4bec2d1a83ff" title="ChatLog::isEmpty" alt="" coords="743,13,877,39"/>
+</map>

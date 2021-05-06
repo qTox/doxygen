@@ -1,0 +1,51 @@
+<map id="Settings::getChatMessageFont" name="Settings::getChatMessageFont">
+<area shape="rect" id="node2" href="$classChatMessage.html#a75c9fc019f57227add289839060a02c8" title="ChatMessage::createChatMessage" alt="" coords="573,360,819,387"/>
+<area shape="rect" id="node4" href="$classChatMessage.html#ac9742b80694ad6f91fba98fcb2bcff08" title="ChatMessage::createChatInfo\lMessage" alt="" coords="591,442,801,483"/>
+<area shape="rect" id="node24" href="$classChatMessage.html#a08c3af340e88434cdd3d8af65d05b9c9" title="ChatMessage::createFileTransfer\lMessage" alt="" coords="281,681,509,722"/>
+<area shape="rect" id="node38" href="$classChatMessage.html#a683dceaeb400acf609587f5dcc28fbdc" title="ChatMessage::createTyping\lNotification" alt="" coords="296,190,493,231"/>
+<area shape="rect" id="node45" href="$classChatMessage.html#a504106fe71e08ef503687fade1c336d6" title="Create message placeholder while chatform restructures text. " alt="" coords="565,579,827,605"/>
+<area shape="rect" id="node46" href="$classChatMessage.html#ad3590b1a5996cb0766ce72d8d8d55b47" title="ChatMessage::markAsDelivered" alt="" coords="281,747,508,773"/>
+<area shape="rect" id="node47" href="$classGenericChatForm.html#aaa7bd5d2820de4c2db19c10607c5c2c5" title="GenericChatForm::reloadTheme" alt="" coords="281,629,508,656"/>
+<area shape="rect" id="node49" href="$classUserInterfaceForm.html#a22ae235d9056d65b0a72205c54294e01" title="Constructor of UserInterfaceForm. " alt="" coords="320,798,469,839"/>
+<area shape="rect" id="node50" href="$classUserInterfaceForm.html#a64be0a7caa779e7c54eebcba841e9ba3" title="UserInterfaceForm::\lon_txtChatFontSize_valueChanged" alt="" coords="272,863,517,905"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#a2d556cb8a0a1d103e114b8a4d238b137" title="Searches for name (possibly alias) of someone with specified public key among all of your friends or ..." alt="" coords="907,303,1095,345"/>
+<area shape="rect" id="node5" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="922,521,1081,548"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#ad97879f88fff096c93f26a6988366cc5" title="GenericChatForm::addSystem\lInfoMessage" alt="" coords="894,369,1109,410"/>
+<area shape="rect" id="node23" href="$classGenericChatForm.html#a8ff69d9a46020813cd85d6ba807244de" title="GenericChatForm::addSystem\lDateMessage" alt="" coords="894,442,1109,483"/>
+<area shape="rect" id="node6" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1814,376,1970,403"/>
+<area shape="rect" id="node8" href="$classChatForm.html#a535c3f564181af5c6a17c7f6ddcaf75a" title="ChatForm::showOutgoingCall" alt="" coords="1197,477,1403,504"/>
+<area shape="rect" id="node13" href="$classChatForm.html#a8852b8aaa0bf6a647eddd3076e5ed69c" title="ChatForm::onFriendStatus\lChanged" alt="" coords="1501,114,1690,155"/>
+<area shape="rect" id="node14" href="$classChatForm.html#a6c5093fbadcbd9af18bcaee239cfb021" title="ChatForm::stopCounter" alt="" coords="1214,427,1386,453"/>
+<area shape="rect" id="node17" href="$classGenericChatForm.html#afeea0440aedece73b0701be9cad171d6" title="GenericChatForm::clearChatArea" alt="" coords="1183,376,1417,403"/>
+<area shape="rect" id="node18" href="$classGroupChatForm.html#a5dc1946aa50d397fcf17df44d1acd0c8" title="GroupChatForm::onTitleChanged" alt="" coords="1185,325,1415,352"/>
+<area shape="rect" id="node20" href="$classGroupChatForm.html#a84c9cd80436db81c1ae2dfdffcc2d466" title="GroupChatForm::onUserJoined" alt="" coords="1192,157,1408,184"/>
+<area shape="rect" id="node21" href="$classGroupChatForm.html#ae2c153da2ca744ce9a38ba817914ac35" title="GroupChatForm::onUserLeft" alt="" coords="1199,208,1401,235"/>
+<area shape="rect" id="node22" href="$classGroupChatForm.html#a52cbd2a8e7738e2ba6d159bd3b0af40d" title="GroupChatForm::onPeerName\lChanged" alt="" coords="1192,259,1408,301"/>
+<area shape="rect" id="node9" href="$classChatForm.html#ade86d40c791c80ad9cf1195feeb2e64f" title="ChatForm::onCallTriggered" alt="" coords="1500,427,1691,453"/>
+<area shape="rect" id="node10" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="1482,477,1709,504"/>
+<area shape="rect" id="node11" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="1799,477,1985,504"/>
+<area shape="rect" id="node12" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="2073,477,2249,504"/>
+<area shape="rect" id="node15" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="1521,376,1669,403"/>
+<area shape="rect" id="node16" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="1477,325,1713,352"/>
+<area shape="rect" id="node19" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="1478,237,1713,264"/>
+<area shape="rect" id="node25" href="$classGenericChatForm.html#ac3ba681258ac9cdb657576dff3faa3a4" title="GenericChatForm::renderFile" alt="" coords="594,749,798,776"/>
+<area shape="rect" id="node26" href="$classGenericChatForm.html#a1a8ec9db049a3f90dbceecc9eec1313e" title="GenericChatForm::renderItem" alt="" coords="895,779,1108,805"/>
+<area shape="rect" id="node27" href="$classGenericChatForm.html#a00f2b0808c1c1c785c00c85257a09440" title="GenericChatForm::renderMessages" alt="" coords="1176,793,1424,820"/>
+<area shape="rect" id="node28" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="2065,753,2256,794"/>
+<area shape="rect" id="node29" href="$classGenericChatForm.html#af0d89961de8436af41ee42046b16dfc1" title="GenericChatForm::loadHistoryTo load history before to date &quot;time&quot; or before the first &quot;messages&quot; item..." alt="" coords="1482,793,1709,820"/>
+<area shape="rect" id="node32" href="$classGenericChatForm.html#ae20378ccba9239d2cdb67f67764035d1" title="GenericChatForm::loadHistoryFrom load history starting from date &quot;time&quot; or from the last &quot;messages&quot; i..." alt="" coords="1472,848,1719,875"/>
+<area shape="rect" id="node34" href="$classGenericChatForm.html#af5d5cb166df8bb540c9fc52cef4cb56f" title="GenericChatForm::handleSearch\lResult" alt="" coords="1480,911,1711,953"/>
+<area shape="rect" id="node36" href="$classGenericChatForm.html#aa19c8d40ad49892ee020edafb8095625" title="GenericChatForm::renderMessage" alt="" coords="1771,1016,2013,1043"/>
+<area shape="rect" id="node37" href="$classGenericChatForm.html#af4b1a65206a94ab4a40008099b493988" title="GenericChatForm::goToCurrentDate" alt="" coords="1767,680,2017,707"/>
+<area shape="rect" id="node30" href="$classGenericChatForm.html#aa801732df208023a960f1909a3c7855e" title="GenericChatForm::loadHistory load history. " alt="" coords="1785,848,1999,875"/>
+<area shape="rect" id="node31" href="$classGenericChatForm.html#ac5d6113b34542e33b20513598ad1f79d" title="GenericChatForm::loadHistoryLower load history after scrolling chatlog before first &quot;messages&quot; item..." alt="" coords="1785,782,1999,823"/>
+<area shape="rect" id="node33" href="$classGenericChatForm.html#ab2633d98c136c06a0c82ca4ec467ae59" title="GenericChatForm::loadHistoryUpper load history after scrolling chatlog after last &quot;messages&quot; item..." alt="" coords="1785,899,1999,941"/>
+<area shape="rect" id="node35" href="$classGenericChatForm.html#a347540dd8693e7ff370c9fe4304f6fba" title="GenericChatForm::onSearchUp" alt="" coords="1781,965,2003,992"/>
+<area shape="rect" id="node39" href="$classChatLog.html#ac85f9c86def47edb6aa443ba70d07a33" title="ChatLog::setTypingNotification" alt="" coords="589,56,803,83"/>
+<area shape="rect" id="node40" href="$classChatLog.html#ab713e042ac8b05f45f44de3ce713af8e" title="ChatLog::setTypingNotificationName" alt="" coords="875,56,1128,83"/>
+<area shape="rect" id="node43" href="$classChatLog.html#aabd7c69770d0eea089ac80ca242337b3" title="ChatLog::reloadTheme" alt="" coords="918,5,1085,32"/>
+<area shape="rect" id="node41" href="$classChatForm.html#a1905895e55b996aa0d411f667401ddd1" title="ChatForm::setFriendTyping" alt="" coords="1205,56,1395,83"/>
+<area shape="rect" id="node42" href="$classChatForm.html#a494cb2007bc90b48fbdad702e82cc577" title="ChatForm::onFriendTyping\lChanged" alt="" coords="1502,49,1689,90"/>
+<area shape="rect" id="node44" href="$classChatLog.html#a69df3830d761c7522ac041ee977dc74c" title="ChatLog::ChatLog" alt="" coords="1232,5,1368,32"/>
+<area shape="rect" id="node48" href="$classChatForm.html#a89c88000961108745c6082c22817654f" title="ChatForm::reloadTheme" alt="" coords="607,680,785,707"/>
+</map>

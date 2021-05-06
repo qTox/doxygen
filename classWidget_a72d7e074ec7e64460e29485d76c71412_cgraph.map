@@ -1,0 +1,11 @@
+<map id="Widget::onTryCreateTrayIcon" name="Widget::onTryCreateTrayIcon">
+<area shape="rect" id="node2" href="$classWidget.html#a6c7a3d2c72dea0136164108dec6e96e6" title="Widget::updateIcons" alt="" coords="284,56,435,83"/>
+<area shape="rect" id="node5" href="$classWidget.html#aa682f80bf47b077a97e3913a634e3dfc" title="Widget::onIconClick" alt="" coords="287,107,431,133"/>
+<area shape="rect" id="node7" href="$classSettings.html#a84977968a2eb50ff54d298ba0d10b302" title="Settings::getShowSystemTray" alt="" coords="253,157,465,184"/>
+<area shape="rect" id="node8" href="$classSettings.html#ad53124f82f4a89c69b6dfbc24fdcd47a" title="Settings::getAutostartInTray" alt="" coords="259,208,459,235"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="287,259,432,285"/>
+<area shape="rect" id="node3" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="525,5,689,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab9eeed3a0e193a645e1719979d8f2105" title="Settings::getLightTrayIcon" alt="" coords="513,56,700,83"/>
+<area shape="rect" id="node6" href="$classWidget.html#a67ba3d5f0bc7944f3fdaaea5815aaf3d" title="Widget::forceShow" alt="" coords="537,107,676,133"/>
+<area shape="rect" id="node10" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="551,259,662,285"/>
+</map>

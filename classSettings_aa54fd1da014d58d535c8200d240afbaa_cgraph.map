@@ -1,0 +1,6 @@
+<map id="Settings::resetToDefault" name="Settings::resetToDefault">
+<area shape="rect" id="node2" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="228,5,413,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="255,56,386,83"/>
+<area shape="rect" id="node4" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="461,56,607,83"/>
+<area shape="rect" id="node5" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="655,56,765,83"/>
+</map>

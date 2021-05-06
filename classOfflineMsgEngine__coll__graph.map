@@ -1,0 +1,4 @@
+<map id="OfflineMsgEngine" name="OfflineMsgEngine">
+<area shape="rect" id="node3" href="$classOfflineMsgEngine_1_1ReceiptResolver.html" title="{OfflineMsgEngine::Receipt\lResolver\&lt; ExtendedReceiptNum \&gt;\n|+ receivedReceipts\l+ unAckedMessages\l|+ notifyMessageSent()\l+ notifyReceiptReceived()\l+ clear()\l}" alt="" coords="103,5,346,141"/>
+<area shape="rect" id="node4" href="$classOfflineMsgEngine_1_1ReceiptResolver.html" title="{OfflineMsgEngine::Receipt\lResolver\&lt; ReceiptNum \&gt;\n|+ receivedReceipts\l+ unAckedMessages\l|+ notifyMessageSent()\l+ notifyReceiptReceived()\l+ clear()\l}" alt="" coords="371,5,556,141"/>
+</map>

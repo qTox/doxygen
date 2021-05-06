@@ -1,0 +1,4 @@
+<map id="ChatLog::moveMultiSelectionDown" name="ChatLog::moveMultiSelectionDown">
+<area shape="rect" id="node2" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="296,5,469,32"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="517,31,761,57"/>
+</map>

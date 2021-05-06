@@ -1,0 +1,4 @@
+<map id="AVForm::fillScreenModesComboBox" name="AVForm::fillScreenModesComboBox">
+<area shape="rect" id="node2" href="$classCameraDevice.html#a332e9caac6a1306df2a64ef67feb29e7" title="Get the name of the pixel format of a video mode. " alt="" coords="304,5,524,47"/>
+<area shape="rect" id="node3" href="$namespacev4l2.html#a07cc34a50812f9f0e7ae7afba4347eb5" title="v4l2::getPixelFormatString" alt="" coords="572,13,763,39"/>
+</map>

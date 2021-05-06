@@ -1,0 +1,14 @@
+<map id="AVForm::hideEvent" name="AVForm::hideEvent">
+<area shape="rect" id="node2" href="$classVideoSurface.html#a85db8e813d013e582228902a91f9f41f" title="Update source. " alt="" coords="197,220,377,247"/>
+<area shape="rect" id="node13" href="$classAVForm.html#a588d8224e0e2412240b22120ba931d0c" title="AVForm::killVideoSurface" alt="" coords="196,271,377,297"/>
+<area shape="rect" id="node3" href="$classVideoSurface.html#a088414beba42524b7adc5968563e6f42" title="VideoSurface::unsubscribe" alt="" coords="425,165,617,192"/>
+<area shape="rect" id="node11" href="$classVideoSurface.html#a9e43af4b333e69d3d15af35a00cb3c64" title="VideoSurface::subscribe" alt="" coords="433,248,609,275"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#a51d3fa1945c31f659b7c944091ad6cfd" title="VideoSurface::lock" alt="" coords="963,59,1103,85"/>
+<area shape="rect" id="node5" href="$classVideoSurface.html#a4c729f75a02c35de42df3056a030be92" title="VideoSurface::unlock" alt="" coords="955,111,1111,137"/>
+<area shape="rect" id="node6" href="$classVideoSurface.html#a22bed2f9d881f5d3fd02e0bede564b0c" title="VideoSurface::recalulate\lBounds" alt="" coords="944,217,1123,258"/>
+<area shape="rect" id="node7" href="$classVideoSurface.html#adf8b2f92eb2d9220ba9e9b8b5e185fbc" title="VideoSurface::onNewFrame\lAvailable" alt="" coords="681,158,880,199"/>
+<area shape="rect" id="node9" href="$classVideoSurface.html#aa2af96cdb06b97fdc0c7488add08a33d" title="VideoSurface::onSourceStopped" alt="" coords="665,275,896,301"/>
+<area shape="rect" id="node10" href="$classVideoSource.html#a742327ac44cddc93579ea8a516c59544" title="Stop emitting frameAvailable signals, and free associated resources if necessary. ..." alt="" coords="687,5,875,32"/>
+<area shape="rect" id="node8" href="$videosurface_8cpp.html#a6d8a1ee38ecb650ae3a4043b12a87008" title="getSizeRatio" alt="" coords="982,165,1085,192"/>
+<area shape="rect" id="node12" href="$classVideoSource.html#a542481c450352c8b2a3717f5473568e5" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals. " alt="" coords="695,325,867,352"/>
+</map>

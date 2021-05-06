@@ -1,0 +1,7 @@
+<map id="NetCamView::exitFullScreen" name="NetCamView::exitFullScreen">
+<area shape="rect" id="node2" href="$classNetCamView.html#a4047d3080a5dd26b165729fb611f6310" title="NetCamView::toggleFullScreen" alt="" coords="252,5,468,32"/>
+<area shape="rect" id="node5" href="$classNetCamView.html#abfc40522563f10d40858eb60d4f91d21" title="NetCamView::keyPressEvent" alt="" coords="258,56,462,83"/>
+<area shape="rect" id="node6" href="$classNetCamView.html#a9c57544cf2c767581d281fcf0d7f0e21" title="NetCamView::closeEvent" alt="" coords="270,107,450,133"/>
+<area shape="rect" id="node3" href="$classNetCamView.html#a15a69417f13255d39698367fdcbe8895" title="NetCamView::NetCamView" alt="" coords="759,5,952,32"/>
+<area shape="rect" id="node4" href="$classNetCamView.html#a87362a9ddd294fe3eb6bcd32495a1aec" title="NetCamView::endVideoCall" alt="" coords="516,31,711,57"/>
+</map>

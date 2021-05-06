@@ -1,0 +1,5 @@
+<map id="CoreAV::toggleMuteCallInput" name="CoreAV::toggleMuteCallInput">
+<area shape="rect" id="node2" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="279,5,379,32"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a69b561163081984ebefd797b99eee2b4" title="ToxCall::setMuteMic" alt="" coords="256,56,403,83"/>
+<area shape="rect" id="node4" href="$classToxCall.html#a15623f05c225b46faa533ae7a1add4cc" title="ToxCall::getMuteMic" alt="" coords="256,107,403,133"/>
+</map>

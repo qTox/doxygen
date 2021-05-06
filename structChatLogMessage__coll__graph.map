@@ -1,0 +1,3 @@
+<map id="ChatLogMessage" name="ChatLogMessage">
+<area shape="rect" id="node2" href="$structMessage.html" title="{Message\n|+ isAction\l+ content\l+ timestamp\l+ extensionSet\l+ metadata\l|}" alt="" coords="11,5,132,141"/>
+</map>

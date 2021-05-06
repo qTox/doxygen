@@ -1,0 +1,6 @@
+<map id="UserInterfaceForm" name="UserInterfaceForm">
+<area shape="rect" id="node2" href="$classGenericForm.html" title="{GenericForm\n|# formIcon\l|+ GenericForm()\l+ ~GenericForm()\l+ getFormName()\l+ getFormIcon()\l+ reloadTheme()\l# eventFilter()\l# eventsInit()\l}" alt="" coords="5,169,145,334"/>
+<area shape="rect" id="node6" href="$classSettingsWidget.html" title="{SettingsWidget\n|&#45; bodyLayout\l&#45; settingsWidgets\l&#45; cfgForms\l&#45; currentIndex\l|+ SettingsWidget()\l+ ~SettingsWidget()\l+ isShown()\l+ show()\l+ setBodyHeadStyle()\l+ showAbout()\l+ onUpdateAvailable()\l&#45; retranslateUi()\l&#45; onTabChanged()\l}" alt="" coords="169,132,336,371"/>
+<area shape="rect" id="node4" href="$classQList.html" title="{QList\&lt; std::shared\l_ptr\&lt; QIcon \&gt; \&gt;\n||}" alt="" coords="361,205,502,297"/>
+<area shape="rect" id="node5" href="$classQList.html" title="{QList\&lt; QLabel * \&gt;\n||}" alt="" coords="526,213,665,290"/>
+</map>

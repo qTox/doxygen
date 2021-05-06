@@ -1,0 +1,29 @@
+<map id="src/model/ibootstraplistgenerator.h" name="src/model/ibootstraplistgenerator.h">
+<area shape="rect" id="node2" href="$core_8cpp.html" title="src/core/core.cpp" alt="" coords="5,237,137,263"/>
+<area shape="rect" id="node3" href="$bootstrapnodeupdater_8h.html" title="src/net/bootstrapnodeupdater.h" alt="" coords="2555,80,2780,107"/>
+<area shape="rect" id="node4" href="$profile_8h.html" title="src/persistence/profile.h" alt="" coords="2464,155,2639,181"/>
+<area shape="rect" id="node14" href="$profile_8cpp.html" title="src/persistence/profile.cpp" alt="" coords="4727,237,4917,263"/>
+<area shape="rect" id="node28" href="$bootstrapnodeupdater_8cpp.html" title="src/net/bootstrapnodeupdater.cpp" alt="" coords="2663,155,2903,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="4599,237,4703,263"/>
+<area shape="rect" id="node6" href="$aboutfriend_8cpp.html" title="src/model/about/aboutfriend.cpp" alt="" coords="161,237,392,263"/>
+<area shape="rect" id="node7" href="$friend_8cpp.html" title="src/model/friend.cpp" alt="" coords="417,237,569,263"/>
+<area shape="rect" id="node8" href="$notificationgenerator_8h.html" title="src/model/notificationgenerator.h" alt="" coords="593,237,827,263"/>
+<area shape="rect" id="node10" href="$profileinfo_8cpp.html" title="src/model/profile/profileinfo.cpp" alt="" coords="851,237,1073,263"/>
+<area shape="rect" id="node11" href="$nexus_8cpp.html" title="src/nexus.cpp" alt="" coords="1097,237,1208,263"/>
+<area shape="rect" id="node12" href="$history_8cpp.html" title="src/persistence/history.cpp" alt="" coords="1232,237,1423,263"/>
+<area shape="rect" id="node13" href="$offlinemsgengine_8cpp.html" title="src/persistence/offlinemsgengine.cpp" alt="" coords="1447,237,1706,263"/>
+<area shape="rect" id="node15" href="$settings_8cpp.html" title="src/persistence/settings.cpp" alt="" coords="1731,237,1932,263"/>
+<area shape="rect" id="node16" href="$settingsserializer_8cpp.html" title="src/persistence/settingsserializer.cpp" alt="" coords="1956,237,2213,263"/>
+<area shape="rect" id="node17" href="$netcamview_8cpp.html" title="src/video/netcamview.cpp" alt="" coords="2237,237,2423,263"/>
+<area shape="rect" id="node18" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="2447,237,2656,263"/>
+<area shape="rect" id="node19" href="$loadhistorydialog_8cpp.html" title="src/widget/form/loadhistorydialog.cpp" alt="" coords="2681,237,2939,263"/>
+<area shape="rect" id="node20" href="$profileform_8cpp.html" title="src/widget/form/profileform.cpp" alt="" coords="2964,237,3184,263"/>
+<area shape="rect" id="node21" href="$aboutform_8cpp.html" title="src/widget/form/settings\l/aboutform.cpp" alt="" coords="3208,229,3383,271"/>
+<area shape="rect" id="node22" href="$advancedform_8cpp.html" title="src/widget/form/settings\l/advancedform.cpp" alt="" coords="3407,229,3581,271"/>
+<area shape="rect" id="node23" href="$generalform_8cpp.html" title="src/widget/form/settings\l/generalform.cpp" alt="" coords="3605,229,3780,271"/>
+<area shape="rect" id="node24" href="$privacyform_8cpp.html" title="src/widget/form/settings\l/privacyform.cpp" alt="" coords="3804,229,3979,271"/>
+<area shape="rect" id="node25" href="$userinterfaceform_8cpp.html" title="src/widget/form/settings\l/userinterfaceform.cpp" alt="" coords="4003,229,4177,271"/>
+<area shape="rect" id="node26" href="$loginscreen_8cpp.html" title="src/widget/loginscreen.cpp" alt="" coords="4201,237,4392,263"/>
+<area shape="rect" id="node27" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="4416,237,4575,263"/>
+<area shape="rect" id="node9" href="$notificationgenerator_8cpp.html" title="src/model/notificationgenerator.cpp" alt="" coords="586,319,834,345"/>
+</map>

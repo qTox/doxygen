@@ -1,0 +1,8 @@
+<map id="SettingsSerializer::readIni" name="SettingsSerializer::readIni">
+<area shape="rect" id="node2" href="$classSettingsSerializer.html#a2735e383a3ad5a17e444b895d7d7c76f" title="SettingsSerializer\l::beginGroup" alt="" coords="188,5,323,47"/>
+<area shape="rect" id="node4" href="$classSettingsSerializer.html#a03002eb33a14184949a0863af4d02cef" title="SettingsSerializer\l::setValue" alt="" coords="188,71,323,112"/>
+<area shape="rect" id="node7" href="$classSettingsSerializer.html#a3df6cbf2f88b61fe14d980abbb269744" title="Remove group. " alt="" coords="188,136,323,177"/>
+<area shape="rect" id="node3" href="$classSettingsSerializer.html#af982be2a95ab2857fa38c1f02594052b" title="SettingsSerializer\l::endGroup" alt="" coords="371,5,505,47"/>
+<area shape="rect" id="node5" href="$classSettingsSerializer.html#a807aac607d5308228d2e029ceb434a8f" title="SettingsSerializer\l::findValue" alt="" coords="553,97,688,139"/>
+<area shape="rect" id="node6" href="$classSettingsSerializer.html#aa8dfd34b274b17315d341404cc8cb099" title="SettingsSerializer\l::value" alt="" coords="371,127,505,168"/>
+</map>

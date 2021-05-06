@@ -1,0 +1,6 @@
+<map id="GenericChatForm::needsToHideName" name="GenericChatForm::needsToHideName">
+<area shape="rect" id="node2" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx. " alt="" coords="301,5,400,32"/>
+<area shape="rect" id="node3" href="$classChatLogItem.html#abbd0f77880ee821cd9048ce52b514102" title="ChatLogItem::getTimestamp" alt="" coords="248,56,453,83"/>
+<area shape="rect" id="node4" href="$classChatLogItem.html#a361f2114d383927adb74360e970d802c" title="ChatLogItem::getContentAs\lMessage" alt="" coords="511,19,711,61"/>
+<area shape="rect" id="node5" href="$classChatLogItem.html#a24b78c5ac092db238d3bd2bf63113137" title="ChatLogItem::getContentAsFile" alt="" coords="501,85,721,112"/>
+</map>

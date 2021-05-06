@@ -1,0 +1,7 @@
+<map id="FileTransferWidget" name="FileTransferWidget">
+<area shape="rect" id="node3" href="$classToxFileProgress.html" title="{ToxFileProgress\n|&#45; lastBytesSent\l&#45; meanIndex\l&#45; meanData\l&#45; lastTick\l&#45; speedBytesPerSecond\l&#45; timeLeftSeconds\l&#45; progress\l&#45; TRANSFER_ROLLING_AVG\l_COUNT\l|+ needsUpdate()\l+ addSample()\l+ resetSpeed()\l+ getProgress()\l+ getSpeed()\l+ getTimeLeftSeconds()\l}" alt="" coords="104,343,296,611"/>
+<area shape="rect" id="node4" href="$structToxFile.html" title="{ToxFile\n|+ fileKind\l+ fileNum\l+ friendId\l+ fileName\l+ filePath\l+ file\l+ bytesSent\l+ filesize\l+ status\l+ direction\l+ avatarData\l+ resumeFileId\l+ hashGenerator\l|+ ToxFile()\l+ ToxFile()\l+ operator==()\l+ operator!=()\l+ setFilePath()\l+ open()\l}" alt="" coords="320,314,453,641"/>
+<area shape="rect" id="node5" href="$classToxFilePause.html" title="{ToxFilePause\n|&#45; localPauseState\l&#45; remotePauseState\l|+ localPause()\l+ localResume()\l+ localPauseToggle()\l+ remotePause()\l+ remoteResume()\l+ remotePauseToggle()\l+ localPaused()\l+ remotePaused()\l+ paused()\l}" alt="" coords="301,5,473,215"/>
+<area shape="rect" id="node6" href="$classCoreFile.html" title="Manages the file transfer service of toxcore. " alt="" coords="478,277,706,677"/>
+<area shape="rect" id="node8" href="$classQHash.html" title="{QHash\&lt; uint64_t, ToxFile \&gt;\n||}" alt="" coords="624,71,819,149"/>
+</map>

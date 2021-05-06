@@ -1,0 +1,51 @@
+<map id="ChatForm::onFriendStatusChanged" name="ChatForm::onFriendStatusChanged">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="276,98,424,125"/>
+<area shape="rect" id="node3" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="571,6,693,33"/>
+<area shape="rect" id="node4" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="567,57,697,84"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a1905895e55b996aa0d411f667401ddd1" title="ChatForm::setFriendTyping" alt="" coords="255,596,445,622"/>
+<area shape="rect" id="node10" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="537,762,727,789"/>
+<area shape="rect" id="node14" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1416,774,1575,801"/>
+<area shape="rect" id="node26" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="245,250,455,277"/>
+<area shape="rect" id="node42" href="$namespaceStatus.html#a0a333c2748379bc98ef94f0e142f612c" title="Status::getTitle" alt="" coords="291,864,409,890"/>
+<area shape="rect" id="node43" href="$classGenericChatForm.html#ad97879f88fff096c93f26a6988366cc5" title="GenericChatForm::addSystem\lInfoMessage" alt="" coords="243,522,457,563"/>
+<area shape="rect" id="node6" href="$classChatLog.html#aba9d4e3e20a77abe633522af1bd2dc01" title="ChatLog::setTypingNotification\lVisible" alt="" coords="525,551,739,592"/>
+<area shape="rect" id="node11" href="$classChatLog.html#ab713e042ac8b05f45f44de3ce713af8e" title="ChatLog::setTypingNotificationName" alt="" coords="505,634,759,661"/>
+<area shape="rect" id="node7" href="$classChatLog.html#a018a145f63e7361dd9ef3a81d6ffc649" title="ChatLog::updateTypingNotification" alt="" coords="1085,630,1323,657"/>
+<area shape="rect" id="node8" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="1433,605,1558,632"/>
+<area shape="rect" id="node9" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1411,529,1579,556"/>
+<area shape="rect" id="node12" href="$classChatLog.html#ac85f9c86def47edb6aa443ba70d07a33" title="ChatLog::setTypingNotification" alt="" coords="808,689,1023,716"/>
+<area shape="rect" id="node25" href="$classText.html#a4803c3c61eec3cb0e0ce80f0b04f394e" title="Text::setText" alt="" coords="865,638,965,665"/>
+<area shape="rect" id="node13" href="$classChatMessage.html#a683dceaeb400acf609587f5dcc28fbdc" title="ChatMessage::createTyping\lNotification" alt="" coords="1105,747,1303,788"/>
+<area shape="rect" id="node24" href="$classSettings.html#ab02ac9603db46e63aea67a7be46ceaf0" title="Settings::getChatMessageFont" alt="" coords="1386,724,1605,750"/>
+<area shape="rect" id="node15" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1655,774,1791,801"/>
+<area shape="rect" id="node16" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1846,698,1982,725"/>
+<area shape="rect" id="node18" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1839,800,1989,826"/>
+<area shape="rect" id="node17" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2085,673,2185,700"/>
+<area shape="rect" id="node19" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2037,724,2232,750"/>
+<area shape="rect" id="node20" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2280,825,2465,852"/>
+<area shape="rect" id="node21" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2051,774,2218,801"/>
+<area shape="rect" id="node22" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2050,825,2219,852"/>
+<area shape="rect" id="node23" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2079,876,2190,902"/>
+<area shape="rect" id="node27" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="867,42,963,69"/>
+<area shape="rect" id="node28" href="$classCoreAV.html#aa1bc3e23de3063cde45369a9b39c4794" title="Checks the call status for a Tox friend. " alt="" coords="841,326,989,353"/>
+<area shape="rect" id="node31" href="$classCoreAV.html#a2a137dd502168dabba1588a92c49c3fd" title="CoreAV::isCallVideoEnabled" alt="" coords="817,377,1013,404"/>
+<area shape="rect" id="node32" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title="ChatFormHeader::updateCall\lButtons" alt="" coords="528,108,736,150"/>
+<area shape="rect" id="node36" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title="ChatForm::updateMuteMicButton" alt="" coords="515,225,749,252"/>
+<area shape="rect" id="node39" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title="ChatForm::updateMuteVolButton" alt="" coords="516,276,748,302"/>
+<area shape="rect" id="node29" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="1445,276,1545,302"/>
+<area shape="rect" id="node30" href="$classCoreAV.html#af8432a32e765788698692e89c89cd87a" title="Checks the call status for a Tox friend. " alt="" coords="1125,326,1283,353"/>
+<area shape="rect" id="node33" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="1072,101,1336,128"/>
+<area shape="rect" id="node34" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title="ChatFormHeader::retranslateUi" alt="" coords="1384,126,1607,153"/>
+<area shape="rect" id="node35" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="1439,76,1551,102"/>
+<area shape="rect" id="node37" href="$classCoreAV.html#af5b7648051f6579f3a450e6f956777be" title="Returns the calls input (microphone) mute state. " alt="" coords="1113,174,1295,201"/>
+<area shape="rect" id="node38" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title="ChatFormHeader::updateMute\lMicButton" alt="" coords="807,94,1024,135"/>
+<area shape="rect" id="node40" href="$classCoreAV.html#a611d500d552f4d2eefde6569938dbb91" title="Returns the calls output (speaker) mute state. " alt="" coords="819,276,1012,302"/>
+<area shape="rect" id="node41" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title="ChatFormHeader::updateMute\lVolButton" alt="" coords="807,159,1024,200"/>
+<area shape="rect" id="node44" href="$classGenericChatForm.html#a52d18d25bdf4347573622cebb618e2d1" title="GenericChatForm::insertChat\lMessage" alt="" coords="528,476,736,518"/>
+<area shape="rect" id="node49" href="$classChatMessage.html#ac9742b80694ad6f91fba98fcb2bcff08" title="ChatMessage::createChatInfo\lMessage" alt="" coords="1099,682,1309,723"/>
+<area shape="rect" id="node45" href="$classChatLog.html#ac35868b9fc96b5e49ad8da68898e3465" title="ChatLog::insertChatlineAt\lBottom" alt="" coords="823,471,1008,512"/>
+<area shape="rect" id="node46" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="1117,428,1291,454"/>
+<area shape="rect" id="node47" href="$classChatLog.html#a31bcdfe5379ae9e55bb85c6288f71182" title="ChatLog::layout" alt="" coords="1143,580,1265,606"/>
+<area shape="rect" id="node48" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="1107,529,1301,556"/>
+<area shape="rect" id="node50" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1420,673,1571,700"/>
+</map>

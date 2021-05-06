@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['iaboutfriend',['IAboutFriend',['../classIAboutFriend.html',1,'']]],
+  ['ibootstraplistgenerator',['IBootstrapListGenerator',['../classIBootstrapListGenerator.html',1,'']]],
+  ['ichatlog',['IChatLog',['../classIChatLog.html',1,'']]],
+  ['icoreextpacket',['ICoreExtPacket',['../classICoreExtPacket.html',1,'']]],
+  ['icoreextpacketallocator',['ICoreExtPacketAllocator',['../classICoreExtPacketAllocator.html',1,'']]],
+  ['icorefriendmessagesender',['ICoreFriendMessageSender',['../classICoreFriendMessageSender.html',1,'']]],
+  ['icoregroupmessagesender',['ICoreGroupMessageSender',['../classICoreGroupMessageSender.html',1,'']]],
+  ['icoregroupquery',['ICoreGroupQuery',['../classICoreGroupQuery.html',1,'']]],
+  ['icoreidhandler',['ICoreIdHandler',['../classICoreIdHandler.html',1,'']]],
+  ['icoresettings',['ICoreSettings',['../classICoreSettings.html',1,'']]],
+  ['identicon',['Identicon',['../classIdenticon.html',1,'']]],
+  ['idialogs',['IDialogs',['../classIDialogs.html',1,'']]],
+  ['idialogsmanager',['IDialogsManager',['../classIDialogsManager.html',1,'']]],
+  ['ifriendsettings',['IFriendSettings',['../classIFriendSettings.html',1,'']]],
+  ['igroupsettings',['IGroupSettings',['../classIGroupSettings.html',1,'']]],
+  ['image',['Image',['../classImage.html',1,'']]],
+  ['imessagedispatcher',['IMessageDispatcher',['../classIMessageDispatcher.html',1,'']]],
+  ['inotificationsettings',['INotificationSettings',['../classINotificationSettings.html',1,'']]],
+  ['ipc',['IPC',['../classIPC.html',1,'']]],
+  ['ipcevent',['IPCEvent',['../structIPC_1_1IPCEvent.html',1,'IPC']]],
+  ['ipcmemory',['IPCMemory',['../structIPC_1_1IPCMemory.html',1,'IPC']]],
+  ['iprofileinfo',['IProfileInfo',['../classIProfileInfo.html',1,'']]],
+  ['ivideosettings',['IVideoSettings',['../classIVideoSettings.html',1,'']]]
+];

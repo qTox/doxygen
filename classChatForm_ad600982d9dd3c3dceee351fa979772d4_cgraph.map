@@ -1,0 +1,5 @@
+<map id="ChatForm::onAttachClicked" name="ChatForm::onAttachClicked">
+<area shape="rect" id="node2" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="249,5,380,32"/>
+<area shape="rect" id="node3" href="$classCoreFile.html#a5fb9ee55a3b897ce59e92231801b8a00" title="CoreFile::sendFile" alt="" coords="249,56,380,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="265,107,365,133"/>
+</map>

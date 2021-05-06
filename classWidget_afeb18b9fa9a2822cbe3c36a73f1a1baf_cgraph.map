@@ -1,0 +1,51 @@
+<map id="Widget::removeFriend" name="Widget::removeFriend">
+<area shape="rect" id="node2" href="$classRemoveFriendDialog.html#a597e62720ce0ef3462a0d6b752657d8a" title="RemoveFriendDialog\l::accepted" alt="" coords="241,5,392,47"/>
+<area shape="rect" id="node4" href="$classRemoveFriendDialog.html#a2e66ed0246b03d2beccb5fbd7a2ff85a" title="RemoveFriendDialog\l::removeHistory" alt="" coords="241,71,392,112"/>
+<area shape="rect" id="node5" href="$classProfile.html#a86935da89fafad74f461e98d6670d7df" title="Get chat history. " alt="" coords="249,137,384,163"/>
+<area shape="rect" id="node6" href="$classHistory.html#a4e2f0b6c902c27a5101b618956e39023" title="Erases the chat history with one friend. " alt="" coords="213,187,420,214"/>
+<area shape="rect" id="node8" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="1019,719,1167,746"/>
+<area shape="rect" id="node9" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="237,517,396,543"/>
+<area shape="rect" id="node19" href="$classContentDialogManager.html#adf636d0f1287a0dc33246e7287691c2e" title="ContentDialogManager\l::getInstance" alt="" coords="1008,231,1177,272"/>
+<area shape="rect" id="node26" href="$classFriendListWidget.html#a3d6efdac851763c600772cc43e471869" title="FriendListWidget::remove\lFriendWidget" alt="" coords="225,792,408,833"/>
+<area shape="rect" id="node37" href="$classContentDialogManager.html#a29bcb711137e320829b6802068daed96" title="ContentDialogManager\l::getFriendDialog" alt="" coords="232,857,401,899"/>
+<area shape="rect" id="node38" href="$classContentDialog.html#a7da726baf6435e5263553864a6c0e544" title="ContentDialog::removeFriend" alt="" coords="475,1257,683,1283"/>
+<area shape="rect" id="node44" href="$classFriendList.html#a41b7b6fabf3cb1592240d8d376d494a6" title="FriendList::removeFriend" alt="" coords="228,923,405,950"/>
+<area shape="rect" id="node46" href="$classCore.html#a81ee9623fc6a220f473c5b5c1c1334b9" title="Core::removeFriend" alt="" coords="243,1025,390,1051"/>
+<area shape="rect" id="node47" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="267,1075,367,1102"/>
+<area shape="rect" id="node48" href="$classGroupList.html#a5ffb42751599ff984fcf5c52b64e2bcf" title="GroupList::getAllGroups" alt="" coords="230,1126,403,1153"/>
+<area shape="rect" id="node49" href="$classFriend.html#ab7804bc2a817acf26068ae9d1c74602d" title="Friend::getUserName" alt="" coords="237,1177,396,1203"/>
+<area shape="rect" id="node50" href="$classFriendListWidget.html#abdb7035975e2e3a06c83cba1f0f71089" title="FriendListWidget::reDraw" alt="" coords="227,1227,406,1254"/>
+<area shape="rect" id="node3" href="$classRemoveFriendDialog.html#aadc618077b326719d07ce394ce0440ca" title="RemoveFriendDialog\l::onAccepted" alt="" coords="504,5,655,47"/>
+<area shape="rect" id="node7" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully. " alt="" coords="522,162,637,189"/>
+<area shape="rect" id="node10" href="$classSettings.html#a4e65ec63f3cb29d79c460a8c68932cc6" title="Settings::getSeparateWindow" alt="" coords="474,618,685,645"/>
+<area shape="rect" id="node11" href="$classAddFriendForm.html#ae1b4472502e8eb6b6efeec0838903d66" title="AddFriendForm::isShown" alt="" coords="490,365,669,391"/>
+<area shape="rect" id="node12" href="$classAddFriendForm.html#aefb1b5164693999fdc015e1774f3e458" title="AddFriendForm::show" alt="" coords="500,415,659,442"/>
+<area shape="rect" id="node17" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="477,263,682,290"/>
+<area shape="rect" id="node20" href="$classWidget.html#aa15758d6b22efcbd7e36fa71702b0811" title="Widget::setActiveToolMenu\lButton" alt="" coords="754,537,945,579"/>
+<area shape="rect" id="node21" href="$classWidget.html#a34fb1300b432b15648b041631f2cac0c" title="Widget::hideMainForms" alt="" coords="494,669,665,695"/>
+<area shape="rect" id="node24" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title="Widget::setWindowTitle" alt="" coords="496,517,663,543"/>
+<area shape="rect" id="node25" href="$classWidget.html#a26da0100e884cd2f0c2d61a12f17f0fb" title="Widget::fromDialogType" alt="" coords="494,567,665,594"/>
+<area shape="rect" id="node13" href="$classAddFriendForm.html#a8cbdadda64ff8b9bc035238c632589ac" title="AddFriendForm::setIdFrom\lClipboard" alt="" coords="755,407,944,448"/>
+<area shape="rect" id="node14" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title="AddFriendForm::onCurrent\lChanged" alt="" coords="754,472,945,513"/>
+<area shape="rect" id="node15" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1013,987,1172,1014"/>
+<area shape="rect" id="node16" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1225,987,1361,1014"/>
+<area shape="rect" id="node18" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="743,263,956,290"/>
+<area shape="rect" id="node22" href="$classContentLayout.html#a1975e7c8e9d7df7a2e9fbc6a39fd7cd1" title="ContentLayout::clear" alt="" coords="772,669,927,695"/>
+<area shape="rect" id="node23" href="$classGenericChatroomWidget.html#a8bad475d4a08ad812ee535a03c232e74" title="GenericChatroomWidget\l::setAsInactiveChatroom" alt="" coords="760,603,939,644"/>
+<area shape="rect" id="node27" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="494,770,665,797"/>
+<area shape="rect" id="node28" href="$classFriendListWidget.html#a108259b33903cd084857d5414f761acc" title="FriendListWidget::getTime\lCategoryWidget" alt="" coords="487,821,672,863"/>
+<area shape="rect" id="node31" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="1027,1261,1158,1287"/>
+<area shape="rect" id="node32" href="$classSettings.html#ad2bea7550d0fe0f24a392edbfbb5ba3b" title="Settings::getFriendCircleID" alt="" coords="484,953,675,979"/>
+<area shape="rect" id="node33" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title="CircleWidget::getFromID" alt="" coords="492,1003,667,1030"/>
+<area shape="rect" id="node34" href="$classCategoryWidget.html#afd35c4f3defd59951735980df3b2726f" title="CategoryWidget::removeFriend\lWidget" alt="" coords="470,887,689,928"/>
+<area shape="rect" id="node29" href="$friendlistwidget_8cpp.html#aebc8015b1f38422016488c59c2a8a607" title="getActiveTimeFriend" alt="" coords="774,785,925,811"/>
+<area shape="rect" id="node30" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title="getTimeBucket" alt="" coords="790,835,909,862"/>
+<area shape="rect" id="node35" href="$classFriendListLayout.html#acda028395b347b92cad3df43529553c1" title="FriendListLayout::remove\lFriendWidget" alt="" coords="758,1039,941,1080"/>
+<area shape="rect" id="node36" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title="CategoryWidget::updateStatus" alt="" coords="740,894,959,921"/>
+<area shape="rect" id="node39" href="$classContentDialog.html#a8ceb9ec47bc57b9c5fb0ec3d98911bd3" title="Update friend widget name and position. " alt="" coords="747,1359,951,1400"/>
+<area shape="rect" id="node41" href="$classContentDialog.html#a371ae0fc6d29f7b70515ad8bd30fa519" title="Activate next/previous contact. " alt="" coords="744,1155,955,1182"/>
+<area shape="rect" id="node42" href="$classContentDialog.html#a0b85757591c84b58307b3de790ee832f" title="ContentDialog::chatroomCount" alt="" coords="739,1257,960,1283"/>
+<area shape="rect" id="node43" href="$classContentDialog.html#a43e911ad56e7e0c208859ae852f22cd4" title="ContentDialog::closeIfEmpty" alt="" coords="748,1307,951,1334"/>
+<area shape="rect" id="node40" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="1017,1366,1168,1393"/>
+<area shape="rect" id="node45" href="$classSettings.html#a5d58a8b40a2383af3b89e0ef26687cd4" title="Settings::removeFriendSettings" alt="" coords="468,1206,691,1233"/>
+</map>

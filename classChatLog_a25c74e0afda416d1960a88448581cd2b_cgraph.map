@@ -1,0 +1,7 @@
+<map id="ChatLog::removeFirsts" name="ChatLog::removeFirsts">
+<area shape="rect" id="node2" href="$classChatLog.html#a2eae7c9f1e255dba79dc677514463795" title="Adjusts the selection based on chatlog changing lines. " alt="" coords="219,23,424,65"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a770a285f0d59d6697d94ecea2ba31683" title="ChatLog::movePreciseSelectionUp" alt="" coords="472,5,715,32"/>
+<area shape="rect" id="node6" href="$classChatLog.html#acf76d0ec76b9bbee160218e3d2362fad" title="ChatLog::moveMultiSelectionUp" alt="" coords="480,56,707,83"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="763,5,936,32"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="984,31,1228,57"/>
+</map>

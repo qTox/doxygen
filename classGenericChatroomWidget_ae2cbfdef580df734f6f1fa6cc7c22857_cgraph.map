@@ -1,0 +1,8 @@
+<map id="GenericChatroomWidget::compactChange" name="GenericChatroomWidget::compactChange">
+<area shape="rect" id="node2" href="$classGenericChatItemWidget.html#a42f9800b7828189122d466b19853e307" title="GenericChatItemWidget\l::isCompact" alt="" coords="232,5,405,47"/>
+<area shape="rect" id="node3" href="$classGenericChatItemWidget.html#ab426d1dafe136064a14eb726a6c623d6" title="GenericChatItemWidget\l::setCompact" alt="" coords="232,71,405,112"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html#ac435e5332d7bbb6eae346c6c10315234" title="MaskablePixmapWidget\l::setSize" alt="" coords="233,136,405,177"/>
+<area shape="rect" id="node6" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="263,202,374,229"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="453,136,625,177"/>
+<area shape="rect" id="node7" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="502,202,577,229"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Settings::autostartInTrayChanged" name="Settings::autostartInTrayChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a772ed8f6f7fc5652f56451c2dee708e3" title="Settings::setAutostartInTray" alt="" coords="232,13,431,39"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#aaf77b71a10a8c24fc972ea086a70afeb" title="GeneralForm::on_startInTray\l_stateChanged" alt="" coords="479,5,681,47"/>
+</map>

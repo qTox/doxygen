@@ -1,0 +1,6 @@
+<map id="AVForm::getValueFromSteps" name="AVForm::getValueFromSteps">
+<area shape="rect" id="node2" href="$classAVForm.html#a1e298c579b03396653dfa0bcebda4b1f" title="AVForm::on_playbackSlider\l_valueChanged" alt="" coords="269,5,463,47"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="521,101,695,127"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a0aff20d19fff4322155a8d1eeac611e7" title="AVForm::on_microphoneSlider\l_valueChanged" alt="" coords="259,123,473,164"/>
+<area shape="rect" id="node5" href="$classAVForm.html#ae633aa914e2cca94370910087b04fa99" title="AVForm::on_audioThreshold\lSlider_valueChanged" alt="" coords="266,188,466,229"/>
+</map>

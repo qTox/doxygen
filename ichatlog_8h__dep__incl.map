@@ -1,0 +1,19 @@
+<map id="src/model/ichatlog.h" name="src/model/ichatlog.h">
+<area shape="rect" id="node2" href="$chathistory_8h.html" title="src/model/chathistory.h" alt="" coords="429,155,599,181"/>
+<area shape="rect" id="node5" href="$sessionchatlog_8h.html" title="src/model/sessionchatlog.h" alt="" coords="416,80,612,107"/>
+<area shape="rect" id="node7" href="$genericchatform_8h.html" title="src/widget/form/genericchatform.h" alt="" coords="732,80,973,107"/>
+<area shape="rect" id="node8" href="$chatform_8h.html" title="src/widget/form/chatform.h" alt="" coords="930,155,1125,181"/>
+<area shape="rect" id="node18" href="$loadhistorydialog_8cpp.html" title="src/widget/form/loadhistorydialog.cpp" alt="" coords="1049,80,1307,107"/>
+<area shape="rect" id="node3" href="$chathistory_8cpp.html" title="src/model/chathistory.cpp" alt="" coords="5,229,191,256"/>
+<area shape="rect" id="node4" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="435,229,593,256"/>
+<area shape="rect" id="node6" href="$sessionchatlog_8cpp.html" title="src/model/sessionchatlog.cpp" alt="" coords="194,155,405,181"/>
+<area shape="rect" id="node13" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="889,229,1145,256"/>
+<area shape="rect" id="node16" href="$groupchatform_8h.html" title="src/widget/form/groupchatform.h" alt="" coords="624,155,855,181"/>
+<area shape="rect" id="node9" href="$friend_8cpp.html" title="src/model/friend.cpp" alt="" coords="1169,229,1321,256"/>
+<area shape="rect" id="node10" href="$circlewidget_8cpp.html" title="src/widget/circlewidget.cpp" alt="" coords="1345,229,1536,256"/>
+<area shape="rect" id="node11" href="$contentdialog_8cpp.html" title="src/widget/contentdialog.cpp" alt="" coords="1560,229,1764,256"/>
+<area shape="rect" id="node12" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1788,229,1997,256"/>
+<area shape="rect" id="node14" href="$groupchatform_8cpp.html" title="src/widget/form/groupchatform.cpp" alt="" coords="617,229,864,256"/>
+<area shape="rect" id="node15" href="$friendwidget_8cpp.html" title="src/widget/friendwidget.cpp" alt="" coords="2022,229,2217,256"/>
+<area shape="rect" id="node17" href="$groupwidget_8cpp.html" title="src/widget/groupwidget.cpp" alt="" coords="215,229,410,256"/>
+</map>

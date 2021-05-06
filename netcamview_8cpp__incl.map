@@ -1,0 +1,27 @@
+<map id="src/video/netcamview.cpp" name="src/video/netcamview.cpp">
+<area shape="rect" id="node2" href="$netcamview_8h.html" title="netcamview.h" alt="" coords="1963,80,2072,107"/>
+<area shape="rect" id="node7" href="$camerasource_8h.html" title="camerasource.h" alt="" coords="2547,80,2674,107"/>
+<area shape="rect" id="node17" href="$core_8h.html" title="src/core/core.h" alt="" coords="992,155,1109,181"/>
+<area shape="rect" id="node33" href="$friendlist_8h.html" title="src/friendlist.h" alt="" coords="31,379,142,405"/>
+<area shape="rect" id="node34" href="$friend_8h.html" title="src/model/friend.h" alt="" coords="1302,80,1439,107"/>
+<area shape="rect" id="node37" href="$nexus_8h.html" title="src/nexus.h" alt="" coords="1802,155,1897,181"/>
+<area shape="rect" id="node38" href="$profile_8h.html" title="src/persistence/profile.h" alt="" coords="1763,80,1938,107"/>
+<area shape="rect" id="node39" href="$settings_8h.html" title="src/persistence/settings.h" alt="" coords="1540,155,1727,181"/>
+<area shape="rect" id="node40" href="$videosurface_8h.html" title="src/video/videosurface.h" alt="" coords="2347,80,2523,107"/>
+<area shape="rect" id="node41" href="$movablewidget_8h.html" title="src/widget/tool/movablewidget.h" alt="" coords="2096,80,2323,107"/>
+<area shape="rect" id="node42" href="$style_8h.html" title="src/widget/style.h" alt="" coords="2698,80,2830,107"/>
+<area shape="rect" id="node3" href="$toxpk_8h.html" title="src/core/toxpk.h" alt="" coords="289,379,413,405"/>
+<area shape="rect" id="node8" href="$videomode_8h.html" title="src/video/videomode.h" alt="" coords="2965,304,3131,331"/>
+<area shape="rect" id="node9" href="$videosource_8h.html" title="src/video/videosource.h" alt="" coords="2322,155,2494,181"/>
+<area shape="rect" id="node18" href="$groupid_8h.html" title="groupid.h" alt="" coords="588,379,671,405"/>
+<area shape="rect" id="node19" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="1088,229,1291,256"/>
+<area shape="rect" id="node20" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="1041,304,1148,331"/>
+<area shape="rect" id="node22" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="1295,304,1499,331"/>
+<area shape="rect" id="node23" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="640,304,776,331"/>
+<area shape="rect" id="node24" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="232,229,355,256"/>
+<area shape="rect" id="node25" href="$toxid_8h.html" title="toxid.h" alt="" coords="359,304,425,331"/>
+<area shape="rect" id="node26" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="1683,229,1755,256"/>
+<area shape="rect" id="node27" href="$status_8h.html" title="src/model/status.h" alt="" coords="1416,229,1557,256"/>
+<area shape="rect" id="node35" href="$contact_8h.html" title="contact.h" alt="" coords="1433,155,1516,181"/>
+<area shape="rect" id="node36" href="$extension_8h.html" title="src/core/extension.h" alt="" coords="43,155,194,181"/>
+</map>

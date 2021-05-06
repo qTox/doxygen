@@ -1,0 +1,22 @@
+<map id="ToxFileProgress::addSample" name="ToxFileProgress::addSample">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a96f9543d4a9627565da5415f4f00e2c1" title="FileTransferWidget\l::updateFileProgress" alt="" coords="252,220,403,261"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a70ea2ed928e6b4cd22645d5c7097070c" title="FileTransferWidget\l::updateWidget" alt="" coords="451,220,585,261"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="643,186,786,228"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#adb65516d9e96c1ebe519ed1459e88687" title="FileTransferWidget\l::onFileTransferUpdate" alt="" coords="633,252,796,293"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#ac3ba681258ac9cdb657576dff3faa3a4" title="GenericChatForm::renderFile" alt="" coords="844,259,1048,286"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#a1a8ec9db049a3f90dbceecc9eec1313e" title="GenericChatForm::renderItem" alt="" coords="1096,259,1309,286"/>
+<area shape="rect" id="node8" href="$classGenericChatForm.html#a00f2b0808c1c1c785c00c85257a09440" title="GenericChatForm::renderMessages" alt="" coords="1357,259,1605,286"/>
+<area shape="rect" id="node9" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="2529,281,2720,322"/>
+<area shape="rect" id="node10" href="$classGenericChatForm.html#af0d89961de8436af41ee42046b16dfc1" title="GenericChatForm::loadHistoryTo load history before to date &quot;time&quot; or before the first &quot;messages&quot; item..." alt="" coords="1663,175,1890,202"/>
+<area shape="rect" id="node14" href="$classGenericChatForm.html#ae20378ccba9239d2cdb67f67764035d1" title="GenericChatForm::loadHistoryFrom load history starting from date &quot;time&quot; or from the last &quot;messages&quot; i..." alt="" coords="1653,230,1900,256"/>
+<area shape="rect" id="node16" href="$classGenericChatForm.html#af5d5cb166df8bb540c9fc52cef4cb56f" title="GenericChatForm::handleSearch\lResult" alt="" coords="1661,281,1892,322"/>
+<area shape="rect" id="node20" href="$classGenericChatForm.html#aa19c8d40ad49892ee020edafb8095625" title="GenericChatForm::renderMessage" alt="" coords="1656,478,1897,504"/>
+<area shape="rect" id="node21" href="$classGenericChatForm.html#af4b1a65206a94ab4a40008099b493988" title="GenericChatForm::goToCurrentDate" alt="" coords="1948,398,2199,424"/>
+<area shape="rect" id="node11" href="$classGenericChatForm.html#aa801732df208023a960f1909a3c7855e" title="GenericChatForm::loadHistory load history. " alt="" coords="1966,175,2181,202"/>
+<area shape="rect" id="node13" href="$classGenericChatForm.html#ac5d6113b34542e33b20513598ad1f79d" title="GenericChatForm::loadHistoryLower load history after scrolling chatlog before first &quot;messages&quot; item..." alt="" coords="2257,105,2471,146"/>
+<area shape="rect" id="node12" href="$classGenericChatForm.html#ab0cdd3b351bfb914513081c59ed8a3f6" title="GenericChatForm::onLoadHistory" alt="" coords="2247,171,2481,198"/>
+<area shape="rect" id="node15" href="$classGenericChatForm.html#ab2633d98c136c06a0c82ca4ec467ae59" title="GenericChatForm::loadHistoryUpper load history after scrolling chatlog after last &quot;messages&quot; item..." alt="" coords="2257,222,2471,264"/>
+<area shape="rect" id="node17" href="$classGenericChatForm.html#a347540dd8693e7ff370c9fe4304f6fba" title="GenericChatForm::onSearchUp" alt="" coords="1963,288,2184,315"/>
+<area shape="rect" id="node19" href="$classGenericChatForm.html#ac7eeeb0392a891391b901bc71910b0b6" title="GenericChatForm::onSearchDown" alt="" coords="1954,339,2193,366"/>
+<area shape="rect" id="node18" href="$classGenericChatForm.html#a734e66bb7e0c5c95d522fe564f981d94" title="GenericChatForm::searchIn\lBegin" alt="" coords="2266,390,2462,432"/>
+</map>

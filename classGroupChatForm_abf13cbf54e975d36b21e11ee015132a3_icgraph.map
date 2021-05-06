@@ -1,0 +1,5 @@
+<map id="GroupChatForm::onMicMuteToggle" name="GroupChatForm::onMicMuteToggle">
+<area shape="rect" id="node2" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="255,5,489,32"/>
+<area shape="rect" id="node3" href="$classGroupChatForm.html#a402b3a50a8e0abec94d10476aafd969a" title="GroupChatForm::keyPressEvent" alt="" coords="259,56,485,83"/>
+<area shape="rect" id="node4" href="$classGroupChatForm.html#a0de15ee7d423daf8447466c5af89b3be" title="GroupChatForm::keyRelease\lEvent" alt="" coords="271,107,473,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node3" href="$classICoreFriendMessageSender.html" title="{ICoreFriendMessageSender\n||+ ~ICoreFriendMessageSender()\l+ sendAction()\l+ sendMessage()\l}" alt="" coords="103,35,335,141"/>
+<area shape="rect" id="node4" href="$classICoreIdHandler.html" title="{ICoreIdHandler\n||+ ~ICoreIdHandler()\l+ getSelfId()\l+ getSelfPublicKey()\l+ getUsername()\l}" alt="" coords="359,27,511,149"/>
+<area shape="rect" id="node5" href="$classICoreGroupMessageSender.html" title="{ICoreGroupMessageSender\n||+ ~ICoreGroupMessageSender()\l+ sendGroupAction()\l+ sendGroupMessage()\l}" alt="" coords="536,35,769,141"/>
+<area shape="rect" id="node6" href="$classICoreGroupQuery.html" title="{ICoreGroupQuery\n||+ ~ICoreGroupQuery()\l+ getGroupPersistentId()\l+ getGroupNumberPeers()\l+ getGroupPeerName()\l+ getGroupPeerPk()\l+ getGroupPeerNames()\l+ getGroupAvEnabled()\l}" alt="" coords="794,5,989,171"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CoreFile::sendFile" name="CoreFile::sendFile">
+<area shape="rect" id="node2" href="$classChatForm.html#ad600982d9dd3c3dceee351fa979772d4" title="ChatForm::onAttachClicked" alt="" coords="184,5,380,32"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a9ce9b991de4c29da7d309427cb39e490" title="ChatForm::dropEvent" alt="" coords="203,56,361,83"/>
+<area shape="rect" id="node4" href="$classChatForm.html#a5d4fda8f8b4cc18bb4bb1ca84a36aed8" title="ChatForm::sendImage" alt="" coords="200,107,364,133"/>
+<area shape="rect" id="node5" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="441,81,597,108"/>
+<area shape="rect" id="node6" href="$classChatForm.html#ad818082e302b100fe7ac90b12eb5ddd6" title="ChatForm::doScreenshot" alt="" coords="428,132,611,159"/>
+<area shape="rect" id="node7" href="$classChatForm.html#a060864869ee24c333641373ad8b58efc" title="ChatForm::onScreenshotClicked" alt="" coords="659,132,885,159"/>
+</map>

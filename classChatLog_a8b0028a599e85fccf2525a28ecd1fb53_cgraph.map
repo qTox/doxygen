@@ -1,0 +1,11 @@
+<map id="ChatLog::insertChatlinesOnTop" name="ChatLog::insertChatlinesOnTop">
+<area shape="rect" id="node2" href="$classChatLog.html#a567f21568f26c365572452efd072a5f4" title="ChatLog::removeLasts" alt="" coords="251,5,418,32"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a79f16af4624ae7d2a8fa095b0f42d4ac" title="Adjusts the selections based on chatlog changing lines. " alt="" coords="232,57,437,98"/>
+<area shape="rect" id="node8" href="$classChatLog.html#add5b362b3a0767c8d04a59beafd5c626" title="ChatLog::startResizeWorker" alt="" coords="237,123,433,149"/>
+<area shape="rect" id="node10" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="248,173,421,200"/>
+<area shape="rect" id="node4" href="$classChatLog.html#aec4a35b88e7a5e65f591cb22c8de4689" title="ChatLog::movePreciseSelectionDown" alt="" coords="485,17,744,44"/>
+<area shape="rect" id="node7" href="$classChatLog.html#a86a1f26906e40032cae079e5a0b64326" title="ChatLog::moveMultiSelectionDown" alt="" coords="493,68,736,95"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="792,17,965,44"/>
+<area shape="rect" id="node6" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="1013,43,1257,69"/>
+<area shape="rect" id="node9" href="$classChatLineContent.html#a0a075c41c4f2f6d494fe454d256ed6ce" title="ChatLineContent::getText" alt="" coords="523,123,706,149"/>
+</map>

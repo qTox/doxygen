@@ -1,0 +1,51 @@
+<map id="Core::makeToxCore" name="Core::makeToxCore">
+<area shape="rect" id="node2" href="$classToxOptions.html#ac791d12af61413fd4e08f4776f593d5b" title="Initializes a ToxOptions instance. " alt="" coords="215,208,419,235"/>
+<area shape="rect" id="node11" href="$classCore.html#ae639e75893da8e609e50f1094cc0ce78" title="Core::Core" alt="" coords="271,477,362,504"/>
+<area shape="rect" id="node17" href="$classCoreFile.html#a23b88b6459d4133cd8f061698113c08b" title="CoreFile::makeCoreFile" alt="" coords="233,1279,400,1305"/>
+<area shape="rect" id="node24" href="$classCoreExt.html#a2de8fc4ad9545320ce52b61c2853ee98" title="Creates a CoreExt instance. Using a pointer here makes our registrations with extensions significantl..." alt="" coords="233,1329,400,1356"/>
+<area shape="rect" id="node26" href="$classCoreExt.html#acae2e09f69e9beafa892160e99116389" title="CoreExt::onFriendStatusChanged" alt="" coords="200,1380,433,1407"/>
+<area shape="rect" id="node27" href="$classCore.html#a260257ad4ee098aa767a739bdf0e724a" title="Registers all toxcore callbacks. " alt="" coords="232,1076,401,1103"/>
+<area shape="rect" id="node45" href="$classCore.html#ae4d185eaa869d82d63754e446ea45c73" title="Core::onStarted" alt="" coords="255,579,379,605"/>
+<area shape="rect" id="node3" href="$classICoreSettings.html#a61b2800beea354c12ca78b3a9166bb91" title="ICoreSettings::getProxyAddr" alt="" coords="496,5,699,32"/>
+<area shape="rect" id="node4" href="$classToxOptions.html#a6f45560eb1ddbecdb2fd19363526365b" title="ToxOptions::ToxOptions" alt="" coords="513,56,681,83"/>
+<area shape="rect" id="node5" href="$namespaceToxLogger.html#ac1be6782376727c4d9898bbd9b4867db" title="Log message handler for toxcore log messages. " alt="" coords="502,107,693,133"/>
+<area shape="rect" id="node6" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title="ICoreSettings::getEnableIPv6" alt="" coords="494,157,701,184"/>
+<area shape="rect" id="node7" href="$classICoreSettings.html#ae3be8c5ffd7e7777142952eadecd12e6" title="ICoreSettings::getForceTCP" alt="" coords="500,208,695,235"/>
+<area shape="rect" id="node8" href="$classICoreSettings.html#a370b35682a55e80c5a033a65ff0a3e0d" title="ICoreSettings::getEnable\lLanDiscovery" alt="" coords="507,259,687,301"/>
+<area shape="rect" id="node9" href="$classICoreSettings.html#aea0a9da8ef5a7eedd726bf60c77f6222" title="ICoreSettings::getProxyType" alt="" coords="497,325,697,352"/>
+<area shape="rect" id="node10" href="$classICoreSettings.html#a52955361edce3ec22eb4e5ba384cdce1" title="ICoreSettings::getProxyPort" alt="" coords="498,376,697,403"/>
+<area shape="rect" id="node12" href="$classCore.html#ae16fbf434051c93fc709ddf1eda16ef0" title="Processes toxcore events and ensure we stay connected, called by its own timer. " alt="" coords="542,427,653,453"/>
+<area shape="rect" id="node13" href="$classCore.html#a2c4cf238a65083affe97ef1cfcdc74c4" title="Core::checkConnection" alt="" coords="785,351,955,377"/>
+<area shape="rect" id="node14" href="$classCore.html#a31a9203e17de26471abfedf8736603d8" title="Connects us to the Tox network. " alt="" coords="797,401,943,428"/>
+<area shape="rect" id="node15" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="805,452,935,479"/>
+<area shape="rect" id="node16" href="$classCoreFile.html#a4b686fc92a5e26f547b4c2ac4347dafd" title="Get corefile iteration interval. " alt="" coords="781,503,959,545"/>
+<area shape="rect" id="node18" href="$classCoreFile.html#aa07ee3f2702d6eb53b1372e4624c2f73" title="CoreFile::connectCallbacks" alt="" coords="502,1456,693,1483"/>
+<area shape="rect" id="node23" href="$classCoreFile.html#aba46f6c4341bbf61ff8671e7bf977c80" title="CoreFile::onConnectionStatus\lChanged" alt="" coords="492,1507,703,1549"/>
+<area shape="rect" id="node19" href="$classCoreFile.html#afdd4e5322e21747dcc90f41d2d5aee4f" title="CoreFile::onFileDataCallback" alt="" coords="770,1376,970,1403"/>
+<area shape="rect" id="node20" href="$classCoreFile.html#a8e4c2a707951a5a504b7ed39501f02b6" title="CoreFile::onFileReceiveCallback" alt="" coords="761,1427,979,1453"/>
+<area shape="rect" id="node21" href="$classCoreFile.html#a6aaa04f6e47107fe4d45d3c10c7e82bd" title="CoreFile::onFileRecvChunk\lCallback" alt="" coords="777,1478,963,1519"/>
+<area shape="rect" id="node22" href="$classCoreFile.html#a7772b2dab0951438f70853c3c10365bf" title="CoreFile::onFileControlCallback" alt="" coords="763,1544,977,1571"/>
+<area shape="rect" id="node25" href="$classCoreExt.html#a8c3369486af842a66e982838455ceead" title="CoreExt::CoreExt" alt="" coords="532,1573,663,1600"/>
+<area shape="rect" id="node28" href="$classCore.html#a9b7936862fd6d459e7a003498b6d3ee1" title="Core::onFriendRequest" alt="" coords="515,797,680,824"/>
+<area shape="rect" id="node30" href="$classCore.html#a25aa9e0881363f63c92ba5f4ea7a4d98" title="Core::onFriendMessage" alt="" coords="512,848,683,875"/>
+<area shape="rect" id="node31" href="$classCore.html#a0e13a83d93f19d3d84f0fd85b73e0317" title="Core::onFriendNameChange" alt="" coords="496,899,699,925"/>
+<area shape="rect" id="node32" href="$classCore.html#a724d51a4f7b081af18e48c292f8d4aa7" title="Core::onFriendTypingChange" alt="" coords="496,1101,699,1128"/>
+<area shape="rect" id="node33" href="$classCore.html#ac31b897033396e49d82600a90971aec4" title="Core::onStatusMessageChanged" alt="" coords="481,949,713,976"/>
+<area shape="rect" id="node34" href="$classCore.html#a18ad28602f7a70042c53d8041348f1b5" title="Core::onUserStatusChanged" alt="" coords="495,1152,700,1179"/>
+<area shape="rect" id="node35" href="$classCore.html#ab1c0a082ae5a7cf030821a993a2e8e40" title="Core::onConnectionStatus\lChanged" alt="" coords="502,731,693,773"/>
+<area shape="rect" id="node37" href="$classCore.html#a4d5b6500185503cc3f0801674478586a" title="Core::onReadReceiptCallback" alt="" coords="494,1203,701,1229"/>
+<area shape="rect" id="node38" href="$classCore.html#ac3b77f0e4a52c97ec921638b114dc62b" title="Core::onGroupInvite" alt="" coords="523,1253,672,1280"/>
+<area shape="rect" id="node39" href="$classCore.html#ab4aee8083989d410925c1f7b4930294d" title="Core::onGroupMessage" alt="" coords="511,1000,683,1027"/>
+<area shape="rect" id="node40" href="$classCore.html#aaa86c5384a5b7609e32e4017c8345af8" title="Core::onGroupPeerListChange" alt="" coords="490,1304,705,1331"/>
+<area shape="rect" id="node41" href="$classCore.html#a9091c43d29dbae1360096bd2c9176dfa" title="Core::onGroupPeerNameChange" alt="" coords="481,1051,713,1077"/>
+<area shape="rect" id="node43" href="$classCore.html#a8e0bb22a5e6d460cbf303902b79b8f03" title="Core::onGroupTitleChange" alt="" coords="502,1355,693,1381"/>
+<area shape="rect" id="node44" href="$classCore.html#ad0f44694f2365aee275e87c237c264f1" title="Handling of custom lossless packets received by toxcore. Currently only used to forward toxext packet..." alt="" coords="511,1405,683,1432"/>
+<area shape="rect" id="node29" href="$classToxString.html#a5d2731a7c214aa7e9ecefc1ddb8a3820" title="Gets the string as QString. " alt="" coords="791,924,949,951"/>
+<area shape="rect" id="node36" href="$classCore.html#a07764afdb5657159786c6f353b60e30f" title="Core::checkLastOnline" alt="" coords="788,684,952,711"/>
+<area shape="rect" id="node42" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group. " alt="" coords="788,1051,952,1077"/>
+<area shape="rect" id="node46" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure. " alt="" coords="523,477,671,504"/>
+<area shape="rect" id="node47" href="$classCore.html#a7b6ca7659c49472b5699d47963d44dee" title="Returns our status message, or an empty string on failure. " alt="" coords="507,528,687,555"/>
+<area shape="rect" id="node48" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID. " alt="" coords="539,579,655,605"/>
+<area shape="rect" id="node49" href="$classCore.html#ade915e7fc09d358c175f4ee3c9d84f5b" title="Core::loadFriends" alt="" coords="531,629,663,656"/>
+<area shape="rect" id="node50" href="$classCore.html#ad1ebcac9f4ea64560d076f011b0b386e" title="Core::loadGroups" alt="" coords="531,680,664,707"/>
+</map>

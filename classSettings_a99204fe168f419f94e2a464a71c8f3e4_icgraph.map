@@ -1,0 +1,12 @@
+<map id="Settings::getGlobalAutoAcceptDir" name="Settings::getGlobalAutoAcceptDir">
+<area shape="rect" id="node2" href="$classGeneralForm.html#a51176d13e56ba9fd99d62bb09e93f382" title="GeneralForm::GeneralForm" alt="" coords="290,5,486,32"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#ac6fc7d466468485fa8731e1c2b5bf211" title="GeneralForm::on_autoSave\lFilesDir_clicked" alt="" coords="289,57,487,98"/>
+<area shape="rect" id="node4" href="$classWidget.html#a11cca32dbf6b2a33b9706693622d1c93" title="Dispatches file to the appropriate chatlog and accepts the transfer if necessary. ..." alt="" coords="315,123,461,149"/>
+<area shape="rect" id="node5" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="785,123,877,149"/>
+<area shape="rect" id="node11" href="$classWidget.html#a576c44a8caf8f7b022f0cd65d26ca8a8" title="Widget::dispatchFileWithBool" alt="" coords="535,148,737,175"/>
+<area shape="rect" id="node6" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="925,97,1080,124"/>
+<area shape="rect" id="node7" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1128,97,1228,124"/>
+<area shape="rect" id="node8" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1276,97,1475,124"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1707,123,1761,149"/>
+<area shape="rect" id="node10" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1523,148,1659,175"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ChatHistory::onMessageBroken" name="ChatHistory::onMessageBroken">
+<area shape="rect" id="node2" href="$classChatHistory.html#a684b036cdbca742a83eed035bdb77a2a" title="ChatHistory::canUseHistory" alt="" coords="281,5,478,32"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a94791b3d1407d966e4a649838e07bc36" title="ChatHistory::breakMessage" alt="" coords="281,56,478,83"/>
+<area shape="rect" id="node7" href="$classSessionChatLog.html#a9ecefb888407250904177a8a2dd0e9e3" title="SessionChatLog::onMessage\lBroken" alt="" coords="276,107,483,149"/>
+<area shape="rect" id="node3" href="$classSettings.html#aa3d4c8c7582f245d4971f63a214ccadd" title="Settings::getEnableLogging" alt="" coords="531,5,728,32"/>
+<area shape="rect" id="node5" href="$classHistory.html#af6a540f04cee58bf32f6ac7e3d0dc418" title="History::markAsBroken" alt="" coords="545,56,713,83"/>
+<area shape="rect" id="node6" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully. " alt="" coords="776,56,891,83"/>
+</map>

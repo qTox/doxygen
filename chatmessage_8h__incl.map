@@ -1,0 +1,12 @@
+<map id="src/chatlog/chatmessage.h" name="src/chatlog/chatmessage.h">
+<area shape="rect" id="node2" href="$chatline_8h.html" title="chatline.h" alt="" coords="163,162,247,189"/>
+<area shape="rect" id="node7" href="$toxfile_8h.html" title="src/core/toxfile.h" alt="" coords="387,162,514,189"/>
+<area shape="rect" id="node11" href="$history_8h.html" title="src/persistence/history.h" alt="" coords="1129,80,1305,107"/>
+<area shape="rect" id="node8" href="$toxfilepause_8h.html" title="src/core/toxfilepause.h" alt="" coords="473,244,639,271"/>
+<area shape="rect" id="node18" href="$toxpk_8h.html" title="src/core/toxpk.h" alt="" coords="1206,162,1330,189"/>
+<area shape="rect" id="node21" href="$extension_8h.html" title="src/core/extension.h" alt="" coords="657,162,807,189"/>
+<area shape="rect" id="node23" href="$brokenmessagereason_8h.html" title="src/model/brokenmessagereason.h" alt="" coords="883,162,1131,189"/>
+<area shape="rect" id="node24" href="$rawdatabase_8h.html" title="src/persistence/db\l/rawdatabase.h" alt="" coords="1621,155,1760,196"/>
+<area shape="rect" id="node35" href="$searchtypes_8h.html" title="src/widget/searchtypes.h" alt="" coords="1853,162,2033,189"/>
+<area shape="rect" id="node19" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="1049,244,1197,271"/>
+</map>

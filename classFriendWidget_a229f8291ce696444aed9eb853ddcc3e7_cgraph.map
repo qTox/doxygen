@@ -1,0 +1,5 @@
+<map id="FriendWidget::onAvatarRemoved" name="FriendWidget::onAvatarRemoved">
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title="GenericChatroomWidget\l::isActive" alt="" coords="280,5,459,47"/>
+<area shape="rect" id="node3" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="283,71,455,112"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="507,71,679,112"/>
+</map>

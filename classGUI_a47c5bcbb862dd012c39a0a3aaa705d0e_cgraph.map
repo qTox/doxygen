@@ -1,0 +1,6 @@
+<map id="GUI::_showWarning" name="GUI::_showWarning">
+<area shape="rect" id="node2" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="391,5,557,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="605,5,751,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="799,5,909,32"/>
+</map>

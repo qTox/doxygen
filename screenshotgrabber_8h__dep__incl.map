@@ -1,0 +1,15 @@
+<map id="src/widget/tool/screenshotgrabber.h" name="src/widget/tool/screenshotgrabber.h">
+<area shape="rect" id="node2" href="$chatform_8h.html" title="src/widget/form/chatform.h" alt="" coords="1003,87,1198,114"/>
+<area shape="rect" id="node7" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1789,169,1999,196"/>
+<area shape="rect" id="node12" href="$avform_8cpp.html" title="src/widget/form/settings\l/avform.cpp" alt="" coords="1671,80,1845,121"/>
+<area shape="rect" id="node13" href="$screengrabberoverlayitem_8cpp.html" title="src/widget/tool/screengrabberoverlayitem.cpp" alt="" coords="1869,87,2183,114"/>
+<area shape="rect" id="node14" href="$screenshotgrabber_8cpp.html" title="src/widget/tool/screenshotgrabber.cpp" alt="" coords="2207,87,2472,114"/>
+<area shape="rect" id="node3" href="$chathistory_8cpp.html" title="src/model/chathistory.cpp" alt="" coords="5,169,191,196"/>
+<area shape="rect" id="node4" href="$friend_8cpp.html" title="src/model/friend.cpp" alt="" coords="215,169,367,196"/>
+<area shape="rect" id="node5" href="$circlewidget_8cpp.html" title="src/widget/circlewidget.cpp" alt="" coords="392,169,583,196"/>
+<area shape="rect" id="node6" href="$contentdialog_8cpp.html" title="src/widget/contentdialog.cpp" alt="" coords="607,169,811,196"/>
+<area shape="rect" id="node8" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="835,169,1091,196"/>
+<area shape="rect" id="node9" href="$groupchatform_8cpp.html" title="src/widget/form/groupchatform.cpp" alt="" coords="1116,169,1363,196"/>
+<area shape="rect" id="node10" href="$friendwidget_8cpp.html" title="src/widget/friendwidget.cpp" alt="" coords="1387,169,1582,196"/>
+<area shape="rect" id="node11" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="1607,169,1765,196"/>
+</map>

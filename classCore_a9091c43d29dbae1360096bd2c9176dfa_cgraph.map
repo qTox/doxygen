@@ -1,0 +1,4 @@
+<map id="Core::onGroupPeerNameChange" name="Core::onGroupPeerNameChange">
+<area shape="rect" id="node2" href="$classToxString.html#a5d2731a7c214aa7e9ecefc1ddb8a3820" title="Gets the string as QString. " alt="" coords="289,5,446,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group. " alt="" coords="285,56,449,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Widget::acceptFileTransfer" name="Widget::acceptFileTransfer">
+<area shape="rect" id="node2" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="261,5,391,32"/>
+<area shape="rect" id="node3" href="$classCoreFile.html#a1df491ab7c453d59aa746e41ef9018ab" title="CoreFile::acceptFileRecv\lRequest" alt="" coords="240,57,412,98"/>
+</map>

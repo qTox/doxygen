@@ -1,0 +1,11 @@
+<map id="SmileyPack::getInstance" name="SmileyPack::getInstance">
+<area shape="rect" id="node2" href="$classChatMessage.html#a75c9fc019f57227add289839060a02c8" title="ChatMessage::createChatMessage" alt="" coords="231,13,476,39"/>
+<area shape="rect" id="node4" href="$classCustomTextDocument.html#a920c438b6719ccc5f9c9d3b370933861" title="CustomTextDocument\l::loadResource" alt="" coords="271,64,435,105"/>
+<area shape="rect" id="node5" href="$classEmoticonsWidget.html#acf4f5fbfb3401fc3a2028f58aee2464c" title="EmoticonsWidget::Emoticons\lWidget" alt="" coords="250,129,457,171"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#ad004b5dac3287ca8de1aaaa2270e5f92" title="GenericChatForm::onEmote\lButtonClicked" alt="" coords="253,195,453,236"/>
+<area shape="rect" id="node8" href="$classUserInterfaceForm.html#aa7f672b41a032ba66deda2da9c165efc" title="Reload smileys and size information. " alt="" coords="279,260,428,301"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#a2d556cb8a0a1d103e114b8a4d238b137" title="Searches for name (possibly alias) of someone with specified public key among all of your friends or ..." alt="" coords="525,5,713,47"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="524,195,715,236"/>
+<area shape="rect" id="node9" href="$classUserInterfaceForm.html#a22ae235d9056d65b0a72205c54294e01" title="Constructor of UserInterfaceForm. " alt="" coords="545,260,694,301"/>
+<area shape="rect" id="node10" href="$classUserInterfaceForm.html#abf7b35d7007d378887053a7c12da56a1" title="UserInterfaceForm::\lon_smileyPackBrowser\l_currentIndexChanged" alt="" coords="536,325,703,381"/>
+</map>

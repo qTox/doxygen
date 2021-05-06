@@ -1,0 +1,4 @@
+<map id="FriendListWidget::onGroupchatPositionChanged" name="FriendListWidget::onGroupchatPositionChanged">
+<area shape="rect" id="node2" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="272,5,445,47"/>
+<area shape="rect" id="node3" href="$classFriendListWidget.html#abdb7035975e2e3a06c83cba1f0f71089" title="FriendListWidget::reDraw" alt="" coords="269,71,448,98"/>
+</map>

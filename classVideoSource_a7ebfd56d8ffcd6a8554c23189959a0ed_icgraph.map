@@ -1,0 +1,33 @@
+<map id="VideoSource::frameAvailable" name="VideoSource::frameAvailable">
+<area shape="rect" id="node2" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="1288,436,1480,463"/>
+<area shape="rect" id="node3" href="$classCameraSource.html#a64c38c6f510cf63da910f7095d4b276f" title="Blocking. Decodes video stream and emits new frames. " alt="" coords="279,423,451,450"/>
+<area shape="rect" id="node18" href="$classCoreVideoSource.html#a874b46673e90beded7bfd7b33ad04975" title="Makes a copy of the vpx_image_t and emits it as a new VideoFrame. " alt="" coords="259,626,471,652"/>
+<area shape="rect" id="node23" href="$classVideoSurface.html#a9e43af4b333e69d3d15af35a00cb3c64" title="VideoSurface::subscribe" alt="" coords="277,524,453,551"/>
+<area shape="rect" id="node31" href="$classVideoSurface.html#a088414beba42524b7adc5968563e6f42" title="VideoSurface::unsubscribe" alt="" coords="1031,575,1223,602"/>
+<area shape="rect" id="node4" href="$classCameraSource.html#a8feedbf91ec5c596003144d0cacd1807" title="Opens the video device and starts streaming. " alt="" coords="519,423,721,450"/>
+<area shape="rect" id="node5" href="$classCameraSource.html#af9add1ef2031e2c35fb09e3a75bb92c1" title="Change the device and mode. " alt="" coords="769,363,975,390"/>
+<area shape="rect" id="node17" href="$classCameraSource.html#ae6082d3ce6dfba07ef18767a10151bce" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals. " alt="" coords="779,423,965,450"/>
+<area shape="rect" id="node6" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device. " alt="" coords="1023,363,1231,390"/>
+<area shape="rect" id="node7" href="$classAVForm.html#ad2b6d3251dcb777464153d7f2e713127" title="AVForm::open" alt="" coords="1071,303,1183,330"/>
+<area shape="rect" id="node11" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="1537,117,1768,158"/>
+<area shape="rect" id="node8" href="$classAVForm.html#aa9450a6689adde55df0d1e86fd7c3234" title="AVForm::on_videoModescombo\lBox_currentIndexChanged" alt="" coords="2050,386,2273,428"/>
+<area shape="rect" id="node9" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="2333,259,2507,286"/>
+<area shape="rect" id="node10" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="1283,208,1485,235"/>
+<area shape="rect" id="node12" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="1559,183,1746,210"/>
+<area shape="rect" id="node13" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="1829,335,1977,362"/>
+<area shape="rect" id="node14" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="1816,56,1989,83"/>
+<area shape="rect" id="node15" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="2355,6,2485,32"/>
+<area shape="rect" id="node16" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="2037,31,2285,58"/>
+<area shape="rect" id="node19" href="$classCoreAV.html#a8b9fc6cf0fa6f37e622fb43546d6db50" title="CoreAV::videoFrameCallback" alt="" coords="519,626,721,652"/>
+<area shape="rect" id="node20" href="$classCoreAV.html#ad6aa4216c003e23fb2a2567d239ed573" title="CoreAV::connectCallbacks" alt="" coords="779,676,965,703"/>
+<area shape="rect" id="node22" href="$structCoreAV_1_1ToxAVDeleter.html#a2f5ddf6417be44446243401d6b1262b8" title="CoreAV::ToxAVDeleter\l::operator()" alt="" coords="1304,669,1464,710"/>
+<area shape="rect" id="node21" href="$classCoreAV.html#a3f815bf87d1e79c27b2683458055d6a1" title="CoreAV::CoreAV" alt="" coords="1065,727,1188,754"/>
+<area shape="rect" id="node24" href="$classVideoSurface.html#a85db8e813d013e582228902a91f9f41f" title="Update source. " alt="" coords="1294,554,1474,580"/>
+<area shape="rect" id="node25" href="$classNetCamView.html#a10889193d494b3ac0a93ff38b285cf11" title="NetCamView::show" alt="" coords="1831,579,1974,606"/>
+<area shape="rect" id="node26" href="$classNetCamView.html#ab2c7502b7fb64b2a1f9e378d9accfe4e" title="NetCamView::hide" alt="" coords="1833,680,1972,707"/>
+<area shape="rect" id="node27" href="$classNetCamView.html#a5101efe52917d0252aa1872089a0ff99" title="NetCamView::setSource" alt="" coords="1565,604,1741,631"/>
+<area shape="rect" id="node28" href="$classVideoSurface.html#ae8adc23451e6d6558af251bc1f1fc901" title="VideoSurface::VideoSurface" alt="" coords="1553,655,1753,682"/>
+<area shape="rect" id="node29" href="$classAVForm.html#a856728ef85d42b7b064c96039af764e2" title="AVForm::hideEvent" alt="" coords="2090,503,2233,530"/>
+<area shape="rect" id="node30" href="$classAVForm.html#a7e2fbc88b9b5ce08ee6504b0577e1031" title="AVForm::createVideoSurface" alt="" coords="1549,452,1756,479"/>
+<area shape="rect" id="node32" href="$classVideoSurface.html#aecea93119c1abf87f62e0e34da5e618e" title="VideoSurface::~VideoSurface" alt="" coords="1279,604,1489,631"/>
+</map>

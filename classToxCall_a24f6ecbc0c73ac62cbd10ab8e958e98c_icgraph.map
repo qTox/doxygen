@@ -1,0 +1,8 @@
+<map id="ToxCall::getVideoEnabled" name="ToxCall::getVideoEnabled">
+<area shape="rect" id="node2" href="$classCoreAV.html#aec221aef8ba03182603a6e9c01dcd993" title="CoreAV::sendCallVideo" alt="" coords="235,5,401,32"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#a7e1df21d4ab194a847548b2e5933a63e" title="CoreAV::stateCallback" alt="" coords="237,56,399,83"/>
+<area shape="rect" id="node3" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="449,5,641,32"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#ad6aa4216c003e23fb2a2567d239ed573" title="CoreAV::connectCallbacks" alt="" coords="452,56,639,83"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#a3f815bf87d1e79c27b2683458055d6a1" title="CoreAV::CoreAV" alt="" coords="689,31,812,57"/>
+<area shape="rect" id="node7" href="$structCoreAV_1_1ToxAVDeleter.html#a2f5ddf6417be44446243401d6b1262b8" title="CoreAV::ToxAVDeleter\l::operator()" alt="" coords="860,49,1020,90"/>
+</map>

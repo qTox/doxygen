@@ -1,0 +1,17 @@
+<map id="GenericChatForm::eventFilter" name="GenericChatForm::eventFilter">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a92900c8df54e2233c4e91f68272880e7" title="GenericChatForm::event" alt="" coords="287,95,465,121"/>
+<area shape="rect" id="node3" href="$classChatTextEdit.html#aea5e18e908ab2f1ecdf9fe9c7cbbf427" title="ChatTextEdit::sendKeyEvent" alt="" coords="541,5,739,32"/>
+<area shape="rect" id="node8" href="$classGenericChatForm.html#aba87d8b397c077cc7ed93d0e27e201f8" title="GenericChatForm::showFileMenu" alt="" coords="261,231,491,257"/>
+<area shape="rect" id="node15" href="$classGenericChatForm.html#a28ed52eb28a80188a9adf9223e0102d2" title="GenericChatForm::hideFileMenu" alt="" coords="264,328,488,355"/>
+<area shape="rect" id="node6" href="$classSearchForm.html#a8158d7e5f9d61f338d078f0693284a0f" title="SearchForm::insertEditor" alt="" coords="549,56,731,83"/>
+<area shape="rect" id="node7" href="$classSearchForm.html#a6f564bdd8178f5231d03eb1d36a831e5" title="SearchForm::setFocusEditor" alt="" coords="539,107,741,133"/>
+<area shape="rect" id="node4" href="$classChatTextEdit.html#acdde78140dfbb742caa9b9157ae1ce6e" title="ChatTextEdit::keyPressEvent" alt="" coords="789,5,992,32"/>
+<area shape="rect" id="node5" href="$classChatTextEdit.html#a04b526eeef7bb7c84a6f93d70b3d74b0" title="ChatTextEdit::pasteIfImage" alt="" coords="1040,5,1232,32"/>
+<area shape="rect" id="node9" href="$classFlyoutOverlayWidget.html#a823ec10f062bc07dff6a949e09c14292" title="FlyoutOverlayWidget\l::isShown" alt="" coords="565,354,715,395"/>
+<area shape="rect" id="node10" href="$classFlyoutOverlayWidget.html#aa768bd1848882db048fcb7b31acf357f" title="FlyoutOverlayWidget\l::isBeingShown" alt="" coords="565,289,715,330"/>
+<area shape="rect" id="node12" href="$classGenericChatForm.html#acf68d7356b3a5a74c826230b11601543" title="GenericChatForm::adjustFile\lMenuPosition" alt="" coords="539,223,741,265"/>
+<area shape="rect" id="node13" href="$classFlyoutOverlayWidget.html#a5e45ac54aaa82fc2b1d1e8333c6cd6ce" title="FlyoutOverlayWidget\l::animateShow" alt="" coords="565,158,715,199"/>
+<area shape="rect" id="node11" href="$classFlyoutOverlayWidget.html#abc0794450d6d6cd2b23dad08d166cc3a" title="FlyoutOverlayWidget\l::isBeingAnimated" alt="" coords="815,289,966,330"/>
+<area shape="rect" id="node14" href="$classFlyoutOverlayWidget.html#abecb66e0bf7787c549c08ae009479c1a" title="FlyoutOverlayWidget\l::startAnimation" alt="" coords="815,387,966,429"/>
+<area shape="rect" id="node16" href="$classFlyoutOverlayWidget.html#a0e3c6999c666bcb69f4af49f0dc80479" title="FlyoutOverlayWidget\l::animateHide" alt="" coords="565,419,715,461"/>
+</map>

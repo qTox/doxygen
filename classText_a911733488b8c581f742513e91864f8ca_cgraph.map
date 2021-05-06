@@ -1,0 +1,7 @@
+<map id="Text::paint" name="Text::paint">
+<area shape="rect" id="node2" href="$classText.html#a14671994bbd8ec482def562d48193a9e" title="Text::boundingRect" alt="" coords="153,5,294,32"/>
+<area shape="rect" id="node3" href="$classText.html#a8ee356258ac128f7aa151ffece9e792f" title="Text::hasSelection" alt="" coords="155,56,292,83"/>
+<area shape="rect" id="node4" href="$classText.html#abc85bdf48cafbcdf39726b65a764deb8" title="Text::getSelectionStart" alt="" coords="140,107,307,133"/>
+<area shape="rect" id="node5" href="$classText.html#a947fb6363bc41f0d366305caf619fed6" title="Text::getSelectionEnd" alt="" coords="144,157,303,184"/>
+<area shape="rect" id="node6" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="165,208,281,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UpdateCheck::UpdateCheck" name="UpdateCheck::UpdateCheck">
+<area shape="rect" id="node2" href="$classUpdateCheck.html#ae68cbd5a33df48842bf1272a1fcb4155" title="UpdateCheck::checkForUpdate" alt="" coords="256,31,476,57"/>
+<area shape="rect" id="node8" href="$classUpdateCheck.html#ae8afeffca08423d8a29dd967f2796ca3" title="UpdateCheck::handleResponse" alt="" coords="256,81,476,108"/>
+<area shape="rect" id="node3" href="$classSettings.html#a912dc4478b64252f406dd9033142ae3e" title="Settings::getCheckUpdates" alt="" coords="524,5,721,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#aec7ace9d812dde426adee179f00f1650" title="Settings::getProxy" alt="" coords="553,56,692,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a733ea826935339156196917570941db5" title="Settings::getProxyType" alt="" coords="771,5,937,32"/>
+<area shape="rect" id="node6" href="$classSettings.html#aa0eba5b3bd1aa54c52a95e950f587b5a" title="Settings::getProxyAddr" alt="" coords="769,56,939,83"/>
+<area shape="rect" id="node7" href="$classSettings.html#a1fedabbce788fe1a4f29362a90567be6" title="Settings::getProxyPort" alt="" coords="771,107,937,133"/>
+</map>

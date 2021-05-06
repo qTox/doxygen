@@ -1,0 +1,10 @@
+<map id="ToxOptions::makeToxOptions" name="ToxOptions::makeToxOptions">
+<area shape="rect" id="node2" href="$classICoreSettings.html#a61b2800beea354c12ca78b3a9166bb91" title="ICoreSettings::getProxyAddr" alt="" coords="259,5,462,32"/>
+<area shape="rect" id="node3" href="$classToxOptions.html#a6f45560eb1ddbecdb2fd19363526365b" title="ToxOptions::ToxOptions" alt="" coords="277,56,445,83"/>
+<area shape="rect" id="node4" href="$namespaceToxLogger.html#ac1be6782376727c4d9898bbd9b4867db" title="Log message handler for toxcore log messages. " alt="" coords="265,107,456,133"/>
+<area shape="rect" id="node5" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title="ICoreSettings::getEnableIPv6" alt="" coords="257,157,464,184"/>
+<area shape="rect" id="node6" href="$classICoreSettings.html#ae3be8c5ffd7e7777142952eadecd12e6" title="ICoreSettings::getForceTCP" alt="" coords="263,208,458,235"/>
+<area shape="rect" id="node7" href="$classICoreSettings.html#a370b35682a55e80c5a033a65ff0a3e0d" title="ICoreSettings::getEnable\lLanDiscovery" alt="" coords="271,259,451,301"/>
+<area shape="rect" id="node8" href="$classICoreSettings.html#aea0a9da8ef5a7eedd726bf60c77f6222" title="ICoreSettings::getProxyType" alt="" coords="261,325,461,352"/>
+<area shape="rect" id="node9" href="$classICoreSettings.html#a52955361edce3ec22eb4e5ba384cdce1" title="ICoreSettings::getProxyPort" alt="" coords="261,376,460,403"/>
+</map>

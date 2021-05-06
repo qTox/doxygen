@@ -1,0 +1,51 @@
+<map id="getActiveTimeFriend" name="getActiveTimeFriend">
+<area shape="rect" id="node2" href="$classFriendListWidget.html#a108259b33903cd084857d5414f761acc" title="FriendListWidget::getTime\lCategoryWidget" alt="" coords="223,435,408,477"/>
+<area shape="rect" id="node47" href="$classFriendListWidget.html#a64312ce037b676e257eb39d4bfd9e4cb" title="FriendListWidget::cycleContacts" alt="" coords="204,275,427,301"/>
+<area shape="rect" id="node3" href="$classFriendListWidget.html#ae777ef0bcc01f652bb32885e23e662d0" title="FriendListWidget::moveFriends" alt="" coords="1264,275,1479,301"/>
+<area shape="rect" id="node15" href="$classFriendListWidget.html#a3d6efdac851763c600772cc43e471869" title="FriendListWidget::remove\lFriendWidget" alt="" coords="489,435,672,477"/>
+<area shape="rect" id="node17" href="$classFriendListWidget.html#a1012644100a1e7aa1ab88a382b4219e2" title="FriendListWidget::onFriend\lWidgetRenamed" alt="" coords="487,1211,674,1253"/>
+<area shape="rect" id="node21" href="$classFriendListWidget.html#a5f7af661ea69ad90b30bfd5d209cbc68" title="FriendListWidget::moveWidget" alt="" coords="475,1076,687,1103"/>
+<area shape="rect" id="node4" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title="FriendListWidget::sortByMode" alt="" coords="1529,271,1739,297"/>
+<area shape="rect" id="node5" href="$classFriendListWidget.html#aa22c87294220a60baba0e0949a9fe8c0" title="FriendListWidget::Friend\lListWidget" alt="" coords="2297,209,2467,250"/>
+<area shape="rect" id="node6" href="$classFriendListWidget.html#ae0474b3c997940fe1926eb2fb14f8094" title="FriendListWidget::setMode" alt="" coords="1789,216,1977,243"/>
+<area shape="rect" id="node7" href="$classFriendListWidget.html#ad9017b74163a2d9e4892fc5b232ba391" title="FriendListWidget::dayTimeout" alt="" coords="2025,216,2233,243"/>
+<area shape="rect" id="node8" href="$classWidget.html#af0ad36083370875677670ccf7cf20243" title="Widget::changeDisplayMode" alt="" coords="2281,157,2483,184"/>
+<area shape="rect" id="node9" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="2594,392,2686,419"/>
+<area shape="rect" id="node10" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="3021,443,3176,469"/>
+<area shape="rect" id="node11" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="3224,443,3324,469"/>
+<area shape="rect" id="node12" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="3372,443,3571,469"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="3803,417,3857,444"/>
+<area shape="rect" id="node14" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="3619,392,3755,419"/>
+<area shape="rect" id="node16" href="$classWidget.html#afeb18b9fa9a2822cbe3c36a73f1a1baf" title="Widget::removeFriend" alt="" coords="2049,595,2209,621"/>
+<area shape="rect" id="node18" href="$classFriendListWidget.html#a0f32d3e1231ebd8a1a95624513ec4449" title="FriendListWidget::addFriend\lWidget" alt="" coords="741,1270,935,1311"/>
+<area shape="rect" id="node19" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="2573,1076,2707,1103"/>
+<area shape="rect" id="node20" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="2797,949,2973,976"/>
+<area shape="rect" id="node22" href="$classFriendListLayout.html#a79ba927d79adbaa5f97fb6af3ed009e0" title="FriendListLayout::moveFriend\lWidgets" alt="" coords="735,351,941,393"/>
+<area shape="rect" id="node25" href="$classFriendListWidget.html#a888c55c77f61f95b32d3895b8c581a0a" title="FriendListWidget::dropEvent" alt="" coords="739,1000,937,1027"/>
+<area shape="rect" id="node26" href="$classFriendWidget.html#a34ca8a9d143ab0c1059f331308a54711" title="FriendWidget::removeFrom\lCircle" alt="" coords="742,1153,934,1194"/>
+<area shape="rect" id="node28" href="$classWidget.html#aa7ad264c25896fcea6eabee883116722" title="Widget::onFriendStatusChanged" alt="" coords="989,1219,1216,1245"/>
+<area shape="rect" id="node29" href="$classWidget.html#ae408fc2cade1cc67f6510a959e8424be" title="Widget::onFriendAliasChanged" alt="" coords="1527,1101,1741,1128"/>
+<area shape="rect" id="node30" href="$classWidget.html#ab223ccd9f265fb55d44d9cf227048f01" title="Widget::updateFriendActivity" alt="" coords="737,1051,939,1077"/>
+<area shape="rect" id="node23" href="$classCategoryWidget.html#a2f853e6835fcc03d7c707cc068ec635c" title="CategoryWidget::moveFriend\lWidgets" alt="" coords="1000,351,1205,393"/>
+<area shape="rect" id="node24" href="$classCircleWidget.html#a5d1caa515e64e6c168e98e8b1c491b15" title="CircleWidget::contextMenu\lEvent" alt="" coords="1276,377,1467,418"/>
+<area shape="rect" id="node27" href="$classFriendWidget.html#a3a8fe557dc813d12eeaccd881b1552b0" title="FriendWidget::onContextMenuCalled. " alt="" coords="1265,1153,1477,1194"/>
+<area shape="rect" id="node31" href="$classWidget.html#a0be320a889ace3ff0087af6dfe4ea3b8" title="Widget::onGroupInviteReceived" alt="" coords="2531,949,2749,976"/>
+<area shape="rect" id="node32" href="$classWidget.html#a8971b12493d4a407d3142c6a609d3b53" title="Widget::connectFriendWidget" alt="" coords="1000,949,1205,976"/>
+<area shape="rect" id="node33" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="1265,848,1478,875"/>
+<area shape="rect" id="node34" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="1531,595,1737,621"/>
+<area shape="rect" id="node46" href="$classWidget.html#ace15a543e8b3e60142630db958be498b" title="Widget::connectCircleWidget" alt="" coords="1533,899,1735,925"/>
+<area shape="rect" id="node35" href="$classWidget.html#af01d90acedeee89d47df3f07c4fb60bb" title="Widget::onSeparateWindow\lChanged" alt="" coords="2032,326,2227,367"/>
+<area shape="rect" id="node37" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="1804,645,1963,672"/>
+<area shape="rect" id="node39" href="$classWidget.html#a9e0305229bb57666c2228c49fb59ba8f" title="Widget::openDialog" alt="" coords="2309,747,2455,773"/>
+<area shape="rect" id="node40" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="2285,833,2479,874"/>
+<area shape="rect" id="node42" href="$classWidget.html#ac17fbd5de998fad14d0711014e9ddc71" title="Widget::onGroupClicked" alt="" coords="2043,443,2216,469"/>
+<area shape="rect" id="node43" href="$classWidget.html#a6f0a4f3fef72b277d13a25158a9b09b7" title="Widget::onTransferClicked" alt="" coords="1791,544,1975,571"/>
+<area shape="rect" id="node44" href="$classWidget.html#a8bd76efae0a0b8d08f0c8f1ea7e01222" title="Widget::onShowSettings" alt="" coords="1795,392,1971,419"/>
+<area shape="rect" id="node45" href="$classWidget.html#a6c7ca15e3638ea90ca7eeebaa79239cf" title="Widget::showProfile" alt="" coords="1811,595,1955,621"/>
+<area shape="rect" id="node36" href="$classWidget.html#a0c49ff49e9ccbfe82084436fd59fe93b" title="Widget::onSeparateWindow\lClicked" alt="" coords="2285,326,2479,367"/>
+<area shape="rect" id="node38" href="$classWidget.html#ae372211b641bd400b6aa769f1333139d" title="Widget::addFriendDialog" alt="" coords="2042,797,2217,824"/>
+<area shape="rect" id="node41" href="$classWidget.html#a0eb8943737c2603a50735fd4681f11bb" title="Widget::addGroupDialog" alt="" coords="2041,696,2217,723"/>
+<area shape="rect" id="node48" href="$classWidget.html#a30b4b14a4b87a9b6456cd721e69d5bc4" title="Widget::cycleContacts" alt="" coords="2048,81,2211,108"/>
+<area shape="rect" id="node49" href="$classWidget.html#a0cc81b7bee380b368b72f041e7f69efb" title="Widget::nextContact" alt="" coords="2307,5,2457,32"/>
+<area shape="rect" id="node50" href="$classWidget.html#aa7605dceaf96ad1435c2d2f713dc3be3" title="Widget::previousContact" alt="" coords="2293,56,2471,83"/>
+</map>

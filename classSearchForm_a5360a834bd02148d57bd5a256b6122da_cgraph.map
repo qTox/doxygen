@@ -1,0 +1,24 @@
+<map id="SearchForm::showMessageNotFound" name="SearchForm::showMessageNotFound">
+<area shape="rect" id="node2" href="$classSearchForm.html#ae7c1026e92df71f8f3cc33d659cb84b3" title="SearchForm::setStateName" alt="" coords="273,171,476,197"/>
+<area shape="rect" id="node3" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="524,171,675,197"/>
+<area shape="rect" id="node4" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="879,107,1045,133"/>
+<area shape="rect" id="node19" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="723,208,831,235"/>
+<area shape="rect" id="node5" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1093,107,1260,133"/>
+<area shape="rect" id="node6" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1099,157,1254,184"/>
+<area shape="rect" id="node7" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1319,120,1478,147"/>
+<area shape="rect" id="node18" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1308,171,1489,197"/>
+<area shape="rect" id="node8" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1537,120,1673,147"/>
+<area shape="rect" id="node9" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1729,44,1865,71"/>
+<area shape="rect" id="node11" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1721,145,1872,172"/>
+<area shape="rect" id="node10" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1967,5,2067,32"/>
+<area shape="rect" id="node12" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1920,56,2115,83"/>
+<area shape="rect" id="node13" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2163,81,2348,108"/>
+<area shape="rect" id="node14" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1934,157,2101,184"/>
+<area shape="rect" id="node15" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1933,208,2102,235"/>
+<area shape="rect" id="node16" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1962,259,2073,285"/>
+<area shape="rect" id="node17" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2218,259,2293,285"/>
+<area shape="rect" id="node20" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="899,208,1025,235"/>
+<area shape="rect" id="node21" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="893,309,1031,336"/>
+<area shape="rect" id="node23" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="919,360,1005,387"/>
+<area shape="rect" id="node22" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1119,309,1235,336"/>
+</map>

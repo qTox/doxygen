@@ -1,0 +1,51 @@
+<map id="AVForm::getFormName" name="AVForm::getFormName">
+<area shape="rect" id="node2" href="$classAVForm.html#a0c850b94fc3e7abb9a579c6d5428adf0" title="AVForm::getAudioInDevices" alt="" coords="793,1412,992,1438"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a7327cc4f3cc4394c3c93d465b5dc2ebd" title="AVForm::getAudioOutDevices" alt="" coords="787,1462,998,1489"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="799,1538,986,1565"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="1066,318,1269,345"/>
+<area shape="rect" id="node9" href="$classAVForm.html#aeb961181f0ec244ad02b8dbdaf349af5" title="AVForm::fillScreenModesComboBox" alt="" coords="1329,22,1580,49"/>
+<area shape="rect" id="node11" href="$classAVForm.html#aa2325ea35f7f5063fad40a8d1323dd6b" title="AVForm::selectBestModes" alt="" coords="1360,182,1549,209"/>
+<area shape="rect" id="node15" href="$classAVForm.html#ab09487f52fcb64c5c409efbb046fd356" title="AVForm::getModeSize" alt="" coords="1666,81,1829,108"/>
+<area shape="rect" id="node16" href="$classAVForm.html#a5662623779cfe3c705d58396f5719db4" title="AVForm::fillCameraModesComboBox" alt="" coords="1327,73,1583,100"/>
+<area shape="rect" id="node17" href="$classAVForm.html#ac41371f32324ada2a0c8331524b745ea" title="AVForm::searchPreferredIndex" alt="" coords="1347,268,1563,294"/>
+<area shape="rect" id="node21" href="$classAVForm.html#ad2b6d3251dcb777464153d7f2e713127" title="AVForm::open" alt="" coords="1399,553,1511,580"/>
+<area shape="rect" id="node25" href="$classAVForm.html#a72abd8ed1b31584f3b0dad71f5a77c18" title="AVForm::fillAudioQuality\lComboBox" alt="" coords="264,546,437,587"/>
+<area shape="rect" id="node26" href="$classAVForm.html#a7e2fbc88b9b5ce08ee6504b0577e1031" title="AVForm::createVideoSurface" alt="" coords="523,1244,729,1270"/>
+<area shape="rect" id="node28" href="$classAVForm.html#a588d8224e0e2412240b22120ba931d0c" title="AVForm::killVideoSurface" alt="" coords="535,789,717,816"/>
+<area shape="rect" id="node29" href="$classAVForm.html#a6a6bfcb87fc5d7d269ef544bfb83237b" title="AVForm::retranslateUi" alt="" coords="269,713,432,740"/>
+<area shape="rect" id="node30" href="$classAVForm.html#abc3e727536e145101f65b23c85bb1616" title="AVForm::on_inDevCombobox\l_currentIndexChanged" alt="" coords="247,378,455,419"/>
+<area shape="rect" id="node31" href="$classAVForm.html#aa43145efe23fc1bea5ef1aed1fb2e6fe" title="AVForm::setVolume" alt="" coords="552,444,700,470"/>
+<area shape="rect" id="node32" href="$classAVForm.html#a802fc3e1c326c18f0fefa66290a1d8b0" title="AVForm::getStepsFromValue" alt="" coords="790,494,995,521"/>
+<area shape="rect" id="node33" href="$classAVForm.html#a59038881e1e191785c8ca15a7a86229c" title="AVForm::on_outDevCombobox\l_currentIndexChanged" alt="" coords="241,931,460,972"/>
+<area shape="rect" id="node34" href="$classAVForm.html#a1e298c579b03396653dfa0bcebda4b1f" title="AVForm::on_playbackSlider\l_valueChanged" alt="" coords="253,1062,448,1103"/>
+<area shape="rect" id="node35" href="$classAVForm.html#aeefcb8bc659b00500a0bfa45bf646614" title="AVForm::getValueFromSteps" alt="" coords="523,1037,729,1064"/>
+<area shape="rect" id="node36" href="$classAVForm.html#a7b2bf1c4e158c947bc0f37b3a9901f13" title="AVForm::on_cbEnableTestSound\l_stateChanged" alt="" coords="237,1127,464,1168"/>
+<area shape="rect" id="node37" href="$classAVForm.html#a0aff20d19fff4322155a8d1eeac611e7" title="AVForm::on_microphoneSlider\l_valueChanged" alt="" coords="243,866,458,907"/>
+<area shape="rect" id="node38" href="$classAVForm.html#ae633aa914e2cca94370910087b04fa99" title="AVForm::on_audioThreshold\lSlider_valueChanged" alt="" coords="251,996,451,1038"/>
+<area shape="rect" id="node39" href="$classAVForm.html#a04683cc60d64986a2c9b0b017c281e82" title="AVForm::on_audioQualityCombo\lBox_currentIndexChanged" alt="" coords="237,1295,465,1336"/>
+<area shape="rect" id="node40" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="777,428,1008,470"/>
+<area shape="rect" id="node44" href="$classAVForm.html#aa9450a6689adde55df0d1e86fd7c3234" title="AVForm::on_videoModescombo\lBox_currentIndexChanged" alt="" coords="1056,655,1279,696"/>
+<area shape="rect" id="node47" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="539,1513,713,1540"/>
+<area shape="rect" id="node48" href="$classAVForm.html#a856728ef85d42b7b064c96039af764e2" title="AVForm::hideEvent" alt="" coords="279,814,422,841"/>
+<area shape="rect" id="node49" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="277,1361,425,1388"/>
+<area shape="rect" id="node50" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="227,1564,475,1590"/>
+<area shape="rect" id="node5" href="$classIVideoSettings.html#a04641cdda615647b943157714cc2150c" title="IVideoSettings::getVideoDev" alt="" coords="1065,1564,1269,1590"/>
+<area shape="rect" id="node6" href="$classCameraDevice.html#a68fe877af30ae067d85da383c59eed7d" title="Get device list with desciption. " alt="" coords="1062,1513,1273,1540"/>
+<area shape="rect" id="node8" href="$classCameraDevice.html#a99f7ee01ff1dadfd682627890bf3d639" title="Checks if a device name specifies a display. " alt="" coords="1365,318,1544,345"/>
+<area shape="rect" id="node20" href="$classIVideoSettings.html#a019e9e0b5a1419d224d8e9f5e026cdc7" title="IVideoSettings::setScreen\lGrabbed" alt="" coords="1361,487,1548,528"/>
+<area shape="rect" id="node24" href="$classIVideoSettings.html#a267b8d8d04d9f3722ab15c343f830daa" title="IVideoSettings::getScreen\lRegion" alt="" coords="1361,370,1549,411"/>
+<area shape="rect" id="node10" href="$classCameraDevice.html#a332e9caac6a1306df2a64ef67feb29e7" title="Get the name of the pixel format of a video mode. " alt="" coords="1637,15,1857,56"/>
+<area shape="rect" id="node12" href="$structVideoMode.html#a4f0a7f83485d0f1d4ef82dbace3d60a0" title="VideoMode::norm" alt="" coords="1680,249,1815,276"/>
+<area shape="rect" id="node13" href="$structVideoMode.html#a27595d6b4f4390aa7bd7b6eafeb5e7d0" title="VideoMode::tolerance" alt="" coords="1667,132,1828,158"/>
+<area shape="rect" id="node14" href="$classCameraDevice.html#a25308c2e3a8a51225d35da8348e707b4" title="Compare two pixel formats. " alt="" coords="1651,183,1843,224"/>
+<area shape="rect" id="node18" href="$classIVideoSettings.html#aea130239249a15106e08e5e9f0a0f0ee" title="IVideoSettings::getCamVideoRes" alt="" coords="1632,350,1863,377"/>
+<area shape="rect" id="node19" href="$classIVideoSettings.html#aea5eea95da79855f24374e6013d122ef" title="IVideoSettings::getCamVideoFPS" alt="" coords="1631,300,1864,326"/>
+<area shape="rect" id="node22" href="$structVideoMode.html#a31494019a0e9ac665f0db47af100b10b" title="VideoMode::toRect" alt="" coords="1677,578,1818,605"/>
+<area shape="rect" id="node23" href="$classCameraSource.html#af9add1ef2031e2c35fb09e3a75bb92c1" title="Change the device and mode. " alt="" coords="1645,494,1850,521"/>
+<area shape="rect" id="node27" href="$classVideoSurface.html#a85db8e813d013e582228902a91f9f41f" title="Update source. " alt="" coords="803,1080,983,1106"/>
+<area shape="rect" id="node41" href="$classIVideoSettings.html#a7bc6831463a0dc31101232e03a4b33f2" title="IVideoSettings::setVideoDev" alt="" coords="1066,537,1269,564"/>
+<area shape="rect" id="node42" href="$classIVideoSettings.html#a681ecc065c5c0d088955c9e083345d9b" title="IVideoSettings::getScreen\lGrabbed" alt="" coords="1361,786,1549,827"/>
+<area shape="rect" id="node43" href="$classCoreAV.html#aa86a2cfb2b7fa754bfd9dd09447e7e9c" title="Signal to all peers that we&#39;re not sending video anymore. " alt="" coords="1087,385,1248,412"/>
+<area shape="rect" id="node45" href="$classIVideoSettings.html#afedc35f2768d10fbc185f0a6f656dc33" title="IVideoSettings::setScreen\lRegion" alt="" coords="1361,655,1548,696"/>
+<area shape="rect" id="node46" href="$classScreenshotGrabber.html#a9d95a4c820e5c1dbe83b2bdeb8eb7421" title="ScreenshotGrabber::\lshowGrabber" alt="" coords="1377,720,1532,762"/>
+</map>

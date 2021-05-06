@@ -1,0 +1,3 @@
+<map id="AdjustingScrollArea" name="AdjustingScrollArea">
+<area shape="rect" id="node3" href="$classNotificationScrollArea.html" title="{NotificationScrollArea\n|&#45; trackedWidgets\l&#45; topEdge\l&#45; bottomEdge\l&#45; referencesAbove\l&#45; referencesBelow\l|+ NotificationScrollArea()\l+ trackWidget()\l+ updateVisualTracking()\l+ updateTracking()\l# resizeEvent()\l&#45; widgetVisible()\l&#45; recalculateTopEdge()\l&#45; recalculateBottomEdge()\l&#45; findNextWidget()\l&#45; findPreviousWidget()\l}" alt="" coords="5,300,196,568"/>
+</map>

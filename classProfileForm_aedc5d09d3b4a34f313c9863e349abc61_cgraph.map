@@ -1,0 +1,12 @@
+<map id="ProfileForm::onRenameClicked" name="ProfileForm::onRenameClicked">
+<area shape="rect" id="node2" href="$classIProfileInfo.html#a42402b7aeb0128ff6d697134f5595c4b" title="IProfileInfo::getProfileName" alt="" coords="500,10,695,36"/>
+<area shape="rect" id="node3" href="$classIProfileInfo.html#aea41b8744504d8d9cabc2445aef70aaa" title="IProfileInfo::renameProfile" alt="" coords="268,27,452,54"/>
+<area shape="rect" id="node4" href="$classGUI.html#af7a20885f4bda93998e9832eeb4f8c2c" title="Show an error to the user. " alt="" coords="302,144,418,171"/>
+<area shape="rect" id="node11" href="$classProfileForm.html#a055b310b2040249152c1b8416a3267d9" title="ProfileForm::prFileLabel\lUpdate" alt="" coords="275,78,445,120"/>
+<area shape="rect" id="node5" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="937,132,1104,159"/>
+<area shape="rect" id="node8" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="533,144,661,171"/>
+<area shape="rect" id="node9" href="$classGUI.html#a1feecde036a99e13477c786560ee641b" title="GUI::_showError" alt="" coords="536,195,659,222"/>
+<area shape="rect" id="node6" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1152,132,1297,159"/>
+<area shape="rect" id="node7" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1345,132,1456,159"/>
+<area shape="rect" id="node10" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="743,170,889,196"/>
+</map>

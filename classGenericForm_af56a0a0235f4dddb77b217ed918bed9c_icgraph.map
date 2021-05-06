@@ -1,0 +1,10 @@
+<map id="GenericForm::eventsInit" name="GenericForm::eventsInit">
+<area shape="rect" id="node2" href="$classAboutForm.html#a1e6443305bd2fb991836489773016013" title="Constructor of AboutForm. " alt="" coords="253,5,425,32"/>
+<area shape="rect" id="node3" href="$classAdvancedForm.html#a7f126074e85bf2eba15fee811f3d9d09" title="AdvancedForm::AdvancedForm" alt="" coords="228,56,451,83"/>
+<area shape="rect" id="node4" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="274,107,405,133"/>
+<area shape="rect" id="node5" href="$classGeneralForm.html#a51176d13e56ba9fd99d62bb09e93f382" title="GeneralForm::GeneralForm" alt="" coords="241,157,437,184"/>
+<area shape="rect" id="node6" href="$classGenericForm.html#a2d2e3b13ca2fb245ae6a895ff9fb579b" title="GenericForm::reloadTheme" alt="" coords="241,208,437,235"/>
+<area shape="rect" id="node8" href="$classPrivacyForm.html#a0abd315f52527c8428773e28be7bd022" title="PrivacyForm::PrivacyForm" alt="" coords="246,259,433,285"/>
+<area shape="rect" id="node9" href="$classUserInterfaceForm.html#a22ae235d9056d65b0a72205c54294e01" title="Constructor of UserInterfaceForm. " alt="" coords="265,310,414,351"/>
+<area shape="rect" id="node7" href="$classGenericForm.html#ab6c913228960bcbc57c99da7c7bf713f" title="GenericForm::GenericForm" alt="" coords="499,208,693,235"/>
+</map>

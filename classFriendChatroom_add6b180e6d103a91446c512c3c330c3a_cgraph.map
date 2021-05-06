@@ -1,0 +1,4 @@
+<map id="FriendChatroom::canBeInvited" name="FriendChatroom::canBeInvited">
+<area shape="rect" id="node2" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="272,5,395,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="268,56,399,83"/>
+</map>

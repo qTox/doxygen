@@ -1,0 +1,7 @@
+<map id="CoreExt::CoreExt" name="CoreExt::CoreExt">
+<area shape="rect" id="node2" href="$classCoreExt.html#aeeb87d981544303e73a13573930d712e" title="CoreExt::onExtendedMessage\lReceived" alt="" coords="184,5,397,47"/>
+<area shape="rect" id="node4" href="$classCoreExt.html#a5aac1840b961b89d60a59f4df094f4a8" title="CoreExt::onExtendedMessage\lReceipt" alt="" coords="184,71,397,112"/>
+<area shape="rect" id="node5" href="$classCoreExt.html#a8c75dbe68570910a93d52cd9a3c8408d" title="CoreExt::onExtendedMessage\lNegotiation" alt="" coords="184,136,397,177"/>
+<area shape="rect" id="node3" href="$classToxString.html#a5d2731a7c214aa7e9ecefc1ddb8a3820" title="Gets the string as QString. " alt="" coords="502,13,659,39"/>
+<area shape="rect" id="node6" href="$classCoreExt.html#a864e0f19c3bb763a6c14a399f9a8148b" title="CoreExt::getMaxExtendedMessageSize" alt="" coords="445,143,716,170"/>
+</map>

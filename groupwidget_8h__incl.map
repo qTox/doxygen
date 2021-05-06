@@ -1,0 +1,9 @@
+<map id="src/widget/groupwidget.h" name="src/widget/groupwidget.h">
+<area shape="rect" id="node2" href="$genericchatroomwidget_8h.html" title="genericchatroomwidget.h" alt="" coords="39,87,223,114"/>
+<area shape="rect" id="node6" href="$groupchatroom_8h.html" title="src/model/chatroom\l/groupchatroom.h" alt="" coords="270,80,421,121"/>
+<area shape="rect" id="node16" href="$groupid_8h.html" title="src/core/groupid.h" alt="" coords="454,244,591,271"/>
+<area shape="rect" id="node3" href="$genericchatitemwidget_8h.html" title="genericchatitemwidget.h" alt="" coords="17,169,196,196"/>
+<area shape="rect" id="node7" href="$chatroom_8h.html" title="chatroom.h" alt="" coords="297,169,393,196"/>
+<area shape="rect" id="node8" href="$contact_8h.html" title="src/model/contact.h" alt="" coords="271,244,420,271"/>
+<area shape="rect" id="node9" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="341,319,489,345"/>
+</map>

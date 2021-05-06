@@ -1,0 +1,5 @@
+<map id="Spinner::Spinner" name="Spinner::Spinner">
+<area shape="rect" id="node2" href="$classPixmapCache.html#a172d2fc69adb94fb7fea0cf0e92e000a" title="Returns the singleton instance. " alt="" coords="181,5,373,32"/>
+<area shape="rect" id="node3" href="$classPixmapCache.html#a045981b8b576bae473830bb11a5578f4" title="PixmapCache::get" alt="" coords="208,56,347,83"/>
+<area shape="rect" id="node4" href="$classSpinner.html#a1d3f07a18f74b2e5bfe514eaabab4401" title="Spinner::timeout" alt="" coords="213,107,342,133"/>
+</map>

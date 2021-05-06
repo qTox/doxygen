@@ -1,0 +1,4 @@
+<map id="ChatForm::onExtensionSupportChanged" name="ChatForm::onExtensionSupportChanged">
+<area shape="rect" id="node2" href="$classChatFormHeader.html#a63fd4a464109a9cc7d83a3c01cf5bb71" title="ChatFormHeader::updateExtension\lSupport" alt="" coords="276,5,523,47"/>
+<area shape="rect" id="node3" href="$classExtensionStatus.html#a4ef2296c94ed12e34e0da8ca93aaff62" title="ExtensionStatus::onExtension\lSetUpdate" alt="" coords="571,5,783,47"/>
+</map>

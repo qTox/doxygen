@@ -1,0 +1,51 @@
+<map id="Paths::getSettingsDirPath" name="Paths::getSettingsDirPath">
+<area shape="rect" id="node2" href="$classPaths.html#a8b8802291801e2dbade9f34d87cec522" title="Paths::getUserNodesFilePath" alt="" coords="253,17,459,43"/>
+<area shape="rect" id="node4" href="$classProfile.html#ae47e26ce2e5fea00de176f02df139deb" title="Locks and loads an existing profile and creates the associate Core* instance. " alt="" coords="1543,562,1678,589"/>
+<area shape="rect" id="node8" href="$classProfile.html#ad70346022a584b8c1e81c79b00f212d5" title="Creates a new profile and the associated Core* instance. " alt="" coords="1536,443,1685,470"/>
+<area shape="rect" id="node10" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed. " alt="" coords="281,315,431,342"/>
+<area shape="rect" id="node15" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID..." alt="" coords="287,470,425,497"/>
+<area shape="rect" id="node18" href="$classProfile.html#a4f48c9d37cb135b1cec9a25a1f996ce0" title="Save an avatar to cache. " alt="" coords="564,375,704,402"/>
+<area shape="rect" id="node22" href="$classProfile.html#af6f4a8a10ccb1b5fc1c2d89e0df0d0a7" title="Profile::exists" alt="" coords="303,882,409,909"/>
+<area shape="rect" id="node25" href="$classProfile.html#aecf268db60a83dbbe1aff955999de0c4" title="Checks if profile is encrypted. " alt="" coords="285,983,427,1010"/>
+<area shape="rect" id="node26" href="$classProfile.html#a5796c1b76f63aabc42e0ac055357130d" title="Removes the profile permanently. Updates the profiles vector. " alt="" coords="575,578,693,605"/>
+<area shape="rect" id="node28" href="$classProfile.html#a6a2b691e33df3302bb151e716d607f02" title="Tries to rename the profile. " alt="" coords="297,933,415,959"/>
+<area shape="rect" id="node29" href="$classProfile.html#a028cd7240ff4bc9a4c7b57d4e9532866" title="Retrieves the path to the database file for a given profile. " alt="" coords="288,527,424,554"/>
+<area shape="rect" id="node31" href="$classProfileLocker.html#a0f87391f38fa52a74a278ce16c85d853" title="ProfileLocker::lockPathFromName" alt="" coords="239,1034,473,1061"/>
+<area shape="rect" id="node32" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="559,1114,709,1141"/>
+<area shape="rect" id="node34" href="$classSettings.html#aac723ad8327cbc386d41cb611fceb83b" title="Settings::loadPersonal" alt="" coords="1023,591,1188,618"/>
+<area shape="rect" id="node36" href="$classSettings.html#aa54fd1da014d58d535c8200d240afbaa" title="Settings::resetToDefault" alt="" coords="269,1186,443,1213"/>
+<area shape="rect" id="node38" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings. " alt="" coords="1029,730,1182,757"/>
+<area shape="rect" id="node41" href="$classSettings.html#a5817c9fce905c15c713658935e45f84a" title="Settings::setMakeToxPortable" alt="" coords="1239,882,1450,909"/>
+<area shape="rect" id="node44" href="$classSettings.html#a73a3a633f8f0792df81c22d5a6b44437" title="Settings::savePersonal" alt="" coords="272,1237,440,1263"/>
+<area shape="rect" id="node45" href="$classSettings.html#a1b9737021f5dcb9f3e0de008a4e8c982" title="Write a default personal .ini settings file for a profile. " alt="" coords="267,253,445,279"/>
+<area shape="rect" id="node47" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="259,1135,453,1162"/>
+<area shape="rect" id="node48" href="$classProfileImporter.html#a496a2b3130d477be2426ed1182895cd8" title="Try to import Tox profile. " alt="" coords="253,831,459,858"/>
+<area shape="rect" id="node3" href="$classBootstrapNodeUpdater.html#a8ef7af7940575028ff4b7bfc4cd3b4de" title="BootstrapNodeUpdater\l::getBootstrapnodes" alt="" coords="549,5,719,47"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1838,866,1893,893"/>
+<area shape="rect" id="node6" href="$classNexus.html#a1c57af6d4bb385fba2e601da910d64c6" title="Nexus::onLoadProfile" alt="" coords="1787,562,1943,589"/>
+<area shape="rect" id="node7" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title="Nexus::connectLoginScreen" alt="" coords="2011,562,2211,589"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac0ec013e4903e8f1c4b4bba022be413c" title="Creates a new profile and replaces the current one. " alt="" coords="1768,478,1963,505"/>
+<area shape="rect" id="node11" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed. " alt="" coords="549,309,719,335"/>
+<area shape="rect" id="node12" href="$classProfile.html#a95bfc4ae33dc4a80a48c1e2f126ab48f" title="Profile::initCore" alt="" coords="1285,375,1404,402"/>
+<area shape="rect" id="node13" href="$classProfile.html#a58fa758a59bc4ee3c1a9980e360e4e98" title="Profile::~Profile" alt="" coords="825,173,944,199"/>
+<area shape="rect" id="node14" href="$classProfile.html#a1e8a7812502c32052924be0bfc5d69fe" title="Changes the encryption password and re&#45;saves everything with it. " alt="" coords="811,325,959,351"/>
+<area shape="rect" id="node16" href="$classProfile.html#ae8984eaa8c764e59bfa77eca55113db9" title="Get a contact&#39;s avatar from cache. " alt="" coords="550,477,718,503"/>
+<area shape="rect" id="node20" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar. " alt="" coords="1026,375,1185,402"/>
+<area shape="rect" id="node17" href="$classProfile.html#ad48bf99a520e2e2a24da6674a6a6729b" title="Starts the Core thread. " alt="" coords="1041,451,1170,478"/>
+<area shape="rect" id="node19" href="$classProfile.html#aca1cdaef5152d76b2e3d2197f8132ab3" title="Sets our own avatar. " alt="" coords="819,375,950,402"/>
+<area shape="rect" id="node21" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar. " alt="" coords="801,274,969,301"/>
+<area shape="rect" id="node23" href="$classProfileInfo.html#ae4cb258c3c84d41dc06c5980938e98bf" title="Rename profile file. " alt="" coords="543,1050,725,1077"/>
+<area shape="rect" id="node24" href="$classLoginScreen.html#a0e02949bcd7de793e93f6fc54a093da3" title="LoginScreen::onCreateNew\lProfile" alt="" coords="537,933,731,975"/>
+<area shape="rect" id="node27" href="$classProfileInfo.html#a4cfc98554e732ecaac889da3e552dc81" title="Remove profile. " alt="" coords="795,578,975,605"/>
+<area shape="rect" id="node30" href="$classProfile.html#a1c1db91082221fb5096ad119008d3769" title="Profile::loadDatabase" alt="" coords="1265,511,1424,538"/>
+<area shape="rect" id="node33" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="817,1114,953,1141"/>
+<area shape="rect" id="node35" href="$classSettings.html#ac7a38c986de52b871c2d1dc0b704cb79" title="Settings::updateProfileData" alt="" coords="1245,562,1444,589"/>
+<area shape="rect" id="node37" href="$classAdvancedForm.html#a1b048c3e9e7a45e26fe2051a61000753" title="AdvancedForm::on_resetButton\l_clicked" alt="" coords="521,1179,747,1220"/>
+<area shape="rect" id="node39" href="$classProfileInfo.html#acc65397b6ae85adc8060e8f64549b513" title="Log out from current profile. " alt="" coords="1279,831,1411,858"/>
+<area shape="rect" id="node40" href="$classNexus.html#aa190dda405426cc99cf80be6661e7629" title="Nexus::setSettings" alt="" coords="1539,798,1682,825"/>
+<area shape="rect" id="node43" href="$classGeneralForm.html#a49dad2dcd9addfcbdd2fc2b59ca4ffce" title="GeneralForm::on_showSystem\lTray_stateChanged" alt="" coords="1236,664,1453,705"/>
+<area shape="rect" id="node42" href="$classAdvancedForm.html#aeeb5fb52647f80f5557c7659dc454bb0" title="AdvancedForm::on_cbMakeTox\lPortable_stateChanged" alt="" coords="1501,867,1720,908"/>
+<area shape="rect" id="node46" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed. " alt="" coords="539,253,729,279"/>
+<area shape="rect" id="node49" href="$toxsave_8h.html#a85b45d571c0823f0ca48c6fe7a6485e2" title="Import new profile. " alt="" coords="1047,882,1164,909"/>
+<area shape="rect" id="node50" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title="LoginScreen::onImportProfile" alt="" coords="531,882,737,909"/>
+</map>

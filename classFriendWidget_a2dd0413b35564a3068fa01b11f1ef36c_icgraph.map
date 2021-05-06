@@ -1,0 +1,5 @@
+<map id="FriendWidget::setActive" name="FriendWidget::setActive">
+<area shape="rect" id="node2" href="$classFriendWidget.html#a23b46c808e87f2e0b26fa5e674d30f4e" title="FriendWidget::FriendWidget" alt="" coords="226,5,418,32"/>
+<area shape="rect" id="node3" href="$classFriendWidget.html#a08020c65585967fa1c21a4aa028bc70c" title="FriendWidget::setAsActive\lChatroom" alt="" coords="229,57,415,98"/>
+<area shape="rect" id="node4" href="$classFriendWidget.html#adc9192ea33672f2467430dbd0952cabe" title="FriendWidget::setAsInactive\lChatroom" alt="" coords="224,122,420,163"/>
+</map>

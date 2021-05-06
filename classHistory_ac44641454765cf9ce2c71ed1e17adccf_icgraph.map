@@ -1,0 +1,3 @@
+<map id="History::getNumMessagesForFriend" name="History::getNumMessagesForFriend">
+<area shape="rect" id="node2" href="$classChatHistory.html#a684f48ef1baf92f9c049f29e39c14542" title="Gets the initial chat log index for a sessionChatLog with 0 items loaded from history. Needed to keep history indexes in sync with chat log indexes. " alt="" coords="264,5,452,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ChatLogFile" name="ChatLogFile">
+<area shape="rect" id="node2" href="$structToxFile.html" title="{ToxFile\n|+ fileKind\l+ fileNum\l+ friendId\l+ fileName\l+ filePath\l+ file\l+ bytesSent\l+ filesize\l+ status\l+ direction\l+ avatarData\l+ resumeFileId\l+ hashGenerator\l|+ ToxFile()\l+ ToxFile()\l+ operator==()\l+ operator!=()\l+ setFilePath()\l+ open()\l}" alt="" coords="25,277,158,604"/>
+<area shape="rect" id="node3" href="$classToxFilePause.html" title="{ToxFilePause\n|&#45; localPauseState\l&#45; remotePauseState\l|+ localPause()\l+ localResume()\l+ localPauseToggle()\l+ remotePause()\l+ remoteResume()\l+ remotePauseToggle()\l+ localPaused()\l+ remotePaused()\l+ paused()\l}" alt="" coords="5,5,177,215"/>
+</map>

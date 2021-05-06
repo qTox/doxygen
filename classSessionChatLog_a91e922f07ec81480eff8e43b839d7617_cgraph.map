@@ -1,0 +1,6 @@
+<map id="SessionChatLog::onMessageReceived" name="SessionChatLog::onMessageReceived">
+<area shape="rect" id="node2" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title="SessionChatLog::resolveSender\lNameFromSender" alt="" coords="260,49,485,90"/>
+<area shape="rect" id="node3" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title="ICoreIdHandler::getSelfPublicKey" alt="" coords="533,5,761,32"/>
+<area shape="rect" id="node4" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title="ICoreIdHandler::getUsername" alt="" coords="541,56,753,83"/>
+<area shape="rect" id="node5" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="576,107,719,133"/>
+</map>

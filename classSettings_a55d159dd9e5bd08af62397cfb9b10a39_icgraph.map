@@ -1,0 +1,4 @@
+<map id="Settings::lightTrayIconChanged" name="Settings::lightTrayIconChanged">
+<area shape="rect" id="node2" href="$classSettings.html#ac86684a8be76e2eeea72b4cedd61b565" title="Settings::setLightTrayIcon" alt="" coords="272,13,457,39"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#a0d850d9667a75f488fb1fff6a6d1e57d" title="GeneralForm::on_lightTray\lIcon_stateChanged" alt="" coords="505,5,693,47"/>
+</map>

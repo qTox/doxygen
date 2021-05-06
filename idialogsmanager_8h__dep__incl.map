@@ -1,0 +1,9 @@
+<map id="src/model/dialogs/idialogsmanager.h" name="src/model/dialogs/idialogsmanager.h">
+<area shape="rect" id="node2" href="$friendchatroom_8cpp.html" title="src/model/chatroom\l/friendchatroom.cpp" alt="" coords="50,80,201,121"/>
+<area shape="rect" id="node3" href="$groupchatroom_8cpp.html" title="src/model/chatroom\l/groupchatroom.cpp" alt="" coords="225,80,377,121"/>
+<area shape="rect" id="node4" href="$contentdialogmanager_8h.html" title="src/widget/contentdialogmanager.h" alt="" coords="402,87,649,114"/>
+<area shape="rect" id="node5" href="$contentdialogmanager_8cpp.html" title="src/widget/contentdialogmanager.cpp" alt="" coords="5,169,267,196"/>
+<area shape="rect" id="node6" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="291,169,501,196"/>
+<area shape="rect" id="node7" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="525,169,781,196"/>
+<area shape="rect" id="node8" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="806,169,965,196"/>
+</map>

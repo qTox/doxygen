@@ -1,0 +1,7 @@
+<map id="Settings::setWindowState" name="Settings::setWindowState">
+<area shape="rect" id="node2" href="$classWidget.html#a0c6d86f47477beb19c48a66672164c0a" title="Widget::saveWindowGeometry" alt="" coords="239,56,453,83"/>
+<area shape="rect" id="node3" href="$classWidget.html#a5a649b0fd52df2afd25b23439d42fcec" title="Widget::moveEvent" alt="" coords="502,5,647,32"/>
+<area shape="rect" id="node5" href="$classWidget.html#ab109d70470d124baa34d67a4b94ebc2a" title="Widget::closeEvent" alt="" coords="503,56,646,83"/>
+<area shape="rect" id="node6" href="$classWidget.html#a9f7cd7bb538dfa1d42df28f1e706d823" title="Widget::resizeEvent" alt="" coords="501,107,648,133"/>
+<area shape="rect" id="node4" href="$classWidget.html#acfb1c9f9d66b04ee0ac989fef7efd377" title="Widget::createContentDialog" alt="" coords="696,56,901,83"/>
+</map>

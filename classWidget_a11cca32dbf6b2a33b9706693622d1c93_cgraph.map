@@ -1,0 +1,13 @@
+<map id="Widget::dispatchFile" name="Widget::dispatchFile">
+<area shape="rect" id="node2" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title="FriendList::id2Key" alt="" coords="253,5,383,32"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="243,56,393,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="244,107,392,133"/>
+<area shape="rect" id="node5" href="$classCore.html#a6db1a3c431ef63160d3d112ac7079604" title="Gets self public key. " alt="" coords="236,157,400,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#a427c69ad6d49ba559b0ca5508eb51f48" title="Settings::getAutoAcceptDir" alt="" coords="220,208,416,235"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab309feeb371ba1d89079e770efe625d9" title="Settings::getAutoSaveEnabled" alt="" coords="209,259,427,285"/>
+<area shape="rect" id="node8" href="$classSettings.html#a99204fe168f419f94e2a464a71c8f3e4" title="Settings::getGlobalAutoAcceptDir" alt="" coords="200,309,436,336"/>
+<area shape="rect" id="node9" href="$classSettings.html#a679d4544299cda9e2d1319adfbb43d37" title="Settings::getMaxAutoAcceptSize" alt="" coords="203,360,433,387"/>
+<area shape="rect" id="node10" href="$classWidget.html#a9a66695095ed17cdd24860d74961ca5d" title="Widget::acceptFileTransfer" alt="" coords="225,411,411,437"/>
+<area shape="rect" id="node11" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="505,381,635,408"/>
+<area shape="rect" id="node12" href="$classCoreFile.html#a1df491ab7c453d59aa746e41ef9018ab" title="CoreFile::acceptFileRecv\lRequest" alt="" coords="484,433,656,474"/>
+</map>

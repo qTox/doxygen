@@ -1,0 +1,11 @@
+<map id="ProfileForm::onExportClicked" name="ProfileForm::onExportClicked">
+<area shape="rect" id="node2" href="$classIProfileInfo.html#a42402b7aeb0128ff6d697134f5595c4b" title="IProfileInfo::getProfileName" alt="" coords="257,5,452,32"/>
+<area shape="rect" id="node3" href="$classIProfileInfo.html#acb47f833c361638bfa68e5c212dda5f0" title="IProfileInfo::exportProfile" alt="" coords="267,56,442,83"/>
+<area shape="rect" id="node4" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="287,107,422,133"/>
+<area shape="rect" id="node5" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="507,81,635,108"/>
+<area shape="rect" id="node6" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="500,132,643,159"/>
+<area shape="rect" id="node7" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="691,132,837,159"/>
+<area shape="rect" id="node8" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="885,132,1052,159"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1100,132,1245,159"/>
+<area shape="rect" id="node10" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1293,132,1404,159"/>
+</map>

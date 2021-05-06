@@ -1,0 +1,51 @@
+<map id="Widget::onGroupInviteReceived" name="Widget::onGroupInviteReceived">
+<area shape="rect" id="node2" href="$classGroupInvite.html#a30b5d8b5fe9afbb2c8c352a76b7cb942" title="GroupInvite::getFriendId" alt="" coords="821,9,995,36"/>
+<area shape="rect" id="node3" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title="FriendList::id2Key" alt="" coords="318,536,449,562"/>
+<area shape="rect" id="node4" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="308,586,459,613"/>
+<area shape="rect" id="node5" href="$classWidget.html#ab223ccd9f265fb55d44d9cf227048f01" title="Widget::updateFriendActivity" alt="" coords="282,637,485,664"/>
+<area shape="rect" id="node6" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="834,865,982,892"/>
+<area shape="rect" id="node24" href="$classGroupInvite.html#a81c2a7cfad2a7f9b357289b4d848a2fd" title="GroupInvite::getType" alt="" coords="832,60,984,86"/>
+<area shape="rect" id="node25" href="$classSettings.html#af63d5cc42578c32220f7976226105ac0" title="Settings::getAutoGroupInvite" alt="" coords="280,865,487,892"/>
+<area shape="rect" id="node26" href="$classWidget.html#a4bc30bf0f9afbd7cba25237152b785ff" title="Widget::onGroupInviteAccepted" alt="" coords="272,225,495,252"/>
+<area shape="rect" id="node31" href="$classGroupInviteForm.html#a9d19bdd6218516e7d84fca42cfa420b2" title="Adds group invite. " alt="" coords="284,399,483,440"/>
+<area shape="rect" id="node33" href="$classWidget.html#a82e5c2dd8ca0915943e7753f56d2068e" title="Widget::groupInvitesUpdate" alt="" coords="284,992,483,1018"/>
+<area shape="rect" id="node43" href="$classWidget.html#a3bd6419cad95ffbcf90fc02204d00bae" title="Widget::newMessageAlert" alt="" coords="291,1232,476,1258"/>
+<area shape="rect" id="node7" href="$classSettings.html#ace104ff405d27243d7767ae6e6a10ecf" title="Settings::getFriendActivity" alt="" coords="555,510,743,537"/>
+<area shape="rect" id="node8" href="$classSettings.html#ad06cd9bb401af78857decd72d144e295" title="Settings::setFriendActivity" alt="" coords="555,713,742,740"/>
+<area shape="rect" id="node10" href="$classFriendListWidget.html#a5f7af661ea69ad90b30bfd5d209cbc68" title="FriendListWidget::moveWidget" alt="" coords="543,612,755,638"/>
+<area shape="rect" id="node21" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="843,764,973,790"/>
+<area shape="rect" id="node22" href="$classFriendListWidget.html#ac9fdcb8b7427d83f2eac3a907ddf5d4c" title="FriendListWidget::update\lActivityTime" alt="" coords="819,263,997,304"/>
+<area shape="rect" id="node9" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="1077,756,1271,798"/>
+<area shape="rect" id="node11" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="823,662,993,689"/>
+<area shape="rect" id="node12" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="829,460,987,486"/>
+<area shape="rect" id="node13" href="$classSettings.html#ad2bea7550d0fe0f24a392edbfbb5ba3b" title="Settings::getFriendCircleID" alt="" coords="813,510,1003,537"/>
+<area shape="rect" id="node14" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title="CircleWidget::getFromID" alt="" coords="821,561,995,588"/>
+<area shape="rect" id="node15" href="$classSettings.html#a166c57a193cb7b627a6a5ff01763de6e" title="Settings::setFriendCircleID" alt="" coords="813,713,1003,740"/>
+<area shape="rect" id="node16" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title="FriendListLayout::addFriend\lWidget" alt="" coords="1077,523,1271,564"/>
+<area shape="rect" id="node17" href="$classCategoryWidget.html#accb1ef391fc9bc2cc341b6e33977839c" title="CategoryWidget::addFriend\lWidget" alt="" coords="811,394,1005,435"/>
+<area shape="rect" id="node19" href="$classFriendListWidget.html#a108259b33903cd084857d5414f761acc" title="FriendListWidget::getTime\lCategoryWidget" alt="" coords="815,328,1001,370"/>
+<area shape="rect" id="node18" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title="CategoryWidget::updateStatus" alt="" coords="1065,390,1283,417"/>
+<area shape="rect" id="node20" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title="getTimeBucket" alt="" coords="1115,329,1233,356"/>
+<area shape="rect" id="node23" href="$classCategoryWidget.html#a651cc5af82de3dffee5e349b7e3b2cc1" title="CategoryWidget::hasChatrooms" alt="" coords="1061,270,1287,297"/>
+<area shape="rect" id="node27" href="$classCore.html#ab335c254cef23e3c8d6a1f3e2291718a" title="Accept a groupchat invite. " alt="" coords="574,154,723,181"/>
+<area shape="rect" id="node28" href="$classGroupInvite.html#a756e8a4bbca081678d6e07f06016297a" title="GroupInvite::getInvite" alt="" coords="829,212,987,238"/>
+<area shape="rect" id="node29" href="$classCoreAV.html#a755de116aa91e3b4c3a0f29fb8b6f422" title="Called from Tox API when group call receives audio data. " alt="" coords="813,110,1003,137"/>
+<area shape="rect" id="node30" href="$classCore.html#a7d107c6374c41d81bde6dc1c68b62344" title="Core::getGroupPersistentId" alt="" coords="811,161,1005,188"/>
+<area shape="rect" id="node32" href="$classGroupInviteForm.html#a4b6d70b0eb9538b9525f7361071629ab" title="Deletes accepted/declined group invite widget. " alt="" coords="543,399,754,440"/>
+<area shape="rect" id="node34" href="$classWidget.html#ac17fbd5de998fad14d0711014e9ddc71" title="Widget::onGroupClicked" alt="" coords="562,1042,735,1069"/>
+<area shape="rect" id="node35" href="$classSettings.html#a4e65ec63f3cb29d79c460a8c68932cc6" title="Settings::getSeparateWindow" alt="" coords="803,1118,1013,1145"/>
+<area shape="rect" id="node36" href="$classGroupInviteForm.html#aeb8ab5d99255f008cebf8c592b582752" title="Detects that form is shown. " alt="" coords="814,1169,1002,1196"/>
+<area shape="rect" id="node37" href="$classGroupInviteForm.html#a0f6ba886812249f31488e11666a1e5cf" title="Shows the form. " alt="" coords="824,1220,992,1246"/>
+<area shape="rect" id="node38" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="805,1270,1011,1297"/>
+<area shape="rect" id="node39" href="$classWidget.html#aa15758d6b22efcbd7e36fa71702b0811" title="Widget::setActiveToolMenu\lButton" alt="" coords="1079,934,1269,975"/>
+<area shape="rect" id="node40" href="$classWidget.html#a34fb1300b432b15648b041631f2cac0c" title="Widget::hideMainForms" alt="" coords="823,966,993,993"/>
+<area shape="rect" id="node41" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title="Widget::setWindowTitle" alt="" coords="825,1017,991,1044"/>
+<area shape="rect" id="node42" href="$classWidget.html#a26da0100e884cd2f0c2d61a12f17f0fb" title="Widget::fromDialogType" alt="" coords="823,1068,993,1094"/>
+<area shape="rect" id="node44" href="$classSettings.html#a66e5adbc280d3c2a477fc0355fcf9c20" title="Settings::getShowWindow" alt="" coords="556,1261,741,1288"/>
+<area shape="rect" id="node45" href="$classSettings.html#a613bebef785a7db1e348f65cbd9022bf" title="Settings::getNotify" alt="" coords="578,1312,719,1338"/>
+<area shape="rect" id="node46" href="$classSettings.html#a8b0ce74addf5bfab6b7be07447275fb2" title="Settings::getDesktopNotify" alt="" coords="551,1362,746,1389"/>
+<area shape="rect" id="node47" href="$classCore.html#a678a842bb26b85d9e30b0a332716986b" title="Returns our user status. " alt="" coords="587,1413,710,1440"/>
+<area shape="rect" id="node48" href="$classSettings.html#aca822c6f005a3b89a67d227cfedfcefb" title="Settings::getBusySound" alt="" coords="561,1093,737,1120"/>
+<area shape="rect" id="node49" href="$classSettings.html#aecdd88599186fd0159682b6b1416f999" title="Settings::getNotifySound" alt="" coords="557,1144,740,1170"/>
+<area shape="rect" id="node50" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink. " alt="" coords="563,1195,734,1236"/>
+</map>

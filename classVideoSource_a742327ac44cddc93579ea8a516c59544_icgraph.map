@@ -1,0 +1,14 @@
+<map id="VideoSource::unsubscribe" name="VideoSource::unsubscribe">
+<area shape="rect" id="node2" href="$classVideoSource.html#a13188e20ed4e4c99e39cd0faf82bad2e" title="VideoSource::VideoSource" alt="" coords="241,49,433,75"/>
+<area shape="rect" id="node3" href="$classVideoSurface.html#a088414beba42524b7adc5968563e6f42" title="VideoSurface::unsubscribe" alt="" coords="241,99,433,126"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#aecea93119c1abf87f62e0e34da5e618e" title="VideoSurface::~VideoSurface" alt="" coords="481,74,692,101"/>
+<area shape="rect" id="node5" href="$classVideoSurface.html#a85db8e813d013e582228902a91f9f41f" title="Update source. " alt="" coords="497,125,677,151"/>
+<area shape="rect" id="node6" href="$classNetCamView.html#a10889193d494b3ac0a93ff38b285cf11" title="NetCamView::show" alt="" coords="997,23,1140,50"/>
+<area shape="rect" id="node7" href="$classNetCamView.html#ab2c7502b7fb64b2a1f9e378d9accfe4e" title="NetCamView::hide" alt="" coords="999,74,1138,101"/>
+<area shape="rect" id="node8" href="$classNetCamView.html#a5101efe52917d0252aa1872089a0ff99" title="NetCamView::setSource" alt="" coords="755,49,931,75"/>
+<area shape="rect" id="node9" href="$classVideoSurface.html#ae8adc23451e6d6558af251bc1f1fc901" title="VideoSurface::VideoSurface" alt="" coords="743,150,943,177"/>
+<area shape="rect" id="node10" href="$classAVForm.html#a856728ef85d42b7b064c96039af764e2" title="AVForm::hideEvent" alt="" coords="997,201,1140,227"/>
+<area shape="rect" id="node12" href="$classAVForm.html#a7e2fbc88b9b5ce08ee6504b0577e1031" title="AVForm::createVideoSurface" alt="" coords="740,251,947,278"/>
+<area shape="rect" id="node11" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="1191,251,1364,278"/>
+<area shape="rect" id="node13" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="995,302,1143,329"/>
+</map>

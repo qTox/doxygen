@@ -1,0 +1,8 @@
+<map id="Widget::onCoreFriendStatusChanged" name="Widget::onCoreFriendStatusChanged">
+<area shape="rect" id="node2" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title="FriendList::id2Key" alt="" coords="297,5,427,32"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="287,56,437,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="520,157,651,184"/>
+<area shape="rect" id="node5" href="$classFriend.html#acff210b076b40d002e00e2ee2188de73" title="Friend::setStatus" alt="" coords="297,208,427,235"/>
+<area shape="rect" id="node7" href="$classFriend.html#af7ba0b639dae8ada6aa01c82d697e381" title="Friend::onNegotiationComplete" alt="" coords="252,157,472,184"/>
+<area shape="rect" id="node6" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="524,208,647,235"/>
+</map>

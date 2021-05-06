@@ -1,0 +1,5 @@
+<map id="PrivacyForm::on_randomNosapamButton_clicked" name="PrivacyForm::on_randomNosapamButton_clicked">
+<area shape="rect" id="node2" href="$classCore.html#a9529070928925fd9baf3a7bbbed645aa" title="Sets the NoSpam value to prevent friend request spam. " alt="" coords="317,5,451,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID. " alt="" coords="520,31,636,57"/>
+<area shape="rect" id="node4" href="$classToxId.html#af1360e0ce527ca64834b9fe928e13531" title="Returns the NoSpam value converted to QString. " alt="" coords="296,107,472,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ScreenshotGrabber::useNothingSelectedTooltip" name="ScreenshotGrabber::useNothingSelectedTooltip">
+<area shape="rect" id="node2" href="$classScreenshotGrabber.html#a76841e5ddd9f6e3b2dd1b98579e8dba3" title="ScreenshotGrabber::\lsetupScene" alt="" coords="467,39,621,80"/>
+<area shape="rect" id="node7" href="$classScreenshotGrabber.html#aa29e6332781237475f8896ae2744f81b" title="ScreenshotGrabber::\lchooseHelperTooltipText" alt="" coords="244,68,419,109"/>
+<area shape="rect" id="node3" href="$classScreenshotGrabber.html#a6d68e0b49fac9c67439498c366120dae" title="ScreenshotGrabber::\lScreenshotGrabber" alt="" coords="669,5,824,47"/>
+<area shape="rect" id="node4" href="$classScreenshotGrabber.html#a1fc55f1bd10521095cb555ccfed65915" title="ScreenshotGrabber::\lreInit" alt="" coords="669,71,824,112"/>
+<area shape="rect" id="node5" href="$classScreenshotGrabber.html#a581d4e1002c86ef8db9dacf06c3b8896" title="ScreenshotGrabber::\lhandleKeyPress" alt="" coords="872,71,1027,112"/>
+<area shape="rect" id="node6" href="$classScreenshotGrabber.html#a993ec9d2170e267568dd78b585d549d6" title="ScreenshotGrabber::\leventFilter" alt="" coords="1075,71,1229,112"/>
+</map>

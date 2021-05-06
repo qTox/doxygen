@@ -1,0 +1,6 @@
+<map id="Settings::chatMessageFontChanged" name="Settings::chatMessageFontChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a1f8d7e6a996871ab92732ad2b696bd7e" title="Settings::setChatMessageFont" alt="" coords="249,56,468,83"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="263,107,454,149"/>
+<area shape="rect" id="node3" href="$classUserInterfaceForm.html#aad9ae4820b1bc1a4557a1d2879c7f2f5" title="UserInterfaceForm::\lon_txtChatFont_currentFont\lChanged" alt="" coords="538,5,739,61"/>
+<area shape="rect" id="node4" href="$classUserInterfaceForm.html#a64be0a7caa779e7c54eebcba841e9ba3" title="UserInterfaceForm::\lon_txtChatFontSize_valueChanged" alt="" coords="516,85,761,126"/>
+</map>

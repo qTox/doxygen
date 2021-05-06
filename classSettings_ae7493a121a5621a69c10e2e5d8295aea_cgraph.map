@@ -1,0 +1,6 @@
+<map id="Settings::setCircleName" name="Settings::setCircleName">
+<area shape="rect" id="node2" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="231,5,399,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="447,5,577,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="625,5,771,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="819,5,929,32"/>
+</map>

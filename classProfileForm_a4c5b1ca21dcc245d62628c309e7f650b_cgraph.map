@@ -1,0 +1,4 @@
+<map id="ProfileForm::onCopyQrClicked" name="ProfileForm::onCopyQrClicked">
+<area shape="rect" id="node2" href="$classIProfileInfo.html#a4a714054ed642b47346427b1ceedd1e9" title="IProfileInfo::copyQr" alt="" coords="269,5,409,32"/>
+<area shape="rect" id="node3" href="$classQRWidget.html#af842a655ebc96bdf1dae7916a8bed336" title="QRWidget::getImage" alt="" coords="264,56,415,83"/>
+</map>

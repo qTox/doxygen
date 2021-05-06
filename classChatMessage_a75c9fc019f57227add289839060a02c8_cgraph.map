@@ -1,0 +1,28 @@
+<map id="ChatMessage::createChatMessage" name="ChatMessage::createChatMessage">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1006,225,1165,252"/>
+<area shape="rect" id="node13" href="$classSmileyPack.html#a7f77017891a40454236a7d84c6b34d71" title="Returns the singleton instance. " alt="" coords="319,60,497,87"/>
+<area shape="rect" id="node14" href="$classSmileyPack.html#a37785fcfb7fc9d11b3e64ccf85a663a5" title="Replaces all found text emoticons to HTML reference with its according icon filename. " alt="" coords="325,111,491,137"/>
+<area shape="rect" id="node16" href="$classChatMessage.html#a16e6af180e1880659f165f8e34e0bb92" title="ChatMessage::detectQuotes" alt="" coords="306,161,510,188"/>
+<area shape="rect" id="node17" href="$textformatter_8h.html#ad699ede35c7bdce428bf0b7013f066d1" title="highlightURI" alt="" coords="359,212,457,239"/>
+<area shape="rect" id="node18" href="$classSettings.html#a507baa519d567fb217f182bd55e26e03" title="Settings::getStylePreference" alt="" coords="305,263,511,289"/>
+<area shape="rect" id="node19" href="$textformatter_8h.html#a699af2b3eba39caadb12f5dfe432d4f9" title="applyMarkdown" alt="" coords="348,313,468,340"/>
+<area shape="rect" id="node20" href="$classChatMessage.html#a488eef22fd012a8ce0a33217c2d41156" title="ChatMessage::wrapDiv" alt="" coords="325,364,491,391"/>
+<area shape="rect" id="node21" href="$classSettings.html#ab02ac9603db46e63aea67a7be46ceaf0" title="Settings::getChatMessageFont" alt="" coords="299,415,517,441"/>
+<area shape="rect" id="node22" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="350,465,466,492"/>
+<area shape="rect" id="node23" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="333,516,483,543"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1224,225,1360,252"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1415,149,1551,176"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1408,251,1559,277"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1654,124,1754,151"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1607,175,1801,201"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1849,200,2035,227"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1621,276,1787,303"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1619,327,1789,353"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1649,377,1759,404"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1905,377,1979,404"/>
+<area shape="rect" id="node15" href="$smileypack_8cpp.html#a95863010346c26af165dcaf76771afb4" title="Wraps passed string into smiley HTML image reference. " alt="" coords="593,111,704,137"/>
+<area shape="rect" id="node24" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="565,465,732,492"/>
+<area shape="rect" id="node26" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="786,491,941,517"/>
+<area shape="rect" id="node25" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="780,440,947,467"/>
+<area shape="rect" id="node27" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="995,491,1176,517"/>
+</map>

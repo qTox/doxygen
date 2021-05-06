@@ -1,0 +1,51 @@
+<map id="Profile::initCore" name="Profile::initCore">
+<area shape="rect" id="node2" href="$classSettings.html#aec7ace9d812dde426adee179f00f1650" title="Settings::getProxy" alt="" coords="209,275,348,301"/>
+<area shape="rect" id="node6" href="$classCore.html#a5704c674f8b4214bd200b5f4a595f46e" title="Factory method for the Core object. " alt="" coords="205,973,352,1000"/>
+<area shape="rect" id="node39" href="$classCoreAV.html#aa21ee50e4df2daaba46a4f179b805a25" title="Factory method for CoreAV. " alt="" coords="199,1244,358,1271"/>
+<area shape="rect" id="node40" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed. " alt="" coords="194,1295,363,1321"/>
+<area shape="rect" id="node42" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar. " alt="" coords="199,1396,358,1423"/>
+<area shape="rect" id="node48" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar. " alt="" coords="466,1345,634,1372"/>
+<area shape="rect" id="node49" href="$classProfile.html#a7fc42d3937a7b8a22b81eddff3737260" title="Profile::onAvatarOfferReceived" alt="" coords="172,1472,385,1499"/>
+<area shape="rect" id="node3" href="$classSettings.html#a733ea826935339156196917570941db5" title="Settings::getProxyType" alt="" coords="467,199,633,225"/>
+<area shape="rect" id="node4" href="$classSettings.html#aa0eba5b3bd1aa54c52a95e950f587b5a" title="Settings::getProxyAddr" alt="" coords="465,249,635,276"/>
+<area shape="rect" id="node5" href="$classSettings.html#a1fedabbce788fe1a4f29362a90567be6" title="Settings::getProxyPort" alt="" coords="467,300,633,327"/>
+<area shape="rect" id="node7" href="$classToxOptions.html#ac791d12af61413fd4e08f4776f593d5b" title="Initializes a ToxOptions instance. " alt="" coords="448,933,652,960"/>
+<area shape="rect" id="node16" href="$classCore.html#ae639e75893da8e609e50f1094cc0ce78" title="Core::Core" alt="" coords="505,1123,595,1149"/>
+<area shape="rect" id="node18" href="$classCoreFile.html#a23b88b6459d4133cd8f061698113c08b" title="CoreFile::makeCoreFile" alt="" coords="467,1211,633,1237"/>
+<area shape="rect" id="node21" href="$classCoreExt.html#a2de8fc4ad9545320ce52b61c2853ee98" title="Creates a CoreExt instance. Using a pointer here makes our registrations with extensions significantl..." alt="" coords="467,351,633,377"/>
+<area shape="rect" id="node23" href="$classCoreExt.html#acae2e09f69e9beafa892160e99116389" title="CoreExt::onFriendStatusChanged" alt="" coords="433,401,667,428"/>
+<area shape="rect" id="node24" href="$classCore.html#a260257ad4ee098aa767a739bdf0e724a" title="Registers all toxcore callbacks. " alt="" coords="465,452,635,479"/>
+<area shape="rect" id="node38" href="$classCore.html#ae4d185eaa869d82d63754e446ea45c73" title="Core::onStarted" alt="" coords="488,1013,612,1040"/>
+<area shape="rect" id="node8" href="$classICoreSettings.html#a61b2800beea354c12ca78b3a9166bb91" title="ICoreSettings::getProxyAddr" alt="" coords="729,781,932,808"/>
+<area shape="rect" id="node9" href="$classToxOptions.html#a6f45560eb1ddbecdb2fd19363526365b" title="ToxOptions::ToxOptions" alt="" coords="747,832,915,859"/>
+<area shape="rect" id="node10" href="$namespaceToxLogger.html#ac1be6782376727c4d9898bbd9b4867db" title="Log message handler for toxcore log messages. " alt="" coords="735,883,926,909"/>
+<area shape="rect" id="node11" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title="ICoreSettings::getEnableIPv6" alt="" coords="727,933,934,960"/>
+<area shape="rect" id="node12" href="$classICoreSettings.html#ae3be8c5ffd7e7777142952eadecd12e6" title="ICoreSettings::getForceTCP" alt="" coords="733,984,928,1011"/>
+<area shape="rect" id="node13" href="$classICoreSettings.html#a370b35682a55e80c5a033a65ff0a3e0d" title="ICoreSettings::getEnable\lLanDiscovery" alt="" coords="741,1035,921,1077"/>
+<area shape="rect" id="node14" href="$classICoreSettings.html#aea0a9da8ef5a7eedd726bf60c77f6222" title="ICoreSettings::getProxyType" alt="" coords="731,1101,931,1128"/>
+<area shape="rect" id="node15" href="$classICoreSettings.html#a52955361edce3ec22eb4e5ba384cdce1" title="ICoreSettings::getProxyPort" alt="" coords="731,731,930,757"/>
+<area shape="rect" id="node17" href="$classCore.html#ae16fbf434051c93fc709ddf1eda16ef0" title="Processes toxcore events and ensure we stay connected, called by its own timer. " alt="" coords="775,1152,886,1179"/>
+<area shape="rect" id="node19" href="$classCoreFile.html#aa07ee3f2702d6eb53b1372e4624c2f73" title="CoreFile::connectCallbacks" alt="" coords="735,1269,926,1296"/>
+<area shape="rect" id="node20" href="$classCoreFile.html#aba46f6c4341bbf61ff8671e7bf977c80" title="CoreFile::onConnectionStatus\lChanged" alt="" coords="725,1203,936,1245"/>
+<area shape="rect" id="node22" href="$classCoreExt.html#a8c3369486af842a66e982838455ceead" title="CoreExt::CoreExt" alt="" coords="765,5,896,32"/>
+<area shape="rect" id="node25" href="$classCore.html#a9b7936862fd6d459e7a003498b6d3ee1" title="Core::onFriendRequest" alt="" coords="748,477,913,504"/>
+<area shape="rect" id="node26" href="$classCore.html#a25aa9e0881363f63c92ba5f4ea7a4d98" title="Core::onFriendMessage" alt="" coords="745,528,916,555"/>
+<area shape="rect" id="node27" href="$classCore.html#a0e13a83d93f19d3d84f0fd85b73e0317" title="Core::onFriendNameChange" alt="" coords="729,579,932,605"/>
+<area shape="rect" id="node28" href="$classCore.html#a724d51a4f7b081af18e48c292f8d4aa7" title="Core::onFriendTypingChange" alt="" coords="729,629,932,656"/>
+<area shape="rect" id="node29" href="$classCore.html#ac31b897033396e49d82600a90971aec4" title="Core::onStatusMessageChanged" alt="" coords="715,680,947,707"/>
+<area shape="rect" id="node30" href="$classCore.html#a18ad28602f7a70042c53d8041348f1b5" title="Core::onUserStatusChanged" alt="" coords="728,56,933,83"/>
+<area shape="rect" id="node31" href="$classCore.html#ab1c0a082ae5a7cf030821a993a2e8e40" title="Core::onConnectionStatus\lChanged" alt="" coords="735,107,926,149"/>
+<area shape="rect" id="node32" href="$classCore.html#a4d5b6500185503cc3f0801674478586a" title="Core::onReadReceiptCallback" alt="" coords="727,173,934,200"/>
+<area shape="rect" id="node33" href="$classCore.html#ac3b77f0e4a52c97ec921638b114dc62b" title="Core::onGroupInvite" alt="" coords="756,224,905,251"/>
+<area shape="rect" id="node34" href="$classCore.html#ab4aee8083989d410925c1f7b4930294d" title="Core::onGroupMessage" alt="" coords="745,275,917,301"/>
+<area shape="rect" id="node35" href="$classCore.html#aaa86c5384a5b7609e32e4017c8345af8" title="Core::onGroupPeerListChange" alt="" coords="723,325,938,352"/>
+<area shape="rect" id="node36" href="$classCore.html#a9091c43d29dbae1360096bd2c9176dfa" title="Core::onGroupPeerNameChange" alt="" coords="715,376,947,403"/>
+<area shape="rect" id="node37" href="$classCore.html#a8e0bb22a5e6d460cbf303902b79b8f03" title="Core::onGroupTitleChange" alt="" coords="735,427,926,453"/>
+<area shape="rect" id="node41" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed. " alt="" coords="475,1295,625,1321"/>
+<area shape="rect" id="node43" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID..." alt="" coords="995,1421,1133,1448"/>
+<area shape="rect" id="node44" href="$classProfile.html#aca1cdaef5152d76b2e3d2197f8132ab3" title="Sets our own avatar. " alt="" coords="485,1396,615,1423"/>
+<area shape="rect" id="node45" href="$classSettings.html#ae63178fb316f962e922b76cd5776e28b" title="Settings::getShowIdenticons" alt="" coords="729,1421,932,1448"/>
+<area shape="rect" id="node46" href="$classContactId.html#a2ef2beeefa31a8bc2dd393c83b66bcb8" title="Get a copy of the id. " alt="" coords="743,1320,918,1347"/>
+<area shape="rect" id="node47" href="$classProfile.html#a4f48c9d37cb135b1cec9a25a1f996ce0" title="Save an avatar to cache. " alt="" coords="761,1371,901,1397"/>
+<area shape="rect" id="node50" href="$classProfile.html#a09f38019e3f7a49ca8ab402d29b2a87a" title="Get the tox hash of a cached avatar. " alt="" coords="468,1523,632,1549"/>
+</map>

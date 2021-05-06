@@ -1,0 +1,4 @@
+<map id="MessageProcessor::processIncomingCoreMessage" name="MessageProcessor::processIncomingCoreMessage">
+<area shape="rect" id="node2" href="$classFriendMessageDispatcher.html#acb78525bd8da2e5ad5c53139037fa9a7" title="Handles received message from toxcore. " alt="" coords="253,5,440,47"/>
+<area shape="rect" id="node3" href="$classGroupMessageDispatcher.html#afc7fe5e58125537c5ebfbbe44da898f6" title="Processes and dispatches received message from toxcore. " alt="" coords="253,71,440,112"/>
+</map>

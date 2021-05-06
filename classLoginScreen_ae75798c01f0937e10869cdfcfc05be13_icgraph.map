@@ -1,0 +1,11 @@
+<map id="LoginScreen::loadProfile" name="LoginScreen::loadProfile">
+<area shape="rect" id="node2" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title="Nexus::connectLoginScreen" alt="" coords="228,43,428,69"/>
+<area shape="rect" id="node9" href="$classLoginScreen.html#a133220005b416d6ae000d3e06e37a377" title="LoginScreen::onLogin" alt="" coords="249,93,407,120"/>
+<area shape="rect" id="node3" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="502,43,638,69"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1449,17,1504,44"/>
+<area shape="rect" id="node5" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="712,43,804,69"/>
+<area shape="rect" id="node6" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="852,43,1007,69"/>
+<area shape="rect" id="node7" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1055,43,1155,69"/>
+<area shape="rect" id="node8" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1203,43,1401,69"/>
+<area shape="rect" id="node10" href="$classLoginScreen.html#ad9c62f243a271fb067dc15195500ec21" title="LoginScreen::LoginScreen" alt="" coords="476,93,664,120"/>
+</map>

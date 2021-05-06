@@ -1,0 +1,7 @@
+<map id="GroupWidget::setAsActiveChatroom" name="GroupWidget::setAsActiveChatroom">
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title="GenericChatroomWidget\l::setActive" alt="" coords="240,5,419,47"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="243,71,415,112"/>
+<area shape="rect" id="node6" href="$classStyle.html#a9edf6120c3e488891a3711fe2e08464e" title="Style::scaleSvgImage" alt="" coords="250,137,409,163"/>
+<area shape="rect" id="node3" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="497,13,609,39"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="467,71,639,112"/>
+</map>

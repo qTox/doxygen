@@ -1,0 +1,4 @@
+<map id="Settings::closeToTrayChanged" name="Settings::closeToTrayChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a6a81802d5a39ddcf55d62c27151729c0" title="Settings::setCloseToTray" alt="" coords="264,13,440,39"/>
+<area shape="rect" id="node3" href="$classGeneralForm.html#af5d433b9029f6850f2a8c8d35b34d42b" title="GeneralForm::on_closeToTray\l_stateChanged" alt="" coords="488,5,695,47"/>
+</map>

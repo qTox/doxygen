@@ -1,0 +1,5 @@
+<map id="FriendChatroom::friendCanBeRemoved" name="FriendChatroom::friendCanBeRemoved">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="270,5,418,32"/>
+<area shape="rect" id="node3" href="$classIDialogsManager.html#a1853e347c810e20eadb5473764867512" title="IDialogsManager::getFriend\lDialogs" alt="" coords="247,57,441,98"/>
+<area shape="rect" id="node4" href="$classIDialogs.html#a7237ec8c45713878f9890b75dd9d4c84" title="IDialogs::hasContact" alt="" coords="267,123,421,149"/>
+</map>

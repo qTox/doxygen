@@ -1,0 +1,21 @@
+<map id="PrivacyForm::on_cbKeepHistory_stateChanged" name="PrivacyForm::on_cbKeepHistory_stateChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="295,81,453,108"/>
+<area shape="rect" id="node13" href="$classSettings.html#a2a66cdcc9b71a4dfe03ed8f989c6525e" title="Settings::setEnableLogging" alt="" coords="276,132,472,159"/>
+<area shape="rect" id="node15" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="309,183,439,209"/>
+<area shape="rect" id="node18" href="$classProfile.html#a86935da89fafad74f461e98d6670d7df" title="Get chat history. " alt="" coords="307,233,441,260"/>
+<area shape="rect" id="node19" href="$classHistory.html#abe01b50ec9f5f68b8cb887da1874f61c" title="Erases all the chat history from the database. " alt="" coords="297,284,451,311"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="525,81,661,108"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="721,81,857,108"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="713,132,864,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="959,5,1059,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="912,56,1107,83"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1155,81,1340,108"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="926,157,1093,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="925,208,1094,235"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="954,259,1065,285"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1210,259,1285,285"/>
+<area shape="rect" id="node14" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="531,132,654,159"/>
+<area shape="rect" id="node16" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="520,183,665,209"/>
+<area shape="rect" id="node17" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="733,183,844,209"/>
+<area shape="rect" id="node20" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully. " alt="" coords="535,284,650,311"/>
+</map>

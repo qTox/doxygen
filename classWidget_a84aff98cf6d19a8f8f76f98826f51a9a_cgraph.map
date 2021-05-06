@@ -1,0 +1,13 @@
+<map id="Widget::searchCircle" name="Widget::searchCircle">
+<area shape="rect" id="node2" href="$classWidget.html#ad7abd1529e7fab34c696ee5e2a80b09f" title="Widget::getFilterCriteria" alt="" coords="206,5,377,32"/>
+<area shape="rect" id="node3" href="$classCategoryWidget.html#ad5d92e4a5c1d967df50441ba512e30ac" title="CategoryWidget::search" alt="" coords="204,56,379,83"/>
+<area shape="rect" id="node11" href="$classWidget.html#adb8b84b6810618432d784dce09e4ca29" title="Widget::filterOnline" alt="" coords="221,107,362,133"/>
+<area shape="rect" id="node12" href="$classWidget.html#aedd8a11593174dee8c17bc5981086be6" title="Widget::filterOffline" alt="" coords="221,157,362,184"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#ad0b39eee83439429d83a5b9410ca94df" title="FriendListLayout::search\lChatrooms" alt="" coords="452,19,628,61"/>
+<area shape="rect" id="node9" href="$classFriendListLayout.html#a04c5f011395ba1409145af33b64cc22d" title="FriendListLayout::hasChatrooms" alt="" coords="427,87,653,113"/>
+<area shape="rect" id="node5" href="$classGenericChatItemLayout.html#acaec0839c135f3ac347effb65458c816" title="GenericChatItemLayout\l::search" alt="" coords="701,17,875,58"/>
+<area shape="rect" id="node6" href="$classGenericChatItemWidget.html#ae706591d74a6de55844bbb74d8d54fc8" title="GenericChatItemWidget\l::searchName" alt="" coords="923,17,1096,58"/>
+<area shape="rect" id="node7" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1144,17,1317,58"/>
+<area shape="rect" id="node8" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1365,24,1529,51"/>
+<area shape="rect" id="node10" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="701,82,875,123"/>
+</map>

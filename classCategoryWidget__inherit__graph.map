@@ -1,0 +1,4 @@
+<map id="CategoryWidget" name="CategoryWidget">
+<area shape="rect" id="node4" href="$classCircleWidget.html" title="{CircleWidget\n|&#45; id\l&#45; core\l&#45; circleList\l|+ CircleWidget()\l+ ~CircleWidget()\l+ editName()\l+ getFromID()\l# contextMenuEvent()\l# dragEnterEvent()\l# dragLeaveEvent()\l# dropEvent()\l&#45; onSetName()\l&#45; onExpand()\l&#45; onAddFriendWidget()\l&#45; updateID()\l}" alt="" coords="21,924,188,1192"/>
+<area shape="rect" id="node2" href="$classGenericChatItemWidget.html" title="{GenericChatItemWidget\n|+ compact\l# nameLabel\l# statusPic\l|+ GenericChatItemWidget()\l+ isCompact()\l+ setCompact()\l+ getName()\l+ searchName()\l+ reloadTheme()\l}" alt="" coords="5,131,204,311"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Profile::~Profile" name="Profile::~Profile">
+<area shape="rect" id="node2" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed. " alt="" coords="172,67,341,94"/>
+<area shape="rect" id="node4" href="$classProfileLocker.html#abd3991dc28df89388a431243f568a076" title="Check that we actually own the lock. In case the file was deleted on disk, restore it..." alt="" coords="617,17,797,43"/>
+<area shape="rect" id="node5" href="$classProfileLocker.html#a695afe4fdaa99393d1665920f6e586f9" title="Get current locked profile name. " alt="" coords="596,118,819,145"/>
+<area shape="rect" id="node7" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="173,169,341,195"/>
+<area shape="rect" id="node11" href="$classSettings.html#ac400a8d624512cf65be4fb918dd3b155" title="Waits for all asynchronous operations to complete. " alt="" coords="201,219,313,246"/>
+<area shape="rect" id="node22" href="$classProfileLocker.html#ae87d40c397f31f1819349df653b1a70d" title="Releases the lock on the current profile. " alt="" coords="181,270,333,297"/>
+<area shape="rect" id="node3" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed. " alt="" coords="393,67,544,94"/>
+<area shape="rect" id="node6" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1308,169,1493,195"/>
+<area shape="rect" id="node8" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="403,169,534,195"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="635,169,780,195"/>
+<area shape="rect" id="node10" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="887,169,997,195"/>
+<area shape="rect" id="node12" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="389,219,548,246"/>
+<area shape="rect" id="node13" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="639,219,775,246"/>
+<area shape="rect" id="node14" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="874,219,1010,246"/>
+<area shape="rect" id="node16" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="867,270,1017,297"/>
+<area shape="rect" id="node15" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1113,118,1213,145"/>
+<area shape="rect" id="node17" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1065,219,1260,246"/>
+<area shape="rect" id="node18" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1079,270,1246,297"/>
+<area shape="rect" id="node19" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1078,321,1247,347"/>
+<area shape="rect" id="node20" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1107,371,1218,398"/>
+<area shape="rect" id="node21" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1363,371,1438,398"/>
+</map>

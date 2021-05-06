@@ -1,0 +1,7 @@
+<map id="IPC::IPC" name="IPC::IPC">
+<area shape="rect" id="node2" href="$classIPC.html#ab7c0e6429ddd9600c82a75b9245fb42a" title="IPC::processEvents" alt="" coords="124,56,267,83"/>
+<area shape="rect" id="node3" href="$classIPC.html#a41e9dfbcf274a4cdea8411ef3245f81d" title="IPC::global" alt="" coords="573,31,661,57"/>
+<area shape="rect" id="node4" href="$classIPC.html#a7383c3f67f0b453b50797ae38ed519c5" title="Only called when global memory IS LOCKED. " alt="" coords="334,81,453,108"/>
+<area shape="rect" id="node6" href="$classIPC.html#ade145479965d39a987eebc6fe6b9dec0" title="IPC::runEventHandler" alt="" coords="315,132,472,159"/>
+<area shape="rect" id="node5" href="$classIPC.html#a2d8b7b552f76e7d01c3f07a8b0f9f330" title="Only called when global memory IS LOCKED. " alt="" coords="520,81,715,108"/>
+</map>

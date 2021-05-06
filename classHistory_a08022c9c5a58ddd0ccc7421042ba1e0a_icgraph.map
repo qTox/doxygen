@@ -1,0 +1,8 @@
+<map id="History::markAsDelivered" name="History::markAsDelivered">
+<area shape="rect" id="node2" href="$classChatHistory.html#a750f5d39ddd30b1f2a8c28dc0947d69f" title="ChatHistory::handleDispatched\lMessage" alt="" coords="237,57,456,98"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#a190a6ea7cca8337ec5f345a681de4026" title="ChatHistory::completeMessage" alt="" coords="236,123,457,149"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a8c1fc9d72feb0b27fcf44f8d4fc68036" title="ChatHistory::onMessageSent" alt="" coords="521,5,728,32"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#ae5e2e3220f00ee68a3394388d253e366" title="Sends any unsent messages in history to the underlying message dispatcher. " alt="" coords="523,57,727,98"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title="ChatHistory::ChatHistory" alt="" coords="792,64,971,91"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#adf4f147d415a514283964e09ef4b1231" title="ChatHistory::onMessageComplete" alt="" coords="505,123,744,149"/>
+</map>

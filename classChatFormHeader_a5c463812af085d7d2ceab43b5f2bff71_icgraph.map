@@ -1,0 +1,6 @@
+<map id="ChatFormHeader::showCallConfirm" name="ChatFormHeader::showCallConfirm">
+<area shape="rect" id="node2" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="274,5,433,32"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#a06e71e967ddda1f75997428ec1340ee2" title="GenericChatForm::showEvent" alt="" coords="248,56,459,83"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="509,5,665,32"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a3044a47d61f14106acea128a65af03b5" title="ChatForm::showEvent" alt="" coords="507,56,668,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ChatLog::checkVisibility" name="ChatLog::checkVisibility">
+<area shape="rect" id="node2" href="$classChatLog.html#ac10c7f812189dae530d9f0db881d112b" title="ChatLog::getVisibleRect" alt="" coords="242,5,414,32"/>
+<area shape="rect" id="node3" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title="ChatLine::lessThanBSRect\lBottom" alt="" coords="235,57,421,98"/>
+<area shape="rect" id="node4" href="$classChatLine.html#a080a3c460af527b9e4192c4783b16cba" title="ChatLine::lessThanBSRectTop" alt="" coords="224,123,432,149"/>
+<area shape="rect" id="node5" href="$classChatLine.html#a5612ab90899d659fd2b77d470bdb5975" title="ChatLine::lessThanRowIndex" alt="" coords="228,173,428,200"/>
+</map>

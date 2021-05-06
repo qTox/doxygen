@@ -1,0 +1,33 @@
+<map id="ChatFormHeader::retranslateUi" name="ChatFormHeader::retranslateUi">
+<area shape="rect" id="node2" href="$classChatFormHeader.html#ad0b5e8211f9542999220705d086aecba" title="ChatFormHeader::ChatForm\lHeader" alt="" coords="613,460,816,501"/>
+<area shape="rect" id="node3" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="276,568,540,595"/>
+<area shape="rect" id="node4" href="$classChatFormHeader.html#aa5863eb88909b66d436987a068d3d72a" title="ChatFormHeader::showOutgoingCall" alt="" coords="588,526,841,552"/>
+<area shape="rect" id="node14" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title="ChatFormHeader::updateCall\lButtons" alt="" coords="611,750,819,792"/>
+<area shape="rect" id="node22" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title="ChatFormHeader::updateMute\lMicButton" alt="" coords="606,577,823,618"/>
+<area shape="rect" id="node29" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title="ChatFormHeader::updateMute\lVolButton" alt="" coords="606,646,823,688"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a535c3f564181af5c6a17c7f6ddcaf75a" title="ChatForm::showOutgoingCall" alt="" coords="903,138,1110,164"/>
+<area shape="rect" id="node6" href="$classChatForm.html#ade86d40c791c80ad9cf1195feeb2e64f" title="ChatForm::onCallTriggered" alt="" coords="1469,62,1659,88"/>
+<area shape="rect" id="node8" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="1172,138,1399,164"/>
+<area shape="rect" id="node7" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="2509,315,2665,342"/>
+<area shape="rect" id="node9" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="1471,214,1657,240"/>
+<area shape="rect" id="node10" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="1747,214,1923,240"/>
+<area shape="rect" id="node11" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="2005,315,2161,342"/>
+<area shape="rect" id="node12" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="2264,264,2423,291"/>
+<area shape="rect" id="node13" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="2225,366,2461,392"/>
+<area shape="rect" id="node15" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="1729,467,1940,494"/>
+<area shape="rect" id="node18" href="$classGroupChatForm.html#ab08a1498f127d0b7f7beadc2341afc76" title="GroupChatForm::onCallClicked" alt="" coords="899,727,1115,754"/>
+<area shape="rect" id="node20" href="$classGroupChatForm.html#af3be81f6692bf3e7ccafce617b2d0d00" title="Updates users&#39; count label text. " alt="" coords="903,780,1110,821"/>
+<area shape="rect" id="node16" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="2269,518,2417,544"/>
+<area shape="rect" id="node17" href="$classChatForm.html#a8852b8aaa0bf6a647eddd3076e5ed69c" title="ChatForm::onFriendStatus\lChanged" alt="" coords="1988,569,2177,610"/>
+<area shape="rect" id="node19" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="1447,736,1681,763"/>
+<area shape="rect" id="node21" href="$classGroupChatForm.html#afa7e5cfbc07edea3bc4218a0ad89cf0c" title="GroupChatForm::retranslateUi" alt="" coords="1178,787,1393,814"/>
+<area shape="rect" id="node23" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title="ChatForm::updateMuteMicButton" alt="" coords="889,366,1124,392"/>
+<area shape="rect" id="node26" href="$classGroupChatForm.html#abf13cbf54e975d36b21e11ee015132a3" title="GroupChatForm::onMicMute\lToggle" alt="" coords="906,576,1107,617"/>
+<area shape="rect" id="node24" href="$classChatForm.html#a3112589852659f68a0a36d957bc53682" title="ChatForm::onMicMuteToggle" alt="" coords="1184,214,1387,240"/>
+<area shape="rect" id="node25" href="$classChatForm.html#ab03ef8ef78d99f8254016b164a412908" title="ChatForm::retranslateUi" alt="" coords="1197,315,1373,342"/>
+<area shape="rect" id="node27" href="$classGroupChatForm.html#a402b3a50a8e0abec94d10476aafd969a" title="GroupChatForm::keyPressEvent" alt="" coords="1173,518,1398,544"/>
+<area shape="rect" id="node28" href="$classGroupChatForm.html#a0de15ee7d423daf8447466c5af89b3be" title="GroupChatForm::keyRelease\lEvent" alt="" coords="1184,569,1387,610"/>
+<area shape="rect" id="node30" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title="ChatForm::updateMuteVolButton" alt="" coords="891,442,1123,468"/>
+<area shape="rect" id="node32" href="$classGroupChatForm.html#ac87a6743aec7d66d086fa9581674f3b5" title="GroupChatForm::onVolMute\lToggle" alt="" coords="907,648,1106,689"/>
+<area shape="rect" id="node31" href="$classChatForm.html#a8e3859ece13f69fe8da2418db4525371" title="ChatForm::onVolMuteToggle" alt="" coords="1185,366,1385,392"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NotificationScrollArea" name="NotificationScrollArea">
+<area shape="rect" id="node2" href="$classAdjustingScrollArea.html" title="{AdjustingScrollArea\n||+ AdjustingScrollArea()\l+ ~AdjustingScrollArea()\l# resizeEvent()\l# sizeHint()\l}" alt="" coords="5,132,188,253"/>
+<area shape="rect" id="node4" href="$classQHash.html" title="{QHash\&lt; GenericChatroomWidget\l *, Visibility \&gt;\n||}" alt="" coords="212,147,448,239"/>
+<area shape="rect" id="node5" href="$classNotificationEdgeWidget.html" title="{NotificationEdgeWidget\n|&#45; textLabel\l|+ NotificationEdgeWidget()\l+ updateNotificationCount()\l# mouseReleaseEvent()\l}" alt="" coords="473,139,675,246"/>
+</map>

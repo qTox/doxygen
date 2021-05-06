@@ -1,0 +1,33 @@
+<map id="SearchSettingsForm::SearchSettingsForm" name="SearchSettingsForm::SearchSettingsForm">
+<area shape="rect" id="node2" href="$classSearchSettingsForm.html#a264084f3617a0db21ccaf70b7b087042" title="SearchSettingsForm\l::reloadTheme" alt="" coords="227,179,381,221"/>
+<area shape="rect" id="node24" href="$classSearchSettingsForm.html#a3c8b566a20b12f4fee62a08386b11723" title="SearchSettingsForm\l::onStartSearchSelected" alt="" coords="215,263,393,305"/>
+<area shape="rect" id="node28" href="$classSearchSettingsForm.html#afdf45321e3be58dca89ffc4e930b02b2" title="SearchSettingsForm\l::onRegisterClicked" alt="" coords="227,394,381,435"/>
+<area shape="rect" id="node29" href="$classSearchSettingsForm.html#ae64c7f243d05a7ddc94a2c2a2d1bd596" title="SearchSettingsForm\l::onWordsOnlyClicked" alt="" coords="225,459,383,501"/>
+<area shape="rect" id="node30" href="$classSearchSettingsForm.html#ab821c00dbd781140821d8d16c498ac9c" title="SearchSettingsForm\l::onRegularClicked" alt="" coords="227,525,381,566"/>
+<area shape="rect" id="node31" href="$classSearchSettingsForm.html#af7f7816652783dee3ab0877dbf2bbbe2" title="SearchSettingsForm\l::onChoiceDate" alt="" coords="227,329,381,370"/>
+<area shape="rect" id="node3" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="452,168,603,195"/>
+<area shape="rect" id="node4" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="891,5,1057,32"/>
+<area shape="rect" id="node19" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="698,157,806,184"/>
+<area shape="rect" id="node5" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1105,5,1272,32"/>
+<area shape="rect" id="node6" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1111,81,1266,108"/>
+<area shape="rect" id="node7" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1331,157,1490,184"/>
+<area shape="rect" id="node18" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1320,81,1501,108"/>
+<area shape="rect" id="node8" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1549,157,1685,184"/>
+<area shape="rect" id="node9" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1741,56,1877,83"/>
+<area shape="rect" id="node11" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1733,157,1884,184"/>
+<area shape="rect" id="node10" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1979,5,2079,32"/>
+<area shape="rect" id="node12" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1932,157,2127,184"/>
+<area shape="rect" id="node13" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2175,132,2360,159"/>
+<area shape="rect" id="node14" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1946,208,2113,235"/>
+<area shape="rect" id="node15" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1945,56,2114,83"/>
+<area shape="rect" id="node16" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1974,259,2085,285"/>
+<area shape="rect" id="node17" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2230,259,2305,285"/>
+<area shape="rect" id="node20" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="911,107,1037,133"/>
+<area shape="rect" id="node21" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="905,157,1043,184"/>
+<area shape="rect" id="node23" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="931,208,1017,235"/>
+<area shape="rect" id="node22" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1131,157,1247,184"/>
+<area shape="rect" id="node25" href="$classSearchSettingsForm.html#aca347a5cb83e415a89d21a51ca157457" title="SearchSettingsForm\l::updateStartDateLabel" alt="" coords="441,297,613,338"/>
+<area shape="rect" id="node27" href="$classSearchSettingsForm.html#ab17f37db097be54d26f5701b57a981b3" title="SearchSettingsForm\l::setUpdate" alt="" coords="451,427,604,469"/>
+<area shape="rect" id="node26" href="$classSettings.html#a7ef985718bf568dffe868dda6cf6a173" title="Settings::getDateFormat" alt="" coords="661,360,843,387"/>
+<area shape="rect" id="node32" href="$classLoadHistoryDialog.html#a9a3480cce0600b80364f3458b0175738" title="LoadHistoryDialog::\lgetFromDate" alt="" coords="454,362,601,403"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="Widget::cycleContacts" name="Widget::cycleContacts">
+<area shape="rect" id="node2" href="$classFriendListWidget.html#a64312ce037b676e257eb39d4bfd9e4cb" title="FriendListWidget::cycleContacts" alt="" coords="216,575,439,601"/>
+<area shape="rect" id="node3" href="$friendlistwidget_8cpp.html#aebc8015b1f38422016488c59c2a8a607" title="getActiveTimeFriend" alt="" coords="521,157,672,184"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1733,107,1891,133"/>
+<area shape="rect" id="node16" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="793,208,941,235"/>
+<area shape="rect" id="node17" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="511,651,682,677"/>
+<area shape="rect" id="node18" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title="getTimeBucket" alt="" coords="537,701,656,728"/>
+<area shape="rect" id="node19" href="$classCategoryWidget.html#a42fda0e29654665558bcca3a35e4d60a" title="CategoryWidget::cycleContacts" alt="" coords="487,389,707,416"/>
+<area shape="rect" id="node21" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1285,489,1459,530"/>
+<area shape="rect" id="node23" href="$classFriendListLayout.html#a7dc5044c075e05ce4a4e6b71a4342f5d" title="FriendListLayout::getLayout\lOnline" alt="" coords="768,506,965,547"/>
+<area shape="rect" id="node33" href="$classFriendListLayout.html#aded6c05bde86af4afd33a382dc10d98c" title="FriendListLayout::getLayout\lOffline" alt="" coords="768,441,965,482"/>
+<area shape="rect" id="node34" href="$classSettings.html#ad2bea7550d0fe0f24a392edbfbb5ba3b" title="Settings::getFriendCircleID" alt="" coords="501,752,692,779"/>
+<area shape="rect" id="node35" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title="CircleWidget::getFromID" alt="" coords="509,803,684,829"/>
+<area shape="rect" id="node36" href="$classGenericChatItemLayout.html#a6bca817679d5291c16e4985f0a4575e9" title="GenericChatItemLayout\l::indexOfSortedWidget" alt="" coords="780,875,953,917"/>
+<area shape="rect" id="node40" href="$classFriendListLayout.html#ae56f128999b7bca37a1cf639d5c80d74" title="FriendListLayout::indexOf\lFriendWidget" alt="" coords="506,905,687,946"/>
+<area shape="rect" id="node41" href="$classFriendListWidget.html#a367306f8564a714d29f584879642eaf1" title="FriendListWidget::nextLayout" alt="" coords="495,499,699,525"/>
+<area shape="rect" id="node15" href="$classSettings.html#ace104ff405d27243d7767ae6e6a10ecf" title="Settings::getFriendActivity" alt="" coords="773,157,961,184"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1951,107,2087,133"/>
+<area shape="rect" id="node6" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2142,31,2278,57"/>
+<area shape="rect" id="node8" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2135,132,2285,159"/>
+<area shape="rect" id="node7" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2381,5,2481,32"/>
+<area shape="rect" id="node9" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2333,259,2528,285"/>
+<area shape="rect" id="node10" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2576,233,2761,260"/>
+<area shape="rect" id="node11" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2347,56,2514,83"/>
+<area shape="rect" id="node12" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2346,107,2515,133"/>
+<area shape="rect" id="node13" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2375,157,2486,184"/>
+<area shape="rect" id="node14" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2631,157,2706,184"/>
+<area shape="rect" id="node20" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="782,375,951,417"/>
+<area shape="rect" id="node24" href="$classCategoryWidget.html#a18244f18d8cb90aa44a1fc658f02a65e" title="CategoryWidget::setExpanded" alt="" coords="759,259,974,285"/>
+<area shape="rect" id="node32" href="$classCategoryWidget.html#a28341412c53bc55ad4b15bb6d7071170" title="CategoryWidget::emitChatroom\lWidget" alt="" coords="755,310,979,351"/>
+<area shape="rect" id="node22" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="1047,405,1217,446"/>
+<area shape="rect" id="node25" href="$classCategoryWidget.html#a3a3fd497cdd9c5bb9e3a0b85ef950510" title="CategoryWidget::isExpanded" alt="" coords="1030,252,1234,279"/>
+<area shape="rect" id="node26" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1057,201,1207,228"/>
+<area shape="rect" id="node31" href="$classCategoryWidget.html#a4a0d3de71cd2bc2329711142919c196f" title="CategoryWidget::onExpand" alt="" coords="1035,303,1229,329"/>
+<area shape="rect" id="node27" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1289,208,1455,235"/>
+<area shape="rect" id="node29" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1513,157,1667,184"/>
+<area shape="rect" id="node28" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1507,208,1673,235"/>
+<area shape="rect" id="node30" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1721,157,1903,184"/>
+<area shape="rect" id="node37" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="1027,875,1237,917"/>
+<area shape="rect" id="node38" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1285,875,1459,917"/>
+<area shape="rect" id="node39" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="1508,883,1672,909"/>
+</map>

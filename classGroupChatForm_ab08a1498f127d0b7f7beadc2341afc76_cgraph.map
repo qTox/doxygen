@@ -1,0 +1,16 @@
+<map id="GroupChatForm::onCallClicked" name="GroupChatForm::onCallClicked">
+<area shape="rect" id="node2" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="629,95,725,121"/>
+<area shape="rect" id="node3" href="$classGroupChatForm.html#a6d0486c32ee02b1102c0cf3ce765120e" title="GroupChatForm::joinGroupCall" alt="" coords="275,145,491,172"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#afedc07935df8c22150c12ff5ea9563cf" title="GroupChatForm::leaveGroupCall" alt="" coords="269,44,497,71"/>
+<area shape="rect" id="node8" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title="ChatFormHeader::updateCall\lButtons" alt="" coords="279,363,487,405"/>
+<area shape="rect" id="node12" href="$classCoreAV.html#ad4b206bfedf18ef2aa625f216d51ff43" title="Returns the group calls input (microphone) state. " alt="" coords="587,197,767,238"/>
+<area shape="rect" id="node13" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title="ChatFormHeader::updateMute\lMicButton" alt="" coords="275,429,492,470"/>
+<area shape="rect" id="node14" href="$classCoreAV.html#a7e826ffb9008c2c1218ec81fc74bac86" title="Returns the group calls output (speaker) state. " alt="" coords="581,262,773,303"/>
+<area shape="rect" id="node15" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title="ChatFormHeader::updateMute\lVolButton" alt="" coords="275,298,492,339"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#ad6d6fdf66bd3e4bdc14b429a7e667ddc" title="Starts a call in an existing AV groupchat. " alt="" coords="597,145,757,172"/>
+<area shape="rect" id="node5" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="918,175,1019,201"/>
+<area shape="rect" id="node7" href="$classCoreAV.html#a334d196a321c5727ae8a0d41f3ed5243" title="Will not leave the group, just stop the call. " alt="" coords="591,44,763,71"/>
+<area shape="rect" id="node9" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="545,371,809,397"/>
+<area shape="rect" id="node10" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title="ChatFormHeader::retranslateUi" alt="" coords="857,396,1080,423"/>
+<area shape="rect" id="node11" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="913,345,1025,372"/>
+</map>

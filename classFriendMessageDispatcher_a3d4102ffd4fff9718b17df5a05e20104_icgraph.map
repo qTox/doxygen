@@ -1,0 +1,7 @@
+<map id="FriendMessageDispatcher::sendExtendedProcessedMessage" name="FriendMessageDispatcher::sendExtendedProcessedMessage">
+<area shape="rect" id="node2" href="$classFriendMessageDispatcher.html#a52313ac513ae38d1bae064875688cd9a" title="FriendMessageDispatcher\l::sendProcessedMessage" alt="" coords="297,71,484,112"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#ac3c6340d41fe54c3a934db244f115cac" title="FriendMessageDispatcher\l::sendMessage" alt="" coords="549,5,736,47"/>
+<area shape="rect" id="node4" href="$classFriendMessageDispatcher.html#a7e574fcc231a6d5d670ce9f787cca34f" title="FriendMessageDispatcher\l::sendExtendedMessage" alt="" coords="549,71,736,112"/>
+<area shape="rect" id="node5" href="$classFriendMessageDispatcher.html#ac5b79248d6d7328826b8705f4b467989" title="Handles status change for friend. " alt="" coords="532,136,753,177"/>
+<area shape="rect" id="node6" href="$classFriendMessageDispatcher.html#a759af89993bfcd1575568b14be24dc2b" title="FriendMessageDispatcher\l::FriendMessageDispatcher" alt="" coords="801,136,996,177"/>
+</map>

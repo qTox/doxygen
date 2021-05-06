@@ -1,0 +1,10 @@
+<map id="src/core/corefile.h" name="src/core/corefile.h">
+<area shape="rect" id="node2" href="$filetransferwidget_8cpp.html" title="src/chatlog/content\l/filetransferwidget.cpp" alt="" coords="5,80,168,121"/>
+<area shape="rect" id="node3" href="$core_8cpp.html" title="src/core/core.cpp" alt="" coords="193,87,325,114"/>
+<area shape="rect" id="node4" href="$corefile_8cpp.html" title="src/core/corefile.cpp" alt="" coords="349,87,499,114"/>
+<area shape="rect" id="node5" href="$avatarbroadcaster_8cpp.html" title="src/net/avatarbroadcaster.cpp" alt="" coords="523,87,738,114"/>
+<area shape="rect" id="node6" href="$profile_8cpp.html" title="src/persistence/profile.cpp" alt="" coords="763,87,952,114"/>
+<area shape="rect" id="node7" href="$settings_8cpp.html" title="src/persistence/settings.cpp" alt="" coords="977,87,1178,114"/>
+<area shape="rect" id="node8" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1202,87,1411,114"/>
+<area shape="rect" id="node9" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="1435,87,1594,114"/>
+</map>

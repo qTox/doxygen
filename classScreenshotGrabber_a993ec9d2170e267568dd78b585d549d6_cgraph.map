@@ -1,0 +1,17 @@
+<map id="ScreenshotGrabber::eventFilter" name="ScreenshotGrabber::eventFilter">
+<area shape="rect" id="node2" href="$classScreenshotGrabber.html#a581d4e1002c86ef8db9dacf06c3b8896" title="ScreenshotGrabber::\lhandleKeyPress" alt="" coords="208,115,363,156"/>
+<area shape="rect" id="node3" href="$classScreenshotGrabber.html#aece8fd3b707295e69ec27fd234a306f1" title="ScreenshotGrabber::\lreject" alt="" coords="613,5,768,47"/>
+<area shape="rect" id="node4" href="$classScreenshotGrabber.html#af61a2dd72ebdd57fa6ac0d8f753bdb7a" title="ScreenshotGrabber::\lrestoreHiddenWindows" alt="" coords="1076,61,1243,103"/>
+<area shape="rect" id="node5" href="$classScreenshotGrabber.html#a1a70beeb7a3d1772b224ebe6714f32a1" title="ScreenshotGrabber::\lacceptRegion" alt="" coords="837,123,991,164"/>
+<area shape="rect" id="node7" href="$classScreenshotGrabber.html#ae4147087444abbebf7789a1cb991b20a" title="ScreenshotGrabber::\lhideVisibleWindows" alt="" coords="411,173,565,215"/>
+<area shape="rect" id="node8" href="$classScreenshotGrabber.html#a1fc55f1bd10521095cb555ccfed65915" title="ScreenshotGrabber::\lreInit" alt="" coords="411,240,565,281"/>
+<area shape="rect" id="node6" href="$classScreenGrabberChooserRectItem.html#a814f941f9128e55f958474678d7b25f1" title="ScreenGrabberChooserRect\lItem::chosenRect" alt="" coords="1060,127,1259,168"/>
+<area shape="rect" id="node9" href="$classScreenshotGrabber.html#a76841e5ddd9f6e3b2dd1b98579e8dba3" title="ScreenshotGrabber::\lsetupScene" alt="" coords="613,240,768,281"/>
+<area shape="rect" id="node15" href="$classScreenshotGrabber.html#a9d95a4c820e5c1dbe83b2bdeb8eb7421" title="ScreenshotGrabber::\lshowGrabber" alt="" coords="613,364,768,405"/>
+<area shape="rect" id="node10" href="$classScreenshotGrabber.html#a2ed4940d9d4dde773674fb2ed82e9163" title="ScreenshotGrabber::\luseNothingSelectedTooltip" alt="" coords="1064,216,1255,257"/>
+<area shape="rect" id="node12" href="$classScreenshotGrabber.html#aa29e6332781237475f8896ae2744f81b" title="ScreenshotGrabber::\lchooseHelperTooltipText" alt="" coords="827,240,1001,281"/>
+<area shape="rect" id="node14" href="$classScreenGrabberOverlayItem.html#ae2a5894fbc3f3ca1cc906184017aeee1" title="ScreenGrabberOverlayItem\l::setChosenRect" alt="" coords="816,305,1012,347"/>
+<area shape="rect" id="node11" href="$classScreenshotGrabber.html#a28d8a9f0d5c8c28b32b719edc1249db7" title="ScreenshotGrabber::\ladjustTooltipPosition" alt="" coords="1307,281,1461,323"/>
+<area shape="rect" id="node13" href="$classScreenshotGrabber.html#ac3595d7eee6c6f09768e97251818084f" title="ScreenshotGrabber::\luseRegionSelectedTooltip" alt="" coords="1068,281,1251,323"/>
+<area shape="rect" id="node16" href="$classScreenshotGrabber.html#adca61b007fe86428c06597bffa3ded74" title="ScreenshotGrabber::\lgrabScreen" alt="" coords="837,423,991,464"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CameraDevice::open" name="CameraDevice::open">
+<area shape="rect" id="node2" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default. " alt="" coords="209,5,400,47"/>
+<area shape="rect" id="node3" href="$namespacev4l2.html#a07cc34a50812f9f0e7ae7afba4347eb5" title="v4l2::getPixelFormatString" alt="" coords="209,71,400,98"/>
+<area shape="rect" id="node4" href="$classCameraDevice.html#aba87c77c9bea25351eca0c32e67aa7f8" title="Opens the device again. Never fails. " alt="" coords="227,122,383,149"/>
+</map>

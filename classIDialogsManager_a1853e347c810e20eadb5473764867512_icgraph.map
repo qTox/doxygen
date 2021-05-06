@@ -1,0 +1,6 @@
+<map id="IDialogsManager::getFriendDialogs" name="IDialogsManager::getFriendDialogs">
+<area shape="rect" id="node2" href="$classFriendChatroom.html#ad520dbfc4bc4e032ba6a43f6d9c271ca" title="FriendChatroom::possible\lToOpenInNewWindow" alt="" coords="271,5,455,47"/>
+<area shape="rect" id="node3" href="$classFriendChatroom.html#a8c2f5e0e8fb1254305d5d2d89d4c9004" title="FriendChatroom::canBeRemoved\lFromWindow" alt="" coords="248,71,479,112"/>
+<area shape="rect" id="node4" href="$classFriendChatroom.html#a6b41976d8aeca5f91d03f45b3945dc5d" title="FriendChatroom::friendCan\lBeRemoved" alt="" coords="267,136,460,177"/>
+<area shape="rect" id="node5" href="$classFriendChatroom.html#a3e4bc34b9d517191a43d5ed7d5158db4" title="FriendChatroom::removeFriend\lFromDialogs" alt="" coords="254,201,473,243"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MessageProcessor::processOutgoingMessage" name="MessageProcessor::processOutgoingMessage">
+<area shape="rect" id="node2" href="$classFriendMessageDispatcher.html#ac3c6340d41fe54c3a934db244f115cac" title="FriendMessageDispatcher\l::sendMessage" alt="" coords="253,5,440,47"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#a7e574fcc231a6d5d670ce9f787cca34f" title="FriendMessageDispatcher\l::sendExtendedMessage" alt="" coords="253,71,440,112"/>
+<area shape="rect" id="node4" href="$classGroupMessageDispatcher.html#a99364f021757c18fd5d1f53e6ff7047a" title="Sends message to associated chat. " alt="" coords="253,136,440,177"/>
+<area shape="rect" id="node5" href="$classGroupMessageDispatcher.html#a4395ed919e586bc080ae9528dd3e98e4" title="Sends message to associated chat ensuring that extensions are available. " alt="" coords="253,201,440,243"/>
+</map>

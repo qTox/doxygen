@@ -1,0 +1,24 @@
+<map id="ChatForm::setFriendTyping" name="ChatForm::setFriendTyping">
+<area shape="rect" id="node2" href="$classChatLog.html#aba9d4e3e20a77abe633522af1bd2dc01" title="ChatLog::setTypingNotification\lVisible" alt="" coords="545,5,760,47"/>
+<area shape="rect" id="node7" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="275,66,466,93"/>
+<area shape="rect" id="node8" href="$classChatLog.html#ab713e042ac8b05f45f44de3ce713af8e" title="ChatLog::setTypingNotificationName" alt="" coords="244,121,497,147"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a018a145f63e7361dd9ef3a81d6ffc649" title="ChatLog::updateTypingNotification" alt="" coords="808,67,1047,94"/>
+<area shape="rect" id="node4" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="1141,18,1267,45"/>
+<area shape="rect" id="node6" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1120,69,1288,95"/>
+<area shape="rect" id="node5" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title="ChatLine::updateBBox" alt="" coords="1361,18,1525,45"/>
+<area shape="rect" id="node9" href="$classChatLog.html#ac85f9c86def47edb6aa443ba70d07a33" title="ChatLog::setTypingNotification" alt="" coords="545,122,760,149"/>
+<area shape="rect" id="node23" href="$classText.html#a4803c3c61eec3cb0e0ce80f0b04f394e" title="Text::setText" alt="" coords="603,173,703,199"/>
+<area shape="rect" id="node10" href="$classChatMessage.html#a683dceaeb400acf609587f5dcc28fbdc" title="ChatMessage::createTyping\lNotification" alt="" coords="829,119,1026,160"/>
+<area shape="rect" id="node11" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1125,123,1283,150"/>
+<area shape="rect" id="node22" href="$classSettings.html#ab02ac9603db46e63aea67a7be46ceaf0" title="Settings::getChatMessageFont" alt="" coords="1095,174,1313,201"/>
+<area shape="rect" id="node12" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1375,123,1511,150"/>
+<area shape="rect" id="node13" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1581,73,1717,99"/>
+<area shape="rect" id="node15" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1573,174,1724,201"/>
+<area shape="rect" id="node14" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1819,47,1919,74"/>
+<area shape="rect" id="node16" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1772,98,1967,125"/>
+<area shape="rect" id="node17" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2015,123,2200,150"/>
+<area shape="rect" id="node18" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1786,199,1953,226"/>
+<area shape="rect" id="node19" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1785,250,1954,277"/>
+<area shape="rect" id="node20" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1814,301,1925,327"/>
+<area shape="rect" id="node21" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2070,301,2145,327"/>
+</map>

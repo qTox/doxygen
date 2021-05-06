@@ -1,0 +1,44 @@
+<map id="GenericChatForm::clearChatArea" name="GenericChatForm::clearChatArea">
+<area shape="rect" id="node2" href="$classChatLog.html#a6d0cb376da5368a4c04f138f2dd111f4" title="ChatLog::clear" alt="" coords="597,168,712,195"/>
+<area shape="rect" id="node24" href="$classGenericChatForm.html#ad97879f88fff096c93f26a6988366cc5" title="GenericChatForm::addSystem\lInfoMessage" alt="" coords="287,365,501,406"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ae6420d576c2509b358e17f3b91ef629b" title="ChatLog::clearSelection" alt="" coords="831,99,1004,126"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ae1e7329c5c63c8c3fc9a18499a2c2bad" title="ChatLog::isActiveFileTransfer" alt="" coords="816,168,1019,195"/>
+<area shape="rect" id="node8" href="$classChatLog.html#ac35868b9fc96b5e49ad8da68898e3465" title="ChatLog::insertChatlineAt\lBottom" alt="" coords="825,365,1010,406"/>
+<area shape="rect" id="node15" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="1375,179,1569,206"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="1075,63,1319,90"/>
+<area shape="rect" id="node6" href="$classChatLineContentProxy.html#ae6f1a5512220435d1a88104dd026cf3e" title="ChatLineContentProxy\l::getWidget" alt="" coords="1115,114,1279,156"/>
+<area shape="rect" id="node7" href="$classFileTransferWidget.html#ae7622644bf9b0bc9b680ffd66a97b579" title="FileTransferWidget\l::isActive" alt="" coords="1129,180,1264,221"/>
+<area shape="rect" id="node9" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="1110,398,1283,424"/>
+<area shape="rect" id="node10" href="$classChatLog.html#a31bcdfe5379ae9e55bb85c6288f71182" title="ChatLog::layout" alt="" coords="1135,499,1258,526"/>
+<area shape="rect" id="node14" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1880,448,2048,475"/>
+<area shape="rect" id="node17" href="$classChatLog.html#ab8a248c86e9dbcf1f11a7ee2f6610d9f" title="ChatLog::scrollToBottom" alt="" coords="1108,246,1285,272"/>
+<area shape="rect" id="node18" href="$classChatLog.html#a5e7b6f5ce783c80bac7e63eb741c3910" title="ChatLog::checkVisibility" alt="" coords="1111,347,1282,374"/>
+<area shape="rect" id="node23" href="$classChatLog.html#a018a145f63e7361dd9ef3a81d6ffc649" title="ChatLog::updateTypingNotification" alt="" coords="1077,448,1316,475"/>
+<area shape="rect" id="node11" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="1409,499,1535,526"/>
+<area shape="rect" id="node13" href="$classChatLine.html#a100422ac7d8adf7b0aa5f882ceccff3d" title="ChatLine::sceneBoundingRect" alt="" coords="1367,550,1577,576"/>
+<area shape="rect" id="node12" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title="ChatLine::updateBBox" alt="" coords="1647,499,1811,526"/>
+<area shape="rect" id="node16" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="1625,288,1832,315"/>
+<area shape="rect" id="node19" href="$classChatLog.html#ac10c7f812189dae530d9f0db881d112b" title="ChatLog::getVisibleRect" alt="" coords="1386,280,1558,307"/>
+<area shape="rect" id="node20" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title="ChatLine::lessThanBSRect\lBottom" alt="" coords="1379,332,1565,373"/>
+<area shape="rect" id="node21" href="$classChatLine.html#a080a3c460af527b9e4192c4783b16cba" title="ChatLine::lessThanBSRectTop" alt="" coords="1368,398,1576,424"/>
+<area shape="rect" id="node22" href="$classChatLine.html#a5612ab90899d659fd2b77d470bdb5975" title="ChatLine::lessThanRowIndex" alt="" coords="1372,230,1572,256"/>
+<area shape="rect" id="node25" href="$classGenericChatForm.html#a52d18d25bdf4347573622cebb618e2d1" title="GenericChatForm::insertChat\lMessage" alt="" coords="551,365,759,406"/>
+<area shape="rect" id="node26" href="$classChatMessage.html#ac9742b80694ad6f91fba98fcb2bcff08" title="ChatMessage::createChatInfo\lMessage" alt="" coords="549,618,760,660"/>
+<area shape="rect" id="node27" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="842,702,993,728"/>
+<area shape="rect" id="node31" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1649,651,1808,678"/>
+<area shape="rect" id="node43" href="$classSettings.html#ab02ac9603db46e63aea67a7be46ceaf0" title="Settings::getChatMessageFont" alt="" coords="808,600,1027,627"/>
+<area shape="rect" id="node28" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1113,752,1280,779"/>
+<area shape="rect" id="node30" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1395,702,1549,728"/>
+<area shape="rect" id="node29" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1389,752,1555,779"/>
+<area shape="rect" id="node42" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1638,702,1819,728"/>
+<area shape="rect" id="node32" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1896,651,2032,678"/>
+<area shape="rect" id="node33" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2103,575,2239,602"/>
+<area shape="rect" id="node35" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2096,676,2247,703"/>
+<area shape="rect" id="node34" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2342,550,2442,576"/>
+<area shape="rect" id="node36" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2295,752,2489,779"/>
+<area shape="rect" id="node37" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2537,727,2723,754"/>
+<area shape="rect" id="node38" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2309,803,2475,830"/>
+<area shape="rect" id="node39" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2307,600,2477,627"/>
+<area shape="rect" id="node40" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2337,651,2447,678"/>
+<area shape="rect" id="node41" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2593,651,2667,678"/>
+</map>

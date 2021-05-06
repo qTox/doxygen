@@ -1,0 +1,8 @@
+<map id="FriendMessageDispatcher::sendExtendedProcessedMessage" name="FriendMessageDispatcher::sendExtendedProcessedMessage">
+<area shape="rect" id="node2" href="$classFriend.html#acc47c7c2d0c9ebae8be637a06440e026" title="Friend::getSupportedExtensions" alt="" coords="297,5,523,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="360,56,460,83"/>
+<area shape="rect" id="node4" href="$classICoreExtPacketAllocator.html#a46164040e73adeb53c56c5562c18c369" title="Gets a new packet builder for friend with core friend id friendId. " alt="" coords="323,107,497,149"/>
+<area shape="rect" id="node5" href="$classOfflineMsgEngine.html#a1967b8940f8fc7ab4f52b9461ef29976" title="OfflineMsgEngine::addSent\lExtendedMessage" alt="" coords="313,173,507,214"/>
+<area shape="rect" id="node7" href="$classOfflineMsgEngine.html#ac9e1ea7985d1de02d21cbb70497a502b" title="Add a message which has been saved to history, but not sent yet to the peer. " alt="" coords="305,238,515,279"/>
+<area shape="rect" id="node6" href="$classOfflineMsgEngine_1_1ReceiptResolver.html#acfe8e72e34a9165682389130fb394f96" title="OfflineMsgEngine::Receipt\lResolver::notifyMessageSent" alt="" coords="571,173,776,214"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="FilesForm::FilesForm" name="FilesForm::FilesForm">
+<area shape="rect" id="node2" href="$classFilesForm.html#a23dd58a4876c0d0d0c930eedfabb9db7" title="FilesForm::onFileActivated" alt="" coords="206,31,393,57"/>
+<area shape="rect" id="node7" href="$classFilesForm.html#a51b41b51c41dda677a8dff73fd31e0f5" title="FilesForm::retranslateUi" alt="" coords="213,81,386,108"/>
+<area shape="rect" id="node8" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="204,132,395,159"/>
+<area shape="rect" id="node3" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title="Widget::confirmExecutableOpen" alt="" coords="443,31,668,57"/>
+<area shape="rect" id="node4" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons. " alt="" coords="716,31,848,57"/>
+<area shape="rect" id="node5" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="901,5,1029,32"/>
+<area shape="rect" id="node6" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title="GUI::_askQuestion" alt="" coords="896,56,1035,83"/>
+</map>

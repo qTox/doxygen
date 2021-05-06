@@ -1,0 +1,6 @@
+<map id="GenericChatForm::loadHistoryFrom" name="GenericChatForm::loadHistoryFrom">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#aa801732df208023a960f1909a3c7855e" title="GenericChatForm::loadHistory load history. " alt="" coords="300,8,515,35"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#ab2633d98c136c06a0c82ca4ec467ae59" title="GenericChatForm::loadHistoryUpper load history after scrolling chatlog after last &quot;messages&quot; item..." alt="" coords="573,57,787,98"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#ab0cdd3b351bfb914513081c59ed8a3f6" title="GenericChatForm::onLoadHistory" alt="" coords="563,5,797,32"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="845,27,1036,69"/>
+</map>

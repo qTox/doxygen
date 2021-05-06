@@ -1,0 +1,5 @@
+<map id="ChatLog::forceRelayout" name="ChatLog::forceRelayout">
+<area shape="rect" id="node2" href="$classChatLog.html#add5b362b3a0767c8d04a59beafd5c626" title="ChatLog::startResizeWorker" alt="" coords="223,5,419,32"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="234,56,407,83"/>
+<area shape="rect" id="node3" href="$classChatLineContent.html#a0a075c41c4f2f6d494fe454d256ed6ce" title="ChatLineContent::getText" alt="" coords="467,5,649,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ChatLog::scrollContentsBy" name="ChatLog::scrollContentsBy">
+<area shape="rect" id="node2" href="$classChatLog.html#a5e7b6f5ce783c80bac7e63eb741c3910" title="ChatLog::checkVisibility" alt="" coords="244,93,415,120"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ac10c7f812189dae530d9f0db881d112b" title="ChatLog::getVisibleRect" alt="" coords="481,5,653,32"/>
+<area shape="rect" id="node4" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title="ChatLine::lessThanBSRect\lBottom" alt="" coords="473,57,660,98"/>
+<area shape="rect" id="node5" href="$classChatLine.html#a080a3c460af527b9e4192c4783b16cba" title="ChatLine::lessThanBSRectTop" alt="" coords="463,123,671,149"/>
+<area shape="rect" id="node6" href="$classChatLine.html#a5612ab90899d659fd2b77d470bdb5975" title="ChatLine::lessThanRowIndex" alt="" coords="467,173,667,200"/>
+</map>

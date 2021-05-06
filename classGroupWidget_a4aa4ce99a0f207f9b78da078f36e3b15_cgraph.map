@@ -1,0 +1,7 @@
+<map id="GroupWidget::mouseMoveEvent" name="GroupWidget::mouseMoveEvent">
+<area shape="rect" id="node2" href="$classGroupWidget.html#ab23060aa61e4511852b7912633e7cba5" title="GroupWidget::getGroup" alt="" coords="281,5,453,32"/>
+<area shape="rect" id="node3" href="$classGroup.html#aa7245289990bf9292e827038ff192e7a" title="Group::getName" alt="" coords="303,56,432,83"/>
+<area shape="rect" id="node4" href="$classGroup.html#ad1aec7a34d26978e11f3166d339735fa" title="Group::getPersistentId" alt="" coords="285,107,450,133"/>
+<area shape="rect" id="node5" href="$classContactId.html#a2ef2beeefa31a8bc2dd393c83b66bcb8" title="Get a copy of the id. " alt="" coords="280,157,455,184"/>
+<area shape="rect" id="node6" href="$classMaskablePixmapWidget.html#a221a11b212b1d85910fc3fa88cef4a20" title="MaskablePixmapWidget\l::getPixmap" alt="" coords="281,209,453,250"/>
+</map>

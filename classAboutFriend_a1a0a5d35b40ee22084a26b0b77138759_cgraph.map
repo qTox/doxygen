@@ -1,0 +1,5 @@
+<map id="AboutFriend::setAutoGroupInvite" name="AboutFriend::setAutoGroupInvite">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="270,5,418,32"/>
+<area shape="rect" id="node3" href="$classIFriendSettings.html#a6fe9946ce72ff628328c8b980fb63549" title="IFriendSettings::setAuto\lGroupInvite" alt="" coords="257,57,431,98"/>
+<area shape="rect" id="node4" href="$classIFriendSettings.html#a6c65155169e5dcd349cc3ae3490bfec6" title="IFriendSettings::saveFriend\lSettings" alt="" coords="248,122,440,163"/>
+</map>

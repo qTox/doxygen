@@ -1,0 +1,28 @@
+<map id="src/model/notificationgenerator.h" name="src/model/notificationgenerator.h">
+<area shape="rect" id="node2" href="$notificationdata_8h.html" title="notificationdata.h" alt="" coords="5,229,139,256"/>
+<area shape="rect" id="node5" href="$friend_8h.html" title="friend.h" alt="" coords="1122,80,1193,107"/>
+<area shape="rect" id="node33" href="$group_8h.html" title="group.h" alt="" coords="2137,155,2207,181"/>
+<area shape="rect" id="node35" href="$inotificationsettings_8h.html" title="src/persistence/inotificationsettings.h" alt="" coords="1856,80,2115,107"/>
+<area shape="rect" id="node36" href="$profile_8h.html" title="src/persistence/profile.h" alt="" coords="2573,80,2747,107"/>
+<area shape="rect" id="node6" href="$contact_8h.html" title="contact.h" alt="" coords="2052,229,2135,256"/>
+<area shape="rect" id="node7" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="1802,468,1950,495"/>
+<area shape="rect" id="node13" href="$core_8h.html" title="src/core/core.h" alt="" coords="1099,155,1216,181"/>
+<area shape="rect" id="node23" href="$toxid_8h.html" title="toxid.h" alt="" coords="1267,304,1333,331"/>
+<area shape="rect" id="node25" href="$status_8h.html" title="src/model/status.h" alt="" coords="421,229,563,256"/>
+<area shape="rect" id="node31" href="$extension_8h.html" title="src/core/extension.h" alt="" coords="1017,386,1167,413"/>
+<area shape="rect" id="node14" href="$groupid_8h.html" title="groupid.h" alt="" coords="1632,304,1715,331"/>
+<area shape="rect" id="node15" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="736,304,939,331"/>
+<area shape="rect" id="node16" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="784,386,891,413"/>
+<area shape="rect" id="node18" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="406,304,610,331"/>
+<area shape="rect" id="node19" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="1689,229,1825,256"/>
+<area shape="rect" id="node20" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="1828,386,1897,413"/>
+<area shape="rect" id="node22" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="1492,229,1615,256"/>
+<area shape="rect" id="node24" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="1452,468,1524,495"/>
+<area shape="rect" id="node37" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="2176,468,2333,495"/>
+<area shape="rect" id="node38" href="$avatarbroadcaster_8h.html" title="src/net/avatarbroadcaster.h" alt="" coords="2425,155,2623,181"/>
+<area shape="rect" id="node39" href="$history_8h.html" title="src/persistence/history.h" alt="" coords="3007,304,3183,331"/>
+<area shape="rect" id="node48" href="$bootstrapnodeupdater_8h.html" title="src/net/bootstrapnodeupdater.h" alt="" coords="2747,155,2973,181"/>
+<area shape="rect" id="node45" href="$brokenmessagereason_8h.html" title="src/model/brokenmessagereason.h" alt="" coords="2805,386,3053,413"/>
+<area shape="rect" id="node46" href="$rawdatabase_8h.html" title="src/persistence/db\l/rawdatabase.h" alt="" coords="2288,379,2427,420"/>
+<area shape="rect" id="node47" href="$searchtypes_8h.html" title="src/widget/searchtypes.h" alt="" coords="3078,386,3258,413"/>
+</map>

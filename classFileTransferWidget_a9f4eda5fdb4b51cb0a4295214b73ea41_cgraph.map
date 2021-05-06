@@ -1,0 +1,11 @@
+<map id="FileTransferWidget::acceptTransfer" name="FileTransferWidget::acceptTransfer">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#aa40afca50a139725273ba34bca4c1ccc" title="Dangerous way to find out if a path is writable. " alt="" coords="207,5,341,47"/>
+<area shape="rect" id="node3" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="207,71,341,98"/>
+<area shape="rect" id="node10" href="$classCoreFile.html#a1df491ab7c453d59aa746e41ef9018ab" title="CoreFile::acceptFileRecv\lRequest" alt="" coords="188,123,360,164"/>
+<area shape="rect" id="node4" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="415,46,543,73"/>
+<area shape="rect" id="node5" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="408,97,551,123"/>
+<area shape="rect" id="node6" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="599,97,745,123"/>
+<area shape="rect" id="node7" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="793,97,960,123"/>
+<area shape="rect" id="node8" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1008,97,1153,123"/>
+<area shape="rect" id="node9" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1201,97,1312,123"/>
+</map>

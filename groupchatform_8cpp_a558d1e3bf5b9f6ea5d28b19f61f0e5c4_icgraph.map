@@ -1,0 +1,7 @@
+<map id="editName" name="editName">
+<area shape="rect" id="node2" href="$classGroupChatForm.html#a35eca4c3dc94f06b21c8ed39de333f3f" title="Updates user names&#39; labels at the top of group chat. " alt="" coords="139,47,345,88"/>
+<area shape="rect" id="node3" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="657,54,892,81"/>
+<area shape="rect" id="node4" href="$classGroupChatForm.html#a84c9cd80436db81c1ae2dfdffcc2d466" title="GroupChatForm::onUserJoined" alt="" coords="393,29,609,55"/>
+<area shape="rect" id="node5" href="$classGroupChatForm.html#ae2c153da2ca744ce9a38ba817914ac35" title="GroupChatForm::onUserLeft" alt="" coords="400,79,603,106"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#a52cbd2a8e7738e2ba6d159bd3b0af40d" title="GroupChatForm::onPeerName\lChanged" alt="" coords="393,131,609,172"/>
+</map>

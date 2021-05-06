@@ -1,0 +1,17 @@
+<map id="FriendChatroom::disableAutoAccept" name="FriendChatroom::disableAutoAccept">
+<area shape="rect" id="node2" href="$classFriendChatroom.html#acc19bc7435901c144608b6417bafc357" title="FriendChatroom::setAutoAcceptDir" alt="" coords="260,109,504,136"/>
+<area shape="rect" id="node3" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="575,59,723,85"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="570,109,729,136"/>
+<area shape="rect" id="node15" href="$classSettings.html#afc3eac55a08a8379efb8a90cad13e757" title="Settings::setAutoAcceptDir" alt="" coords="552,161,747,188"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="823,107,959,133"/>
+<area shape="rect" id="node6" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1043,31,1179,57"/>
+<area shape="rect" id="node8" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1036,132,1187,159"/>
+<area shape="rect" id="node7" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1282,5,1382,32"/>
+<area shape="rect" id="node9" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1235,56,1429,83"/>
+<area shape="rect" id="node10" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1477,81,1663,108"/>
+<area shape="rect" id="node11" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1249,157,1415,184"/>
+<area shape="rect" id="node12" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1247,208,1417,235"/>
+<area shape="rect" id="node13" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1277,259,1387,285"/>
+<area shape="rect" id="node14" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1533,259,1607,285"/>
+<area shape="rect" id="node16" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="795,158,988,199"/>
+</map>

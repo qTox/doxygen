@@ -1,0 +1,5 @@
+<map id="IDialogsManager::getGroupDialogs" name="IDialogsManager::getGroupDialogs">
+<area shape="rect" id="node2" href="$classGroupChatroom.html#a883ac07ed9ddd4a38a655e86f4fa7643" title="GroupChatroom::possibleTo\lOpenInNewWindow" alt="" coords="266,5,465,47"/>
+<area shape="rect" id="node3" href="$classGroupChatroom.html#a401381a4c0b128379f44228f0e1eb2b2" title="GroupChatroom::canBeRemoved\lFromWindow" alt="" coords="249,71,481,112"/>
+<area shape="rect" id="node4" href="$classGroupChatroom.html#a1bf350b2d43e38d8e23433137466800c" title="GroupChatroom::removeGroup\lFromDialogs" alt="" coords="255,136,476,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Profile::getAllProfileNames" name="Profile::getAllProfileNames">
+<area shape="rect" id="node2" href="$classLoginScreen.html#a0f4294515145af8429170543f0b0b57f" title="Resets the UI, clears all fields. " alt="" coords="244,5,387,32"/>
+<area shape="rect" id="node3" href="$classLoginScreen.html#ad9c62f243a271fb067dc15195500ec21" title="LoginScreen::LoginScreen" alt="" coords="689,5,877,32"/>
+<area shape="rect" id="node4" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title="LoginScreen::onImportProfile" alt="" coords="435,31,641,57"/>
+</map>

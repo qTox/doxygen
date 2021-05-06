@@ -1,0 +1,5 @@
+<map id="ChatLineContent::setIndex" name="ChatLineContent::setIndex">
+<area shape="rect" id="node2" href="$classChatLine.html#a51f7206c23d1b6a6cc9543b1821ebdf8" title="ChatLine::replaceContent" alt="" coords="244,31,428,57"/>
+<area shape="rect" id="node3" href="$classChatMessage.html#ad3590b1a5996cb0766ce72d8d8d55b47" title="ChatMessage::markAsDelivered" alt="" coords="476,5,703,32"/>
+<area shape="rect" id="node4" href="$classChatMessage.html#af09c107c2f1ae7bab057f420b5473e3c" title="ChatMessage::markAsBroken" alt="" coords="484,56,695,83"/>
+</map>

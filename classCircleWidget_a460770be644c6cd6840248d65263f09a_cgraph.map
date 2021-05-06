@@ -1,0 +1,22 @@
+<map id="CircleWidget::updateID" name="CircleWidget::updateID">
+<area shape="rect" id="node2" href="$classCategoryWidget.html#a5170922a51e1f5f69eabef10b05c897a" title="CategoryWidget::friendOnline\lLayout" alt="" coords="220,279,427,321"/>
+<area shape="rect" id="node5" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="238,228,409,255"/>
+<area shape="rect" id="node6" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="244,177,403,204"/>
+<area shape="rect" id="node17" href="$classSettings.html#a166c57a193cb7b627a6a5ff01763de6e" title="Settings::setFriendCircleID" alt="" coords="229,345,418,372"/>
+<area shape="rect" id="node19" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="249,396,397,423"/>
+<area shape="rect" id="node20" href="$classCategoryWidget.html#a38cb0d57ca345026093eb18f266501c1" title="CategoryWidget::friendOffline\lLayout" alt="" coords="220,447,427,489"/>
+<area shape="rect" id="node3" href="$classFriendListLayout.html#a7dc5044c075e05ce4a4e6b71a4342f5d" title="FriendListLayout::getLayout\lOnline" alt="" coords="475,279,672,321"/>
+<area shape="rect" id="node4" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="720,359,893,401"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="505,177,641,204"/>
+<area shape="rect" id="node8" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="739,224,875,251"/>
+<area shape="rect" id="node10" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="731,132,882,159"/>
+<area shape="rect" id="node9" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="989,259,1089,285"/>
+<area shape="rect" id="node11" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="941,56,1136,83"/>
+<area shape="rect" id="node12" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1184,81,1369,108"/>
+<area shape="rect" id="node13" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="955,157,1122,184"/>
+<area shape="rect" id="node14" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="954,208,1123,235"/>
+<area shape="rect" id="node15" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="983,5,1094,32"/>
+<area shape="rect" id="node16" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1239,5,1314,32"/>
+<area shape="rect" id="node18" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="477,345,670,386"/>
+<area shape="rect" id="node21" href="$classFriendListLayout.html#aded6c05bde86af4afd33a382dc10d98c" title="FriendListLayout::getLayout\lOffline" alt="" coords="475,429,672,470"/>
+</map>

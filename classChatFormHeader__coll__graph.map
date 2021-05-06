@@ -1,0 +1,5 @@
+<map id="ChatFormHeader" name="ChatFormHeader">
+<area shape="rect" id="node3" href="$classCroppingLabel.html" title="{CroppingLabel\n|&#45; origText\l&#45; textEdit\l&#45; blockPaintEvents\l&#45; editable\l&#45; elideMode\l|+ CroppingLabel()\l+ editBegin()\l+ setEditable()\l+ setElideMode()\l+ fullText()\l+ setText()\l+ setPlaceholderText()\l+ minimizeMaximumWidth()\l# paintEvent()\l# setElidedText()\l# hideTextEdit()\l# showTextEdit()\l# resizeEvent()\l# sizeHint()\l# minimumSizeHint()\l# mouseReleaseEvent()\l&#45; editingFinished()\l}" alt="" coords="104,132,307,503"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html" title="{MaskablePixmapWidget\n|&#45; pixmap\l&#45; mask\l&#45; unscaled\l&#45; renderTarget\l&#45; maskName\l&#45; clickable\l|+ MaskablePixmapWidget()\l+ ~MaskablePixmapWidget()\l+ autopickBackground()\l+ setClickable()\l+ setPixmap()\l+ getPixmap()\l+ setSize()\l# mousePressEvent()\l&#45; updatePixmap()\l}" alt="" coords="331,183,539,451"/>
+<area shape="rect" id="node6" href="$classExtensionStatus.html" title="{ExtensionStatus\n||+ ExtensionStatus()\l+ onExtensionSetUpdate()\l}" alt="" coords="563,271,757,363"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Group::setEventFlag" name="Group::setEventFlag">
+<area shape="rect" id="node2" href="$classGroupChatroom.html#ad27f2f790fda695eab884a0e753b86a9" title="GroupChatroom::resetEvent\lFlags" alt="" coords="215,5,417,47"/>
+<area shape="rect" id="node3" href="$classWidget.html#a81bb9f8d7c59e5437912b13f262bde21" title="Widget::newGroupMessageAlert" alt="" coords="204,71,428,98"/>
+<area shape="rect" id="node4" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title="Widget::createGroup" alt="" coords="476,71,629,98"/>
+<area shape="rect" id="node5" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="677,46,897,73"/>
+<area shape="rect" id="node13" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="704,97,871,123"/>
+<area shape="rect" id="node6" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="945,71,1121,98"/>
+<area shape="rect" id="node7" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1169,71,1324,98"/>
+<area shape="rect" id="node8" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1372,46,1472,73"/>
+<area shape="rect" id="node9" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1520,46,1719,73"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1969,9,2024,35"/>
+<area shape="rect" id="node11" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1767,46,1903,73"/>
+<area shape="rect" id="node12" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1951,85,2043,111"/>
+</map>

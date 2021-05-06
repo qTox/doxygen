@@ -1,0 +1,51 @@
+<map id="Style::getColor" name="Style::getColor">
+<area shape="rect" id="node2" href="$classChatLog.html#a69df3830d761c7522ac041ee977dc74c" title="ChatLog::ChatLog" alt="" coords="1294,68,1430,95"/>
+<area shape="rect" id="node3" href="$classChatLog.html#aabd7c69770d0eea089ac80ca242337b3" title="ChatLog::reloadTheme" alt="" coords="1005,93,1171,120"/>
+<area shape="rect" id="node4" href="$classChatMessage.html#a75c9fc019f57227add289839060a02c8" title="ChatMessage::createChatMessage" alt="" coords="384,1376,629,1403"/>
+<area shape="rect" id="node6" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="1905,1278,2047,1319"/>
+<area shape="rect" id="node7" href="$classFileTransferWidget.html#a3815efa04e818d624357a53367c3cf00" title="FileTransferWidget\l::setupButtons" alt="" coords="1521,1439,1656,1481"/>
+<area shape="rect" id="node11" href="$classFileTransferWidget.html#a79db3260e7f12557b419f6f5c5c8de1a" title="FileTransferWidget\l::updateBackgroundColor" alt="" coords="1270,1311,1454,1353"/>
+<area shape="rect" id="node14" href="$classText.html#a911733488b8c581f742513e91864f8ca" title="Text::paint" alt="" coords="209,1531,296,1557"/>
+<area shape="rect" id="node15" href="$classText.html#ae3cb450df2427a238fa6086bc3ec7be1" title="Text::selectText" alt="" coords="193,1581,312,1608"/>
+<area shape="rect" id="node16" href="$classText.html#a239e78fb251f32bad499da0d0524c927" title="Text::textColor" alt="" coords="196,1316,309,1343"/>
+<area shape="rect" id="node19" href="$classAboutForm.html#a7da90ce714150c7c11fd341641788db1" title="Creates hyperlink with specific style. " alt="" coords="169,1632,336,1659"/>
+<area shape="rect" id="node24" href="$classStyle.html#af87f097c08c1b74b8b0f54d77986e446" title="Set theme color. " alt="" coords="173,1683,332,1709"/>
+<area shape="rect" id="node25" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="183,780,322,807"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#a2d556cb8a0a1d103e114b8a4d238b137" title="Searches for name (possibly alias) of someone with specified public key among all of your friends or ..." alt="" coords="994,1363,1182,1405"/>
+<area shape="rect" id="node8" href="$classFileTransferWidget.html#a70ea2ed928e6b4cd22645d5c7097070c" title="FileTransferWidget\l::updateWidget" alt="" coords="1712,1343,1847,1385"/>
+<area shape="rect" id="node9" href="$classFileTransferWidget.html#adb65516d9e96c1ebe519ed1459e88687" title="FileTransferWidget\l::onFileTransferUpdate" alt="" coords="1895,1343,2057,1385"/>
+<area shape="rect" id="node10" href="$classGenericChatForm.html#ac3ba681258ac9cdb657576dff3faa3a4" title="GenericChatForm::renderFile" alt="" coords="2105,1351,2309,1377"/>
+<area shape="rect" id="node12" href="$classFileTransferWidget.html#a5b761e2be24d890d3407ac6a570a5711" title="FileTransferWidget\l::reloadTheme" alt="" coords="1712,1278,1847,1319"/>
+<area shape="rect" id="node13" href="$classFileTransferWidget.html#a074cb8d5064a836a6f72e9b465fa1747" title="FileTransferWidget\l::updateWidgetColor" alt="" coords="1513,1341,1664,1382"/>
+<area shape="rect" id="node17" href="$classText.html#a64218e3e0b05afa6cfd67e3a3c7c2182" title="Text::Text" alt="" coords="467,1265,547,1292"/>
+<area shape="rect" id="node18" href="$classText.html#a12d3f36818156a98088b3b071bfdc7d0" title="Text::reloadTheme" alt="" coords="1019,1312,1157,1339"/>
+<area shape="rect" id="node20" href="$classAboutForm.html#a3dac3b4101447503071fea748e6cf430" title="Update versions and links. " alt="" coords="405,1632,608,1659"/>
+<area shape="rect" id="node21" href="$classAboutForm.html#a1e6443305bd2fb991836489773016013" title="Constructor of AboutForm. " alt="" coords="1002,1657,1174,1684"/>
+<area shape="rect" id="node22" href="$classAboutForm.html#a334f2d70ed54caad34e6352452233d2d" title="AboutForm::reloadTheme" alt="" coords="705,1581,890,1608"/>
+<area shape="rect" id="node23" href="$classAboutForm.html#a26d3d1cd9af95d94046b7ea0092c8845" title="Retranslate all elements in the form. " alt="" coords="705,1683,889,1709"/>
+<area shape="rect" id="node26" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="453,780,561,807"/>
+<area shape="rect" id="node48" href="$classStyle.html#a0b09ebd79204ab5a4f8fc50789914c21" title="Style::setThemeColor" alt="" coords="427,729,586,756"/>
+<area shape="rect" id="node27" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="722,780,873,807"/>
+<area shape="rect" id="node28" href="$classFileTransferWidget.html#a543a2ddd1ff11de15c76ddd97d0556a4" title="FileTransferWidget\l::setBackgroundColor" alt="" coords="1009,1246,1167,1287"/>
+<area shape="rect" id="node29" href="$classNetCamView.html#a15a69417f13255d39698367fdcbe8895" title="NetCamView::NetCamView" alt="" coords="1265,835,1459,861"/>
+<area shape="rect" id="node30" href="$classNetCamView.html#aaec3c57a762d7b0b826dd64b0d504e80" title="NetCamView::createButton" alt="" coords="991,860,1185,887"/>
+<area shape="rect" id="node31" href="$classNetCamView.html#aab416d538fd2c444bb0f5e8b65088cf6" title="NetCamView::toggleButton\lState" alt="" coords="991,911,1185,953"/>
+<area shape="rect" id="node32" href="$classNetCamView.html#a60fbe9e6eb0870286728fcff43068f6b" title="NetCamView::updateButton\lState" alt="" coords="989,977,1187,1018"/>
+<area shape="rect" id="node33" href="$classAboutFriendForm.html#a96d3ceadd9bb2e1d9acf198efa320e91" title="AboutFriendForm::reloadTheme" alt="" coords="977,1043,1199,1069"/>
+<area shape="rect" id="node34" href="$classChatFormHeader.html#a5f4e7cde1a1810e5e5e79aaafba3958b" title="ChatFormHeader::reloadTheme" alt="" coords="976,1093,1200,1120"/>
+<area shape="rect" id="node35" href="$classContentDialog.html#ab503522a7ae915ff44d3c260c69c9f33" title="ContentDialog::reloadTheme" alt="" coords="985,1144,1191,1171"/>
+<area shape="rect" id="node36" href="$classContentLayout.html#afcc3ec9f6f90b4b3b8f6cc5b508bd74a" title="ContentLayout::reloadTheme" alt="" coords="984,1195,1192,1221"/>
+<area shape="rect" id="node37" href="$classEmoticonsWidget.html#acf4f5fbfb3401fc3a2028f58aee2464c" title="EmoticonsWidget::Emoticons\lWidget" alt="" coords="985,145,1191,186"/>
+<area shape="rect" id="node38" href="$classAddFriendForm.html#a2034347dfda8ba4fa55f00c271b1e6bd" title="AddFriendForm::onIdChanged" alt="" coords="983,211,1193,237"/>
+<area shape="rect" id="node39" href="$classGenericChatForm.html#aaa7bd5d2820de4c2db19c10607c5c2c5" title="GenericChatForm::reloadTheme" alt="" coords="975,261,1201,288"/>
+<area shape="rect" id="node40" href="$classGenericChatForm.html#aae968173cfddc255ae03e2407e275be3" title="GenericChatForm::onChatMessage\lFontChanged" alt="" coords="965,313,1211,354"/>
+<area shape="rect" id="node41" href="$classGroupChatForm.html#a35eca4c3dc94f06b21c8ed39de333f3f" title="Updates user names&#39; labels at the top of group chat. " alt="" coords="1259,459,1465,501"/>
+<area shape="rect" id="node42" href="$classGroupChatForm.html#aedf88c21cb674160fb3751104bc0cf9b" title="GroupChatForm::peerAudio\lPlaying" alt="" coords="989,430,1187,471"/>
+<area shape="rect" id="node43" href="$classGroupChatForm.html#ab09ecd14532bf619fa8af189568c4fdd" title="GroupChatForm::onLabelContext\lMenuRequested" alt="" coords="972,547,1204,589"/>
+<area shape="rect" id="node44" href="$classProfileForm.html#aa71ffbf1dc7ed19568c0814df8445af9" title="ProfileForm::ProfileForm" alt="" coords="1001,496,1175,523"/>
+<area shape="rect" id="node45" href="$classSearchSettingsForm.html#a264084f3617a0db21ccaf70b7b087042" title="SearchSettingsForm\l::reloadTheme" alt="" coords="1011,613,1165,654"/>
+<area shape="rect" id="node46" href="$classSearchSettingsForm.html#a3c8b566a20b12f4fee62a08386b11723" title="SearchSettingsForm\l::onStartSearchSelected" alt="" coords="999,678,1177,719"/>
+<area shape="rect" id="node47" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title="GenericChatroomWidget\l::reloadTheme" alt="" coords="999,743,1177,785"/>
+<area shape="rect" id="node49" href="$classUserInterfaceForm.html#a8dfdea15984aca78a0b3ae66394d7493" title="UserInterfaceForm::\lon_themeColorCBox_currentIndex\lChanged" alt="" coords="677,649,917,705"/>
+<area shape="rect" id="node50" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="751,729,843,756"/>
+</map>

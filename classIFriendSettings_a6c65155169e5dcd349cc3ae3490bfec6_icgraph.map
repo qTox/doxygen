@@ -1,0 +1,6 @@
+<map id="IFriendSettings::saveFriendSettings" name="IFriendSettings::saveFriendSettings">
+<area shape="rect" id="node2" href="$classAboutFriend.html#a8c649b9ca1eb8d7adc7cc773a3de9fa6" title="AboutFriend::setNote" alt="" coords="278,5,435,32"/>
+<area shape="rect" id="node3" href="$classAboutFriend.html#a145e9753c3b7a5dbd0739d0532aaa832" title="AboutFriend::setAutoAcceptDir" alt="" coords="247,56,466,83"/>
+<area shape="rect" id="node4" href="$classAboutFriend.html#a6b61b36bcb68d4f50a661c997f87fea5" title="AboutFriend::setAutoAcceptCall" alt="" coords="245,107,468,133"/>
+<area shape="rect" id="node5" href="$classAboutFriend.html#a1a0a5d35b40ee22084a26b0b77138759" title="AboutFriend::setAutoGroup\lInvite" alt="" coords="259,158,454,199"/>
+</map>

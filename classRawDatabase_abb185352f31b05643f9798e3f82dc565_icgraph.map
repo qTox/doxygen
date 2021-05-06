@@ -1,0 +1,10 @@
+<map id="RawDatabase::openEncryptedDatabaseAtLatestSupportedVersion" name="RawDatabase::openEncryptedDatabaseAtLatestSupportedVersion">
+<area shape="rect" id="node2" href="$classRawDatabase.html#a6dc2990b0d582cf1f3bcfaf294c21aec" title="Tries to open the database with the given (possibly empty) key. " alt="" coords="305,82,455,109"/>
+<area shape="rect" id="node3" href="$classRawDatabase.html#a2a576628b0c68901adfcf471e8f7d544" title="Tries to open a database. " alt="" coords="1288,23,1492,50"/>
+<area shape="rect" id="node4" href="$classRawDatabase.html#a33faa326a37de9d66691a696d7bc661a" title="RawDatabase::commitDbSwap" alt="" coords="503,57,721,83"/>
+<area shape="rect" id="node9" href="$classRawDatabase.html#adcd9df8dfd9bf67cb0afadd67cf72eac" title="Moves the database file on disk to match the new path. " alt="" coords="529,107,695,134"/>
+<area shape="rect" id="node5" href="$classRawDatabase.html#a16cd829c14a0eb39c80180131f8d6bd9" title="Changes stored db encryption from SQLCipher 3.x defaults to 4.x defaults. " alt="" coords="781,151,984,192"/>
+<area shape="rect" id="node6" href="$classRawDatabase.html#a1ba0ce437611f0a0269ec24993ee568d" title="RawDatabase::encryptDatabase" alt="" coords="769,49,996,75"/>
+<area shape="rect" id="node8" href="$classRawDatabase.html#a1644d4bb884e5d4919a671afbd65f62f" title="RawDatabase::decryptDatabase" alt="" coords="769,99,996,126"/>
+<area shape="rect" id="node7" href="$classRawDatabase.html#aad13f2a1276986076a1bcaa687b299ba" title="Changes the database password, encrypting or decrypting if necessary. " alt="" coords="1044,49,1240,75"/>
+</map>

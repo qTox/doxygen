@@ -1,0 +1,13 @@
+<map id="ToxCall::getMuteMic" name="ToxCall::getMuteMic">
+<area shape="rect" id="node2" href="$classCoreAV.html#a5d0915f379070967ea3fa8052c5b1a94" title="Send audio frame to a friend. " alt="" coords="218,33,385,60"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#ad5835fdb4e739f7293166f7bcb4c889b" title="Toggles the mute state of the call&#39;s input (microphone). " alt="" coords="200,88,403,115"/>
+<area shape="rect" id="node3" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="707,5,899,32"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae19744a42b411b813a351b05220b21bb" title="ToxFriendCall::onAudioSource\lInvalidated" alt="" coords="451,26,659,67"/>
+<area shape="rect" id="node6" href="$classChatForm.html#a3112589852659f68a0a36d957bc53682" title="ChatForm::onMicMuteToggle" alt="" coords="453,92,656,119"/>
+<area shape="rect" id="node7" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1659,136,1815,163"/>
+<area shape="rect" id="node8" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="710,119,895,145"/>
+<area shape="rect" id="node9" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="947,129,1123,156"/>
+<area shape="rect" id="node10" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="1171,151,1327,177"/>
+<area shape="rect" id="node11" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="1413,161,1572,188"/>
+<area shape="rect" id="node12" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="1375,212,1611,239"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="NotificationScrollArea::trackWidget" name="NotificationScrollArea::trackWidget">
+<area shape="rect" id="node2" href="$classNotificationScrollArea.html#a5f255cd196738c2582438f8c3ffb74ca" title="NotificationScrollArea\l::widgetVisible" alt="" coords="225,5,384,47"/>
+<area shape="rect" id="node3" href="$classNotificationScrollArea.html#af19623bf122ee2a8bed244fa54d3a864" title="NotificationScrollArea\l::findPreviousWidget" alt="" coords="225,71,384,112"/>
+<area shape="rect" id="node4" href="$classNotificationScrollArea.html#aa081c361dc8083ce8e4b22e71db3f12f" title="NotificationScrollArea\l::recalculateTopEdge" alt="" coords="225,136,384,177"/>
+<area shape="rect" id="node5" href="$classNotificationEdgeWidget.html#ad8ee5664ad08c1fe50ddb22e591648e5" title="NotificationEdgeWidget\l::updateNotificationCount" alt="" coords="212,201,397,243"/>
+<area shape="rect" id="node6" href="$classNotificationScrollArea.html#af78e84a2ecce9b4cf4736cead4c9824b" title="NotificationScrollArea\l::findNextWidget" alt="" coords="225,267,384,308"/>
+<area shape="rect" id="node7" href="$classNotificationScrollArea.html#ae49eb9529549289de5f907b6eef55b44" title="NotificationScrollArea\l::recalculateBottomEdge" alt="" coords="215,332,395,373"/>
+</map>

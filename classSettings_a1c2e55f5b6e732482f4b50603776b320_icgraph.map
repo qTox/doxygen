@@ -1,0 +1,7 @@
+<map id="Settings::getFriendRequestSize" name="Settings::getFriendRequestSize">
+<area shape="rect" id="node2" href="$classAddFriendForm.html#a07ac9f271eeaaaec515ac3d703f45eed" title="AddFriendForm::AddFriendForm" alt="" coords="1043,30,1265,57"/>
+<area shape="rect" id="node3" href="$classAddFriendForm.html#a349c7276eed501e8cd4a8aa2b8ee46eb" title="AddFriendForm::deleteFriend\lRequest" alt="" coords="273,31,477,72"/>
+<area shape="rect" id="node4" href="$classAddFriendForm.html#ad57a4223a519b32d8370af0d447e1d20" title="AddFriendForm::addFriend" alt="" coords="525,38,713,65"/>
+<area shape="rect" id="node5" href="$classAddFriendForm.html#a2bcf8d6ef490913c60a0eb4f75b71886" title="AddFriendForm::onSendTriggered" alt="" coords="761,30,995,57"/>
+<area shape="rect" id="node6" href="$classAddFriendForm.html#a6b4aa62d034c5fda6dda399a1e4cb603" title="AddFriendForm::onImportSend\lClicked" alt="" coords="769,82,987,123"/>
+</map>

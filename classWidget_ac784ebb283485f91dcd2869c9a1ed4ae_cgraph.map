@@ -1,0 +1,6 @@
+<map id="Widget::onStatusMessageChanged" name="Widget::onStatusMessageChanged">
+<area shape="rect" id="node2" href="$classCore.html#aa62a61d45f460d49c5f7472f462a00d3" title="Core::setStatusMessage" alt="" coords="299,56,477,83"/>
+<area shape="rect" id="node3" href="$classCore.html#a7b6ca7659c49472b5699d47963d44dee" title="Returns our status message, or an empty string on failure. " alt="" coords="525,5,705,32"/>
+<area shape="rect" id="node4" href="$classToxString.html#a02584d01004a68ed0dc91bdf5f02e80d" title="Returns a pointer to the beginning of the string data. " alt="" coords="557,56,674,83"/>
+<area shape="rect" id="node5" href="$classToxString.html#a3ef12632760c48153f603b35daf8ec96" title="Get the number of bytes in the string. " alt="" coords="559,107,672,133"/>
+</map>

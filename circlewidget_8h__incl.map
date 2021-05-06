@@ -1,0 +1,17 @@
+<map id="src/widget/circlewidget.h" name="src/widget/circlewidget.h">
+<area shape="rect" id="node2" href="$categorywidget_8h.html" title="categorywidget.h" alt="" coords="949,80,1080,107"/>
+<area shape="rect" id="node3" href="$genericchatitemwidget_8h.html" title="genericchatitemwidget.h" alt="" coords="45,155,224,181"/>
+<area shape="rect" id="node6" href="$core_8h.html" title="src/core/core.h" alt="" coords="956,155,1073,181"/>
+<area shape="rect" id="node27" href="$status_8h.html" title="src/model/status.h" alt="" coords="1711,229,1852,256"/>
+<area shape="rect" id="node7" href="$groupid_8h.html" title="groupid.h" alt="" coords="485,379,568,405"/>
+<area shape="rect" id="node14" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="192,229,395,256"/>
+<area shape="rect" id="node15" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="240,304,347,331"/>
+<area shape="rect" id="node18" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="1057,453,1261,480"/>
+<area shape="rect" id="node19" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="571,304,707,331"/>
+<area shape="rect" id="node20" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="760,379,829,405"/>
+<area shape="rect" id="node22" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="765,229,888,256"/>
+<area shape="rect" id="node23" href="$toxid_8h.html" title="toxid.h" alt="" coords="905,304,970,331"/>
+<area shape="rect" id="node24" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="1660,453,1732,480"/>
+<area shape="rect" id="node8" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="630,453,778,480"/>
+<area shape="rect" id="node25" href="$toxfilepause_8h.html" title="src/core/toxfilepause.h" alt="" coords="1613,528,1779,555"/>
+</map>

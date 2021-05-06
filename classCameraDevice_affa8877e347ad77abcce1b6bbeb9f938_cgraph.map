@@ -1,0 +1,20 @@
+<map id="CameraDevice::getDefaultDeviceName" name="CameraDevice::getDefaultDeviceName">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="270,96,429,123"/>
+<area shape="rect" id="node13" href="$classSettings.html#a74c7abf989fef4d7a54724f241e0ab3d" title="Settings::getVideoDev" alt="" coords="267,147,432,173"/>
+<area shape="rect" id="node14" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default. " alt="" coords="764,241,955,282"/>
+<area shape="rect" id="node15" href="$classCameraDevice.html#a68fe877af30ae067d85da383c59eed7d" title="Get device list with desciption. " alt="" coords="244,324,455,351"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="541,96,677,123"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="791,60,927,87"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="784,132,935,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1050,5,1150,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1003,56,1197,83"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1245,81,1431,108"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1017,157,1183,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1015,208,1185,235"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1045,259,1155,285"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1301,259,1375,285"/>
+<area shape="rect" id="node16" href="$namespaceDirectShow.html#a3ad4d4c773c079adde6f4f0964183fcb" title="DirectShow::getDeviceList" alt="" coords="516,299,703,325"/>
+<area shape="rect" id="node17" href="$namespacev4l2.html#afd254d0d2ba893c98349483280fc3320" title="v4l2::getDeviceList" alt="" coords="538,349,681,376"/>
+<area shape="rect" id="node18" href="$namespaceavfoundation.html#ac3912d2558e0da9f0c481164e45a3758" title="avfoundation::getDeviceList" alt="" coords="510,400,709,427"/>
+<area shape="rect" id="node19" href="$classCameraDevice.html#a7336fe048554c670f5eeeb1f1f466038" title="Get raw device list. " alt="" coords="503,451,716,493"/>
+</map>

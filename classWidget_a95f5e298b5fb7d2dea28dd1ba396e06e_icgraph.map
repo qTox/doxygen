@@ -1,0 +1,9 @@
+<map id="Widget::confirmExecutableOpen" name="Widget::confirmExecutableOpen">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title="FileTransferWidget\l::handleButton" alt="" coords="305,88,439,129"/>
+<area shape="rect" id="node7" href="$classFilesForm.html#a23dd58a4876c0d0d0c930eedfabb9db7" title="FilesForm::onFileActivated" alt="" coords="279,170,465,197"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a5f29ffa2ccd11672b706981e7843591a" title="FileTransferWidget\l::onLeftButtonClicked" alt="" coords="525,5,684,47"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#af88381ef5a7d2ab692b3e0b1464d24a8" title="FileTransferWidget\l::onRightButtonClicked" alt="" coords="521,71,688,112"/>
+<area shape="rect" id="node6" href="$classFileTransferWidget.html#a63bb0160d22a50b91c490a836e0a5e56" title="FileTransferWidget\l::onPreviewButtonClicked" alt="" coords="513,136,696,177"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="744,71,887,112"/>
+<area shape="rect" id="node8" href="$classFilesForm.html#ae5393e6e8ac7702bf7c036930132c155" title="FilesForm::FilesForm" alt="" coords="529,202,680,229"/>
+</map>

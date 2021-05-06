@@ -1,0 +1,7 @@
+<map id="ChatTextEdit::tabPressed" name="ChatTextEdit::tabPressed">
+<area shape="rect" id="node2" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="235,5,469,32"/>
+<area shape="rect" id="node3" href="$classChatTextEdit.html#acdde78140dfbb742caa9b9157ae1ce6e" title="ChatTextEdit::keyPressEvent" alt="" coords="251,56,453,83"/>
+<area shape="rect" id="node4" href="$classChatTextEdit.html#aea5e18e908ab2f1ecdf9fe9c7cbbf427" title="ChatTextEdit::sendKeyEvent" alt="" coords="517,56,716,83"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#a92900c8df54e2233c4e91f68272880e7" title="GenericChatForm::event" alt="" coords="764,31,943,57"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#a4382ccc031dd677f2a0edcbf05dfb527" title="GenericChatForm::eventFilter" alt="" coords="991,56,1199,83"/>
+</map>

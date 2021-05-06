@@ -1,0 +1,12 @@
+<map id="Widget::onShowSettings" name="Widget::onShowSettings">
+<area shape="rect" id="node2" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="735,125,827,152"/>
+<area shape="rect" id="node8" href="$classWidget.html#a7edf2a9d7c349daf3319300c552be3c8" title="Switches to the About settings page. " alt="" coords="229,30,444,71"/>
+<area shape="rect" id="node9" href="$classWidget.html#a5ba14b9f1d63f60448ebbd1fb6c02e0e" title="Widget::onBadProxyCore" alt="" coords="500,12,679,39"/>
+<area shape="rect" id="node10" href="$classWidget.html#af01d90acedeee89d47df3f07c4fb60bb" title="Widget::onSeparateWindow\lChanged" alt="" coords="239,147,434,189"/>
+<area shape="rect" id="node3" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="875,75,1029,101"/>
+<area shape="rect" id="node4" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1077,75,1177,101"/>
+<area shape="rect" id="node5" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1225,75,1424,101"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1656,100,1711,127"/>
+<area shape="rect" id="node7" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1472,125,1608,152"/>
+<area shape="rect" id="node11" href="$classWidget.html#a0c49ff49e9ccbfe82084436fd59fe93b" title="Widget::onSeparateWindow\lClicked" alt="" coords="492,147,687,189"/>
+</map>

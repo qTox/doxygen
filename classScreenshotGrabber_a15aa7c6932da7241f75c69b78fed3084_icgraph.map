@@ -1,0 +1,10 @@
+<map id="ScreenshotGrabber::screenshotTaken" name="ScreenshotGrabber::screenshotTaken">
+<area shape="rect" id="node2" href="$classChatForm.html#ad818082e302b100fe7ac90b12eb5ddd6" title="ChatForm::doScreenshot" alt="" coords="208,5,391,32"/>
+<area shape="rect" id="node4" href="$classScreenshotGrabber.html#a1a70beeb7a3d1772b224ebe6714f32a1" title="ScreenshotGrabber::\lacceptRegion" alt="" coords="222,57,377,98"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a060864869ee24c333641373ad8b58efc" title="ChatForm::onScreenshotClicked" alt="" coords="439,5,665,32"/>
+<area shape="rect" id="node5" href="$classScreenshotGrabber.html#a581d4e1002c86ef8db9dacf06c3b8896" title="ScreenshotGrabber::\lhandleKeyPress" alt="" coords="916,115,1071,157"/>
+<area shape="rect" id="node7" href="$classScreenshotGrabber.html#a76841e5ddd9f6e3b2dd1b98579e8dba3" title="ScreenshotGrabber::\lsetupScene" alt="" coords="475,111,629,153"/>
+<area shape="rect" id="node6" href="$classScreenshotGrabber.html#a993ec9d2170e267568dd78b585d549d6" title="ScreenshotGrabber::\leventFilter" alt="" coords="1119,115,1273,157"/>
+<area shape="rect" id="node8" href="$classScreenshotGrabber.html#a6d68e0b49fac9c67439498c366120dae" title="ScreenshotGrabber::\lScreenshotGrabber" alt="" coords="713,111,868,153"/>
+<area shape="rect" id="node9" href="$classScreenshotGrabber.html#a1fc55f1bd10521095cb555ccfed65915" title="ScreenshotGrabber::\lreInit" alt="" coords="713,177,868,218"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Settings::getSplitterState" name="Settings::getSplitterState">
+<area shape="rect" id="node2" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="724,31,816,57"/>
+<area shape="rect" id="node8" href="$classWidget.html#af01d90acedeee89d47df3f07c4fb60bb" title="Widget::onSeparateWindow\lChanged" alt="" coords="239,31,433,73"/>
+<area shape="rect" id="node3" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="864,5,1019,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1067,5,1167,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1215,5,1413,32"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1645,31,1700,57"/>
+<area shape="rect" id="node7" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1461,56,1597,83"/>
+<area shape="rect" id="node9" href="$classWidget.html#a0c49ff49e9ccbfe82084436fd59fe93b" title="Widget::onSeparateWindow\lClicked" alt="" coords="481,82,676,123"/>
+</map>

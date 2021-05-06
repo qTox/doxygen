@@ -1,0 +1,6 @@
+<map id="Profile::getFilesByExt" name="Profile::getFilesByExt">
+<area shape="rect" id="node2" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed. " alt="" coords="207,5,397,32"/>
+<area shape="rect" id="node3" href="$classLoginScreen.html#a0f4294515145af8429170543f0b0b57f" title="Resets the UI, clears all fields. " alt="" coords="445,5,588,32"/>
+<area shape="rect" id="node4" href="$classLoginScreen.html#ad9c62f243a271fb067dc15195500ec21" title="LoginScreen::LoginScreen" alt="" coords="891,5,1079,32"/>
+<area shape="rect" id="node5" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title="LoginScreen::onImportProfile" alt="" coords="636,31,843,57"/>
+</map>

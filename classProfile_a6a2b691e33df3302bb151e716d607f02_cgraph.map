@@ -1,0 +1,8 @@
+<map id="Profile::rename" name="Profile::rename">
+<area shape="rect" id="node2" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="175,5,360,32"/>
+<area shape="rect" id="node3" href="$classProfileLocker.html#a316602739a054879e833ee6808832db5" title="Tries to acquire the lock on a profile, will not block. " alt="" coords="199,56,335,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#ae1f42b12796c7e03c09df6412065c507" title="Settings::getAutorun" alt="" coords="190,107,345,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#aaeda95c3b6aa6129be73ab5ca9e983a6" title="Settings::setAutorun" alt="" coords="190,157,345,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#ad8f9b7cf953cff5ada0d152a884cb809" title="Settings::setCurrentProfile" alt="" coords="172,208,363,235"/>
+<area shape="rect" id="node7" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="411,208,580,235"/>
+</map>

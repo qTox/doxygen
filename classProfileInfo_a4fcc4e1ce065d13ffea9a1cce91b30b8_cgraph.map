@@ -1,0 +1,6 @@
+<map id="ProfileInfo::createAvatarFromFile" name="ProfileInfo::createAvatarFromFile">
+<area shape="rect" id="node2" href="$classProfileInfo.html#aecc0f4d8c525a896b03ade0ac3be150f" title="Create a png from image data. " alt="" coords="234,5,425,32"/>
+<area shape="rect" id="node4" href="$classProfileInfo.html#ad41f4cf36471846cf8a45fab2f0bda7d" title="ProfileInfo::scalePngToAvatar" alt="" coords="228,56,431,83"/>
+<area shape="rect" id="node3" href="$profileinfo_8cpp.html#ab5151f8383bc407763457e3f4efc7b72" title="Convert QImage to png image. " alt="" coords="512,5,589,32"/>
+<area shape="rect" id="node5" href="$namespaceToxClientStandards.html#ade880a2db4825d701ff1a068cb0cc74f" title="ToxClientStandards\l::IsValidAvatarSize" alt="" coords="479,57,623,98"/>
+</map>

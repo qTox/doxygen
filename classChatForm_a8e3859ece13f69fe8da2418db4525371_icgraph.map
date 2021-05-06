@@ -1,0 +1,8 @@
+<map id="ChatForm::onVolMuteToggle" name="ChatForm::onVolMuteToggle">
+<area shape="rect" id="node2" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1199,68,1355,95"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="253,68,439,95"/>
+<area shape="rect" id="node4" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="487,75,663,101"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="711,87,867,113"/>
+<area shape="rect" id="node6" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="953,93,1112,120"/>
+<area shape="rect" id="node7" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="915,144,1151,171"/>
+</map>

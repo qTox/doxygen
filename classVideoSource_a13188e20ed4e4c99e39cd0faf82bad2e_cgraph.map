@@ -1,0 +1,5 @@
+<map id="VideoSource::VideoSource" name="VideoSource::VideoSource">
+<area shape="rect" id="node2" href="$classVideoSource.html#a16d36d7c9baedd74ea8528b36a2ae273" title="VideoSource::~VideoSource" alt="" coords="245,5,448,32"/>
+<area shape="rect" id="node3" href="$classVideoSource.html#a542481c450352c8b2a3717f5473568e5" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals. " alt="" coords="261,56,433,83"/>
+<area shape="rect" id="node4" href="$classVideoSource.html#a742327ac44cddc93579ea8a516c59544" title="Stop emitting frameAvailable signals, and free associated resources if necessary. ..." alt="" coords="253,107,441,133"/>
+</map>

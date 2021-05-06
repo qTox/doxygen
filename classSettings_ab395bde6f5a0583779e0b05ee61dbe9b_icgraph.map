@@ -1,0 +1,10 @@
+<map id="Settings::blackListChanged" name="Settings::blackListChanged">
+<area shape="rect" id="node2" href="$classSettings.html#a2327238070a65190ece28e522b233c0d" title="Settings::setBlackList" alt="" coords="248,142,407,169"/>
+<area shape="rect" id="node5" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="1253,83,1488,110"/>
+<area shape="rect" id="node3" href="$classGroupChatForm.html#ab09ecd14532bf619fa8af189568c4fdd" title="GroupChatForm::onLabelContext\lMenuRequested" alt="" coords="455,69,687,111"/>
+<area shape="rect" id="node9" href="$classPrivacyForm.html#a4f41eab2973d3d0df82cb795be9e2583" title="PrivacyForm::on_blackList\lTextEdit_textChanged" alt="" coords="477,135,664,176"/>
+<area shape="rect" id="node4" href="$classGroupChatForm.html#a35eca4c3dc94f06b21c8ed39de333f3f" title="Updates user names&#39; labels at the top of group chat. " alt="" coords="735,69,941,111"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#a84c9cd80436db81c1ae2dfdffcc2d466" title="GroupChatForm::onUserJoined" alt="" coords="989,33,1205,59"/>
+<area shape="rect" id="node7" href="$classGroupChatForm.html#ae2c153da2ca744ce9a38ba817914ac35" title="GroupChatForm::onUserLeft" alt="" coords="996,83,1199,110"/>
+<area shape="rect" id="node8" href="$classGroupChatForm.html#a52cbd2a8e7738e2ba6d159bd3b0af40d" title="GroupChatForm::onPeerName\lChanged" alt="" coords="989,135,1205,176"/>
+</map>

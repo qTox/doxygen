@@ -1,0 +1,3 @@
+<map id="ICoreExtPacketAllocator" name="ICoreExtPacketAllocator">
+<area shape="rect" id="node2" href="$classCoreExt.html" title="{CoreExt\n|&#45; currentStatuses\l&#45; toxExt\l&#45; toxExtMessages\l|+ CoreExt()\l+ CoreExt()\l+ operator=()\l+ operator=()\l+ process()\l+ onLosslessPacket()\l+ getPacket()\l+ getMaxExtendedMessageSize()\l+ makeCoreExt()\l+ onFriendStatusChanged()\l&#45; CoreExt()\l&#45; onExtendedMessageReceived()\l&#45; onExtendedMessageReceipt()\l&#45; onExtendedMessageNegotiation()\l}" alt="" coords="5,145,253,443"/>
+</map>

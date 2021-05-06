@@ -1,0 +1,5 @@
+<map id="Widget::outgoingNotification" name="Widget::outgoingNotification">
+<area shape="rect" id="node2" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink. " alt="" coords="255,39,425,80"/>
+<area shape="rect" id="node3" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title="Settings::getAudioOutDev\lEnabled" alt="" coords="477,5,665,47"/>
+<area shape="rect" id="node4" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title="Widget::cleanupNotification\lSound" alt="" coords="473,71,668,112"/>
+</map>

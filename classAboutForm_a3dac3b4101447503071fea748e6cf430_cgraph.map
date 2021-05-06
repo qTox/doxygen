@@ -1,0 +1,7 @@
+<map id="AboutForm::replaceVersions" name="AboutForm::replaceVersions">
+<area shape="rect" id="node2" href="$classAboutForm.html#af026cfa2f6c34b1aec3b888e5adab6f0" title="AboutForm::onUpdateAvailable" alt="" coords="256,5,476,32"/>
+<area shape="rect" id="node3" href="$classAboutForm.html#aa0894f4850ed635fb483617eea36ca77" title="AboutForm::onUpToDate" alt="" coords="277,56,455,83"/>
+<area shape="rect" id="node4" href="$classAboutForm.html#aaeb49e025c37d1017ded4f2e3b12f348" title="AboutForm::onUpdateCheck\lFailed" alt="" coords="265,107,467,149"/>
+<area shape="rect" id="node5" href="$classAboutForm.html#a7da90ce714150c7c11fd341641788db1" title="Creates hyperlink with specific style. " alt="" coords="283,173,449,200"/>
+<area shape="rect" id="node6" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="524,173,640,200"/>
+</map>

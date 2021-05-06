@@ -1,0 +1,30 @@
+<map id="src/widget/form/loadhistorydialog.cpp" name="src/widget/form/loadhistorydialog.cpp">
+<area shape="rect" id="node2" href="$loadhistorydialog_8h.html" title="loadhistorydialog.h" alt="" coords="1239,229,1381,256"/>
+<area shape="rect" id="node13" href="$ichatlog_8h.html" title="src/model/ichatlog.h" alt="" coords="1889,80,2040,107"/>
+<area shape="rect" id="node31" href="$history_8h.html" title="src/persistence/history.h" alt="" coords="1406,229,1582,256"/>
+<area shape="rect" id="node42" href="$nexus_8h.html" title="src/nexus.h" alt="" coords="2116,80,2211,107"/>
+<area shape="rect" id="node44" href="$profile_8h.html" title="src/persistence/profile.h" alt="" coords="2869,155,3044,181"/>
+<area shape="rect" id="node3" href="$toxpk_8h.html" title="src/core/toxpk.h" alt="" coords="3021,393,3145,420"/>
+<area shape="rect" id="node4" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="2999,468,3147,495"/>
+<area shape="rect" id="node14" href="$message_8h.html" title="message.h" alt="" coords="1710,229,1803,256"/>
+<area shape="rect" id="node20" href="$core_8h.html" title="src/core/core.h" alt="" coords="2666,229,2783,256"/>
+<area shape="rect" id="node25" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="1586,311,1658,338"/>
+<area shape="rect" id="node28" href="$friendlist_8h.html" title="src/friendlist.h" alt="" coords="3171,468,3281,495"/>
+<area shape="rect" id="node29" href="$grouplist_8h.html" title="src/grouplist.h" alt="" coords="3425,155,3537,181"/>
+<area shape="rect" id="node30" href="$chatlogitem_8h.html" title="src/model/chatlogitem.h" alt="" coords="1664,155,1841,181"/>
+<area shape="rect" id="node38" href="$searchtypes_8h.html" title="src/widget/searchtypes.h" alt="" coords="291,311,471,338"/>
+<area shape="rect" id="node40" href="$friend_8h.html" title="src/model/friend.h" alt="" coords="2509,155,2647,181"/>
+<area shape="rect" id="node41" href="$group_8h.html" title="src/model/group.h" alt="" coords="3119,229,3258,256"/>
+<area shape="rect" id="node15" href="$coreext_8h.html" title="src/core/coreext.h" alt="" coords="2352,311,2489,338"/>
+<area shape="rect" id="node17" href="$extension_8h.html" title="src/core/extension.h" alt="" coords="1683,311,1833,338"/>
+<area shape="rect" id="node21" href="$groupid_8h.html" title="groupid.h" alt="" coords="3627,393,3710,420"/>
+<area shape="rect" id="node22" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="2721,468,2923,495"/>
+<area shape="rect" id="node23" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="2441,468,2645,495"/>
+<area shape="rect" id="node24" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="3221,311,3357,338"/>
+<area shape="rect" id="node26" href="$toxid_8h.html" title="toxid.h" alt="" coords="2979,311,3044,338"/>
+<area shape="rect" id="node36" href="$brokenmessagereason_8h.html" title="src/model/brokenmessagereason.h" alt="" coords="999,311,1247,338"/>
+<area shape="rect" id="node37" href="$rawdatabase_8h.html" title="src/persistence/db\l/rawdatabase.h" alt="" coords="1423,304,1562,345"/>
+<area shape="rect" id="node45" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="2259,468,2417,495"/>
+<area shape="rect" id="node46" href="$avatarbroadcaster_8h.html" title="src/net/avatarbroadcaster.h" alt="" coords="3836,311,4035,338"/>
+<area shape="rect" id="node47" href="$bootstrapnodeupdater_8h.html" title="src/net/bootstrapnodeupdater.h" alt="" coords="3332,229,3557,256"/>
+</map>

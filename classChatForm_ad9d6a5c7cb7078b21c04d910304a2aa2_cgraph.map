@@ -1,0 +1,6 @@
+<map id="ChatForm::onFriendNameChanged" name="ChatForm::onFriendNameChanged">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a3a738405ace491fe5e22429ad13bcb9f" title="GenericChatForm::setName" alt="" coords="296,5,497,32"/>
+<area shape="rect" id="node3" href="$classChatFormHeader.html#adfcd05c6e1674673ed39163eb476ac4d" title="ChatFormHeader::setName" alt="" coords="545,5,744,32"/>
+<area shape="rect" id="node4" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="792,5,959,32"/>
+<area shape="rect" id="node5" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="1007,5,1211,32"/>
+</map>

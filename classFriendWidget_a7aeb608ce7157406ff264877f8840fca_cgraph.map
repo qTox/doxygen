@@ -1,0 +1,7 @@
+<map id="FriendWidget::mouseMoveEvent" name="FriendWidget::mouseMoveEvent">
+<area shape="rect" id="node2" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="289,5,459,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="279,56,469,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="300,107,448,133"/>
+<area shape="rect" id="node5" href="$classContactId.html#a2ef2beeefa31a8bc2dd393c83b66bcb8" title="Get a copy of the id. " alt="" coords="287,157,461,184"/>
+<area shape="rect" id="node6" href="$classMaskablePixmapWidget.html#a221a11b212b1d85910fc3fa88cef4a20" title="MaskablePixmapWidget\l::getPixmap" alt="" coords="288,209,460,250"/>
+</map>

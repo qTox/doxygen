@@ -1,0 +1,17 @@
+<map id="SearchSettingsForm::onChoiceDate" name="SearchSettingsForm::onChoiceDate">
+<area shape="rect" id="node2" href="$classLoadHistoryDialog.html#a9a3480cce0600b80364f3458b0175738" title="LoadHistoryDialog::\lgetFromDate" alt="" coords="219,34,366,75"/>
+<area shape="rect" id="node3" href="$classSearchSettingsForm.html#aca347a5cb83e415a89d21a51ca157457" title="SearchSettingsForm\l::updateStartDateLabel" alt="" coords="207,99,379,141"/>
+<area shape="rect" id="node16" href="$classSearchSettingsForm.html#ab17f37db097be54d26f5701b57a981b3" title="SearchSettingsForm\l::setUpdate" alt="" coords="216,165,369,206"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="438,81,597,108"/>
+<area shape="rect" id="node15" href="$classSettings.html#a7ef985718bf568dffe868dda6cf6a173" title="Settings::getDateFormat" alt="" coords="427,132,608,159"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="656,81,792,108"/>
+<area shape="rect" id="node6" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="847,31,983,57"/>
+<area shape="rect" id="node8" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="840,132,991,159"/>
+<area shape="rect" id="node7" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1086,5,1186,32"/>
+<area shape="rect" id="node9" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1039,56,1233,83"/>
+<area shape="rect" id="node10" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1281,81,1467,108"/>
+<area shape="rect" id="node11" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1053,157,1219,184"/>
+<area shape="rect" id="node12" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1051,208,1221,235"/>
+<area shape="rect" id="node13" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1081,259,1191,285"/>
+<area shape="rect" id="node14" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1337,259,1411,285"/>
+</map>

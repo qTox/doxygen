@@ -1,0 +1,6 @@
+<map id="Widget::onSplitterMoved" name="Widget::onSplitterMoved">
+<area shape="rect" id="node2" href="$classWidget.html#a176c9772cb33ee9b0a9badc86e5f9b29" title="Widget::saveSplitterGeometry" alt="" coords="231,31,444,57"/>
+<area shape="rect" id="node3" href="$classSettings.html#a4e65ec63f3cb29d79c460a8c68932cc6" title="Settings::getSeparateWindow" alt="" coords="492,5,703,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#a7722ba765ccdae496ffc215f020af48e" title="Settings::setSplitterState" alt="" coords="505,56,689,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="751,56,873,83"/>
+</map>

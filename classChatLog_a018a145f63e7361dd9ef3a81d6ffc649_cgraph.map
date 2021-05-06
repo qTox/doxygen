@@ -1,0 +1,5 @@
+<map id="ChatLog::updateTypingNotification" name="ChatLog::updateTypingNotification">
+<area shape="rect" id="node2" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="313,5,439,32"/>
+<area shape="rect" id="node4" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="292,56,460,83"/>
+<area shape="rect" id="node3" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title="ChatLine::updateBBox" alt="" coords="508,5,672,32"/>
+</map>

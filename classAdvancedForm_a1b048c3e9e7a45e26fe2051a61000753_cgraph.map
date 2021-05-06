@@ -1,0 +1,24 @@
+<map id="AdvancedForm::on_resetButton_clicked" name="AdvancedForm::on_resetButton_clicked">
+<area shape="rect" id="node2" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons. " alt="" coords="292,107,424,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="279,233,437,260"/>
+<area shape="rect" id="node16" href="$classSettings.html#aa54fd1da014d58d535c8200d240afbaa" title="Settings::resetToDefault" alt="" coords="672,107,847,133"/>
+<area shape="rect" id="node20" href="$classGUI.html#aa5a1a2702c862f5ceea685f2ea435672" title="Show some text to the user. " alt="" coords="304,56,412,83"/>
+<area shape="rect" id="node3" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="491,56,619,83"/>
+<area shape="rect" id="node4" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title="GUI::_askQuestion" alt="" coords="485,107,624,133"/>
+<area shape="rect" id="node6" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="487,259,623,285"/>
+<area shape="rect" id="node7" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="691,360,827,387"/>
+<area shape="rect" id="node9" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="684,259,835,285"/>
+<area shape="rect" id="node8" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="942,411,1042,437"/>
+<area shape="rect" id="node10" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="895,157,1089,184"/>
+<area shape="rect" id="node11" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1137,157,1323,184"/>
+<area shape="rect" id="node12" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="909,208,1075,235"/>
+<area shape="rect" id="node13" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="907,259,1077,285"/>
+<area shape="rect" id="node14" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="937,360,1047,387"/>
+<area shape="rect" id="node15" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1193,360,1267,387"/>
+<area shape="rect" id="node17" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="927,56,1057,83"/>
+<area shape="rect" id="node18" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1157,31,1303,57"/>
+<area shape="rect" id="node19" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1371,31,1481,57"/>
+<area shape="rect" id="node21" href="$classGUI.html#a264704256d4f4d7038068850e3c71a9f" title="GUI::_showInfo" alt="" coords="497,5,612,32"/>
+<area shape="rect" id="node22" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="686,5,833,32"/>
+<area shape="rect" id="node23" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="909,5,1075,32"/>
+</map>

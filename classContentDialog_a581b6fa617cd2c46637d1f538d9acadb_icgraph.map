@@ -1,0 +1,45 @@
+<map id="ContentDialog::activated" name="ContentDialog::activated">
+<area shape="rect" id="node2" href="$classContentDialog.html#a313b7b13cc806a1fc069248686d0a7fd" title="ContentDialog::event" alt="" coords="257,757,414,784"/>
+<area shape="rect" id="node3" href="$classContentDialog.html#a652949e8e23a01a3cdc58b7b3bd93044" title="ContentDialog::changeEvent" alt="" coords="233,808,437,835"/>
+<area shape="rect" id="node4" href="$classContentDialogManager.html#aea0110f5a0e0294b5950404d276e3f4c" title="ContentDialogManager\l::addContentDialog" alt="" coords="251,859,420,901"/>
+<area shape="rect" id="node5" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="485,867,699,893"/>
+<area shape="rect" id="node6" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="747,335,952,361"/>
+<area shape="rect" id="node44" href="$classWidget.html#ace15a543e8b3e60142630db958be498b" title="Widget::connectCircleWidget" alt="" coords="748,697,951,724"/>
+<area shape="rect" id="node7" href="$classWidget.html#af01d90acedeee89d47df3f07c4fb60bb" title="Widget::onSeparateWindow\lChanged" alt="" coords="1466,51,1661,93"/>
+<area shape="rect" id="node15" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="1013,588,1171,615"/>
+<area shape="rect" id="node17" href="$classWidget.html#a9e0305229bb57666c2228c49fb59ba8f" title="Widget::openDialog" alt="" coords="1491,959,1636,985"/>
+<area shape="rect" id="node26" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="1467,783,1660,825"/>
+<area shape="rect" id="node35" href="$classWidget.html#ac17fbd5de998fad14d0711014e9ddc71" title="Widget::onGroupClicked" alt="" coords="1233,335,1407,361"/>
+<area shape="rect" id="node39" href="$classWidget.html#a6f0a4f3fef72b277d13a25158a9b09b7" title="Widget::onTransferClicked" alt="" coords="1000,284,1184,311"/>
+<area shape="rect" id="node40" href="$classWidget.html#a8bd76efae0a0b8d08f0c8f1ea7e01222" title="Widget::onShowSettings" alt="" coords="1232,124,1408,151"/>
+<area shape="rect" id="node43" href="$classWidget.html#a6c7ca15e3638ea90ca7eeebaa79239cf" title="Widget::showProfile" alt="" coords="1020,233,1164,260"/>
+<area shape="rect" id="node8" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="2047,360,2139,387"/>
+<area shape="rect" id="node14" href="$classWidget.html#a0c49ff49e9ccbfe82084436fd59fe93b" title="Widget::onSeparateWindow\lClicked" alt="" coords="1733,55,1928,97"/>
+<area shape="rect" id="node9" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="2753,399,2908,425"/>
+<area shape="rect" id="node10" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="2956,385,3056,412"/>
+<area shape="rect" id="node11" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="3104,372,3303,399"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="3535,347,3589,373"/>
+<area shape="rect" id="node13" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="3351,321,3487,348"/>
+<area shape="rect" id="node16" href="$classWidget.html#ae372211b641bd400b6aa769f1333139d" title="Widget::addFriendDialog" alt="" coords="1233,883,1407,909"/>
+<area shape="rect" id="node25" href="$classWidget.html#a0eb8943737c2603a50735fd4681f11bb" title="Widget::addGroupDialog" alt="" coords="2005,1035,2181,1061"/>
+<area shape="rect" id="node29" href="$classWidget.html#afeb18b9fa9a2822cbe3c36a73f1a1baf" title="Widget::removeFriend" alt="" coords="1240,588,1400,615"/>
+<area shape="rect" id="node30" href="$classWidget.html#a29e878bb6df8cb3b0b5cc9b22592ae60" title="Widget::removeGroup" alt="" coords="1239,537,1401,564"/>
+<area shape="rect" id="node31" href="$classWidget.html#a8e61126cba34b3361e9f86d8a40b78cd" title="Widget::friendRequestsUpdate" alt="" coords="1456,639,1671,665"/>
+<area shape="rect" id="node18" href="$classWidget.html#aee76ea812a6baac001a581324e9532c1" title="Widget::onChatroomWidget\lClicked" alt="" coords="1733,893,1929,934"/>
+<area shape="rect" id="node24" href="$classWidget.html#a8b019d7946683af0eacf69650da666d4" title="Widget::openNewDialog" alt="" coords="1745,959,1917,985"/>
+<area shape="rect" id="node19" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="2026,841,2161,868"/>
+<area shape="rect" id="node21" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title="Widget::createGroup" alt="" coords="2017,899,2170,925"/>
+<area shape="rect" id="node20" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="2528,744,2704,771"/>
+<area shape="rect" id="node22" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="2251,896,2471,923"/>
+<area shape="rect" id="node23" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="2278,841,2445,868"/>
+<area shape="rect" id="node27" href="$classWidget.html#ac7b29a6df8a8ba6e6344c70a4c9cd799" title="Widget::incomingNotification" alt="" coords="1729,841,1932,868"/>
+<area shape="rect" id="node28" href="$classWidget.html#ad2c97769f252007710adb8364ec425af" title="Widget::onFileReceiveRequested" alt="" coords="1719,740,1943,767"/>
+<area shape="rect" id="node32" href="$classWidget.html#a6f768ec379b8d3bc29ea71321e32eb23" title="Widget::onFriendRequestReceived" alt="" coords="2244,719,2479,745"/>
+<area shape="rect" id="node33" href="$classWidget.html#a14db0c793f7c623b55320cabcb7cbe1f" title="Widget::retranslateUi" alt="" coords="1753,639,1909,665"/>
+<area shape="rect" id="node34" href="$classWidget.html#acfb1c9f9d66b04ee0ac989fef7efd377" title="Widget::createContentDialog" alt="" coords="1991,639,2196,665"/>
+<area shape="rect" id="node36" href="$classWidget.html#a82e5c2dd8ca0915943e7753f56d2068e" title="Widget::groupInvitesUpdate" alt="" coords="1464,512,1663,539"/>
+<area shape="rect" id="node37" href="$classWidget.html#a0be320a889ace3ff0087af6dfe4ea3b8" title="Widget::onGroupInviteReceived" alt="" coords="2252,603,2471,629"/>
+<area shape="rect" id="node38" href="$classWidget.html#a3563f3f3f814a354c034c2bae9771317" title="Widget::groupInvitesClear" alt="" coords="1739,487,1923,513"/>
+<area shape="rect" id="node41" href="$classWidget.html#a7edf2a9d7c349daf3319300c552be3c8" title="Switches to the About settings page. " alt="" coords="1456,117,1671,158"/>
+<area shape="rect" id="node42" href="$classWidget.html#a5ba14b9f1d63f60448ebbd1fb6c02e0e" title="Widget::onBadProxyCore" alt="" coords="2527,360,2705,387"/>
+</map>

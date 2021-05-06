@@ -1,0 +1,30 @@
+<map id="FileTransferWidget::onLeftButtonClicked" name="FileTransferWidget::onLeftButtonClicked">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title="FileTransferWidget\l::handleButton" alt="" coords="212,198,347,239"/>
+<area shape="rect" id="node3" href="$classCoreFile.html#a66c54cb1db593c01e6576e1de16f3c4b" title="CoreFile::cancelFileSend" alt="" coords="420,79,595,105"/>
+<area shape="rect" id="node4" href="$classCoreFile.html#aa6126719c80800e3a76f47ca4d1cfc9d" title="CoreFile::pauseResumeFile" alt="" coords="412,129,603,156"/>
+<area shape="rect" id="node5" href="$classCoreFile.html#ac5a92c0510055b33d6e81ef191d6c803" title="CoreFile::cancelFileRecv" alt="" coords="422,180,593,207"/>
+<area shape="rect" id="node6" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="428,231,587,257"/>
+<area shape="rect" id="node17" href="$classFileTransferWidget.html#a9f4eda5fdb4b51cb0a4295214b73ea41" title="FileTransferWidget\l::acceptTransfer" alt="" coords="440,282,575,323"/>
+<area shape="rect" id="node27" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title="Widget::confirmExecutableOpen" alt="" coords="395,377,620,404"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="686,157,822,184"/>
+<area shape="rect" id="node8" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="895,56,1031,83"/>
+<area shape="rect" id="node10" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="888,157,1039,184"/>
+<area shape="rect" id="node9" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1134,5,1234,32"/>
+<area shape="rect" id="node11" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1087,56,1281,83"/>
+<area shape="rect" id="node12" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1329,81,1515,108"/>
+<area shape="rect" id="node13" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1101,157,1267,184"/>
+<area shape="rect" id="node14" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1099,208,1269,235"/>
+<area shape="rect" id="node15" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1129,259,1239,285"/>
+<area shape="rect" id="node16" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1385,259,1459,285"/>
+<area shape="rect" id="node18" href="$classFileTransferWidget.html#aa40afca50a139725273ba34bca4c1ccc" title="Dangerous way to find out if a path is writable. " alt="" coords="687,223,821,265"/>
+<area shape="rect" id="node19" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="687,289,821,316"/>
+<area shape="rect" id="node26" href="$classCoreFile.html#a1df491ab7c453d59aa746e41ef9018ab" title="CoreFile::acceptFileRecv\lRequest" alt="" coords="668,341,840,382"/>
+<area shape="rect" id="node20" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="899,352,1027,379"/>
+<area shape="rect" id="node21" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title="GUI::_showWarning" alt="" coords="892,293,1035,320"/>
+<area shape="rect" id="node22" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="1111,309,1257,336"/>
+<area shape="rect" id="node23" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="1339,309,1505,336"/>
+<area shape="rect" id="node24" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1563,309,1708,336"/>
+<area shape="rect" id="node25" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1756,309,1867,336"/>
+<area shape="rect" id="node28" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons. " alt="" coords="688,407,820,433"/>
+<area shape="rect" id="node29" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title="GUI::_askQuestion" alt="" coords="894,407,1033,433"/>
+</map>

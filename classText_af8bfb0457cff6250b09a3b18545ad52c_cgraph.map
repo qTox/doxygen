@@ -1,0 +1,6 @@
+<map id="Text::selectionTripleClick" name="Text::selectionTripleClick">
+<area shape="rect" id="node2" href="$classText.html#aac4b7f1e64741347ebde3ac0cba6c16d" title="Text::cursorFromPos" alt="" coords="243,5,394,32"/>
+<area shape="rect" id="node3" href="$classText.html#a46220f3313b8e344269ce0bc881fd41a" title="Text::extractSanitizedText" alt="" coords="227,56,411,83"/>
+<area shape="rect" id="node4" href="$classText.html#abc85bdf48cafbcdf39726b65a764deb8" title="Text::getSelectionStart" alt="" coords="235,107,402,133"/>
+<area shape="rect" id="node5" href="$classText.html#a947fb6363bc41f0d366305caf619fed6" title="Text::getSelectionEnd" alt="" coords="239,157,398,184"/>
+</map>

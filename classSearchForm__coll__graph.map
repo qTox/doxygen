@@ -1,0 +1,5 @@
+<map id="SearchForm" name="SearchForm">
+<area shape="rect" id="node3" href="$classSearchSettingsForm.html" title="{SearchSettingsForm\n|&#45; ui\l&#45; startTime\l&#45; isUpdate\l|+ SearchSettingsForm()\l+ ~SearchSettingsForm()\l+ getParameterSearch()\l+ reloadTheme()\l&#45; updateStartDateLabel()\l&#45; setUpdate()\l&#45; onStartSearchSelected()\l&#45; onRegisterClicked()\l&#45; onWordsOnlyClicked()\l&#45; onRegularClicked()\l&#45; onChoiceDate()\l}" alt="" coords="38,132,229,385"/>
+<area shape="rect" id="node4" href="$structParameterSearch.html" title="{ParameterSearch\n|+ filter\l+ period\l+ time\l+ isUpdate\l|+ operator==()\l+ operator!=()\l}" alt="" coords="253,191,387,327"/>
+<area shape="rect" id="node5" href="$classLineEdit.html" title="{LineEdit\n||+ LineEdit()\l# keyPressEvent()\l}" alt="" coords="411,213,551,305"/>
+</map>

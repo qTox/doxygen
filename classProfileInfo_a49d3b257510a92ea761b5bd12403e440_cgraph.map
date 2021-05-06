@@ -1,0 +1,12 @@
+<map id="ProfileInfo::removeAvatar" name="ProfileInfo::removeAvatar">
+<area shape="rect" id="node2" href="$classProfile.html#a1c2f8f882e3a6eabddfb28c74b4455cf" title="Removes our own avatar. " alt="" coords="236,56,419,83"/>
+<area shape="rect" id="node3" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar. " alt="" coords="467,56,625,83"/>
+<area shape="rect" id="node4" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID..." alt="" coords="1140,5,1279,32"/>
+<area shape="rect" id="node7" href="$classProfile.html#aca1cdaef5152d76b2e3d2197f8132ab3" title="Sets our own avatar. " alt="" coords="692,107,823,133"/>
+<area shape="rect" id="node11" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar. " alt="" coords="673,56,841,83"/>
+<area shape="rect" id="node5" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="1348,5,1491,32"/>
+<area shape="rect" id="node6" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1327,56,1512,83"/>
+<area shape="rect" id="node8" href="$classSettings.html#ae63178fb316f962e922b76cd5776e28b" title="Settings::getShowIdenticons" alt="" coords="889,107,1092,133"/>
+<area shape="rect" id="node9" href="$classContactId.html#a2ef2beeefa31a8bc2dd393c83b66bcb8" title="Get a copy of the id. " alt="" coords="903,157,1078,184"/>
+<area shape="rect" id="node10" href="$classProfile.html#a4f48c9d37cb135b1cec9a25a1f996ce0" title="Save an avatar to cache. " alt="" coords="921,56,1061,83"/>
+</map>

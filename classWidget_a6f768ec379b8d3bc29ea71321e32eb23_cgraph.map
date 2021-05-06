@@ -1,0 +1,51 @@
+<map id="Widget::onFriendRequestReceived" name="Widget::onFriendRequestReceived">
+<area shape="rect" id="node2" href="$classAddFriendForm.html#a21cf79acb3f2fc34de328d884b62f465" title="AddFriendForm::addFriend\lRequest" alt="" coords="554,363,742,404"/>
+<area shape="rect" id="node25" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="324,489,467,515"/>
+<area shape="rect" id="node26" href="$classWidget.html#a8e61126cba34b3361e9f86d8a40b78cd" title="Widget::friendRequestsUpdate" alt="" coords="288,539,503,566"/>
+<area shape="rect" id="node41" href="$classWidget.html#a3bd6419cad95ffbcf90fc02204d00bae" title="Widget::newMessageAlert" alt="" coords="303,969,488,995"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1362,355,1521,382"/>
+<area shape="rect" id="node9" href="$classAddFriendForm.html#aca363e4637d331d454c4433b95577000" title="AddFriendForm::addFriend\lRequestWidget" alt="" coords="805,159,993,200"/>
+<area shape="rect" id="node22" href="$classAddFriendForm.html#ae1b4472502e8eb6b6efeec0838903d66" title="AddFriendForm::isShown" alt="" coords="809,421,988,447"/>
+<area shape="rect" id="node23" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title="AddFriendForm::onCurrent\lChanged" alt="" coords="1072,371,1263,412"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1600,355,1736,382"/>
+<area shape="rect" id="node5" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1791,330,1927,357"/>
+<area shape="rect" id="node7" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1784,381,1935,407"/>
+<area shape="rect" id="node6" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2030,330,2130,357"/>
+<area shape="rect" id="node8" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1983,381,2177,407"/>
+<area shape="rect" id="node10" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="1084,137,1251,163"/>
+<area shape="rect" id="node12" href="$classAddFriendForm.html#a9d34fd4815724e158b3c4eda512d0389" title="AddFriendForm::onFriendRequest\lAccepted" alt="" coords="1052,188,1283,229"/>
+<area shape="rect" id="node19" href="$classAddFriendForm.html#a4567fd50c66c1ac56a3c9cf6b844abe9" title="AddFriendForm::retranslate\lAcceptButton" alt="" coords="1069,5,1265,47"/>
+<area shape="rect" id="node20" href="$classAddFriendForm.html#a60bff5dd6bbf1742af9fd8d40d1c9eb5" title="AddFriendForm::onFriendRequest\lRejected" alt="" coords="1052,253,1283,295"/>
+<area shape="rect" id="node21" href="$classAddFriendForm.html#a5f7dceb68212d17ea5674848cc60f267" title="AddFriendForm::retranslate\lRejectButton" alt="" coords="1069,71,1265,112"/>
+<area shape="rect" id="node11" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="1339,35,1543,62"/>
+<area shape="rect" id="node13" href="$classAddFriendForm.html#afbb4c961477901f94e4ab06b0f67d85c" title="AddFriendForm::removeFriend\lRequestWidget" alt="" coords="1335,188,1548,229"/>
+<area shape="rect" id="node14" href="$classSettings.html#a77a6b8d0ee9463a8bbdc699676660c26" title="Settings::getFriendRequest" alt="" coords="1345,86,1538,113"/>
+<area shape="rect" id="node15" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="1371,137,1512,163"/>
+<area shape="rect" id="node16" href="$classSettings.html#a9bf7be23026b81700ba7cf4395100688" title="Settings::removeFriendRequest" alt="" coords="1331,254,1552,281"/>
+<area shape="rect" id="node17" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="1357,305,1525,331"/>
+<area shape="rect" id="node18" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="1603,305,1733,331"/>
+<area shape="rect" id="node24" href="$classSettings.html#accf237ab89ab4e6f6db5311f09ee60c0" title="Settings::clearUnreadFriend\lRequests" alt="" coords="1342,407,1541,448"/>
+<area shape="rect" id="node27" href="$classSettings.html#a310ece4b6e1a3f2d4c4f7ea5e40f2d32" title="Settings::getUnreadFriend\lRequests" alt="" coords="553,532,743,573"/>
+<area shape="rect" id="node28" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="569,598,727,625"/>
+<area shape="rect" id="node40" href="$classAddFriendForm.html#ad97e48d08fa03be051d9ddbe9b070e2b" title="AddFriendForm::setMode" alt="" coords="557,481,739,507"/>
+<area shape="rect" id="node29" href="$classSettings.html#a4e65ec63f3cb29d79c460a8c68932cc6" title="Settings::getSeparateWindow" alt="" coords="793,725,1004,751"/>
+<area shape="rect" id="node30" href="$classAddFriendForm.html#aefb1b5164693999fdc015e1774f3e458" title="AddFriendForm::show" alt="" coords="819,471,978,498"/>
+<area shape="rect" id="node32" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="796,522,1001,549"/>
+<area shape="rect" id="node34" href="$classWidget.html#aa15758d6b22efcbd7e36fa71702b0811" title="Widget::setActiveToolMenu\lButton" alt="" coords="1072,627,1263,668"/>
+<area shape="rect" id="node35" href="$classWidget.html#a34fb1300b432b15648b041631f2cac0c" title="Widget::hideMainForms" alt="" coords="813,775,984,802"/>
+<area shape="rect" id="node38" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title="Widget::setWindowTitle" alt="" coords="815,623,982,650"/>
+<area shape="rect" id="node39" href="$classWidget.html#a26da0100e884cd2f0c2d61a12f17f0fb" title="Widget::fromDialogType" alt="" coords="813,674,984,701"/>
+<area shape="rect" id="node31" href="$classAddFriendForm.html#a8cbdadda64ff8b9bc035238c632589ac" title="AddFriendForm::setIdFrom\lClipboard" alt="" coords="1073,460,1262,501"/>
+<area shape="rect" id="node33" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="1061,526,1274,553"/>
+<area shape="rect" id="node36" href="$classContentLayout.html#a1975e7c8e9d7df7a2e9fbc6a39fd7cd1" title="ContentLayout::clear" alt="" coords="1090,746,1245,773"/>
+<area shape="rect" id="node37" href="$classGenericChatroomWidget.html#a8bad475d4a08ad812ee535a03c232e74" title="GenericChatroomWidget\l::setAsInactiveChatroom" alt="" coords="1078,797,1257,839"/>
+<area shape="rect" id="node42" href="$classSettings.html#a66e5adbc280d3c2a477fc0355fcf9c20" title="Settings::getShowWindow" alt="" coords="555,893,741,919"/>
+<area shape="rect" id="node43" href="$classSettings.html#a613bebef785a7db1e348f65cbd9022bf" title="Settings::getNotify" alt="" coords="577,943,719,970"/>
+<area shape="rect" id="node44" href="$classSettings.html#a8b0ce74addf5bfab6b7be07447275fb2" title="Settings::getDesktopNotify" alt="" coords="551,994,745,1021"/>
+<area shape="rect" id="node45" href="$classCore.html#a678a842bb26b85d9e30b0a332716986b" title="Returns our user status. " alt="" coords="587,1045,709,1071"/>
+<area shape="rect" id="node46" href="$classSettings.html#aca822c6f005a3b89a67d227cfedfcefb" title="Settings::getBusySound" alt="" coords="560,1095,736,1122"/>
+<area shape="rect" id="node47" href="$classSettings.html#aecdd88599186fd0159682b6b1416f999" title="Settings::getNotifySound" alt="" coords="557,1146,739,1173"/>
+<area shape="rect" id="node48" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink. " alt="" coords="563,827,733,868"/>
+<area shape="rect" id="node49" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title="Settings::getAudioOutDev\lEnabled" alt="" coords="805,827,993,868"/>
+<area shape="rect" id="node50" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title="Widget::cleanupNotification\lSound" alt="" coords="801,892,996,933"/>
+</map>

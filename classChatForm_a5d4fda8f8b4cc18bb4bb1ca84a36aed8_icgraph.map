@@ -1,0 +1,5 @@
+<map id="ChatForm::sendImage" name="ChatForm::sendImage">
+<area shape="rect" id="node2" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="231,5,387,32"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ad818082e302b100fe7ac90b12eb5ddd6" title="ChatForm::doScreenshot" alt="" coords="217,56,400,83"/>
+<area shape="rect" id="node4" href="$classChatForm.html#a060864869ee24c333641373ad8b58efc" title="ChatForm::onScreenshotClicked" alt="" coords="448,56,675,83"/>
+</map>

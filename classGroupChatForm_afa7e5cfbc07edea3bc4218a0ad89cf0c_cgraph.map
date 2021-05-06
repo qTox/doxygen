@@ -1,0 +1,8 @@
+<map id="GroupChatForm::retranslateUi" name="GroupChatForm::retranslateUi">
+<area shape="rect" id="node2" href="$classGroupChatForm.html#af3be81f6692bf3e7ccafce617b2d0d00" title="Updates users&#39; count label text. " alt="" coords="268,23,475,65"/>
+<area shape="rect" id="node7" href="$classGroup.html#a6205352efb17034c6636642e89f26a9f" title="Group::getPeersCount" alt="" coords="289,89,453,116"/>
+<area shape="rect" id="node3" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title="ChatFormHeader::updateCall\lButtons" alt="" coords="523,23,731,65"/>
+<area shape="rect" id="node4" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="779,31,1043,57"/>
+<area shape="rect" id="node5" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title="ChatFormHeader::retranslateUi" alt="" coords="1091,5,1313,32"/>
+<area shape="rect" id="node6" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="1146,56,1258,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="FriendMessageDispatcher::onExtMessageReceived" name="FriendMessageDispatcher::onExtMessageReceived">
+<area shape="rect" id="node2" href="$classMessageProcessor.html#aca23d60f22623163facd6f7c38fcc05d" title="MessageProcessor::process\lIncomingExtMessage" alt="" coords="240,5,440,47"/>
+<area shape="rect" id="node3" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="266,71,414,98"/>
+</map>

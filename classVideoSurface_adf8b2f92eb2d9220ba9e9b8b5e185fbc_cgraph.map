@@ -1,0 +1,6 @@
+<map id="VideoSurface::onNewFrameAvailable" name="VideoSurface::onNewFrameAvailable">
+<area shape="rect" id="node2" href="$classVideoSurface.html#a51d3fa1945c31f659b7c944091ad6cfd" title="VideoSurface::lock" alt="" coords="271,5,411,32"/>
+<area shape="rect" id="node3" href="$classVideoSurface.html#a4c729f75a02c35de42df3056a030be92" title="VideoSurface::unlock" alt="" coords="263,56,419,83"/>
+<area shape="rect" id="node4" href="$videosurface_8cpp.html#a6d8a1ee38ecb650ae3a4043b12a87008" title="getSizeRatio" alt="" coords="290,107,393,133"/>
+<area shape="rect" id="node5" href="$classVideoSurface.html#a22bed2f9d881f5d3fd02e0bede564b0c" title="VideoSurface::recalulate\lBounds" alt="" coords="252,158,431,199"/>
+</map>

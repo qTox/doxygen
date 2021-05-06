@@ -1,0 +1,5 @@
+<map id="AddFriendForm" name="AddFriendForm">
+<area shape="rect" id="node3" href="$classToxId.html" title="This class represents a Tox ID. " alt="" coords="103,5,235,288"/>
+<area shape="rect" id="node4" href="$classQList.html" title="{QList\&lt; QString \&gt;\n||}" alt="" coords="259,108,391,185"/>
+<area shape="rect" id="node5" href="$classQList.html" title="{QList\&lt; QPushButton * \&gt;\n||}" alt="" coords="415,108,594,185"/>
+</map>

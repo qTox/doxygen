@@ -1,0 +1,51 @@
+<map id="ProfileForm::ProfileForm" name="ProfileForm::ProfileForm">
+<area shape="rect" id="node2" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="807,40,918,66"/>
+<area shape="rect" id="node4" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="255,263,427,304"/>
+<area shape="rect" id="node6" href="$classMaskablePixmapWidget.html#a5c2cf2917e41ea91c93a65f0a4d4ae0f" title="MaskablePixmapWidget\l::setClickable" alt="" coords="255,384,427,426"/>
+<area shape="rect" id="node7" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="266,128,417,154"/>
+<area shape="rect" id="node10" href="$classProfileForm.html#a92faba6e824dd390a244e84c13d2494f" title="ProfileForm::onAvatarClicked" alt="" coords="239,450,443,477"/>
+<area shape="rect" id="node14" href="$classProfileForm.html#a663da0ec3173ed8e18b32af765acacd5" title="ProfileForm::showProfile\lPictureContextMenu" alt="" coords="255,1314,428,1355"/>
+<area shape="rect" id="node16" href="$classProfileForm.html#a2c8f94dc17586d831deffffb470e04c4" title="ProfileForm::copyIdClicked" alt="" coords="247,1380,435,1406"/>
+<area shape="rect" id="node18" href="$classProfileForm.html#aeff99da19c2bdbc82b3e711523a9f019" title="ProfileForm::setToxId" alt="" coords="265,885,418,912"/>
+<area shape="rect" id="node21" href="$classProfileForm.html#aa2783a61b840caee74ea649ecf6a5d1e" title="ProfileForm::onUserNameEdited" alt="" coords="228,1430,455,1457"/>
+<area shape="rect" id="node23" href="$classProfileForm.html#a4c45c9168c644910c805a700eef41f79" title="ProfileForm::onStatusMessage\lEdited" alt="" coords="233,1482,450,1523"/>
+<area shape="rect" id="node25" href="$classProfileForm.html#aedc5d09d3b4a34f313c9863e349abc61" title="ProfileForm::onRenameClicked" alt="" coords="234,501,449,528"/>
+<area shape="rect" id="node29" href="$classProfileForm.html#af5b6567c5f80dba36308da7a1ccb9679" title="ProfileForm::onExportClicked" alt="" coords="239,657,443,684"/>
+<area shape="rect" id="node32" href="$classProfileForm.html#afeaf9f454a38a783d980d6b894923da8" title="ProfileForm::onDeleteClicked" alt="" coords="239,986,444,1013"/>
+<area shape="rect" id="node35" href="$classProfileForm.html#a1dca6d71b7c1528047809d39aafa0838" title="ProfileForm::onLogoutClicked" alt="" coords="238,1548,445,1574"/>
+<area shape="rect" id="node37" href="$classProfileForm.html#a6f0d3552425770bfa18b6a7e6354e1c3" title="ProfileForm::onDeletePass\lClicked" alt="" coords="247,1080,436,1122"/>
+<area shape="rect" id="node41" href="$classProfileForm.html#afb5f308dd3ee9fb53981d7c33d3dbed1" title="ProfileForm::onChangePass\lClicked" alt="" coords="243,1248,439,1290"/>
+<area shape="rect" id="node44" href="$classProfileForm.html#acddff6311aaace1f652b06773291ee1e" title="ProfileForm::setPassword\lButtonsText" alt="" coords="519,1190,701,1231"/>
+<area shape="rect" id="node45" href="$classProfileForm.html#a5b60c86cc93e92a676ee8535a7010e3f" title="ProfileForm::onSaveQrClicked" alt="" coords="236,784,447,810"/>
+<area shape="rect" id="node47" href="$classProfileForm.html#a4c5b1ca21dcc245d62628c309e7f650b" title="ProfileForm::onCopyQrClicked" alt="" coords="236,936,447,962"/>
+<area shape="rect" id="node49" href="$classProfileForm.html#ae293e26458b5f40342c2ca78b8d6cca8" title="ProfileForm::retranslateUi" alt="" coords="249,1146,434,1173"/>
+<area shape="rect" id="node50" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="246,1598,437,1625"/>
+<area shape="rect" id="node3" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1008,40,1083,66"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="524,179,696,220"/>
+<area shape="rect" id="node8" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="779,116,946,142"/>
+<area shape="rect" id="node9" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="556,77,664,104"/>
+<area shape="rect" id="node11" href="$classProfileForm.html#abd239134e31e7e6ad98e36f6112f1cf2" title="ProfileForm::getSupported\lImageFilter" alt="" coords="515,296,705,338"/>
+<area shape="rect" id="node12" href="$classIProfileInfo.html#a67da2373767fda04cb11998d46cfa041" title="IProfileInfo::setAvatar" alt="" coords="532,245,688,272"/>
+<area shape="rect" id="node13" href="$classGUI.html#af7a20885f4bda93998e9832eeb4f8c2c" title="Show an error to the user. " alt="" coords="552,530,668,557"/>
+<area shape="rect" id="node15" href="$classIProfileInfo.html#a55709191ed5478446ba31e53e9bf76a8" title="IProfileInfo::removeAvatar" alt="" coords="517,1424,703,1450"/>
+<area shape="rect" id="node17" href="$classIProfileInfo.html#aad0d8e11cdf2f6ef8237c628ed10b3c8" title="IProfileInfo::copyId" alt="" coords="542,1474,678,1501"/>
+<area shape="rect" id="node19" href="$classQRWidget.html#a2a859e3bbf8a5a5ef536d9de4d8961df" title="QRWidget::setQRData" alt="" coords="531,885,689,912"/>
+<area shape="rect" id="node20" href="$classQRWidget.html#af842a655ebc96bdf1dae7916a8bed336" title="QRWidget::getImage" alt="" coords="535,834,685,861"/>
+<area shape="rect" id="node22" href="$classIProfileInfo.html#a86dab6e98800805bf689b7953f1c45e2" title="IProfileInfo::setUsername" alt="" coords="519,1525,701,1552"/>
+<area shape="rect" id="node24" href="$classIProfileInfo.html#ae35085cf19effd03268ee5205a737c71" title="IProfileInfo::setStatusMessage" alt="" coords="503,1576,717,1602"/>
+<area shape="rect" id="node26" href="$classIProfileInfo.html#a42402b7aeb0128ff6d697134f5595c4b" title="IProfileInfo::getProfileName" alt="" coords="765,526,960,553"/>
+<area shape="rect" id="node27" href="$classIProfileInfo.html#aea41b8744504d8d9cabc2445aef70aaa" title="IProfileInfo::renameProfile" alt="" coords="518,413,702,440"/>
+<area shape="rect" id="node28" href="$classProfileForm.html#a055b310b2040249152c1b8416a3267d9" title="ProfileForm::prFileLabel\lUpdate" alt="" coords="525,464,695,506"/>
+<area shape="rect" id="node30" href="$classIProfileInfo.html#acb47f833c361638bfa68e5c212dda5f0" title="IProfileInfo::exportProfile" alt="" coords="523,632,697,658"/>
+<area shape="rect" id="node31" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user. " alt="" coords="543,682,677,709"/>
+<area shape="rect" id="node33" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons. " alt="" coords="544,1037,676,1064"/>
+<area shape="rect" id="node34" href="$classIProfileInfo.html#a7bc66b186e12b2e9094958aec30a9f10" title="IProfileInfo::removeProfile" alt="" coords="519,986,701,1013"/>
+<area shape="rect" id="node36" href="$classIProfileInfo.html#ae40726f5c96143d8ee9c4cf822ccb373" title="IProfileInfo::logout" alt="" coords="543,1626,677,1653"/>
+<area shape="rect" id="node38" href="$classIProfileInfo.html#a47baf39ab0748bab03bb9075fd676499" title="IProfileInfo::isEncrypted" alt="" coords="778,1142,947,1169"/>
+<area shape="rect" id="node39" href="$classGUI.html#aa5a1a2702c862f5ceea685f2ea435672" title="Show some text to the user. " alt="" coords="556,1256,664,1282"/>
+<area shape="rect" id="node40" href="$classIProfileInfo.html#a43263510afd1509a554d3a1a3a55e732" title="IProfileInfo::deletePassword" alt="" coords="513,1138,707,1165"/>
+<area shape="rect" id="node42" href="$classSetPasswordDialog.html#aec3edc9403f1ad00122c68b1279a609b" title="SetPasswordDialog::\lgetPassword" alt="" coords="535,1358,685,1399"/>
+<area shape="rect" id="node43" href="$classIProfileInfo.html#a9e209e5cd597eac2051609ca8830bee0" title="IProfileInfo::setPassword" alt="" coords="523,1306,697,1333"/>
+<area shape="rect" id="node46" href="$classIProfileInfo.html#aceb0c52d25f5cadeed43bf1ded25c7c4" title="IProfileInfo::saveQr" alt="" coords="540,784,680,810"/>
+<area shape="rect" id="node48" href="$classIProfileInfo.html#a4a714054ed642b47346427b1ceedd1e9" title="IProfileInfo::copyQr" alt="" coords="540,936,680,962"/>
+</map>

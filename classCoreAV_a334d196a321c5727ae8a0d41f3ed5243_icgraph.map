@@ -1,0 +1,8 @@
+<map id="CoreAV::leaveGroupCall" name="CoreAV::leaveGroupCall">
+<area shape="rect" id="node2" href="$classCore.html#aeccc7699cf38bbae2a498ee4c2915b71" title="Core::removeGroup" alt="" coords="265,5,413,32"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#adf4db41b2936df046f1d8885bb2e5e1d" title="CoreAV::~CoreAV" alt="" coords="272,56,407,83"/>
+<area shape="rect" id="node5" href="$classGroupChatForm.html#afedc07935df8c22150c12ff5ea9563cf" title="GroupChatForm::leaveGroupCall" alt="" coords="225,107,453,133"/>
+<area shape="rect" id="node3" href="$classWidget.html#a29e878bb6df8cb3b0b5cc9b22592ae60" title="Widget::removeGroup" alt="" coords="529,5,690,32"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#ab08a1498f127d0b7f7beadc2341afc76" title="GroupChatForm::onCallClicked" alt="" coords="501,107,717,133"/>
+<area shape="rect" id="node7" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="765,107,1000,133"/>
+</map>

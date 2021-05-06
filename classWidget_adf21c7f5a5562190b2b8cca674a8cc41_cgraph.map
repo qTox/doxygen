@@ -1,0 +1,5 @@
+<map id="Widget::onCallEnd" name="Widget::onCallEnd">
+<area shape="rect" id="node2" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink. " alt="" coords="189,39,360,80"/>
+<area shape="rect" id="node3" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title="Settings::getAudioOutDev\lEnabled" alt="" coords="411,5,599,47"/>
+<area shape="rect" id="node4" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title="Widget::cleanupNotification\lSound" alt="" coords="408,71,603,112"/>
+</map>

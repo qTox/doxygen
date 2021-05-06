@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['v',['v',['../structToxYUVFrame.html#ab799fdaec500fdb80e7862772b28390c',1,'ToxYUVFrame']]],
+  ['value',['value',['../structSettingsSerializer_1_1Value.html#a55b26da264881250d4b9c6e1ae6fb2bd',1,'SettingsSerializer::Value']]],
+  ['values',['values',['../structSettingsSerializer_1_1Array.html#ad9450aba66ca1947c70d24f657761094',1,'SettingsSerializer::Array::values()'],['../classSettingsSerializer.html#a85fd74f469acefab798fdb800489181f',1,'SettingsSerializer::values()']]],
+  ['verlayout',['verLayout',['../classNetCamView.html#a0d6a17751a3121ea0a4b5e347299a13a',1,'NetCamView']]],
+  ['video_5fdefault_5fbitrate',['VIDEO_DEFAULT_BITRATE',['../classCoreAV.html#a9e12f3fd8cff6d64cee57bfa9038f6c9',1,'CoreAV']]],
+  ['videobutton',['videoButton',['../classChatFormHeader.html#acbc6e4b7753c74ba1eac915ec931a3c1',1,'ChatFormHeader']]],
+  ['videocount',['videoCount',['../classContentDialog.html#a288263b89b9e16f676052b4bb6dbcd6d',1,'ContentDialog']]],
+  ['videodevicelist',['videoDeviceList',['../classAVForm.html#aca8e55b1c1ac3048b60098d4e2dc24f8',1,'AVForm']]],
+  ['videoenabled',['videoEnabled',['../classToxCall.html#a9351a058f804db457a0aea646dd465c3',1,'ToxCall']]],
+  ['videoinconn',['videoInConn',['../classToxCall.html#a78f9591d140196584d61c8fcdfa2ff41',1,'ToxCall']]],
+  ['videomodes',['videoModes',['../classAVForm.html#aafc5b39a3ce2946b3957a8cdb8052f5e',1,'AVForm']]],
+  ['videopreviewbutton',['videoPreviewButton',['../classNetCamView.html#a30122349c7164a976387f2e5d377f86d',1,'NetCamView']]],
+  ['videosettings',['videoSettings',['../classAVForm.html#a59eb0fda0e9ea6d084241978f93fa902',1,'AVForm']]],
+  ['videosource',['videoSource',['../classToxCall.html#ac283590b7afd0ca8bd6ecbb4304565d4',1,'ToxCall']]],
+  ['videostate',['videoState',['../classChatFormHeader.html#a56044caf66eeffd03c64b4aa2acee610',1,'ChatFormHeader']]],
+  ['videostreamindex',['videoStreamIndex',['../classCameraSource.html#a2181868d99da18c42894988cbf93fb34',1,'CameraSource']]],
+  ['videosurface',['videoSurface',['../classNetCamView.html#ac4f42379337beec66476b197d3e487ff',1,'NetCamView']]],
+  ['videosurfacesize',['videoSurfaceSize',['../classContentDialog.html#a6f32b6ae786afb168406364846876532',1,'ContentDialog']]],
+  ['visiblelines',['visibleLines',['../classChatLog.html#a00bbb15c4bfb9473fb09190da0db9c47',1,'ChatLog']]],
+  ['volbutton',['volButton',['../classChatFormHeader.html#a106256a89750387377c37304b16ba8f7',1,'ChatFormHeader']]],
+  ['volstate',['volState',['../classChatFormHeader.html#aa6de20b026f26bfe93ccfb3ab10517d6',1,'ChatFormHeader']]],
+  ['volumebutton',['volumeButton',['../classNetCamView.html#a479200f9915acd845f2f012608fb693c',1,'NetCamView']]]
+];

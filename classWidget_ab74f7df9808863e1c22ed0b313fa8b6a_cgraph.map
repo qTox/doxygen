@@ -1,0 +1,10 @@
+<map id="Widget::onGroupDialogShown" name="Widget::onGroupDialogShown">
+<area shape="rect" id="node2" href="$classGroup.html#ad1aec7a34d26978e11f3166d339735fa" title="Group::getPersistentId" alt="" coords="267,27,432,54"/>
+<area shape="rect" id="node3" href="$classWidget.html#a5a0e96ef079ef559cdf1a0ec246eebb2" title="Widget::onDialogShown" alt="" coords="264,78,435,105"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#a3558f62ffc5d4f8389b02fd23f69698a" title="GenericChatroomWidget\l::resetEventFlags" alt="" coords="483,5,661,47"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html#a396495200786e011fee6fb3eb73626f5" title="GenericChatroomWidget\l::updateStatusLight" alt="" coords="483,71,661,112"/>
+<area shape="rect" id="node6" href="$classWidget.html#ac6dac03c495a002ff0694955aff1f0f3" title="Used to reset the blinking icon. " alt="" coords="506,137,638,163"/>
+<area shape="rect" id="node7" href="$classWidget.html#a6c7a3d2c72dea0136164108dec6e96e6" title="Widget::updateIcons" alt="" coords="709,137,860,163"/>
+<area shape="rect" id="node8" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="919,111,1083,138"/>
+<area shape="rect" id="node9" href="$classSettings.html#ab9eeed3a0e193a645e1719979d8f2105" title="Settings::getLightTrayIcon" alt="" coords="908,162,1095,189"/>
+</map>

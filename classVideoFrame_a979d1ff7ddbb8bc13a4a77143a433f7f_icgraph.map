@@ -1,0 +1,19 @@
+<map id="VideoFrame::untrackFrames" name="VideoFrame::untrackFrames">
+<area shape="rect" id="node2" href="$classCameraSource.html#a21ae4baf763bc99a2b36a7f285feb34f" title="CameraSource::~CameraSource" alt="" coords="255,168,488,195"/>
+<area shape="rect" id="node3" href="$classCameraSource.html#a3cbf9f978255ddaf522941d6603231f6" title="Closes the video device and stops streaming. " alt="" coords="270,219,473,245"/>
+<area shape="rect" id="node4" href="$classCameraSource.html#af9add1ef2031e2c35fb09e3a75bb92c1" title="Change the device and mode. " alt="" coords="536,187,741,213"/>
+<area shape="rect" id="node17" href="$classCameraSource.html#aeacf1d2f3b9a439d0191634b0424c94a" title="Stop emitting frameAvailable signals, and free associated resources if necessary. ..." alt="" coords="537,249,740,276"/>
+<area shape="rect" id="node5" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device. " alt="" coords="789,39,997,65"/>
+<area shape="rect" id="node7" href="$classAVForm.html#ad2b6d3251dcb777464153d7f2e713127" title="AVForm::open" alt="" coords="837,148,949,175"/>
+<area shape="rect" id="node11" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="1296,225,1527,266"/>
+<area shape="rect" id="node6" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="1051,5,1243,32"/>
+<area shape="rect" id="node8" href="$classAVForm.html#aa9450a6689adde55df0d1e86fd7c3234" title="AVForm::on_videoModescombo\lBox_currentIndexChanged" alt="" coords="1809,107,2031,149"/>
+<area shape="rect" id="node9" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="2092,249,2265,276"/>
+<area shape="rect" id="node10" href="$classAVForm.html#a9216e95e7c826a573ecf0cf7878631c7" title="AVForm::updateVideoModes" alt="" coords="1045,173,1248,200"/>
+<area shape="rect" id="node12" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="1318,308,1505,335"/>
+<area shape="rect" id="node13" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="1587,325,1735,352"/>
+<area shape="rect" id="node14" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="1575,401,1748,428"/>
+<area shape="rect" id="node15" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="2113,452,2244,479"/>
+<area shape="rect" id="node16" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="1796,427,2044,453"/>
+<area shape="rect" id="node18" href="$classToxCall.html#a685d97fbfb82dd715a6b40f25610b583" title="ToxCall::~ToxCall" alt="" coords="830,275,957,301"/>
+</map>

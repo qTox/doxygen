@@ -1,0 +1,30 @@
+<map id="src/persistence/settings.cpp" name="src/persistence/settings.cpp">
+<area shape="rect" id="node2" href="$settings_8h.html" title="settings.h" alt="" coords="2513,80,2598,107"/>
+<area shape="rect" id="node22" href="$core_8h.html" title="src/core/core.h" alt="" coords="1059,155,1177,181"/>
+<area shape="rect" id="node34" href="$corefile_8h.html" title="src/core/corefile.h" alt="" coords="1324,80,1459,107"/>
+<area shape="rect" id="node35" href="$nexus_8h.html" title="src/nexus.h" alt="" coords="5,155,100,181"/>
+<area shape="rect" id="node36" href="$profile_8h.html" title="src/persistence/profile.h" alt="" coords="837,80,1012,107"/>
+<area shape="rect" id="node37" href="$profilelocker_8h.html" title="src/persistence/profilelocker.h" alt="" coords="3721,80,3931,107"/>
+<area shape="rect" id="node38" href="$settingsserializer_8h.html" title="src/persistence/settingsserializer.h" alt="" coords="537,80,779,107"/>
+<area shape="rect" id="node39" href="$smileypack_8h.html" title="src/persistence/smileypack.h" alt="" coords="1544,155,1751,181"/>
+<area shape="rect" id="node40" href="$gui_8h.html" title="src/widget/gui.h" alt="" coords="124,155,245,181"/>
+<area shape="rect" id="node41" href="$style_8h.html" title="src/widget/style.h" alt="" coords="3564,80,3696,107"/>
+<area shape="rect" id="node42" href="$ipc_8h.html" title="src/ipc.h" alt="" coords="421,80,495,107"/>
+<area shape="rect" id="node4" href="$icoresettings_8h.html" title="src/core/icoresettings.h" alt="" coords="3411,155,3582,181"/>
+<area shape="rect" id="node7" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="478,155,635,181"/>
+<area shape="rect" id="node8" href="$toxfile_8h.html" title="src/core/toxfile.h" alt="" coords="1725,229,1852,256"/>
+<area shape="rect" id="node10" href="$paths_8h.html" title="src/persistence/paths.h" alt="" coords="2114,155,2285,181"/>
+<area shape="rect" id="node11" href="$ifriendsettings_8h.html" title="src/persistence/ifriendsettings.h" alt="" coords="811,155,1036,181"/>
+<area shape="rect" id="node13" href="$igroupsettings_8h.html" title="src/persistence/igroupsettings.h" alt="" coords="2309,155,2535,181"/>
+<area shape="rect" id="node14" href="$inotificationsettings_8h.html" title="src/persistence/inotificationsettings.h" alt="" coords="2559,155,2818,181"/>
+<area shape="rect" id="node15" href="$ivideosettings_8h.html" title="src/video/ivideosettings.h" alt="" coords="2843,155,3025,181"/>
+<area shape="rect" id="node23" href="$groupid_8h.html" title="groupid.h" alt="" coords="1157,304,1239,331"/>
+<area shape="rect" id="node24" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="347,229,550,256"/>
+<area shape="rect" id="node25" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="297,304,403,331"/>
+<area shape="rect" id="node27" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="772,229,976,256"/>
+<area shape="rect" id="node28" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="1051,229,1187,256"/>
+<area shape="rect" id="node29" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="979,379,1049,405"/>
+<area shape="rect" id="node30" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="625,229,747,256"/>
+<area shape="rect" id="node31" href="$toxid_8h.html" title="toxid.h" alt="" coords="604,304,669,331"/>
+<area shape="rect" id="node32" href="$status_8h.html" title="src/model/status.h" alt="" coords="1363,229,1505,256"/>
+</map>

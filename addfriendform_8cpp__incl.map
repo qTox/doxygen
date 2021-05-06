@@ -1,0 +1,23 @@
+<map id="src/widget/form/addfriendform.cpp" name="src/widget/form/addfriendform.cpp">
+<area shape="rect" id="node2" href="$addfriendform_8h.html" title="addfriendform.h" alt="" coords="2997,80,3121,107"/>
+<area shape="rect" id="node12" href="$core_8h.html" title="src/core/core.h" alt="" coords="898,80,1015,107"/>
+<area shape="rect" id="node29" href="$nexus_8h.html" title="src/nexus.h" alt="" coords="2432,80,2527,107"/>
+<area shape="rect" id="node31" href="$settings_8h.html" title="src/persistence/settings.h" alt="" coords="2045,80,2231,107"/>
+<area shape="rect" id="node36" href="$contentlayout_8h.html" title="src/widget/contentlayout.h" alt="" coords="3145,80,3336,107"/>
+<area shape="rect" id="node37" href="$gui_8h.html" title="src/widget/gui.h" alt="" coords="2287,80,2408,107"/>
+<area shape="rect" id="node38" href="$croppinglabel_8h.html" title="src/widget/tool/croppinglabel.h" alt="" coords="2759,80,2973,107"/>
+<area shape="rect" id="node39" href="$style_8h.html" title="src/widget/style.h" alt="" coords="2603,80,2735,107"/>
+<area shape="rect" id="node40" href="$translator_8h.html" title="src/widget/translator.h" alt="" coords="1595,80,1758,107"/>
+<area shape="rect" id="node3" href="$toxid_8h.html" title="src/core/toxid.h" alt="" coords="361,229,481,256"/>
+<area shape="rect" id="node4" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="337,304,406,331"/>
+<area shape="rect" id="node13" href="$groupid_8h.html" title="groupid.h" alt="" coords="203,229,286,256"/>
+<area shape="rect" id="node14" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="1255,155,1458,181"/>
+<area shape="rect" id="node15" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="835,229,942,256"/>
+<area shape="rect" id="node17" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="556,155,760,181"/>
+<area shape="rect" id="node18" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="97,155,233,181"/>
+<area shape="rect" id="node19" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="307,155,430,181"/>
+<area shape="rect" id="node20" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="1737,155,1809,181"/>
+<area shape="rect" id="node22" href="$status_8h.html" title="src/model/status.h" alt="" coords="886,155,1027,181"/>
+<area shape="rect" id="node33" href="$icoresettings_8h.html" title="src/core/icoresettings.h" alt="" coords="1833,155,2003,181"/>
+<area shape="rect" id="node34" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="2214,155,2371,181"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CoreAV::stateCallback" name="CoreAV::stateCallback">
+<area shape="rect" id="node2" href="$classToxFriendCall.html#ae196472b4200030c5eed958a55ab3ae7" title="ToxFriendCall::getState" alt="" coords="240,5,407,32"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a82772647ab86dca63abcf114ccd5c32c" title="ToxCall::setActive" alt="" coords="257,56,389,83"/>
+<area shape="rect" id="node4" href="$classToxCall.html#a24f6ecbc0c73ac62cbd10ab8e958e98c" title="ToxCall::getVideoEnabled" alt="" coords="233,107,414,133"/>
+<area shape="rect" id="node5" href="$classToxFriendCall.html#ae375bdc0acfedf54da491aeec748944e" title="ToxFriendCall::setState" alt="" coords="240,157,407,184"/>
+<area shape="rect" id="node6" href="$classToxCall.html#a2b2ba6bba61e54f703f46a868aa27c3b" title="ToxCall::getVideoSource" alt="" coords="236,208,411,235"/>
+<area shape="rect" id="node7" href="$classCoreVideoSource.html#ae0fd7ae1b057d641669b5427796f22f0" title="Stopping the source. " alt="" coords="216,259,431,285"/>
+<area shape="rect" id="node8" href="$classCoreVideoSource.html#a6b682ef3178ea66eb0e58da35b827e76" title="CoreVideoSource::restart\lSource" alt="" coords="231,310,415,351"/>
+</map>

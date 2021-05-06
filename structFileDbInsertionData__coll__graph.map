@@ -1,0 +1,4 @@
+<map id="FileDbInsertionData" name="FileDbInsertionData">
+<area shape="rect" id="node2" href="$classToxPk.html" title="This class represents a Tox Public Key, which is a part of Tox ID. " alt="" coords="43,308,138,444"/>
+<area shape="rect" id="node3" href="$classContactId.html" title="{ContactId\n|# id\l|+ ~ContactId()\l+ operator=()\l+ operator=()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ toString()\l+ getByteArray()\l+ getData()\l+ isEmpty()\l+ getSize()\l# ContactId()\l# ContactId()\l}" alt="" coords="25,5,156,259"/>
+</map>

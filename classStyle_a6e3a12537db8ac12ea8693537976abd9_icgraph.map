@@ -1,0 +1,51 @@
+<map id="Style::repolish" name="Style::repolish">
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a543a2ddd1ff11de15c76ddd97d0556a4" title="FileTransferWidget\l::setBackgroundColor" alt="" coords="218,91,377,132"/>
+<area shape="rect" id="node8" href="$classCategoryWidget.html#a68bf5f6448eebce7c19fe77ec92534b9" title="CategoryWidget::onCompact\lChanged" alt="" coords="195,188,400,229"/>
+<area shape="rect" id="node15" href="$classCategoryWidget.html#ac074424b758ba7d0bf585093684804b3" title="CategoryWidget::setContainer\lAttribute" alt="" coords="191,337,404,379"/>
+<area shape="rect" id="node20" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="165,562,429,589"/>
+<area shape="rect" id="node38" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title="GenericChatroomWidget\l::setActive" alt="" coords="208,1061,387,1103"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a79db3260e7f12557b419f6f5c5c8de1a" title="FileTransferWidget\l::updateBackgroundColor" alt="" coords="512,57,696,99"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a5b761e2be24d890d3407ac6a570a5711" title="FileTransferWidget\l::reloadTheme" alt="" coords="1105,71,1240,112"/>
+<area shape="rect" id="node6" href="$classFileTransferWidget.html#a074cb8d5064a836a6f72e9b465fa1747" title="FileTransferWidget\l::updateWidgetColor" alt="" coords="821,7,971,48"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#a8fc35943d260f232e976b1aba85dc99a" title="FileTransferWidget\l::FileTransferWidget" alt="" coords="1374,39,1517,80"/>
+<area shape="rect" id="node7" href="$classFileTransferWidget.html#a70ea2ed928e6b4cd22645d5c7097070c" title="FileTransferWidget\l::updateWidget" alt="" coords="1105,5,1240,47"/>
+<area shape="rect" id="node9" href="$classCategoryWidget.html#a6e9cf5b8d47d40c256cf2e13df3e0505" title="CategoryWidget::Category\lWidget" alt="" coords="509,123,699,164"/>
+<area shape="rect" id="node10" href="$classFriendListWidget.html#a3760bbbe8256b82cf5349ad59011f89a" title="FriendListWidget::create\lCircleWidget" alt="" coords="517,188,691,229"/>
+<area shape="rect" id="node11" href="$classFriendListWidget.html#ac95b76edcb63ba5a1cecf69aed7d15c2" title="FriendListWidget::addCircle\lWidget" alt="" coords="800,188,992,229"/>
+<area shape="rect" id="node12" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title="FriendListWidget::sortByMode" alt="" coords="1068,145,1277,171"/>
+<area shape="rect" id="node13" href="$classFriendWidget.html#aa43f8d1662249a20a17c3e0d8b2dcb56" title="FriendWidget::moveToNewCircle" alt="" coords="1061,195,1284,222"/>
+<area shape="rect" id="node14" href="$classWidget.html#a73e3614ec756fd20e8dd05f2e14d62d2" title="Widget::friendListContextMenu" alt="" coords="1065,246,1281,273"/>
+<area shape="rect" id="node16" href="$classCircleWidget.html#a5d1caa515e64e6c168e98e8b1c491b15" title="CircleWidget::contextMenu\lEvent" alt="" coords="509,253,699,295"/>
+<area shape="rect" id="node17" href="$classCircleWidget.html#a5d42894ddc79e25d3924b53064ce9674" title="CircleWidget::dragEnterEvent" alt="" coords="501,319,707,346"/>
+<area shape="rect" id="node18" href="$classCircleWidget.html#a5ad086e45993465de7e296f511d57733" title="CircleWidget::dragLeaveEvent" alt="" coords="499,370,709,397"/>
+<area shape="rect" id="node19" href="$classCircleWidget.html#a1c8e76b3055133c611cfcf97e99be091" title="CircleWidget::dropEvent" alt="" coords="517,421,691,447"/>
+<area shape="rect" id="node21" href="$classChatFormHeader.html#ad0b5e8211f9542999220705d086aecba" title="ChatFormHeader::ChatForm\lHeader" alt="" coords="503,653,705,695"/>
+<area shape="rect" id="node22" href="$classChatFormHeader.html#aa5863eb88909b66d436987a068d3d72a" title="ChatFormHeader::showOutgoingCall" alt="" coords="477,471,731,498"/>
+<area shape="rect" id="node27" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title="ChatFormHeader::updateCall\lButtons" alt="" coords="500,588,708,629"/>
+<area shape="rect" id="node32" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title="ChatFormHeader::updateMute\lMicButton" alt="" coords="495,719,713,760"/>
+<area shape="rect" id="node35" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title="ChatFormHeader::updateMute\lVolButton" alt="" coords="495,523,713,564"/>
+<area shape="rect" id="node23" href="$classChatForm.html#a535c3f564181af5c6a17c7f6ddcaf75a" title="ChatForm::showOutgoingCall" alt="" coords="1069,417,1276,443"/>
+<area shape="rect" id="node24" href="$classChatForm.html#ade86d40c791c80ad9cf1195feeb2e64f" title="ChatForm::onCallTriggered" alt="" coords="1350,467,1541,494"/>
+<area shape="rect" id="node26" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="1332,417,1559,443"/>
+<area shape="rect" id="node25" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1607,493,1763,519"/>
+<area shape="rect" id="node28" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="1067,569,1278,595"/>
+<area shape="rect" id="node30" href="$classGroupChatForm.html#ab08a1498f127d0b7f7beadc2341afc76" title="GroupChatForm::onCallClicked" alt="" coords="788,551,1004,578"/>
+<area shape="rect" id="node31" href="$classGroupChatForm.html#af3be81f6692bf3e7ccafce617b2d0d00" title="Updates users&#39; count label text. " alt="" coords="793,653,999,695"/>
+<area shape="rect" id="node29" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="1367,569,1523,595"/>
+<area shape="rect" id="node33" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title="ChatForm::updateMuteMicButton" alt="" coords="779,785,1013,811"/>
+<area shape="rect" id="node34" href="$classGroupChatForm.html#abf13cbf54e975d36b21e11ee015132a3" title="GroupChatForm::onMicMute\lToggle" alt="" coords="795,719,997,760"/>
+<area shape="rect" id="node36" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title="ChatForm::updateMuteVolButton" alt="" coords="780,501,1012,527"/>
+<area shape="rect" id="node37" href="$classGroupChatForm.html#ac87a6743aec7d66d086fa9581674f3b5" title="GroupChatForm::onVolMute\lToggle" alt="" coords="797,435,995,476"/>
+<area shape="rect" id="node39" href="$classFriendWidget.html#a2dd0413b35564a3068fa01b11f1ef36c" title="FriendWidget::setActive" alt="" coords="519,927,689,954"/>
+<area shape="rect" id="node43" href="$classGenericChatroomWidget.html#a5c205d1613e2e396fbdb89ab1dc3770b" title="GenericChatroomWidget\l::getGroup" alt="" coords="515,1061,693,1103"/>
+<area shape="rect" id="node49" href="$classGroupWidget.html#a6dbc412fca0bb01f1bbc704880055281" title="GroupWidget::setAsActive\lChatroom" alt="" coords="511,1127,697,1168"/>
+<area shape="rect" id="node50" href="$classGroupWidget.html#a1b17053e7238d677654f5b7351e01f3c" title="GroupWidget::setAsInactive\lChatroom" alt="" coords="505,1192,703,1233"/>
+<area shape="rect" id="node40" href="$classFriendWidget.html#a23b46c808e87f2e0b26fa5e674d30f4e" title="FriendWidget::FriendWidget" alt="" coords="800,835,992,862"/>
+<area shape="rect" id="node41" href="$classFriendWidget.html#a08020c65585967fa1c21a4aa028bc70c" title="FriendWidget::setAsActive\lChatroom" alt="" coords="803,887,989,928"/>
+<area shape="rect" id="node42" href="$classFriendWidget.html#adc9192ea33672f2467430dbd0952cabe" title="FriendWidget::setAsInactive\lChatroom" alt="" coords="798,952,994,993"/>
+<area shape="rect" id="node44" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon. " alt="" coords="800,1120,992,1161"/>
+<area shape="rect" id="node45" href="$classContentDialog.html#a313b7b13cc806a1fc069248686d0a7fd" title="ContentDialog::event" alt="" coords="1094,1157,1251,1183"/>
+<area shape="rect" id="node46" href="$classGroupWidget.html#a9537637d1371a987a117d9dd2be43a52" title="GroupWidget::GroupWidget" alt="" coords="799,1237,993,1263"/>
+<area shape="rect" id="node47" href="$classWidget.html#a9e0305229bb57666c2228c49fb59ba8f" title="Widget::openDialog" alt="" coords="823,1018,969,1045"/>
+<area shape="rect" id="node48" href="$classWidget.html#a316169983232860fb1d1110e2d914187" title="Widget::focusChatInput" alt="" coords="811,1069,981,1095"/>
+</map>

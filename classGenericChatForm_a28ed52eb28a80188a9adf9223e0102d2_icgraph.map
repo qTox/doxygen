@@ -1,0 +1,6 @@
+<map id="GenericChatForm::hideFileMenu" name="GenericChatForm::hideFileMenu">
+<area shape="rect" id="node2" href="$classChatForm.html#a060864869ee24c333641373ad8b58efc" title="ChatForm::onScreenshotClicked" alt="" coords="277,5,504,32"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#a302b2a413db4deb98b97f351c702c80b" title="GenericChatForm::hideEvent" alt="" coords="288,56,493,83"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#a4382ccc031dd677f2a0edcbf05dfb527" title="GenericChatForm::eventFilter" alt="" coords="287,107,495,133"/>
+<area shape="rect" id="node4" href="$classChatForm.html#ae91ae757823da61ccb3349ca1abe2028" title="ChatForm::hideEvent" alt="" coords="552,56,708,83"/>
+</map>

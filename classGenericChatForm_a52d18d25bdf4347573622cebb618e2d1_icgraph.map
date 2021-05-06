@@ -1,0 +1,23 @@
+<map id="GenericChatForm::insertChatMessage" name="GenericChatForm::insertChatMessage">
+<area shape="rect" id="node2" href="$classChatForm.html#a253dd2704f8d0c495cbb2d83ca9ed100" title="ChatForm::insertChatMessage" alt="" coords="1088,19,1304,45"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#ad97879f88fff096c93f26a6988366cc5" title="GenericChatForm::addSystem\lInfoMessage" alt="" coords="261,353,476,394"/>
+<area shape="rect" id="node22" href="$classGenericChatForm.html#a8ff69d9a46020813cd85d6ba807244de" title="GenericChatForm::addSystem\lDateMessage" alt="" coords="261,418,476,459"/>
+<area shape="rect" id="node3" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="1849,5,2008,32"/>
+<area shape="rect" id="node4" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="2095,157,2251,184"/>
+<area shape="rect" id="node6" href="$classChatForm.html#a535c3f564181af5c6a17c7f6ddcaf75a" title="ChatForm::showOutgoingCall" alt="" coords="537,208,744,235"/>
+<area shape="rect" id="node13" href="$classChatForm.html#a8852b8aaa0bf6a647eddd3076e5ed69c" title="ChatForm::onFriendStatus\lChanged" alt="" coords="828,310,1017,351"/>
+<area shape="rect" id="node14" href="$classChatForm.html#a6c5093fbadcbd9af18bcaee239cfb021" title="ChatForm::stopCounter" alt="" coords="1591,259,1763,285"/>
+<area shape="rect" id="node16" href="$classGenericChatForm.html#afeea0440aedece73b0701be9cad171d6" title="GenericChatForm::clearChatArea" alt="" coords="524,528,757,555"/>
+<area shape="rect" id="node17" href="$classGroupChatForm.html#a5dc1946aa50d397fcf17df44d1acd0c8" title="GroupChatForm::onTitleChanged" alt="" coords="525,477,756,504"/>
+<area shape="rect" id="node19" href="$classGroupChatForm.html#a84c9cd80436db81c1ae2dfdffcc2d466" title="GroupChatForm::onUserJoined" alt="" coords="533,579,749,605"/>
+<area shape="rect" id="node20" href="$classGroupChatForm.html#ae2c153da2ca744ce9a38ba817914ac35" title="GroupChatForm::onUserLeft" alt="" coords="539,360,742,387"/>
+<area shape="rect" id="node21" href="$classGroupChatForm.html#a52cbd2a8e7738e2ba6d159bd3b0af40d" title="GroupChatForm::onPeerName\lChanged" alt="" coords="533,411,749,453"/>
+<area shape="rect" id="node7" href="$classChatForm.html#ade86d40c791c80ad9cf1195feeb2e64f" title="ChatForm::onCallTriggered" alt="" coords="1352,208,1543,235"/>
+<area shape="rect" id="node8" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="809,157,1036,184"/>
+<area shape="rect" id="node9" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="1103,100,1289,127"/>
+<area shape="rect" id="node10" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="1359,95,1535,121"/>
+<area shape="rect" id="node11" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="1599,95,1755,121"/>
+<area shape="rect" id="node12" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="1811,107,2047,133"/>
+<area shape="rect" id="node15" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="1855,259,2003,285"/>
+<area shape="rect" id="node18" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="805,448,1040,475"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="IVideoSettings::getVideoDev" name="IVideoSettings::getVideoDev">
+<area shape="rect" id="node2" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title="AVForm::getVideoDevices" alt="" coords="257,56,444,83"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title="AVForm::showEvent" alt="" coords="763,5,911,32"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="1009,81,1183,108"/>
+<area shape="rect" id="node5" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title="AVForm::rescanDevices" alt="" coords="492,132,665,159"/>
+<area shape="rect" id="node6" href="$classAVForm.html#ae06f7d485f9168f98e20c4997a083332" title="AVForm::AVForm" alt="" coords="1031,183,1161,209"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title="AVForm::trackNewScreenGeometry" alt="" coords="713,157,961,184"/>
+</map>

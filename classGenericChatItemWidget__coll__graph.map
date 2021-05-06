@@ -1,0 +1,3 @@
+<map id="GenericChatItemWidget" name="GenericChatItemWidget">
+<area shape="rect" id="node3" href="$classCroppingLabel.html" title="{CroppingLabel\n|&#45; origText\l&#45; textEdit\l&#45; blockPaintEvents\l&#45; editable\l&#45; elideMode\l|+ CroppingLabel()\l+ editBegin()\l+ setEditable()\l+ setElideMode()\l+ fullText()\l+ setText()\l+ setPlaceholderText()\l+ minimizeMaximumWidth()\l# paintEvent()\l# setElidedText()\l# hideTextEdit()\l# showTextEdit()\l# resizeEvent()\l# sizeHint()\l# minimumSizeHint()\l# mouseReleaseEvent()\l&#45; editingFinished()\l}" alt="" coords="114,132,317,503"/>
+</map>

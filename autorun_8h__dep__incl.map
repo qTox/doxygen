@@ -1,0 +1,5 @@
+<map id="src/platform/autorun.h" name="src/platform/autorun.h">
+<area shape="rect" id="node2" href="$autorun__osx_8cpp.html" title="src/platform/autorun\l_osx.cpp" alt="" coords="5,80,159,121"/>
+<area shape="rect" id="node3" href="$autorun__win_8cpp.html" title="src/platform/autorun\l_win.cpp" alt="" coords="183,80,336,121"/>
+<area shape="rect" id="node4" href="$autorun__xdg_8cpp.html" title="src/platform/autorun\l_xdg.cpp" alt="" coords="360,80,513,121"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="src/widget/form/settings/genericsettings.h" name="src/widget/form/settings/genericsettings.h">
+<area shape="rect" id="node2" href="$aboutform_8h.html" title="src/widget/form/settings\l/aboutform.h" alt="" coords="139,95,313,136"/>
+<area shape="rect" id="node5" href="$advancedform_8h.html" title="src/widget/form/settings\l/advancedform.h" alt="" coords="337,95,512,136"/>
+<area shape="rect" id="node7" href="$avform_8h.html" title="src/widget/form/settings\l/avform.h" alt="" coords="536,95,711,136"/>
+<area shape="rect" id="node9" href="$generalform_8h.html" title="src/widget/form/settings\l/generalform.h" alt="" coords="735,95,909,136"/>
+<area shape="rect" id="node11" href="$genericsettings_8cpp.html" title="src/widget/form/settings\l/genericsettings.cpp" alt="" coords="1331,95,1505,136"/>
+<area shape="rect" id="node12" href="$privacyform_8h.html" title="src/widget/form/settings\l/privacyform.h" alt="" coords="933,95,1108,136"/>
+<area shape="rect" id="node14" href="$userinterfaceform_8h.html" title="src/widget/form/settings\l/userinterfaceform.h" alt="" coords="1132,95,1307,136"/>
+<area shape="rect" id="node3" href="$aboutform_8cpp.html" title="src/widget/form/settings\l/aboutform.cpp" alt="" coords="5,184,180,225"/>
+<area shape="rect" id="node4" href="$settingswidget_8cpp.html" title="src/widget/form/settingswidget.cpp" alt="" coords="602,191,845,218"/>
+<area shape="rect" id="node6" href="$advancedform_8cpp.html" title="src/widget/form/settings\l/advancedform.cpp" alt="" coords="204,184,379,225"/>
+<area shape="rect" id="node8" href="$avform_8cpp.html" title="src/widget/form/settings\l/avform.cpp" alt="" coords="403,184,577,225"/>
+<area shape="rect" id="node10" href="$generalform_8cpp.html" title="src/widget/form/settings\l/generalform.cpp" alt="" coords="869,184,1044,225"/>
+<area shape="rect" id="node13" href="$privacyform_8cpp.html" title="src/widget/form/settings\l/privacyform.cpp" alt="" coords="1068,184,1243,225"/>
+<area shape="rect" id="node15" href="$userinterfaceform_8cpp.html" title="src/widget/form/settings\l/userinterfaceform.cpp" alt="" coords="1267,184,1441,225"/>
+</map>

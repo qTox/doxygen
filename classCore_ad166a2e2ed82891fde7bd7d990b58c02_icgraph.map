@@ -1,0 +1,51 @@
+<map id="Core::getAv" name="Core::getAv">
+<area shape="rect" id="node2" href="$classCoreAV.html#a755de116aa91e3b4c3a0f29fb8b6f422" title="Called from Tox API when group call receives audio data. " alt="" coords="172,227,361,253"/>
+<area shape="rect" id="node12" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="2160,97,2359,124"/>
+<area shape="rect" id="node22" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1808,743,1964,769"/>
+<area shape="rect" id="node23" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="1563,971,1721,997"/>
+<area shape="rect" id="node24" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="1524,717,1760,744"/>
+<area shape="rect" id="node25" href="$classChatForm.html#ade86d40c791c80ad9cf1195feeb2e64f" title="ChatForm::onCallTriggered" alt="" coords="1271,464,1461,491"/>
+<area shape="rect" id="node26" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="432,1021,659,1048"/>
+<area shape="rect" id="node27" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="731,869,917,896"/>
+<area shape="rect" id="node30" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="993,717,1204,744"/>
+<area shape="rect" id="node33" href="$classChatForm.html#a3112589852659f68a0a36d957bc53682" title="ChatForm::onMicMuteToggle" alt="" coords="444,667,647,693"/>
+<area shape="rect" id="node34" href="$classChatForm.html#a8e3859ece13f69fe8da2418db4525371" title="ChatForm::onVolMuteToggle" alt="" coords="445,920,645,947"/>
+<area shape="rect" id="node35" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title="ChatForm::updateMuteMicButton" alt="" coords="149,755,384,781"/>
+<area shape="rect" id="node37" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title="ChatForm::updateMuteVolButton" alt="" coords="151,819,383,845"/>
+<area shape="rect" id="node38" href="$classGroupChatForm.html#abf13cbf54e975d36b21e11ee015132a3" title="GroupChatForm::onMicMute\lToggle" alt="" coords="166,1073,367,1114"/>
+<area shape="rect" id="node42" href="$classGroupChatForm.html#ac87a6743aec7d66d086fa9581674f3b5" title="GroupChatForm::onVolMute\lToggle" alt="" coords="167,1138,366,1179"/>
+<area shape="rect" id="node43" href="$classGroupChatForm.html#ab08a1498f127d0b7f7beadc2341afc76" title="GroupChatForm::onCallClicked" alt="" coords="437,1305,653,1332"/>
+<area shape="rect" id="node44" href="$classGroupChatForm.html#a6d0486c32ee02b1102c0cf3ce765120e" title="GroupChatForm::joinGroupCall" alt="" coords="159,1372,375,1399"/>
+<area shape="rect" id="node45" href="$classGroupChatForm.html#afedc07935df8c22150c12ff5ea9563cf" title="GroupChatForm::leaveGroupCall" alt="" coords="153,1204,381,1231"/>
+<area shape="rect" id="node46" href="$classSettingsWidget.html#a5395e06a3da833fdb83dc20ea5ccb7a1" title="SettingsWidget::Settings\lWidget" alt="" coords="177,1255,356,1297"/>
+<area shape="rect" id="node47" href="$classWidget.html#ab210ef2f3315c31786bc300e76b5ffa8" title="Widget::onRejectCall" alt="" coords="749,312,899,339"/>
+<area shape="rect" id="node48" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title="Widget::createGroup" alt="" coords="1022,363,1175,389"/>
+<area shape="rect" id="node3" href="$classCore.html#ad1ebcac9f4ea64560d076f011b0b386e" title="Core::loadGroups" alt="" coords="479,252,612,279"/>
+<area shape="rect" id="node7" href="$classCore.html#ab335c254cef23e3c8d6a1f3e2291718a" title="Accept a groupchat invite. " alt="" coords="471,168,620,195"/>
+<area shape="rect" id="node17" href="$classCore.html#a514410817cad3ff8c78dc67e2650e969" title="Core::createGroup" alt="" coords="475,101,615,128"/>
+<area shape="rect" id="node4" href="$classCore.html#ae4d185eaa869d82d63754e446ea45c73" title="Core::onStarted" alt="" coords="762,261,886,288"/>
+<area shape="rect" id="node5" href="$classCore.html#a5704c674f8b4214bd200b5f4a595f46e" title="Factory method for the Core object. " alt="" coords="1025,261,1172,288"/>
+<area shape="rect" id="node6" href="$classProfile.html#a95bfc4ae33dc4a80a48c1e2f126ab48f" title="Profile::initCore" alt="" coords="1307,211,1425,237"/>
+<area shape="rect" id="node8" href="$classWidget.html#a4bc30bf0f9afbd7cba25237152b785ff" title="Widget::onGroupInviteAccepted" alt="" coords="713,144,935,171"/>
+<area shape="rect" id="node9" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1053,93,1145,120"/>
+<area shape="rect" id="node15" href="$classWidget.html#a0be320a889ace3ff0087af6dfe4ea3b8" title="Widget::onGroupInviteReceived" alt="" coords="989,144,1208,171"/>
+<area shape="rect" id="node10" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1809,97,1963,124"/>
+<area shape="rect" id="node11" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="2012,97,2112,124"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2591,72,2645,99"/>
+<area shape="rect" id="node14" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="2407,47,2543,73"/>
+<area shape="rect" id="node16" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="1554,261,1730,288"/>
+<area shape="rect" id="node18" href="$classFriendChatroom.html#a937e54b28546b3359e31f081dfe035b9" title="FriendChatroom::inviteTo\lNewGroup" alt="" coords="735,195,913,237"/>
+<area shape="rect" id="node21" href="$classWidget.html#a73e3614ec756fd20e8dd05f2e14d62d2" title="Widget::friendListContextMenu" alt="" coords="716,93,932,120"/>
+<area shape="rect" id="node19" href="$classFriendWidget.html#a3a8fe557dc813d12eeaccd881b1552b0" title="FriendWidget::onContextMenuCalled. " alt="" coords="993,195,1205,237"/>
+<area shape="rect" id="node20" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="1299,261,1433,288"/>
+<area shape="rect" id="node28" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="1011,869,1187,896"/>
+<area shape="rect" id="node29" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="1288,869,1444,896"/>
+<area shape="rect" id="node31" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="1568,600,1716,627"/>
+<area shape="rect" id="node32" href="$classChatForm.html#a8852b8aaa0bf6a647eddd3076e5ed69c" title="ChatForm::onFriendStatus\lChanged" alt="" coords="1547,651,1737,693"/>
+<area shape="rect" id="node36" href="$classChatForm.html#ab03ef8ef78d99f8254016b164a412908" title="ChatForm::retranslateUi" alt="" coords="457,768,633,795"/>
+<area shape="rect" id="node39" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="707,1240,941,1267"/>
+<area shape="rect" id="node40" href="$classGroupChatForm.html#a402b3a50a8e0abec94d10476aafd969a" title="GroupChatForm::keyPressEvent" alt="" coords="433,1139,658,1165"/>
+<area shape="rect" id="node41" href="$classGroupChatForm.html#a0de15ee7d423daf8447466c5af89b3be" title="GroupChatForm::keyRelease\lEvent" alt="" coords="444,1073,647,1114"/>
+<area shape="rect" id="node49" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title="Widget::onEmptyGroupCreated" alt="" coords="1256,312,1476,339"/>
+<area shape="rect" id="node50" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title="Widget::onGroupJoined" alt="" coords="1283,363,1449,389"/>
+</map>

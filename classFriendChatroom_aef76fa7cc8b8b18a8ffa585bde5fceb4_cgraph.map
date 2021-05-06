@@ -1,0 +1,5 @@
+<map id="FriendChatroom::inviteFriend" name="FriendChatroom::inviteFriend">
+<area shape="rect" id="node2" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="292,5,392,32"/>
+<area shape="rect" id="node3" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="291,56,393,83"/>
+<area shape="rect" id="node4" href="$classCore.html#a4758204ad50848b3030abebff4c8d363" title="Core::groupInviteFriend" alt="" coords="257,107,427,133"/>
+</map>

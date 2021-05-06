@@ -1,0 +1,4 @@
+<map id="Widget::playNotificationSound" name="Widget::playNotificationSound">
+<area shape="rect" id="node2" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title="Settings::getAudioOutDev\lEnabled" alt="" coords="227,5,415,47"/>
+<area shape="rect" id="node3" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title="Widget::cleanupNotification\lSound" alt="" coords="224,71,419,112"/>
+</map>

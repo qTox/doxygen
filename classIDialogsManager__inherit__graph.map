@@ -1,0 +1,3 @@
+<map id="IDialogsManager" name="IDialogsManager">
+<area shape="rect" id="node2" href="$classContentDialogManager.html" title="{ContentDialogManager\n|&#45; currentDialog\l&#45; contactDialogs\l&#45; instance\l|+ current()\l+ contactWidgetExists()\l+ focusContact()\l+ updateFriendStatus()\l+ updateGroupStatus()\l+ isContactActive()\l+ getFriendDialog()\l+ getGroupDialog()\l+ getFriendDialogs()\l+ getGroupDialogs()\l+ addFriendToDialog()\l+ addGroupToDialog()\l+ addContentDialog()\l+ getInstance()\l&#45; focusDialog()\l&#45; onDialogClose()\l&#45; onDialogActivate()\l}" alt="" coords="5,160,180,501"/>
+</map>

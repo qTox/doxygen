@@ -1,0 +1,11 @@
+<map id="GroupChatForm::keyPressEvent" name="GroupChatForm::keyPressEvent">
+<area shape="rect" id="node2" href="$classGroupChatForm.html#abf13cbf54e975d36b21e11ee015132a3" title="GroupChatForm::onMicMute\lToggle" alt="" coords="279,86,480,127"/>
+<area shape="rect" id="node3" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="589,5,685,32"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#ad4b206bfedf18ef2aa625f216d51ff43" title="Returns the group calls input (microphone) state. " alt="" coords="547,57,727,98"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#a0d301559460184f5f9a46d9316a2999c" title="Mutes or unmutes the group call&#39;s input (microphone). " alt="" coords="554,123,719,149"/>
+<area shape="rect" id="node7" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title="ChatFormHeader::updateMute\lMicButton" alt="" coords="528,174,745,215"/>
+<area shape="rect" id="node5" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="875,93,976,120"/>
+<area shape="rect" id="node8" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="793,181,1057,208"/>
+<area shape="rect" id="node9" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title="ChatFormHeader::retranslateUi" alt="" coords="1105,156,1328,183"/>
+<area shape="rect" id="node10" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="1161,207,1273,233"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AboutFriend::getAvatar" name="AboutFriend::getAvatar">
+<area shape="rect" id="node2" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="221,5,369,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="230,56,361,83"/>
+<area shape="rect" id="node6" href="$classProfile.html#a555138ddaeb083aca04e317fb17f12af" title="Get our avatar from cache. " alt="" coords="227,107,364,133"/>
+<area shape="rect" id="node4" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="417,56,563,83"/>
+<area shape="rect" id="node5" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="611,56,721,83"/>
+</map>

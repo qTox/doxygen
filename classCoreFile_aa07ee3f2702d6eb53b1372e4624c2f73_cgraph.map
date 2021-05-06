@@ -1,0 +1,6 @@
+<map id="CoreFile::connectCallbacks" name="CoreFile::connectCallbacks">
+<area shape="rect" id="node2" href="$classCoreFile.html#afdd4e5322e21747dcc90f41d2d5aee4f" title="CoreFile::onFileDataCallback" alt="" coords="253,5,453,32"/>
+<area shape="rect" id="node3" href="$classCoreFile.html#a8e4c2a707951a5a504b7ed39501f02b6" title="CoreFile::onFileReceiveCallback" alt="" coords="244,56,461,83"/>
+<area shape="rect" id="node4" href="$classCoreFile.html#a6aaa04f6e47107fe4d45d3c10c7e82bd" title="CoreFile::onFileRecvChunk\lCallback" alt="" coords="260,107,445,149"/>
+<area shape="rect" id="node5" href="$classCoreFile.html#a7772b2dab0951438f70853c3c10365bf" title="CoreFile::onFileControlCallback" alt="" coords="245,173,460,200"/>
+</map>

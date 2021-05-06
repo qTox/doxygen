@@ -1,0 +1,8 @@
+<map id="ChatForm::onSplitterMoved" name="ChatForm::onSplitterMoved">
+<area shape="rect" id="node2" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1217,68,1373,95"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a4bb12bb36c730b6a2467407dc3044687" title="ChatForm::onShowMessages\lClicked" alt="" coords="251,65,457,106"/>
+<area shape="rect" id="node4" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="505,77,681,104"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="729,88,885,115"/>
+<area shape="rect" id="node6" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="972,93,1131,120"/>
+<area shape="rect" id="node7" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="933,144,1169,171"/>
+</map>

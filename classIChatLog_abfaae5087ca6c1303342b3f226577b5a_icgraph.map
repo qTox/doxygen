@@ -1,0 +1,5 @@
+<map id="IChatLog::getDateIdxs" name="IChatLog::getDateIdxs">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a2d556cb8a0a1d103e114b8a4d238b137" title="Searches for name (possibly alias) of someone with specified public key among all of your friends or ..." alt="" coords="216,5,404,47"/>
+<area shape="rect" id="node3" href="$classLoadHistoryDialog.html#a4acc85e6c3f037a497db6ea65081f488" title="LoadHistoryDialog::\lhighlightDates" alt="" coords="237,71,383,112"/>
+<area shape="rect" id="node4" href="$classLoadHistoryDialog.html#a3cd286ffac0552867875136cab9bfe3f" title="LoadHistoryDialog::\lLoadHistoryDialog" alt="" coords="452,71,599,112"/>
+</map>

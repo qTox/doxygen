@@ -1,0 +1,5 @@
+<map id="ChatTextEdit::keyPressEvent" name="ChatTextEdit::keyPressEvent">
+<area shape="rect" id="node2" href="$classChatTextEdit.html#aea5e18e908ab2f1ecdf9fe9c7cbbf427" title="ChatTextEdit::sendKeyEvent" alt="" coords="256,31,455,57"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#a92900c8df54e2233c4e91f68272880e7" title="GenericChatForm::event" alt="" coords="503,5,681,32"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#a4382ccc031dd677f2a0edcbf05dfb527" title="GenericChatForm::eventFilter" alt="" coords="729,31,937,57"/>
+</map>

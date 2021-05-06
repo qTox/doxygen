@@ -1,0 +1,27 @@
+<map id="ChatHistory::onMessageSent" name="ChatHistory::onMessageSent">
+<area shape="rect" id="node2" href="$classChatHistory.html#a684b036cdbca742a83eed035bdb77a2a" title="ChatHistory::canUseHistory" alt="" coords="279,5,477,32"/>
+<area shape="rect" id="node4" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title="ICoreIdHandler::getSelfPublicKey" alt="" coords="817,275,1045,301"/>
+<area shape="rect" id="node5" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="304,123,452,149"/>
+<area shape="rect" id="node6" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title="ICoreIdHandler::getUsername" alt="" coords="825,388,1037,415"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#a750f5d39ddd30b1f2a8c28dc0947d69f" title="ChatHistory::handleDispatched\lMessage" alt="" coords="269,57,487,98"/>
+<area shape="rect" id="node23" href="$classHistory.html#abcce3c0e31955b6bf77b8d96a62e5b29" title="Saves a chat message in the database. " alt="" coords="565,169,748,196"/>
+<area shape="rect" id="node24" href="$classSessionChatLog.html#ab863726828d5cc1c0b756f0950ad67ef" title="Inserts message data into the chatlog buffer. " alt="" coords="260,275,496,301"/>
+<area shape="rect" id="node3" href="$classSettings.html#aa3d4c8c7582f245d4971f63a214ccadd" title="Settings::getEnableLogging" alt="" coords="558,5,755,32"/>
+<area shape="rect" id="node8" href="$classHistory.html#a08022c9c5a58ddd0ccc7421042ba1e0a" title="Marks a message as delivered. Removing message from the faux&#45;offline pending messages list..." alt="" coords="565,115,748,141"/>
+<area shape="rect" id="node22" href="$classHistory.html#af6a540f04cee58bf32f6ac7e3d0dc418" title="History::markAsBroken" alt="" coords="573,64,741,91"/>
+<area shape="rect" id="node9" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked. " alt="" coords="825,115,1037,141"/>
+<area shape="rect" id="node10" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1093,115,1252,141"/>
+<area shape="rect" id="node21" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully. " alt="" coords="1115,64,1230,91"/>
+<area shape="rect" id="node11" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1300,115,1436,141"/>
+<area shape="rect" id="node12" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1491,39,1627,65"/>
+<area shape="rect" id="node14" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1484,140,1635,167"/>
+<area shape="rect" id="node13" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1730,13,1830,40"/>
+<area shape="rect" id="node15" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1683,115,1877,141"/>
+<area shape="rect" id="node16" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1925,140,2111,167"/>
+<area shape="rect" id="node17" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1697,216,1863,243"/>
+<area shape="rect" id="node18" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1695,267,1865,293"/>
+<area shape="rect" id="node19" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1725,64,1835,91"/>
+<area shape="rect" id="node20" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1981,64,2055,91"/>
+<area shape="rect" id="node25" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title="SessionChatLog::resolveSender\lNameFromSender" alt="" coords="544,326,769,367"/>
+<area shape="rect" id="node26" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="860,333,1003,360"/>
+</map>

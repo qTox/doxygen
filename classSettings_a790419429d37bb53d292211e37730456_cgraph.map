@@ -1,0 +1,4 @@
+<map id="Settings::updateFriendAddress" name="Settings::updateFriendAddress">
+<area shape="rect" id="node2" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="298,5,439,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="272,57,465,98"/>
+</map>

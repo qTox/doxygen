@@ -1,0 +1,11 @@
+<map id="ChatLog::resizeEvent" name="ChatLog::resizeEvent">
+<area shape="rect" id="node2" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="239,5,413,32"/>
+<area shape="rect" id="node3" href="$classChatLog.html#add5b362b3a0767c8d04a59beafd5c626" title="ChatLog::startResizeWorker" alt="" coords="228,56,424,83"/>
+<area shape="rect" id="node5" href="$classChatLog.html#ab8a248c86e9dbcf1f11a7ee2f6610d9f" title="ChatLog::scrollToBottom" alt="" coords="237,107,415,133"/>
+<area shape="rect" id="node9" href="$classChatLog.html#ac6c78fb0b3af89a3fd919be3567849dd" title="ChatLog::updateBusyNotification" alt="" coords="211,157,441,184"/>
+<area shape="rect" id="node4" href="$classChatLineContent.html#a0a075c41c4f2f6d494fe454d256ed6ce" title="ChatLineContent::getText" alt="" coords="495,56,678,83"/>
+<area shape="rect" id="node6" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="489,107,684,133"/>
+<area shape="rect" id="node7" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="732,107,939,133"/>
+<area shape="rect" id="node8" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="987,132,1155,159"/>
+<area shape="rect" id="node10" href="$classChatLog.html#ac10c7f812189dae530d9f0db881d112b" title="ChatLog::getVisibleRect" alt="" coords="501,208,673,235"/>
+</map>

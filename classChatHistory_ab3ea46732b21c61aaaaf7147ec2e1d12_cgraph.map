@@ -1,0 +1,34 @@
+<map id="ChatHistory::searchBackward" name="ChatHistory::searchBackward">
+<area shape="rect" id="node2" href="$classSessionChatLog.html#a9cf332e8a5ab6afe56f25e020aff0069" title="searches backwards through the chat log until phrase is found according to parameter ..." alt="" coords="261,5,499,32"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a684b036cdbca742a83eed035bdb77a2a" title="ChatHistory::canUseHistory" alt="" coords="842,645,1039,672"/>
+<area shape="rect" id="node5" href="$classSessionChatLog.html#a41d0356f1a51afa86316d9107592adab" title="Returns reference to item at idx. " alt="" coords="307,107,453,133"/>
+<area shape="rect" id="node6" href="$classChatLogItem.html#a361f2114d383927adb74360e970d802c" title="ChatLogItem::getContentAs\lMessage" alt="" coords="280,158,480,199"/>
+<area shape="rect" id="node7" href="$classHistory.html#ad104cfe24475f8a6ee23641d8c8fe8ac" title="Search phrase in chat messages. " alt="" coords="571,49,762,90"/>
+<area shape="rect" id="node23" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="593,180,741,207"/>
+<area shape="rect" id="node24" href="$classHistory.html#a889a688372db3fe48bdb1dc37e8755c2" title="History::getNumMessagesFor\lFriendBeforeDate" alt="" coords="561,114,772,155"/>
+<area shape="rect" id="node25" href="$classChatHistory.html#a80acd075f7df8605164260fb0590b658" title="Unconditionally loads the given index and all future messages that are not in the session chat log in..." alt="" coords="292,381,468,422"/>
+<area shape="rect" id="node4" href="$classSettings.html#aa3d4c8c7582f245d4971f63a214ccadd" title="Settings::getEnableLogging" alt="" coords="1095,645,1292,672"/>
+<area shape="rect" id="node8" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked. " alt="" coords="835,119,1047,145"/>
+<area shape="rect" id="node21" href="$classSearchExtraFunctions.html#a06367df4f33e128f30923230850a69b5" title="generateFilterWordsOnly generate string for filter &quot;Whole words only&quot; for correct search phrase conta..." alt="" coords="849,49,1033,90"/>
+<area shape="rect" id="node22" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="869,169,1012,196"/>
+<area shape="rect" id="node9" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1114,144,1273,171"/>
+<area shape="rect" id="node20" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully. " alt="" coords="1136,93,1251,120"/>
+<area shape="rect" id="node10" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1340,144,1476,171"/>
+<area shape="rect" id="node11" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1531,68,1667,95"/>
+<area shape="rect" id="node13" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1524,169,1675,196"/>
+<area shape="rect" id="node12" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1770,43,1870,69"/>
+<area shape="rect" id="node14" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1723,245,1917,272"/>
+<area shape="rect" id="node15" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1965,271,2151,297"/>
+<area shape="rect" id="node16" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1737,93,1903,120"/>
+<area shape="rect" id="node17" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1735,144,1905,171"/>
+<area shape="rect" id="node18" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1765,195,1875,221"/>
+<area shape="rect" id="node19" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2021,195,2095,221"/>
+<area shape="rect" id="node26" href="$classSessionChatLog.html#af3155efcac617b8e031177d281438c41" title="The underlying chat log instance may not want to start at 0. " alt="" coords="841,544,1040,571"/>
+<area shape="rect" id="node27" href="$classChatHistory.html#abc6dbab246d6fa064d84c1bae97dec25" title="The underlying chat log instance may not want to start at 0. " alt="" coords="582,595,751,621"/>
+<area shape="rect" id="node28" href="$classHistory.html#a51b715e3544228018a5a035652ae56de" title="History::getMessagesForFriend" alt="" coords="558,231,775,257"/>
+<area shape="rect" id="node29" href="$classToxId.html#ac62203b4251ebd09dc022f9ad8866a6c" title="Gets the Public Key part of the ToxID. " alt="" coords="596,645,737,672"/>
+<area shape="rect" id="node30" href="$classSessionChatLog.html#a274431e7d5d7b3899403f5bcc6ab3ffe" title="SessionChatLog::insertFile\lAtIdx" alt="" coords="572,282,761,323"/>
+<area shape="rect" id="node31" href="$classSessionChatLog.html#ad759dd3e126305734a0ce86927752422" title="SessionChatLog::insertComplete\lMessageAtIdx" alt="" coords="551,347,782,389"/>
+<area shape="rect" id="node32" href="$classSessionChatLog.html#adffa9a880387ea74bdacf7a4b176beb0" title="SessionChatLog::insertIncomplete\lMessageAtIdx" alt="" coords="547,413,787,454"/>
+<area shape="rect" id="node33" href="$classSessionChatLog.html#a7925da808543a5228a662b654ee6c3fd" title="SessionChatLog::insertBroken\lMessageAtIdx" alt="" coords="559,478,774,519"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ToxFriendCall::getState" name="ToxFriendCall::getState">
+<area shape="rect" id="node2" href="$classCoreAV.html#a5d0915f379070967ea3fa8052c5b1a94" title="Send audio frame to a friend. " alt="" coords="220,34,387,60"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#aec221aef8ba03182603a6e9c01dcd993" title="CoreAV::sendCallVideo" alt="" coords="455,92,622,119"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#a7e1df21d4ab194a847548b2e5933a63e" title="CoreAV::stateCallback" alt="" coords="222,143,385,170"/>
+<area shape="rect" id="node3" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="691,34,883,60"/>
+<area shape="rect" id="node4" href="$classToxFriendCall.html#ae19744a42b411b813a351b05220b21bb" title="ToxFriendCall::onAudioSource\lInvalidated" alt="" coords="435,26,643,68"/>
+<area shape="rect" id="node7" href="$classCoreAV.html#ad6aa4216c003e23fb2a2567d239ed573" title="CoreAV::connectCallbacks" alt="" coords="445,143,632,170"/>
+<area shape="rect" id="node8" href="$classCoreAV.html#a3f815bf87d1e79c27b2683458055d6a1" title="CoreAV::CoreAV" alt="" coords="725,118,848,144"/>
+<area shape="rect" id="node9" href="$structCoreAV_1_1ToxAVDeleter.html#a2f5ddf6417be44446243401d6b1262b8" title="CoreAV::ToxAVDeleter\l::operator()" alt="" coords="931,136,1091,177"/>
+</map>

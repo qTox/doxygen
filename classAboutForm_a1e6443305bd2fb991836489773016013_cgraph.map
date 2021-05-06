@@ -1,0 +1,12 @@
+<map id="AboutForm::AboutForm" name="AboutForm::AboutForm">
+<area shape="rect" id="node2" href="$classAboutForm.html#a6d8411ed13861f567896d0e00f3e90d9" title="AboutForm::onUnstableVersion" alt="" coords="225,5,447,32"/>
+<area shape="rect" id="node3" href="$classAboutForm.html#a3dac3b4101447503071fea748e6cf430" title="Update versions and links. " alt="" coords="495,132,697,159"/>
+<area shape="rect" id="node9" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll. " alt="" coords="249,107,423,133"/>
+<area shape="rect" id="node10" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated. " alt="" coords="241,157,431,184"/>
+<area shape="rect" id="node11" href="$classAboutForm.html#a26d3d1cd9af95d94046b7ea0092c8845" title="Retranslate all elements in the form. " alt="" coords="244,208,428,235"/>
+<area shape="rect" id="node4" href="$classAboutForm.html#af026cfa2f6c34b1aec3b888e5adab6f0" title="AboutForm::onUpdateAvailable" alt="" coords="745,52,965,79"/>
+<area shape="rect" id="node5" href="$classAboutForm.html#aa0894f4850ed635fb483617eea36ca77" title="AboutForm::onUpToDate" alt="" coords="766,103,945,129"/>
+<area shape="rect" id="node6" href="$classAboutForm.html#aaeb49e025c37d1017ded4f2e3b12f348" title="AboutForm::onUpdateCheck\lFailed" alt="" coords="754,154,957,195"/>
+<area shape="rect" id="node7" href="$classAboutForm.html#a7da90ce714150c7c11fd341641788db1" title="Creates hyperlink with specific style. " alt="" coords="772,220,939,247"/>
+<area shape="rect" id="node8" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1013,220,1129,247"/>
+</map>

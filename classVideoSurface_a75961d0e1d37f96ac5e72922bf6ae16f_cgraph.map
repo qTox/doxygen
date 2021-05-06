@@ -1,0 +1,5 @@
+<map id="VideoSurface::paintEvent" name="VideoSurface::paintEvent">
+<area shape="rect" id="node2" href="$classVideoSurface.html#a51d3fa1945c31f659b7c944091ad6cfd" title="VideoSurface::lock" alt="" coords="245,5,385,32"/>
+<area shape="rect" id="node3" href="$classStyle.html#a9edf6120c3e488891a3711fe2e08464e" title="Style::scaleSvgImage" alt="" coords="236,56,395,83"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#a4c729f75a02c35de42df3056a030be92" title="VideoSurface::unlock" alt="" coords="237,107,393,133"/>
+</map>

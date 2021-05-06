@@ -1,0 +1,5 @@
+<map id="ChatLog::movePreciseSelectionUp" name="ChatLog::movePreciseSelectionUp">
+<area shape="rect" id="node2" href="$classChatLog.html#a2eae7c9f1e255dba79dc677514463795" title="Adjusts the selection based on chatlog changing lines. " alt="" coords="296,5,501,47"/>
+<area shape="rect" id="node3" href="$classChatLog.html#a25c74e0afda416d1960a88448581cd2b" title="ChatLog::removeFirsts" alt="" coords="549,13,715,39"/>
+<area shape="rect" id="node4" href="$classChatLog.html#adb12f3cbd807a7a38338e4076d17ab21" title="ChatLog::insertChatlineAt\lBottom" alt="" coords="763,5,948,47"/>
+</map>

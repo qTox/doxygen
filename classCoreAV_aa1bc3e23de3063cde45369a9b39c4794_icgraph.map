@@ -1,0 +1,16 @@
+<map id="CoreAV::isCallActive" name="CoreAV::isCallActive">
+<area shape="rect" id="node2" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="968,119,1179,145"/>
+<area shape="rect" id="node9" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title="ChatForm::updateMuteMicButton" alt="" coords="201,224,436,251"/>
+<area shape="rect" id="node14" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title="ChatForm::updateMuteVolButton" alt="" coords="203,275,435,301"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1748,224,1904,251"/>
+<area shape="rect" id="node4" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="1243,275,1399,301"/>
+<area shape="rect" id="node6" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="1464,173,1700,200"/>
+<area shape="rect" id="node7" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="1508,61,1656,88"/>
+<area shape="rect" id="node8" href="$classChatForm.html#a8852b8aaa0bf6a647eddd3076e5ed69c" title="ChatForm::onFriendStatus\lChanged" alt="" coords="1227,107,1416,149"/>
+<area shape="rect" id="node5" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="1503,275,1661,301"/>
+<area shape="rect" id="node10" href="$classChatForm.html#a3112589852659f68a0a36d957bc53682" title="ChatForm::onMicMuteToggle" alt="" coords="484,224,687,251"/>
+<area shape="rect" id="node13" href="$classChatForm.html#ab03ef8ef78d99f8254016b164a412908" title="ChatForm::retranslateUi" alt="" coords="497,275,673,301"/>
+<area shape="rect" id="node11" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="735,275,920,301"/>
+<area shape="rect" id="node12" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="985,275,1161,301"/>
+<area shape="rect" id="node15" href="$classChatForm.html#a8e3859ece13f69fe8da2418db4525371" title="ChatForm::onVolMuteToggle" alt="" coords="485,325,685,352"/>
+</map>

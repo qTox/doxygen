@@ -1,0 +1,5 @@
+<map id="Core::setStatusMessage" name="Core::setStatusMessage">
+<area shape="rect" id="node2" href="$classCore.html#a7b6ca7659c49472b5699d47963d44dee" title="Returns our status message, or an empty string on failure. " alt="" coords="232,5,412,32"/>
+<area shape="rect" id="node3" href="$classToxString.html#a02584d01004a68ed0dc91bdf5f02e80d" title="Returns a pointer to the beginning of the string data. " alt="" coords="263,56,381,83"/>
+<area shape="rect" id="node4" href="$classToxString.html#a3ef12632760c48153f603b35daf8ec96" title="Get the number of bytes in the string. " alt="" coords="265,107,379,133"/>
+</map>

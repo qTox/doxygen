@@ -1,0 +1,4 @@
+<map id="ContentDialog" name="ContentDialog">
+<area shape="rect" id="node2" href="$classActivateDialog.html" title="{ActivateDialog\n||+ ActivateDialog()\l+ event()\l+ reloadTheme()\l}" alt="" coords="5,153,144,259"/>
+<area shape="rect" id="node4" href="$classIDialogs.html" title="{IDialogs\n||+ ~IDialogs()\l+ hasContact()\l+ isContactActive()\l+ removeFriend()\l+ removeGroup()\l+ chatroomCount()\l}" alt="" coords="168,131,315,281"/>
+</map>

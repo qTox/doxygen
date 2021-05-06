@@ -1,0 +1,13 @@
+<map id="FriendWidget::FriendWidget" name="FriendWidget::FriendWidget">
+<area shape="rect" id="node2" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title="MaskablePixmapWidget\l::setPixmap" alt="" coords="480,57,652,98"/>
+<area shape="rect" id="node4" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="257,9,404,36"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title="CroppingLabel::setText" alt="" coords="247,177,414,204"/>
+<area shape="rect" id="node8" href="$classFriend.html#aeb043a2c51fad96cf97e4ff8c63890e0" title="Friend::setAlias sets the alias for the friend. " alt="" coords="271,232,390,259"/>
+<area shape="rect" id="node10" href="$classFriendWidget.html#a2dd0413b35564a3068fa01b11f1ef36c" title="FriendWidget::setActive" alt="" coords="245,125,416,152"/>
+<area shape="rect" id="node3" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title="MaskablePixmapWidget\l::updatePixmap" alt="" coords="716,57,888,98"/>
+<area shape="rect" id="node5" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title="Status::getAssetSuffix" alt="" coords="484,5,648,32"/>
+<area shape="rect" id="node7" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title="CroppingLabel::setElidedText" alt="" coords="464,188,668,215"/>
+<area shape="rect" id="node9" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="471,239,661,265"/>
+<area shape="rect" id="node11" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title="GenericChatroomWidget\l::setActive" alt="" coords="477,122,655,163"/>
+<area shape="rect" id="node12" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="746,129,858,156"/>
+</map>

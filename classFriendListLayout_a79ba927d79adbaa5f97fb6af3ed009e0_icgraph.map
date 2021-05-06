@@ -1,0 +1,16 @@
+<map id="FriendListLayout::moveFriendWidgets" name="FriendListLayout::moveFriendWidgets">
+<area shape="rect" id="node2" href="$classCategoryWidget.html#a2f853e6835fcc03d7c707cc068ec635c" title="CategoryWidget::moveFriend\lWidgets" alt="" coords="260,64,465,105"/>
+<area shape="rect" id="node3" href="$classCircleWidget.html#a5d1caa515e64e6c168e98e8b1c491b15" title="CircleWidget::contextMenu\lEvent" alt="" coords="525,5,716,47"/>
+<area shape="rect" id="node4" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title="FriendListWidget::sortByMode" alt="" coords="776,97,985,123"/>
+<area shape="rect" id="node15" href="$classFriendListWidget.html#ae777ef0bcc01f652bb32885e23e662d0" title="FriendListWidget::moveFriends" alt="" coords="513,122,728,149"/>
+<area shape="rect" id="node5" href="$classFriendListWidget.html#aa22c87294220a60baba0e0949a9fe8c0" title="FriendListWidget::Friend\lListWidget" alt="" coords="1525,85,1696,127"/>
+<area shape="rect" id="node6" href="$classFriendListWidget.html#ae0474b3c997940fe1926eb2fb14f8094" title="FriendListWidget::setMode" alt="" coords="1033,122,1221,149"/>
+<area shape="rect" id="node7" href="$classFriendListWidget.html#ad9017b74163a2d9e4892fc5b232ba391" title="FriendListWidget::dayTimeout" alt="" coords="1269,122,1477,149"/>
+<area shape="rect" id="node8" href="$classWidget.html#af0ad36083370875677670ccf7cf20243" title="Widget::changeDisplayMode" alt="" coords="1273,173,1474,199"/>
+<area shape="rect" id="node9" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1565,173,1657,199"/>
+<area shape="rect" id="node10" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1744,147,1899,174"/>
+<area shape="rect" id="node11" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1947,147,2047,174"/>
+<area shape="rect" id="node12" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="2095,147,2293,174"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2525,173,2580,199"/>
+<area shape="rect" id="node14" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="2341,198,2477,225"/>
+</map>

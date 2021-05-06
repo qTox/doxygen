@@ -1,0 +1,6 @@
+<map id="Core::sendAction" name="Core::sendAction">
+<area shape="rect" id="node2" href="$classCore.html#adae249d079106797364a3c8830531fd5" title="Core::sendMessageWithType" alt="" coords="184,56,387,83"/>
+<area shape="rect" id="node3" href="$classCore.html#acff7cfd5817964794979ed5f7846a0eb" title="Core::getMaxMessageSize" alt="" coords="435,5,625,32"/>
+<area shape="rect" id="node4" href="$classToxString.html#a02584d01004a68ed0dc91bdf5f02e80d" title="Returns a pointer to the beginning of the string data. " alt="" coords="471,56,589,83"/>
+<area shape="rect" id="node5" href="$classToxString.html#a3ef12632760c48153f603b35daf8ec96" title="Get the number of bytes in the string. " alt="" coords="473,107,587,133"/>
+</map>

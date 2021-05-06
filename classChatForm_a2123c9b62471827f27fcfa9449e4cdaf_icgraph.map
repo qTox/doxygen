@@ -1,0 +1,7 @@
+<map id="ChatForm::onUpdateTime" name="ChatForm::onUpdateTime">
+<area shape="rect" id="node2" href="$classChatForm.html#a7d685dbca7b3ecc0f05a7fab347deac3" title="ChatForm::startCounter" alt="" coords="240,25,415,52"/>
+<area shape="rect" id="node3" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="463,25,619,52"/>
+<area shape="rect" id="node4" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="951,25,1107,52"/>
+<area shape="rect" id="node5" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="705,25,864,52"/>
+<area shape="rect" id="node6" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="667,76,903,103"/>
+</map>

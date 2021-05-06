@@ -1,0 +1,19 @@
+<map id="ChatForm::outgoingNotification" name="ChatForm::outgoingNotification">
+<area shape="rect" id="node2" href="$classChatForm.html#a535c3f564181af5c6a17c7f6ddcaf75a" title="ChatForm::showOutgoingCall" alt="" coords="275,96,481,123"/>
+<area shape="rect" id="node11" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="311,181,445,208"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ade86d40c791c80ad9cf1195feeb2e64f" title="ChatForm::onCallTriggered" alt="" coords="804,16,995,43"/>
+<area shape="rect" id="node5" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="529,96,756,123"/>
+<area shape="rect" id="node4" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1797,117,1953,144"/>
+<area shape="rect" id="node6" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="807,133,992,160"/>
+<area shape="rect" id="node7" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="1043,143,1219,169"/>
+<area shape="rect" id="node8" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="1288,156,1444,183"/>
+<area shape="rect" id="node9" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="1552,168,1711,195"/>
+<area shape="rect" id="node10" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="1513,219,1749,245"/>
+<area shape="rect" id="node12" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="555,216,731,243"/>
+<area shape="rect" id="node13" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="822,295,977,321"/>
+<area shape="rect" id="node14" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1081,295,1181,321"/>
+<area shape="rect" id="node15" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1267,295,1465,321"/>
+<area shape="rect" id="node16" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1848,283,1903,309"/>
+<area shape="rect" id="node17" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1563,320,1699,347"/>
+<area shape="rect" id="node18" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1829,359,1921,385"/>
+</map>

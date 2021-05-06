@@ -1,0 +1,22 @@
+<map id="Profile::loadDatabase" name="Profile::loadDatabase">
+<area shape="rect" id="node2" href="$classGUI.html#af7a20885f4bda93998e9832eeb4f8c2c" title="Show an error to the user. " alt="" coords="222,145,338,172"/>
+<area shape="rect" id="node9" href="$classProfile.html#a028cd7240ff4bc9a4c7b57d4e9532866" title="Retrieves the path to the database file for a given profile. " alt="" coords="212,313,348,340"/>
+<area shape="rect" id="node3" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget. " alt="" coords="797,69,964,96"/>
+<area shape="rect" id="node6" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance. " alt="" coords="411,120,539,147"/>
+<area shape="rect" id="node7" href="$classGUI.html#a1feecde036a99e13477c786560ee641b" title="GUI::_showError" alt="" coords="414,171,537,197"/>
+<area shape="rect" id="node4" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="1037,5,1182,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="1292,5,1403,32"/>
+<area shape="rect" id="node8" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget. " alt="" coords="603,145,749,172"/>
+<area shape="rect" id="node10" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="396,265,555,292"/>
+<area shape="rect" id="node16" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1255,309,1440,336"/>
+<area shape="rect" id="node21" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title="Settings::getPaths" alt="" coords="406,411,545,437"/>
+<area shape="rect" id="node11" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="608,208,744,235"/>
+<area shape="rect" id="node12" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="813,120,949,147"/>
+<area shape="rect" id="node14" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="805,208,956,235"/>
+<area shape="rect" id="node13" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1059,56,1159,83"/>
+<area shape="rect" id="node15" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1012,259,1207,285"/>
+<area shape="rect" id="node17" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1026,107,1193,133"/>
+<area shape="rect" id="node18" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1025,157,1194,184"/>
+<area shape="rect" id="node19" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1054,208,1165,235"/>
+<area shape="rect" id="node20" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1310,208,1385,235"/>
+</map>

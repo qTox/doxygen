@@ -1,0 +1,7 @@
+<map id="ChatFormHeader::setName" name="ChatFormHeader::setName">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a3a738405ace491fe5e22429ad13bcb9f" title="GenericChatForm::setName" alt="" coords="252,85,453,112"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="545,5,701,32"/>
+<area shape="rect" id="node4" href="$classChatForm.html#ad9d6a5c7cb7078b21c04d910304a2aa2" title="ChatForm::onFriendNameChanged" alt="" coords="501,56,744,83"/>
+<area shape="rect" id="node5" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="527,107,718,149"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="505,173,740,200"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Text::getSelectionEnd" name="Text::getSelectionEnd">
+<area shape="rect" id="node2" href="$classText.html#af424b9c2fcd9d4abb622339331792ef4" title="Text::selectionMouseMove" alt="" coords="212,5,400,32"/>
+<area shape="rect" id="node3" href="$classText.html#ae5dc24c8b7f4baeeec105ac8d957dd03" title="Text::selectionDoubleClick" alt="" coords="213,56,399,83"/>
+<area shape="rect" id="node4" href="$classText.html#af8bfb0457cff6250b09a3b18545ad52c" title="Text::selectionTripleClick" alt="" coords="219,107,393,133"/>
+<area shape="rect" id="node5" href="$classText.html#ad59b89cb252be9edc3fe15f3cfa2c099" title="Text::isOverSelection" alt="" coords="229,157,383,184"/>
+<area shape="rect" id="node6" href="$classText.html#a911733488b8c581f742513e91864f8ca" title="Text::paint" alt="" coords="263,208,349,235"/>
+</map>

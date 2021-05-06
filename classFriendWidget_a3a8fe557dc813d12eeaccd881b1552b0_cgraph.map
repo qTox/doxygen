@@ -1,0 +1,51 @@
+<map id="FriendWidget::onContextMenuCalled" name="FriendWidget::onContextMenuCalled">
+<area shape="rect" id="node2" href="$classFriendWidget.html#afedab3f1df94ba4e8a3c22c00248a0a9" title="FriendWidget::removeChat\lWindow" alt="" coords="547,943,737,985"/>
+<area shape="rect" id="node10" href="$classFriendChatroom.html#a937e54b28546b3359e31f081dfe035b9" title="FriendChatroom::inviteTo\lNewGroup" alt="" coords="287,251,466,293"/>
+<area shape="rect" id="node23" href="$classFriendWidget.html#aa43f8d1662249a20a17c3e0d8b2dcb56" title="FriendWidget::moveToNewCircle" alt="" coords="265,1060,488,1087"/>
+<area shape="rect" id="node35" href="$classFriendWidget.html#a34ca8a9d143ab0c1059f331308a54711" title="FriendWidget::removeFrom\lCircle" alt="" coords="281,765,473,806"/>
+<area shape="rect" id="node46" href="$classFriendWidget.html#a4ffc00518322e21c162ee70e85f5a3ef" title="FriendWidget::moveToCircle" alt="" coords="545,1009,739,1036"/>
+<area shape="rect" id="node47" href="$classCroppingLabel.html#a0f8278c2a666c588005967a6e7b676cf" title="CroppingLabel::editBegin" alt="" coords="286,1228,467,1255"/>
+<area shape="rect" id="node49" href="$classFriendWidget.html#aeffa3e560ac9cdbd4a1c305dfdcb8d41" title="FriendWidget::changeAuto\lAccept" alt="" coords="283,1162,471,1203"/>
+<area shape="rect" id="node50" href="$classFriendWidget.html#ade659b542d4a99c69b6dd1eccd62b541" title="FriendWidget::showDetails" alt="" coords="283,1111,470,1137"/>
+<area shape="rect" id="node3" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="819,873,967,900"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1069,1068,1227,1095"/>
+<area shape="rect" id="node8" href="$classSettings.html#ad2bea7550d0fe0f24a392edbfbb5ba3b" title="Settings::getFriendCircleID" alt="" coords="798,924,989,951"/>
+<area shape="rect" id="node9" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title="CircleWidget::getFromID" alt="" coords="806,1025,981,1052"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1324,1068,1460,1095"/>
+<area shape="rect" id="node6" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1543,1043,1679,1069"/>
+<area shape="rect" id="node7" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1536,1093,1687,1120"/>
+<area shape="rect" id="node11" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="592,284,692,311"/>
+<area shape="rect" id="node12" href="$classCore.html#a514410817cad3ff8c78dc67e2650e969" title="Core::createGroup" alt="" coords="572,183,712,209"/>
+<area shape="rect" id="node22" href="$classCore.html#a4758204ad50848b3030abebff4c8d363" title="Core::groupInviteFriend" alt="" coords="557,233,727,260"/>
+<area shape="rect" id="node13" href="$classCore.html#a7d107c6374c41d81bde6dc1c68b62344" title="Core::getGroupPersistentId" alt="" coords="796,208,991,235"/>
+<area shape="rect" id="node14" href="$classCoreAV.html#a755de116aa91e3b4c3a0f29fb8b6f422" title="Called from Tox API when group call receives audio data. " alt="" coords="799,157,988,184"/>
+<area shape="rect" id="node15" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="1100,157,1196,184"/>
+<area shape="rect" id="node16" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group. " alt="" coords="1066,208,1230,235"/>
+<area shape="rect" id="node17" href="$classIGroupSettings.html#afb7ab1450a73506229ebe41adea29571" title="IGroupSettings::getBlackList" alt="" coords="1047,259,1249,285"/>
+<area shape="rect" id="node18" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="1077,309,1219,336"/>
+<area shape="rect" id="node19" href="$classToxCall.html#a8b29c0a502c544eeb3823a3884c47a41" title="ToxCall::getMuteVol" alt="" coords="1075,5,1221,32"/>
+<area shape="rect" id="node20" href="$classToxCall.html#a46ae1e53efb2bfa06d86f9f70ddfd5a8" title="ToxCall::isActive" alt="" coords="1087,56,1209,83"/>
+<area shape="rect" id="node21" href="$classToxGroupCall.html#acb1de57d6a236ad6f48366fc471f0ad2" title="ToxGroupCall::playAudioBuffer" alt="" coords="1042,107,1254,133"/>
+<area shape="rect" id="node24" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title="CategoryWidget::updateStatus" alt="" coords="1039,381,1257,408"/>
+<area shape="rect" id="node28" href="$classFriendListWidget.html#ac95b76edcb63ba5a1cecf69aed7d15c2" title="FriendListWidget::addCircle\lWidget" alt="" coords="546,1111,738,1153"/>
+<area shape="rect" id="node25" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="1527,403,1696,445"/>
+<area shape="rect" id="node27" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="1307,345,1477,386"/>
+<area shape="rect" id="node26" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1744,374,1917,415"/>
+<area shape="rect" id="node29" href="$classFriendListWidget.html#a3760bbbe8256b82cf5349ad59011f89a" title="FriendListWidget::create\lCircleWidget" alt="" coords="806,1229,981,1270"/>
+<area shape="rect" id="node30" href="$classSettings.html#aba909d42ff74774ad66eeef798ad1097" title="Settings::addCircle" alt="" coords="1077,1185,1219,1212"/>
+<area shape="rect" id="node31" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title="GenericChatItemLayout\l::addSortedWidget" alt="" coords="1305,1119,1479,1161"/>
+<area shape="rect" id="node32" href="$classCategoryWidget.html#a68bf5f6448eebce7c19fe77ec92534b9" title="CategoryWidget::onCompact\lChanged" alt="" coords="1045,1287,1251,1329"/>
+<area shape="rect" id="node33" href="$classFriendListWidget.html#a7a050d62abb59ba320f21309cb1e6266" title="FriendListWidget::rename\lCircleWidget" alt="" coords="1057,1119,1239,1161"/>
+<area shape="rect" id="node34" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="1305,947,1479,989"/>
+<area shape="rect" id="node36" href="$classFriendListWidget.html#a5f7af661ea69ad90b30bfd5d209cbc68" title="FriendListWidget::moveWidget" alt="" coords="536,721,748,748"/>
+<area shape="rect" id="node37" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title="FriendWidget::getFriend" alt="" coords="808,604,979,631"/>
+<area shape="rect" id="node38" href="$classSettings.html#a166c57a193cb7b627a6a5ff01763de6e" title="Settings::setFriendCircleID" alt="" coords="799,436,988,463"/>
+<area shape="rect" id="node40" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title="FriendListLayout::addFriend\lWidget" alt="" coords="1051,893,1245,934"/>
+<area shape="rect" id="node41" href="$classCategoryWidget.html#accb1ef391fc9bc2cc341b6e33977839c" title="CategoryWidget::addFriend\lWidget" alt="" coords="797,655,990,697"/>
+<area shape="rect" id="node44" href="$classFriendListWidget.html#a108259b33903cd084857d5414f761acc" title="FriendListWidget::getTime\lCategoryWidget" alt="" coords="801,487,986,529"/>
+<area shape="rect" id="node45" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="828,553,959,580"/>
+<area shape="rect" id="node39" href="$classSettings.html#a53d0391ad192b093279f55de1d08b50d" title="Settings::getOrInsertFriend\lPropRef" alt="" coords="1051,433,1245,474"/>
+<area shape="rect" id="node42" href="$classCategoryWidget.html#a29f7946a53f0cdd854b6e4fdfabef616" title="CategoryWidget::onAddFriend\lWidget" alt="" coords="1043,687,1253,729"/>
+<area shape="rect" id="node43" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title="GenericChatroomWidget\l::reloadTheme" alt="" coords="1059,622,1237,663"/>
+<area shape="rect" id="node48" href="$classCroppingLabel.html#ac871db66cbf8766a1e9d72895b431661" title="CroppingLabel::showTextEdit" alt="" coords="541,1228,743,1255"/>
+</map>

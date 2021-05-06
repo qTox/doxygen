@@ -1,0 +1,4 @@
+<map id="VideoSource" name="VideoSource">
+<area shape="rect" id="node3" href="$classCameraSource.html" title="This class is a wrapper to share a camera&#39;s captured video frames. " alt="" coords="5,315,155,729"/>
+<area shape="rect" id="node4" href="$classCoreVideoSource.html" title="A VideoSource that emits frames received by Core. " alt="" coords="179,417,335,627"/>
+</map>

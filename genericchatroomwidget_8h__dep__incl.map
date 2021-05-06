@@ -1,0 +1,17 @@
+<map id="src/widget/genericchatroomwidget.h" name="src/widget/genericchatroomwidget.h">
+<area shape="rect" id="node2" href="$friendwidget_8h.html" title="src/widget/friendwidget.h" alt="" coords="1137,80,1315,107"/>
+<area shape="rect" id="node13" href="$groupwidget_8h.html" title="src/widget/groupwidget.h" alt="" coords="1441,80,1621,107"/>
+<area shape="rect" id="node15" href="$genericchatroomwidget_8cpp.html" title="src/widget/genericchatroomwidget.cpp" alt="" coords="1646,80,1913,107"/>
+<area shape="rect" id="node16" href="$notificationscrollarea_8cpp.html" title="src/widget/notificationscrollarea.cpp" alt="" coords="1937,80,2187,107"/>
+<area shape="rect" id="node3" href="$videosurface_8cpp.html" title="src/video/videosurface.cpp" alt="" coords="695,155,885,181"/>
+<area shape="rect" id="node4" href="$categorywidget_8cpp.html" title="src/widget/categorywidget.cpp" alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node5" href="$circlewidget_8cpp.html" title="src/widget/circlewidget.cpp" alt="" coords="244,155,435,181"/>
+<area shape="rect" id="node6" href="$contentdialog_8cpp.html" title="src/widget/contentdialog.cpp" alt="" coords="1531,155,1735,181"/>
+<area shape="rect" id="node7" href="$contentdialogmanager_8cpp.html" title="src/widget/contentdialogmanager.cpp" alt="" coords="1759,155,2021,181"/>
+<area shape="rect" id="node8" href="$friendlistlayout_8cpp.html" title="src/widget/friendlistlayout.cpp" alt="" coords="459,155,670,181"/>
+<area shape="rect" id="node9" href="$friendlistwidget_8cpp.html" title="src/widget/friendlistwidget.cpp" alt="" coords="2044,155,2256,181"/>
+<area shape="rect" id="node10" href="$friendwidget_8cpp.html" title="src/widget/friendwidget.cpp" alt="" coords="910,155,1105,181"/>
+<area shape="rect" id="node11" href="$groupwidget_8cpp.html" title="src/widget/groupwidget.cpp" alt="" coords="1129,155,1323,181"/>
+<area shape="rect" id="node12" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="1348,155,1507,181"/>
+<area shape="rect" id="node14" href="$groupchatform_8cpp.html" title="src/widget/form/groupchatform.cpp" alt="" coords="2280,155,2527,181"/>
+</map>

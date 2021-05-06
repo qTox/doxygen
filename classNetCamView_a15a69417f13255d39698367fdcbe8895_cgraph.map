@@ -1,0 +1,45 @@
+<map id="NetCamView::NetCamView" name="NetCamView::NetCamView">
+<area shape="rect" id="node2" href="$classNetCamView.html#a4047d3080a5dd26b165729fb611f6310" title="NetCamView::toggleFullScreen" alt="" coords="536,43,752,69"/>
+<area shape="rect" id="node5" href="$classNetCamView.html#a71354e5b0a5bf997749aab39d0cf9090" title="NetCamView::setShowMessages" alt="" coords="529,351,759,377"/>
+<area shape="rect" id="node10" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1718,212,1877,239"/>
+<area shape="rect" id="node22" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title="Style::getStylesheet" alt="" coords="843,241,994,268"/>
+<area shape="rect" id="node28" href="$classNetCamView.html#aaec3c57a762d7b0b826dd64b0d504e80" title="NetCamView::createButton" alt="" coords="547,183,741,209"/>
+<area shape="rect" id="node29" href="$classNetCamView.html#adb37d7d5b44f6a10fbc6b6d609a52582" title="NetCamView::toggleVideoPreview" alt="" coords="247,245,481,272"/>
+<area shape="rect" id="node31" href="$classNetCamView.html#a87362a9ddd294fe3eb6bcd32495a1aec" title="NetCamView::endVideoCall" alt="" coords="267,81,461,108"/>
+<area shape="rect" id="node32" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile. " alt="" coords="299,401,429,428"/>
+<area shape="rect" id="node35" href="$classNetCamView.html#a131d5f0ad5a7488d718b3b697581338f" title="NetCamView::updateRatio" alt="" coords="270,604,458,631"/>
+<area shape="rect" id="node36" href="$classVideoSurface.html#ae077f3ba7eff1dd08a2685508a3b6ee2" title="VideoSurface::getRatio" alt="" coords="560,503,728,529"/>
+<area shape="rect" id="node39" href="$classVideoSurface.html#aeabf1feaccae3d2ac7c52b973298d76a" title="VideoSurface::getBoundingRect" alt="" coords="253,553,475,580"/>
+<area shape="rect" id="node40" href="$classNetCamView.html#a6f37f45977a4db00624951854aacb25c" title="NetCamView::updateFrameSize" alt="" coords="253,503,475,529"/>
+<area shape="rect" id="node41" href="$classMovableWidget.html#a0b047cf486638545864312ec6521232a" title="MovableWidget::setBoundary" alt="" coords="261,655,467,681"/>
+<area shape="rect" id="node42" href="$classMovableWidget.html#a14f1bf1fdbe2674786e8d4c1007796b2" title="MovableWidget::resetBoundary" alt="" coords="534,692,754,719"/>
+<area shape="rect" id="node43" href="$classVideoSurface.html#ac43d2a7bf6fb2bfd6a9e02eab7e61d9a" title="VideoSurface::setAvatar" alt="" coords="276,756,452,783"/>
+<area shape="rect" id="node44" href="$classSettings.html#a55b4e51cce862fad836dbb56fbe44331" title="Settings::getCamVideoRes" alt="" coords="268,807,460,833"/>
+<area shape="rect" id="node3" href="$classNetCamView.html#a75226b943c8839696b0a688f34ae17b9" title="NetCamView::exitFullScreen" alt="" coords="819,56,1018,83"/>
+<area shape="rect" id="node4" href="$classNetCamView.html#a3f4fbdccd89576afce97f73e5fca5b5c" title="NetCamView::enterFullScreen" alt="" coords="813,5,1024,32"/>
+<area shape="rect" id="node6" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1079,263,1229,289"/>
+<area shape="rect" id="node7" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title="Style::getThemeFolder" alt="" coords="1277,212,1444,239"/>
+<area shape="rect" id="node9" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title="Style::getThemePath" alt="" coords="1498,263,1653,289"/>
+<area shape="rect" id="node8" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title="Style::getThemeName" alt="" coords="1492,212,1659,239"/>
+<area shape="rect" id="node21" href="$classSettings.html#a37cabe133046b658a44dc19f2131aeac" title="Settings::getThemeColor" alt="" coords="1707,263,1888,289"/>
+<area shape="rect" id="node11" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1936,212,2072,239"/>
+<area shape="rect" id="node12" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="2127,212,2263,239"/>
+<area shape="rect" id="node14" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="2120,339,2271,365"/>
+<area shape="rect" id="node13" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="2366,212,2466,239"/>
+<area shape="rect" id="node15" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="2319,263,2513,289"/>
+<area shape="rect" id="node16" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="2561,288,2747,315"/>
+<area shape="rect" id="node17" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="2333,364,2499,391"/>
+<area shape="rect" id="node18" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="2331,415,2501,441"/>
+<area shape="rect" id="node19" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="2361,465,2471,492"/>
+<area shape="rect" id="node20" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="2617,465,2691,492"/>
+<area shape="rect" id="node23" href="$classStyle.html#a2fb72d2c4bf70fe925621b2e95b50474" title="Style::resolve" alt="" coords="1100,364,1208,391"/>
+<area shape="rect" id="node24" href="$classStyle.html#a417114fed92ed329dbef58c1bf57f74a" title="Style::initPalette" alt="" coords="1298,364,1423,391"/>
+<area shape="rect" id="node25" href="$classStyle.html#ad834dceb83ee5c5bde07b2fbd08fc3fc" title="Style::initDictColor" alt="" coords="1291,516,1430,543"/>
+<area shape="rect" id="node27" href="$style_8cpp.html#a923d43ec0f39929f3a2f6879e3559d1b" title="qssifyFont" alt="" coords="1317,415,1404,441"/>
+<area shape="rect" id="node26" href="$classStyle.html#a4b9f4713596ccc15888f50752bf39d0f" title="Style::getColor" alt="" coords="1517,516,1633,543"/>
+<area shape="rect" id="node30" href="$classNetCamView.html#aab416d538fd2c444bb0f5e8b65088cf6" title="NetCamView::toggleButton\lState" alt="" coords="547,234,741,275"/>
+<area shape="rect" id="node33" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance. " alt="" coords="571,401,717,428"/>
+<area shape="rect" id="node34" href="$classNexus.html#a459434b7c4b4ecc7c428fa9a9b635b0e" title="Nexus::Nexus" alt="" coords="863,401,974,428"/>
+<area shape="rect" id="node37" href="$classMovableWidget.html#a393021c3964ed9149c817b3ee68c473b" title="MovableWidget::setRatio" alt="" coords="555,629,733,656"/>
+<area shape="rect" id="node38" href="$classMovableWidget.html#a5a52130302ad33845f4d837fcccf9dd9" title="MovableWidget::checkBoundary" alt="" coords="807,660,1031,687"/>
+</map>

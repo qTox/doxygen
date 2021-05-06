@@ -1,0 +1,5 @@
+<map id="NetCamView::updateRatio" name="NetCamView::updateRatio">
+<area shape="rect" id="node2" href="$classVideoSurface.html#ae077f3ba7eff1dd08a2685508a3b6ee2" title="VideoSurface::getRatio" alt="" coords="247,5,415,32"/>
+<area shape="rect" id="node3" href="$classMovableWidget.html#a393021c3964ed9149c817b3ee68c473b" title="MovableWidget::setRatio" alt="" coords="241,56,420,83"/>
+<area shape="rect" id="node4" href="$classMovableWidget.html#a5a52130302ad33845f4d837fcccf9dd9" title="MovableWidget::checkBoundary" alt="" coords="468,56,692,83"/>
+</map>

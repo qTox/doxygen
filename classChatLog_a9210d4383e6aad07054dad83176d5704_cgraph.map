@@ -1,0 +1,18 @@
+<map id="ChatLog::onWorkerTimeout" name="ChatLog::onWorkerTimeout">
+<area shape="rect" id="node2" href="$classChatLog.html#a31bcdfe5379ae9e55bb85c6288f71182" title="ChatLog::layout" alt="" coords="309,224,431,251"/>
+<area shape="rect" id="node6" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1053,376,1221,403"/>
+<area shape="rect" id="node7" href="$classChatLog.html#abed3828203ef5af80ed7db913967d567" title="ChatLog::updateSceneRect" alt="" coords="548,5,743,32"/>
+<area shape="rect" id="node9" href="$classChatLog.html#a5e7b6f5ce783c80bac7e63eb741c3910" title="ChatLog::checkVisibility" alt="" coords="285,173,455,200"/>
+<area shape="rect" id="node14" href="$classChatLog.html#a018a145f63e7361dd9ef3a81d6ffc649" title="ChatLog::updateTypingNotification" alt="" coords="251,325,489,352"/>
+<area shape="rect" id="node15" href="$classChatLog.html#ad131a7ad1909bcfd55125b7c7155a854" title="ChatLog::updateMultiSelectionRect" alt="" coords="248,275,492,301"/>
+<area shape="rect" id="node16" href="$classChatLog.html#ab8a248c86e9dbcf1f11a7ee2f6610d9f" title="ChatLog::scrollToBottom" alt="" coords="281,8,459,35"/>
+<area shape="rect" id="node17" href="$classChatLog.html#a33c6e0346d0a3ac59547a620d663fbad" title="ChatLog::scrollToLine" alt="" coords="293,60,447,87"/>
+<area shape="rect" id="node3" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title="ChatLine::layout" alt="" coords="583,325,708,352"/>
+<area shape="rect" id="node5" href="$classChatLine.html#a100422ac7d8adf7b0aa5f882ceccff3d" title="ChatLine::sceneBoundingRect" alt="" coords="540,275,751,301"/>
+<area shape="rect" id="node4" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title="ChatLine::updateBBox" alt="" coords="820,325,984,352"/>
+<area shape="rect" id="node8" href="$classChatLog.html#ad0ccc510da9ec02ac8fa3f7e72aeff1b" title="ChatLog::calculateSceneRect" alt="" coords="799,140,1005,167"/>
+<area shape="rect" id="node10" href="$classChatLog.html#ac10c7f812189dae530d9f0db881d112b" title="ChatLog::getVisibleRect" alt="" coords="559,56,731,83"/>
+<area shape="rect" id="node11" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title="ChatLine::lessThanBSRect\lBottom" alt="" coords="552,107,739,149"/>
+<area shape="rect" id="node12" href="$classChatLine.html#a080a3c460af527b9e4192c4783b16cba" title="ChatLine::lessThanBSRectTop" alt="" coords="541,173,749,200"/>
+<area shape="rect" id="node13" href="$classChatLine.html#a5612ab90899d659fd2b77d470bdb5975" title="ChatLine::lessThanRowIndex" alt="" coords="545,224,745,251"/>
+</map>

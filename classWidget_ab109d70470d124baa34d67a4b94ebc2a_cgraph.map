@@ -1,0 +1,11 @@
+<map id="Widget::closeEvent" name="Widget::closeEvent">
+<area shape="rect" id="node2" href="$classSettings.html#a84977968a2eb50ff54d298ba0d10b302" title="Settings::getShowSystemTray" alt="" coords="197,5,409,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a5dae8c109bfcf60a2b3193356dc9c5e3" title="Settings::getCloseToTray" alt="" coords="215,56,392,83"/>
+<area shape="rect" id="node4" href="$classWidget.html#a0c6d86f47477beb19c48a66672164c0a" title="Widget::saveWindowGeometry" alt="" coords="196,107,411,133"/>
+<area shape="rect" id="node8" href="$classWidget.html#a176c9772cb33ee9b0a9badc86e5f9b29" title="Widget::saveSplitterGeometry" alt="" coords="197,157,410,184"/>
+<area shape="rect" id="node5" href="$classSettings.html#a2f7f9988b1225afd3f0b2c41a1e04d98" title="Settings::setWindowGeometry" alt="" coords="459,56,673,83"/>
+<area shape="rect" id="node7" href="$classSettings.html#a40fa0f832ba925682f53aa45a5296ed4" title="Settings::setWindowState" alt="" coords="473,107,659,133"/>
+<area shape="rect" id="node6" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title="Settings::setVal" alt="" coords="721,107,844,133"/>
+<area shape="rect" id="node9" href="$classSettings.html#a4e65ec63f3cb29d79c460a8c68932cc6" title="Settings::getSeparateWindow" alt="" coords="461,157,671,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a7722ba765ccdae496ffc215f020af48e" title="Settings::setSplitterState" alt="" coords="474,208,658,235"/>
+</map>

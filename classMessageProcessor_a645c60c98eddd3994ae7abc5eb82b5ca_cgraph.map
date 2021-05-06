@@ -1,0 +1,4 @@
+<map id="MessageProcessor::processOutgoingMessage" name="MessageProcessor::processOutgoingMessage">
+<area shape="rect" id="node2" href="$classMessageProcessor_1_1SharedParams.html#af0fee5e2aabac04fc6faa1881e19c32d" title="MessageProcessor::Shared\lParams::getMaxExtendedMessageSize" alt="" coords="253,5,523,47"/>
+<area shape="rect" id="node3" href="$classMessageProcessor_1_1SharedParams.html#aa67f2472da51c023022cc194e5df0780" title="MessageProcessor::Shared\lParams::getMaxCoreMessageSize" alt="" coords="269,71,507,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ChatLog::isActiveFileTransfer" name="ChatLog::isActiveFileTransfer">
+<area shape="rect" id="node2" href="$classChatLineContentProxy.html#ae6f1a5512220435d1a88104dd026cf3e" title="ChatLineContentProxy\l::getWidget" alt="" coords="256,5,420,47"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#ae7622644bf9b0bc9b680ffd66a97b579" title="FileTransferWidget\l::isActive" alt="" coords="271,71,405,112"/>
+</map>

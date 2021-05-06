@@ -1,0 +1,31 @@
+<map id="Status::isOnline" name="Status::isOnline">
+<area shape="rect" id="node2" href="$classFriendChatroom.html#add6b180e6d103a91446c512c3c330c3a" title="FriendChatroom::canBeInvited" alt="" coords="182,5,397,32"/>
+<area shape="rect" id="node3" href="$classGroupChatroom.html#a8ff13a814f42655ccfe368215b7bf9c4" title="GroupChatroom::inviteFriend" alt="" coords="187,56,392,83"/>
+<area shape="rect" id="node4" href="$classFriend.html#acff210b076b40d002e00e2ee2188de73" title="Friend::setStatus" alt="" coords="224,157,355,184"/>
+<area shape="rect" id="node13" href="$classFriend.html#af7ba0b639dae8ada6aa01c82d697e381" title="Friend::onNegotiationComplete" alt="" coords="179,208,399,235"/>
+<area shape="rect" id="node16" href="$classFriendMessageDispatcher.html#a52313ac513ae38d1bae064875688cd9a" title="FriendMessageDispatcher\l::sendProcessedMessage" alt="" coords="196,295,383,337"/>
+<area shape="rect" id="node21" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="184,495,395,521"/>
+<area shape="rect" id="node27" href="$classChatForm.html#a8852b8aaa0bf6a647eddd3076e5ed69c" title="ChatForm::onFriendStatus\lChanged" alt="" coords="467,647,656,689"/>
+<area shape="rect" id="node28" href="$classGroupChatForm.html#acca55f06673657eab0498c44100f077b" title="GroupChatForm::dropEvent" alt="" coords="191,545,388,572"/>
+<area shape="rect" id="node29" href="$classWidget.html#aa7ad264c25896fcea6eabee883116722" title="Widget::onFriendStatusChanged" alt="" coords="176,107,403,133"/>
+<area shape="rect" id="node5" href="$classWidget.html#a0a73b280e77524b83c9e96906d9b7a6c" title="Widget::onCoreFriendStatus\lChanged" alt="" coords="462,117,661,158"/>
+<area shape="rect" id="node6" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="1004,124,1180,151"/>
+<area shape="rect" id="node7" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="1228,124,1383,151"/>
+<area shape="rect" id="node8" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="1431,99,1531,125"/>
+<area shape="rect" id="node9" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="1579,99,1777,125"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2028,61,2083,88"/>
+<area shape="rect" id="node11" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1825,99,1961,125"/>
+<area shape="rect" id="node12" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="2009,137,2101,164"/>
+<area shape="rect" id="node14" href="$classFriend.html#a36a1a2bd0025b6e8f1a606af5b3900d5" title="Friend::setExtendedMessage\lSupport" alt="" coords="459,182,664,223"/>
+<area shape="rect" id="node15" href="$classWidget.html#a7d6a1bed064a612385b132702a0e4b9a" title="Widget::onExtendedMessage\lSupport" alt="" coords="735,178,941,219"/>
+<area shape="rect" id="node17" href="$classFriendMessageDispatcher.html#ac3c6340d41fe54c3a934db244f115cac" title="FriendMessageDispatcher\l::sendMessage" alt="" coords="468,378,655,419"/>
+<area shape="rect" id="node18" href="$classFriendMessageDispatcher.html#a7e574fcc231a6d5d670ce9f787cca34f" title="FriendMessageDispatcher\l::sendExtendedMessage" alt="" coords="468,247,655,289"/>
+<area shape="rect" id="node19" href="$classFriendMessageDispatcher.html#ac5b79248d6d7328826b8705f4b467989" title="Handles status change for friend. " alt="" coords="451,313,672,354"/>
+<area shape="rect" id="node20" href="$classFriendMessageDispatcher.html#a759af89993bfcd1575568b14be24dc2b" title="FriendMessageDispatcher\l::FriendMessageDispatcher" alt="" coords="741,313,935,354"/>
+<area shape="rect" id="node22" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title="ChatForm::ChatForm" alt="" coords="1014,571,1170,597"/>
+<area shape="rect" id="node23" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="483,545,639,572"/>
+<area shape="rect" id="node25" href="$classChatForm.html#a6f94e4135f6c841879a23a3eca961c36" title="ChatForm::onAnswerCallTriggered" alt="" coords="720,647,956,673"/>
+<area shape="rect" id="node26" href="$classChatForm.html#a33b9e0b33aace56192f539fe531b5763" title="ChatForm::onAvEnd" alt="" coords="764,444,912,471"/>
+<area shape="rect" id="node24" href="$classChatForm.html#affb47bf005a6ee321a33955b54e58397" title="ChatForm::onAvInvite" alt="" coords="759,596,917,623"/>
+<area shape="rect" id="node30" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="771,69,905,96"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="ChatForm::onAnswerCallTriggered" name="ChatForm::onAnswerCallTriggered">
+<area shape="rect" id="node2" href="$classChatFormHeader.html#aa8194da7641d5b211b6d8320b40cf53c" title="ChatFormHeader::removeCall\lConfirm" alt="" coords="289,5,501,47"/>
+<area shape="rect" id="node3" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="2273,493,2373,519"/>
+<area shape="rect" id="node4" href="$classChatForm.html#afb29897967b077c89f6b8cfd844e8db7" title="ChatForm::updateCallButtons" alt="" coords="1082,551,1293,578"/>
+<area shape="rect" id="node5" href="$classCore.html#ad166a2e2ed82891fde7bd7d990b58c02" title="Core::getAv" alt="" coords="1695,945,1791,971"/>
+<area shape="rect" id="node8" href="$classCoreAV.html#a2a137dd502168dabba1588a92c49c3fd" title="CoreAV::isCallVideoEnabled" alt="" coords="1645,442,1841,469"/>
+<area shape="rect" id="node21" href="$classCoreAV.html#a03daca28573480d385f33626781b1e69" title="CoreAV::answerCall" alt="" coords="323,1101,467,1127"/>
+<area shape="rect" id="node22" href="$classChatForm.html#a6c5093fbadcbd9af18bcaee239cfb021" title="ChatForm::stopCounter" alt="" coords="309,290,481,317"/>
+<area shape="rect" id="node34" href="$classChatForm.html#a66c82fcfeda849d694b58821ddc67724" title="ChatForm::hideNetcam" alt="" coords="571,770,742,797"/>
+<area shape="rect" id="node38" href="$classChatForm.html#a5010c0c8afaa7a8fe33bfbf66d68ab71" title="ChatForm::onAvStart" alt="" coords="317,637,473,663"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#aa1bc3e23de3063cde45369a9b39c4794" title="Checks the call status for a Tox friend. " alt="" coords="1669,543,1817,570"/>
+<area shape="rect" id="node9" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="1408,543,1531,570"/>
+<area shape="rect" id="node10" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="1404,442,1535,469"/>
+<area shape="rect" id="node11" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title="ChatFormHeader::updateCall\lButtons" alt="" coords="1639,696,1847,737"/>
+<area shape="rect" id="node15" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title="ChatForm::updateMuteMicButton" alt="" coords="1352,746,1587,773"/>
+<area shape="rect" id="node18" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title="ChatForm::updateMuteVolButton" alt="" coords="1353,797,1585,823"/>
+<area shape="rect" id="node7" href="$classCoreAV.html#af8432a32e765788698692e89c89cd87a" title="Checks the call status for a Tox friend. " alt="" coords="1953,493,2111,519"/>
+<area shape="rect" id="node12" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title="ChatFormHeader::updateButtonsView" alt="" coords="1900,769,2164,795"/>
+<area shape="rect" id="node13" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title="ChatFormHeader::retranslateUi" alt="" coords="2212,794,2435,821"/>
+<area shape="rect" id="node14" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title="Style::repolish" alt="" coords="2267,743,2379,770"/>
+<area shape="rect" id="node16" href="$classCoreAV.html#af5b7648051f6579f3a450e6f956777be" title="Returns the calls input (microphone) mute state. " alt="" coords="1941,645,2123,671"/>
+<area shape="rect" id="node17" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title="ChatFormHeader::updateMute\lMicButton" alt="" coords="1635,761,1852,803"/>
+<area shape="rect" id="node19" href="$classCoreAV.html#a611d500d552f4d2eefde6569938dbb91" title="Returns the calls output (speaker) mute state. " alt="" coords="1935,706,2129,733"/>
+<area shape="rect" id="node20" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title="ChatFormHeader::updateMute\lVolButton" alt="" coords="1635,879,1852,920"/>
+<area shape="rect" id="node23" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="1092,602,1283,629"/>
+<area shape="rect" id="node24" href="$classGenericChatForm.html#ad97879f88fff096c93f26a6988366cc5" title="GenericChatForm::addSystem\lInfoMessage" alt="" coords="549,224,764,265"/>
+<area shape="rect" id="node25" href="$classGenericChatForm.html#a52d18d25bdf4347573622cebb618e2d1" title="GenericChatForm::insertChat\lMessage" alt="" coords="813,144,1021,185"/>
+<area shape="rect" id="node30" href="$classChatMessage.html#ac9742b80694ad6f91fba98fcb2bcff08" title="ChatMessage::createChatInfo\lMessage" alt="" coords="812,228,1023,269"/>
+<area shape="rect" id="node26" href="$classChatLog.html#ac35868b9fc96b5e49ad8da68898e3465" title="ChatLog::insertChatlineAt\lBottom" alt="" coords="1095,123,1280,164"/>
+<area shape="rect" id="node27" href="$classChatLog.html#ac29ee894ab3019bbd21875784936cd01" title="ChatLog::stickToBottom" alt="" coords="1383,223,1556,250"/>
+<area shape="rect" id="node28" href="$classChatLog.html#a31bcdfe5379ae9e55bb85c6288f71182" title="ChatLog::layout" alt="" coords="1408,122,1531,149"/>
+<area shape="rect" id="node29" href="$classChatLog.html#a2aa02aa610ce76e0de19ea546099b699" title="ChatLog::useableWidth" alt="" coords="1385,173,1553,199"/>
+<area shape="rect" id="node31" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title="Style::getImagePath" alt="" coords="1112,189,1263,215"/>
+<area shape="rect" id="node32" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="1108,239,1267,266"/>
+<area shape="rect" id="node33" href="$classSettings.html#ab02ac9603db46e63aea67a7be46ceaf0" title="Settings::getChatMessageFont" alt="" coords="1078,290,1297,317"/>
+<area shape="rect" id="node35" href="$classContentDialogManager.html#adf636d0f1287a0dc33246e7287691c2e" title="ContentDialogManager\l::getInstance" alt="" coords="833,763,1002,804"/>
+<area shape="rect" id="node36" href="$classContentDialogManager.html#ae0c328d726ebbaebdcd47e17731cdf0c" title="ContentDialogManager\l::current" alt="" coords="833,828,1002,869"/>
+<area shape="rect" id="node37" href="$classContentDialog.html#a1957029be7a8a666d39c8aad67c01518" title="ContentDialog::onVideoHide" alt="" coords="816,894,1019,921"/>
+<area shape="rect" id="node39" href="$classChatForm.html#a4591e985816c9b3c60b8f8adf3989f7a" title="ChatForm::showNetcam" alt="" coords="569,686,745,713"/>
+<area shape="rect" id="node49" href="$classChatForm.html#a7d685dbca7b3ecc0f05a7fab347deac3" title="ChatForm::startCounter" alt="" coords="569,883,744,910"/>
+<area shape="rect" id="node40" href="$classChatForm.html#a1f717a3fb04fa2903e0f05d8ae1afeec" title="ChatForm::createNetcam" alt="" coords="825,711,1010,738"/>
+<area shape="rect" id="node46" href="$classChatForm.html#a4bb12bb36c730b6a2467407dc3044687" title="ChatForm::onShowMessages\lClicked" alt="" coords="814,544,1021,585"/>
+<area shape="rect" id="node48" href="$classContentDialog.html#a51eb3066fd3b6658038ebc79e731b0f1" title="ContentDialog::onVideoShow" alt="" coords="814,661,1021,687"/>
+<area shape="rect" id="node41" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="1113,754,1261,781"/>
+<area shape="rect" id="node42" href="$classCoreAV.html#a778a84b6a8e39cc52f63c78be6540cbb" title="Get a call&#39;s video source. " alt="" coords="1071,703,1304,730"/>
+<area shape="rect" id="node43" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title="ChatForm::onVideoCallTriggered" alt="" coords="1356,645,1583,671"/>
+<area shape="rect" id="node44" href="$classChatForm.html#a8e3859ece13f69fe8da2418db4525371" title="ChatForm::onVolMuteToggle" alt="" coords="1087,855,1287,882"/>
+<area shape="rect" id="node45" href="$classChatForm.html#a3112589852659f68a0a36d957bc53682" title="ChatForm::onMicMuteToggle" alt="" coords="1086,805,1289,831"/>
+<area shape="rect" id="node47" href="$classChatForm.html#a83d59f578d649f5b952e28ef862d6ac7" title="ChatForm::onSplitterMoved" alt="" coords="1089,442,1286,469"/>
+<area shape="rect" id="node50" href="$classChatForm.html#a2123c9b62471827f27fcfa9449e4cdaf" title="ChatForm::onUpdateTime" alt="" coords="824,945,1011,971"/>
+</map>

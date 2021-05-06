@@ -1,0 +1,3 @@
+<map id="ToxGroupCall" name="ToxGroupCall">
+<area shape="rect" id="node2" href="$classToxCall.html" title="{ToxCall\n|# active\l# av\l# audio\l# muteMic\l# muteVol\l# videoSource\l# videoInConn\l# videoEnabled\l# nullVideoBitrate\l# audioSource\l|+ ToxCall()\l+ ToxCall()\l+ operator=()\l+ operator=()\l+ isActive()\l+ setActive()\l+ getMuteVol()\l+ setMuteVol()\l+ getMuteMic()\l+ setMuteMic()\l+ getVideoEnabled()\l+ setVideoEnabled()\l+ getNullVideoBitrate()\l+ setNullVideoBitrate()\l+ getVideoSource()\l# ToxCall()\l# ToxCall()\l# ~ToxCall()\l}" alt="" coords="23,131,194,589"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GenericChatForm::hideEvent" name="GenericChatForm::hideEvent">
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a28ed52eb28a80188a9adf9223e0102d2" title="GenericChatForm::hideFileMenu" alt="" coords="259,78,483,105"/>
+<area shape="rect" id="node3" href="$classFlyoutOverlayWidget.html#a823ec10f062bc07dff6a949e09c14292" title="FlyoutOverlayWidget\l::isShown" alt="" coords="531,5,681,47"/>
+<area shape="rect" id="node4" href="$classFlyoutOverlayWidget.html#aa768bd1848882db048fcb7b31acf357f" title="FlyoutOverlayWidget\l::isBeingShown" alt="" coords="531,71,681,112"/>
+<area shape="rect" id="node6" href="$classFlyoutOverlayWidget.html#a0e3c6999c666bcb69f4af49f0dc80479" title="FlyoutOverlayWidget\l::animateHide" alt="" coords="531,136,681,177"/>
+<area shape="rect" id="node5" href="$classFlyoutOverlayWidget.html#abc0794450d6d6cd2b23dad08d166cc3a" title="FlyoutOverlayWidget\l::isBeingAnimated" alt="" coords="729,71,880,112"/>
+<area shape="rect" id="node7" href="$classFlyoutOverlayWidget.html#abecb66e0bf7787c549c08ae009479c1a" title="FlyoutOverlayWidget\l::startAnimation" alt="" coords="729,136,880,177"/>
+</map>

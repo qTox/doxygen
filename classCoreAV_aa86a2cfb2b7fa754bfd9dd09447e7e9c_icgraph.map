@@ -1,0 +1,4 @@
+<map id="CoreAV::sendNoVideo" name="CoreAV::sendNoVideo">
+<area shape="rect" id="node2" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title="AVForm::on_videoDevCombobox\l_currentIndexChanged" alt="" coords="215,5,445,47"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="493,13,667,39"/>
+</map>

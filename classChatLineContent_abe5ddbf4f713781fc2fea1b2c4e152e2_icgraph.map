@@ -1,0 +1,5 @@
+<map id="ChatLineContent::selectionTripleClick" name="ChatLineContent::selectionTripleClick">
+<area shape="rect" id="node2" href="$classChatLog.html#a11df02b62b55c46caee48f3e97f3258f" title="ChatLog::handleMultiClick\lEvent" alt="" coords="248,27,433,69"/>
+<area shape="rect" id="node3" href="$classChatLog.html#ae3dada37357700d6a90030eb5933549c" title="ChatLog::mousePressEvent" alt="" coords="483,5,681,32"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ae86822cb6aa89fd3418798d4d66fb0d0" title="ChatLog::mouseDoubleClick\lEvent" alt="" coords="481,57,683,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RawDatabase::deriveKey" name="RawDatabase::deriveKey">
+<area shape="rect" id="node2" href="$classRawDatabase.html#a2a576628b0c68901adfcf471e8f7d544" title="Tries to open a database. " alt="" coords="476,5,680,32"/>
+<area shape="rect" id="node3" href="$classRawDatabase.html#aad13f2a1276986076a1bcaa687b299ba" title="Changes the database password, encrypting or decrypting if necessary. " alt="" coords="232,31,428,57"/>
+</map>

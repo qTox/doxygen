@@ -1,0 +1,6 @@
+<map id="ToxFriendCall::onAudioSourceInvalidated" name="ToxFriendCall::onAudioSourceInvalidated">
+<area shape="rect" id="node2" href="$classCoreAV.html#a5d0915f379070967ea3fa8052c5b1a94" title="Send audio frame to a friend. " alt="" coords="261,56,428,83"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a15623f05c225b46faa533ae7a1add4cc" title="ToxCall::getMuteMic" alt="" coords="486,5,633,32"/>
+<area shape="rect" id="node4" href="$classToxCall.html#a46ae1e53efb2bfa06d86f9f70ddfd5a8" title="ToxCall::isActive" alt="" coords="498,56,621,83"/>
+<area shape="rect" id="node5" href="$classToxFriendCall.html#ae196472b4200030c5eed958a55ab3ae7" title="ToxFriendCall::getState" alt="" coords="476,107,643,133"/>
+</map>

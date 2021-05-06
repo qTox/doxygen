@@ -1,0 +1,5 @@
+<map id="ChatHistory::getFirstIdx" name="ChatHistory::getFirstIdx">
+<area shape="rect" id="node2" href="$classChatHistory.html#a684b036cdbca742a83eed035bdb77a2a" title="ChatHistory::canUseHistory" alt="" coords="223,5,421,32"/>
+<area shape="rect" id="node4" href="$classSessionChatLog.html#af3155efcac617b8e031177d281438c41" title="The underlying chat log instance may not want to start at 0. " alt="" coords="223,56,421,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#aa3d4c8c7582f245d4971f63a214ccadd" title="Settings::getEnableLogging" alt="" coords="469,5,667,32"/>
+</map>

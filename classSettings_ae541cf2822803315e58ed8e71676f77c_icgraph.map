@@ -1,0 +1,11 @@
+<map id="Settings::compactLayoutChanged" name="Settings::compactLayoutChanged">
+<area shape="rect" id="node2" href="$classSettings.html#ac22abf49206130a2fa14343807c23e8f" title="Settings::setCompactLayout" alt="" coords="292,13,496,39"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#a577070f6f4d0fc2369c25f5947f7cd41" title="GenericChatroomWidget\l::GenericChatroomWidget" alt="" coords="301,64,487,105"/>
+<area shape="rect" id="node5" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="348,130,440,157"/>
+<area shape="rect" id="node3" href="$classUserInterfaceForm.html#aa9b2a72ba5db9362952d7c1c3d3cba4c" title="UserInterfaceForm::\lon_cbCompactLayout_stateChanged" alt="" coords="544,5,803,47"/>
+<area shape="rect" id="node6" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="596,105,751,131"/>
+<area shape="rect" id="node7" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin. " alt="" coords="851,105,951,131"/>
+<area shape="rect" id="node8" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title="Nexus::bootstrapWithProfile" alt="" coords="999,105,1197,131"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1429,130,1484,157"/>
+<area shape="rect" id="node10" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen. " alt="" coords="1245,155,1381,182"/>
+</map>

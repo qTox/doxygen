@@ -1,0 +1,5 @@
+<map id="CoreAV::isGroupCallOutputMuted" name="CoreAV::isGroupCallOutputMuted">
+<area shape="rect" id="node2" href="$classGroupChatForm.html#ac87a6743aec7d66d086fa9581674f3b5" title="GroupChatForm::onVolMute\lToggle" alt="" coords="254,5,453,47"/>
+<area shape="rect" id="node4" href="$classGroupChatForm.html#ab08a1498f127d0b7f7beadc2341afc76" title="GroupChatForm::onCallClicked" alt="" coords="245,71,461,98"/>
+<area shape="rect" id="node3" href="$classGroupChatForm.html#a26bec2878f4cf3f9cd34e901b68d3b25" title="GroupChatForm::GroupChatForm" alt="" coords="509,42,744,69"/>
+</map>

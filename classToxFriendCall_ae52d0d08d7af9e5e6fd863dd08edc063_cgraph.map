@@ -1,0 +1,48 @@
+<map id="ToxFriendCall::ToxFriendCall" name="ToxFriendCall::ToxFriendCall">
+<area shape="rect" id="node2" href="$classCoreAV.html#a5d0915f379070967ea3fa8052c5b1a94" title="Send audio frame to a friend. " alt="" coords="529,57,696,84"/>
+<area shape="rect" id="node6" href="$classToxFriendCall.html#ae19744a42b411b813a351b05220b21bb" title="ToxFriendCall::onAudioSource\lInvalidated" alt="" coords="245,109,453,150"/>
+<area shape="rect" id="node7" href="$classToxFriendCall.html#a96df9a63b33003f83b74398c62514481" title="ToxFriendCall::onAudioSink\lInvalidated" alt="" coords="254,226,445,267"/>
+<area shape="rect" id="node8" href="$classCameraSource.html#aff3c0f2528a32a13a93df11821a6ecd6" title="Returns the singleton instance. " alt="" coords="249,292,450,319"/>
+<area shape="rect" id="node10" href="$classCameraSource.html#af8c141c5362c6136d82e15542612f959" title="CameraSource::isNone" alt="" coords="264,343,435,369"/>
+<area shape="rect" id="node11" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device. " alt="" coords="245,439,453,465"/>
+<area shape="rect" id="node43" href="$classCameraSource.html#ae6082d3ce6dfba07ef18767a10151bce" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals. " alt="" coords="256,599,443,625"/>
+<area shape="rect" id="node44" href="$classCoreAV.html#aec221aef8ba03182603a6e9c01dcd993" title="CoreAV::sendCallVideo" alt="" coords="529,165,696,192"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a15623f05c225b46faa533ae7a1add4cc" title="ToxCall::getMuteMic" alt="" coords="804,5,951,32"/>
+<area shape="rect" id="node4" href="$classToxCall.html#a46ae1e53efb2bfa06d86f9f70ddfd5a8" title="ToxCall::isActive" alt="" coords="816,56,939,83"/>
+<area shape="rect" id="node5" href="$classToxFriendCall.html#ae196472b4200030c5eed958a55ab3ae7" title="ToxFriendCall::getState" alt="" coords="794,107,961,133"/>
+<area shape="rect" id="node9" href="$classCameraSource.html#a939856f07ff5df4a4f553ab404c36a2c" title="CameraSource::CameraSource" alt="" coords="501,292,724,319"/>
+<area shape="rect" id="node12" href="$classCameraDevice.html#affa8877e347ad77abcce1b6bbeb9f938" title="Get the default device name. " alt="" coords="517,402,708,443"/>
+<area shape="rect" id="node13" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="798,309,957,336"/>
+<area shape="rect" id="node31" href="$classCameraDevice.html#a99f7ee01ff1dadfd682627890bf3d639" title="Checks if a device name specifies a display. " alt="" coords="523,519,702,545"/>
+<area shape="rect" id="node32" href="$classSettings.html#a721305a10e57637a8d63ea8b5213a6e0" title="Settings::getCamVideoFPS" alt="" coords="515,569,710,596"/>
+<area shape="rect" id="node33" href="$classCameraSource.html#af9add1ef2031e2c35fb09e3a75bb92c1" title="Change the device and mode. " alt="" coords="510,468,715,495"/>
+<area shape="rect" id="node24" href="$classSettings.html#a74c7abf989fef4d7a54724f241e0ab3d" title="Settings::getVideoDev" alt="" coords="795,360,960,387"/>
+<area shape="rect" id="node25" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default. " alt="" coords="1292,458,1483,499"/>
+<area shape="rect" id="node26" href="$classCameraDevice.html#a68fe877af30ae067d85da383c59eed7d" title="Get device list with desciption. " alt="" coords="772,524,983,551"/>
+<area shape="rect" id="node14" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1069,309,1205,336"/>
+<area shape="rect" id="node15" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="1319,265,1455,292"/>
+<area shape="rect" id="node17" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="1312,353,1463,380"/>
+<area shape="rect" id="node16" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1578,227,1678,253"/>
+<area shape="rect" id="node18" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1531,328,1725,355"/>
+<area shape="rect" id="node19" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1773,303,1959,329"/>
+<area shape="rect" id="node20" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1545,379,1711,405"/>
+<area shape="rect" id="node21" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1543,429,1713,456"/>
+<area shape="rect" id="node22" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1573,480,1683,507"/>
+<area shape="rect" id="node23" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1829,480,1903,507"/>
+<area shape="rect" id="node27" href="$namespaceDirectShow.html#a3ad4d4c773c079adde6f4f0964183fcb" title="DirectShow::getDeviceList" alt="" coords="1044,553,1231,580"/>
+<area shape="rect" id="node28" href="$namespacev4l2.html#afd254d0d2ba893c98349483280fc3320" title="v4l2::getDeviceList" alt="" coords="1066,604,1209,631"/>
+<area shape="rect" id="node29" href="$namespaceavfoundation.html#ac3912d2558e0da9f0c481164e45a3758" title="avfoundation::getDeviceList" alt="" coords="1038,655,1237,681"/>
+<area shape="rect" id="node30" href="$classCameraDevice.html#a7336fe048554c670f5eeeb1f1f466038" title="Get raw device list. " alt="" coords="1031,487,1244,529"/>
+<area shape="rect" id="node34" href="$classCameraSource.html#a3cbf9f978255ddaf522941d6603231f6" title="Closes the video device and stops streaming. " alt="" coords="776,807,979,833"/>
+<area shape="rect" id="node37" href="$classCameraSource.html#a8feedbf91ec5c596003144d0cacd1807" title="Opens the video device and starts streaming. " alt="" coords="777,677,978,704"/>
+<area shape="rect" id="node35" href="$classVideoFrame.html#a979d1ff7ddbb8bc13a4a77143a433f7f" title="Untracks all the frames for the given VideoSource, releasing them if specified. " alt="" coords="1037,807,1238,833"/>
+<area shape="rect" id="node36" href="$classCameraDevice.html#a85adc6040ff8cf4d49009902a4eb309d" title="Closes the device. Never fails. " alt="" coords="1059,857,1216,884"/>
+<area shape="rect" id="node38" href="$classCameraDevice.html#ada4c5ffa63328de35c7965818ffaaa4a" title="Opens a device. " alt="" coords="1059,705,1215,732"/>
+<area shape="rect" id="node41" href="$classCameraSource.html#a64c38c6f510cf63da910f7095d4b276f" title="Blocking. Decodes video stream and emits new frames. " alt="" coords="1051,756,1223,783"/>
+<area shape="rect" id="node39" href="$namespacev4l2.html#a07cc34a50812f9f0e7ae7afba4347eb5" title="v4l2::getPixelFormatString" alt="" coords="1292,655,1483,681"/>
+<area shape="rect" id="node40" href="$classCameraDevice.html#aba87c77c9bea25351eca0c32e67aa7f8" title="Opens the device again. Never fails. " alt="" coords="1309,705,1465,732"/>
+<area shape="rect" id="node42" href="$classVideoFrame.html#a1bca3ccca0fe614db7474e748c263422" title="Causes the VideoFrame class to maintain an internal reference for the frame. " alt="" coords="1298,756,1477,783"/>
+<area shape="rect" id="node45" href="$classToxCall.html#a24f6ecbc0c73ac62cbd10ab8e958e98c" title="ToxCall::getVideoEnabled" alt="" coords="787,157,968,184"/>
+<area shape="rect" id="node46" href="$classToxCall.html#ade7b91d4b876e1511fac273e743a08b4" title="ToxCall::getNullVideoBitrate" alt="" coords="779,208,976,235"/>
+<area shape="rect" id="node47" href="$classToxCall.html#a9e20e6a6bac38e37b15a8aaf3491a104" title="ToxCall::setNullVideoBitrate" alt="" coords="779,259,975,285"/>
+</map>

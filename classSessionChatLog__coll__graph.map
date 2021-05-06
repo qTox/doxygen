@@ -1,0 +1,4 @@
+<map id="SessionChatLog" name="SessionChatLog">
+<area shape="rect" id="node2" href="$classIChatLog.html" title="{IChatLog\n||+ ~IChatLog()\l+ at()\l+ searchForward()\l+ searchBackward()\l+ getFirstIdx()\l+ getNextIdx()\l+ getDateIdxs()\l}" alt="" coords="5,132,156,297"/>
+<area shape="rect" id="node4" href="$classICoreIdHandler.html" title="{ICoreIdHandler\n||+ ~ICoreIdHandler()\l+ getSelfId()\l+ getSelfPublicKey()\l+ getUsername()\l}" alt="" coords="181,154,333,275"/>
+</map>

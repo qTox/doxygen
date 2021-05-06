@@ -1,0 +1,5 @@
+<map id="getAsRichText" name="getAsRichText">
+<area shape="rect" id="node2" href="$classSmileyPack.html#a37785fcfb7fc9d11b3e64ccf85a663a5" title="Replaces all found text emoticons to HTML reference with its according icon filename. " alt="" coords="164,13,331,39"/>
+<area shape="rect" id="node3" href="$classChatMessage.html#a75c9fc019f57227add289839060a02c8" title="ChatMessage::createChatMessage" alt="" coords="379,13,624,39"/>
+<area shape="rect" id="node4" href="$classGenericChatForm.html#a2d556cb8a0a1d103e114b8a4d238b137" title="Searches for name (possibly alias) of someone with specified public key among all of your friends or ..." alt="" coords="672,5,860,47"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Widget::onFileReceiveRequested" name="Widget::onFileReceiveRequested">
+<area shape="rect" id="node2" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title="FriendList::id2Key" alt="" coords="309,1068,439,1095"/>
+<area shape="rect" id="node3" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="277,1119,471,1161"/>
+<area shape="rect" id="node4" href="$classContentDialogManager.html#adf636d0f1287a0dc33246e7287691c2e" title="ContentDialogManager\l::getInstance" alt="" coords="1310,749,1479,790"/>
+<area shape="rect" id="node5" href="$classContentDialogManager.html#a29bcb711137e320829b6802068daed96" title="ContentDialogManager\l::getFriendDialog" alt="" coords="1577,145,1746,186"/>
+<area shape="rect" id="node6" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="1586,615,1737,641"/>
+<area shape="rect" id="node7" href="$classContentDialogManager.html#a7139916e4164e87205ac231c4ab700a7" title="ContentDialogManager\l::isContactActive" alt="" coords="548,1278,717,1319"/>
+<area shape="rect" id="node9" href="$classSettings.html#a4e65ec63f3cb29d79c460a8c68932cc6" title="Settings::getSeparateWindow" alt="" coords="1556,927,1767,953"/>
+<area shape="rect" id="node10" href="$classSettings.html#a66e5adbc280d3c2a477fc0355fcf9c20" title="Settings::getShowWindow" alt="" coords="810,1444,995,1471"/>
+<area shape="rect" id="node11" href="$classSettings.html#af2c161a83b677fea101f580831dd6b27" title="Settings::getDontGroupWindows" alt="" coords="519,1545,747,1572"/>
+<area shape="rect" id="node12" href="$classWidget.html#a905f5d228633f71bad549a6cb1825bd0" title="Widget::createContentDialog" alt="" coords="530,624,735,651"/>
+<area shape="rect" id="node14" href="$classWidget.html#ae372211b641bd400b6aa769f1333139d" title="Widget::addFriendDialog" alt="" coords="1059,472,1233,499"/>
+<area shape="rect" id="node17" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title="Widget::setWindowTitle" alt="" coords="1578,1028,1745,1055"/>
+<area shape="rect" id="node26" href="$classGenericChatroomWidget.html#af647c5bd4201c6ec14e2cd949999345b" title="GenericChatroomWidget\l::getTitle" alt="" coords="1572,1131,1751,1173"/>
+<area shape="rect" id="node32" href="$classContentDialogManager.html#ae0c328d726ebbaebdcd47e17731cdf0c" title="ContentDialogManager\l::current" alt="" coords="548,1597,717,1638"/>
+<area shape="rect" id="node33" href="$classWidget.html#a3bd6419cad95ffbcf90fc02204d00bae" title="Widget::newMessageAlert" alt="" coords="540,1495,725,1521"/>
+<area shape="rect" id="node40" href="$classFriend.html#a16c4a9c97dba6695da4c5ca3a4ed2db3" title="Friend::setEventFlag" alt="" coords="557,1663,708,1689"/>
+<area shape="rect" id="node41" href="$classFriendWidget.html#a2b0c87a9ee66203c9cccf1e2c66f67bb" title="FriendWidget::updateStatus\lLight" alt="" coords="533,895,732,937"/>
+<area shape="rect" id="node47" href="$classContentDialogManager.html#a407cfa6df6094800828ec6e66b301eae" title="ContentDialogManager\l::updateFriendStatus" alt="" coords="548,1165,717,1206"/>
+<area shape="rect" id="node8" href="$classContentDialog.html#ac3d916cee313e0cc1b3e372636e38cc7" title="ContentDialog::isContact\lActive" alt="" coords="812,1327,993,1369"/>
+<area shape="rect" id="node13" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="796,573,1009,600"/>
+<area shape="rect" id="node15" href="$classFriend.html#a974f3e63f477a9ad42ff1464f610dc6f" title="Friend::getPublicKey" alt="" coords="1587,68,1735,95"/>
+<area shape="rect" id="node16" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="1315,927,1474,953"/>
+<area shape="rect" id="node18" href="$classContentDialogManager.html#aed4a9ea75acafd48747ce9ec4cfafb93" title="ContentDialogManager\l::addFriendToDialog" alt="" coords="1310,145,1479,186"/>
+<area shape="rect" id="node19" href="$classContentDialog.html#a7da726baf6435e5263553864a6c0e544" title="ContentDialog::removeFriend" alt="" coords="1557,261,1765,288"/>
+<area shape="rect" id="node20" href="$classGenericChatroomWidget.html#a3e92d0f2f57ef8b4be4890301557f4c8" title="GenericChatroomWidget\l::setStatusMsg" alt="" coords="1305,465,1484,506"/>
+<area shape="rect" id="node21" href="$classGenericChatroomWidget.html#a60626f17959aa1e5418fc9c48e91e401" title="GenericChatroomWidget\l::getStatusMsg" alt="" coords="1305,530,1484,571"/>
+<area shape="rect" id="node22" href="$classWidget.html#a44d68e2b67e88e0160ea9d1a6fea99d1" title="Widget::removeFriend" alt="" coords="1315,363,1475,389"/>
+<area shape="rect" id="node23" href="$classWidget.html#a696685a63ce3dbe258bea8594f015e26" title="Widget::copyFriendIdToClipboard" alt="" coords="1282,413,1507,440"/>
+<area shape="rect" id="node24" href="$classWidget.html#a8b019d7946683af0eacf69650da666d4" title="Widget::openNewDialog" alt="" coords="1309,596,1481,623"/>
+<area shape="rect" id="node25" href="$classWidget.html#a9eea04cbe8febd484d9bf06864a1eb8f" title="Widget::event" alt="" coords="1340,1028,1449,1055"/>
+<area shape="rect" id="node29" href="$classFriendWidget.html#a0adbe4a7abadc75a8f1137c00cdda50c" title="FriendWidget::onAvatarSet" alt="" coords="1299,647,1490,673"/>
+<area shape="rect" id="node30" href="$classFriendWidget.html#a229f8291ce696444aed9eb853ddcc3e7" title="FriendWidget::onAvatarRemoved" alt="" coords="1281,93,1508,120"/>
+<area shape="rect" id="node31" href="$classProfile.html#a555138ddaeb083aca04e317fb17f12af" title="Get our avatar from cache. " alt="" coords="1326,211,1463,237"/>
+<area shape="rect" id="node27" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="1817,1098,1991,1139"/>
+<area shape="rect" id="node28" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title="GenericChatroomWidget\l::getStatusString" alt="" coords="1815,1163,1993,1205"/>
+<area shape="rect" id="node34" href="$classSettings.html#a613bebef785a7db1e348f65cbd9022bf" title="Settings::getNotify" alt="" coords="832,1713,973,1740"/>
+<area shape="rect" id="node35" href="$classSettings.html#a8b0ce74addf5bfab6b7be07447275fb2" title="Settings::getDesktopNotify" alt="" coords="805,1764,1000,1791"/>
+<area shape="rect" id="node36" href="$classCore.html#a678a842bb26b85d9e30b0a332716986b" title="Returns our user status. " alt="" coords="841,1495,964,1521"/>
+<area shape="rect" id="node37" href="$classSettings.html#aca822c6f005a3b89a67d227cfedfcefb" title="Settings::getBusySound" alt="" coords="815,1545,991,1572"/>
+<area shape="rect" id="node38" href="$classSettings.html#aecdd88599186fd0159682b6b1416f999" title="Settings::getNotifySound" alt="" coords="811,1596,994,1623"/>
+<area shape="rect" id="node39" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink. " alt="" coords="817,1647,988,1689"/>
+<area shape="rect" id="node42" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title="Status::getIconPath" alt="" coords="1073,1065,1219,1092"/>
+<area shape="rect" id="node43" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="823,827,982,853"/>
+<area shape="rect" id="node44" href="$classSettings.html#ad2bea7550d0fe0f24a392edbfbb5ba3b" title="Settings::getFriendCircleID" alt="" coords="807,877,998,904"/>
+<area shape="rect" id="node45" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title="CircleWidget::getFromID" alt="" coords="815,928,990,955"/>
+<area shape="rect" id="node46" href="$classCategoryWidget.html#a18244f18d8cb90aa44a1fc658f02a65e" title="CategoryWidget::setExpanded" alt="" coords="795,776,1010,803"/>
+<area shape="rect" id="node48" href="$classContentDialog.html#abf082b0c9dd81c55fae5d7f965c4b910" title="ContentDialog::updateContact\lStatusLight" alt="" coords="795,1197,1011,1238"/>
+<area shape="rect" id="node49" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon. " alt="" coords="807,1131,999,1173"/>
+<area shape="rect" id="node50" href="$classContentDialog.html#a22d2e632aee2159e64c54d438e39e498" title="ContentDialog::updateFriend\lStatus" alt="" coords="801,1262,1005,1303"/>
+</map>

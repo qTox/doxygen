@@ -1,0 +1,3 @@
+<map id="ToxFile" name="ToxFile">
+<area shape="rect" id="node2" href="$classToxFilePause.html" title="{ToxFilePause\n|&#45; localPauseState\l&#45; remotePauseState\l|+ localPause()\l+ localResume()\l+ localPauseToggle()\l+ remotePause()\l+ remoteResume()\l+ remotePauseToggle()\l+ localPaused()\l+ remotePaused()\l+ paused()\l}" alt="" coords="5,5,177,215"/>
+</map>

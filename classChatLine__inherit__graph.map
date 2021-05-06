@@ -1,0 +1,3 @@
+<map id="ChatLine" name="ChatLine">
+<area shape="rect" id="node2" href="$classChatMessage.html" title="{ChatMessage\n|&#45; action\l|+ ChatMessage()\l+ markAsDelivered()\l+ markAsBroken()\l+ toString()\l+ isAction()\l+ setAsAction()\l+ hideSender()\l+ hideDate()\l+ createChatMessage()\l+ createChatInfoMessage()\l+ createFileTransferMessage()\l+ createTypingNotification()\l+ createBusyNotification()\l# detectQuotes()\l# wrapDiv()\l}" alt="" coords="5,483,220,765"/>
+</map>

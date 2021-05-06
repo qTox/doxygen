@@ -1,0 +1,5 @@
+<map id="CategoryWidget::updateStatus" name="CategoryWidget::updateStatus">
+<area shape="rect" id="node2" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="489,5,659,47"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="272,64,441,105"/>
+<area shape="rect" id="node3" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="707,35,880,76"/>
+</map>

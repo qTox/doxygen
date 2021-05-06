@@ -1,0 +1,51 @@
+<map id="Nexus::getProfile" name="Nexus::getProfile">
+<area shape="rect" id="node2" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="268,71,323,98"/>
+<area shape="rect" id="node3" href="$classAboutFriend.html#a7dfe725e7f1e0f94bff415b747e155c4" title="AboutFriend::getAvatar" alt="" coords="211,122,379,149"/>
+<area shape="rect" id="node4" href="$classAboutFriend.html#a9dc8e083c5560992abc24a5ae94c6599" title="AboutFriend::clearHistory" alt="" coords="204,173,387,199"/>
+<area shape="rect" id="node5" href="$classAboutFriend.html#a0d170f4e26de5f7af1fbfa2eb4f164da" title="AboutFriend::isHistoryExistence" alt="" coords="184,223,407,250"/>
+<area shape="rect" id="node6" href="$classSettings.html#aa54fd1da014d58d535c8200d240afbaa" title="Settings::resetToDefault" alt="" coords="208,274,383,301"/>
+<area shape="rect" id="node8" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile. " alt="" coords="211,325,379,351"/>
+<area shape="rect" id="node49" href="$classNetCamView.html#a15a69417f13255d39698367fdcbe8895" title="NetCamView::NetCamView" alt="" coords="199,375,392,402"/>
+<area shape="rect" id="node50" href="$classPrivacyForm.html#a460c853b8107d52c39d8702ebfd652b1" title="PrivacyForm::on_cbKeepHistory\l_stateChanged" alt="" coords="184,427,407,468"/>
+<area shape="rect" id="node7" href="$classAdvancedForm.html#a1b048c3e9e7a45e26fe2051a61000753" title="AdvancedForm::on_resetButton\l_clicked" alt="" coords="457,5,683,47"/>
+<area shape="rect" id="node9" href="$classProfile.html#a58fa758a59bc4ee3c1a9980e360e4e98" title="Profile::~Profile" alt="" coords="511,122,629,149"/>
+<area shape="rect" id="node10" href="$classSettings.html#a0b61dc09d870d32c5ed31e22306a8272" title="Asynchronous, saves the profile. " alt="" coords="486,173,654,199"/>
+<area shape="rect" id="node11" href="$classSettings.html#a5cc7addfc0dadb8f2fff482cef4bd540" title="Settings::saveFriendSettings" alt="" coords="468,223,672,250"/>
+<area shape="rect" id="node12" href="$classSettings.html#ae7493a121a5621a69c10e2e5d8295aea" title="Settings::setCircleName" alt="" coords="481,71,659,98"/>
+<area shape="rect" id="node14" href="$classSettings.html#aba909d42ff74774ad66eeef798ad1097" title="Settings::addCircle" alt="" coords="499,274,641,301"/>
+<area shape="rect" id="node27" href="$classSettings.html#a1966aec03bbd2809670e43b1441650ea" title="Settings::removeCircle" alt="" coords="487,325,653,351"/>
+<area shape="rect" id="node29" href="$classCircleWidget.html#a1c8e76b3055133c611cfcf97e99be091" title="CircleWidget::dropEvent" alt="" coords="483,442,657,469"/>
+<area shape="rect" id="node30" href="$classCircleWidget.html#a34d66fbaeb83e02daa2245a2a40d2679" title="CircleWidget::onExpand" alt="" coords="485,493,655,519"/>
+<area shape="rect" id="node31" href="$classAddFriendForm.html#a9d34fd4815724e158b3c4eda512d0389" title="AddFriendForm::onFriendRequest\lAccepted" alt="" coords="455,544,685,585"/>
+<area shape="rect" id="node36" href="$classAddFriendForm.html#a60bff5dd6bbf1742af9fd8d40d1c9eb5" title="AddFriendForm::onFriendRequest\lRejected" alt="" coords="455,376,685,417"/>
+<area shape="rect" id="node37" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title="AddFriendForm::onCurrent\lChanged" alt="" coords="475,609,665,651"/>
+<area shape="rect" id="node48" href="$classWidget.html#ae408fc2cade1cc67f6510a959e8424be" title="Widget::onFriendAliasChanged" alt="" coords="976,749,1191,775"/>
+<area shape="rect" id="node13" href="$classCircleWidget.html#a88af7e15a8d148747954b885fc655089" title="CircleWidget::onSetName" alt="" coords="736,71,921,98"/>
+<area shape="rect" id="node15" href="$classFriendListWidget.html#a3760bbbe8256b82cf5349ad59011f89a" title="FriendListWidget::create\lCircleWidget" alt="" coords="741,267,916,308"/>
+<area shape="rect" id="node16" href="$classFriendListWidget.html#ac95b76edcb63ba5a1cecf69aed7d15c2" title="FriendListWidget::addCircle\lWidget" alt="" coords="987,277,1179,319"/>
+<area shape="rect" id="node17" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title="FriendListWidget::sortByMode" alt="" coords="1249,253,1459,279"/>
+<area shape="rect" id="node20" href="$classFriendWidget.html#aa43f8d1662249a20a17c3e0d8b2dcb56" title="FriendWidget::moveToNewCircle" alt="" coords="1243,506,1465,533"/>
+<area shape="rect" id="node25" href="$classWidget.html#a73e3614ec756fd20e8dd05f2e14d62d2" title="Widget::friendListContextMenu" alt="" coords="1246,303,1462,330"/>
+<area shape="rect" id="node18" href="$classFriendListWidget.html#aa22c87294220a60baba0e0949a9fe8c0" title="FriendListWidget::Friend\lListWidget" alt="" coords="1545,216,1716,257"/>
+<area shape="rect" id="node19" href="$classFriendListWidget.html#ae0474b3c997940fe1926eb2fb14f8094" title="FriendListWidget::setMode" alt="" coords="1537,282,1725,309"/>
+<area shape="rect" id="node21" href="$classFriendWidget.html#a3a8fe557dc813d12eeaccd881b1552b0" title="FriendWidget::onContextMenuCalled. " alt="" coords="1525,520,1737,561"/>
+<area shape="rect" id="node22" href="$classWidget.html#a56e4b1b96273f071bd696e9aaf09b61d" title="Widget::addFriend" alt="" coords="1796,622,1931,649"/>
+<area shape="rect" id="node23" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title="Widget::onCoreChanged" alt="" coords="1979,455,2155,482"/>
+<area shape="rect" id="node24" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title="Nexus::showMainGUI" alt="" coords="2203,430,2357,457"/>
+<area shape="rect" id="node26" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title="Widget::init" alt="" coords="1585,405,1677,431"/>
+<area shape="rect" id="node28" href="$classCircleWidget.html#a5d1caa515e64e6c168e98e8b1c491b15" title="CircleWidget::contextMenu\lEvent" alt="" coords="733,332,924,373"/>
+<area shape="rect" id="node32" href="$classAddFriendForm.html#aca363e4637d331d454c4433b95577000" title="AddFriendForm::addFriend\lRequestWidget" alt="" coords="735,449,923,491"/>
+<area shape="rect" id="node33" href="$classAddFriendForm.html#a07ac9f271eeaaaec515ac3d703f45eed" title="AddFriendForm::AddFriendForm" alt="" coords="972,457,1195,483"/>
+<area shape="rect" id="node34" href="$classAddFriendForm.html#a21cf79acb3f2fc34de328d884b62f465" title="AddFriendForm::addFriend\lRequest" alt="" coords="989,508,1177,549"/>
+<area shape="rect" id="node35" href="$classWidget.html#a6f768ec379b8d3bc29ea71321e32eb23" title="Widget::onFriendRequestReceived" alt="" coords="1513,455,1748,482"/>
+<area shape="rect" id="node38" href="$classAddFriendForm.html#aefb1b5164693999fdc015e1774f3e458" title="AddFriendForm::show" alt="" coords="749,617,908,643"/>
+<area shape="rect" id="node39" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title="Widget::onAddClicked" alt="" coords="1004,607,1163,634"/>
+<area shape="rect" id="node40" href="$classWidget.html#ae372211b641bd400b6aa769f1333139d" title="Widget::addFriendDialog" alt="" coords="1267,709,1441,735"/>
+<area shape="rect" id="node44" href="$classWidget.html#a0eb8943737c2603a50735fd4681f11bb" title="Widget::addGroupDialog" alt="" coords="1266,658,1442,685"/>
+<area shape="rect" id="node45" href="$classWidget.html#afeb18b9fa9a2822cbe3c36a73f1a1baf" title="Widget::removeFriend" alt="" coords="1274,557,1434,583"/>
+<area shape="rect" id="node46" href="$classWidget.html#a29e878bb6df8cb3b0b5cc9b22592ae60" title="Widget::removeGroup" alt="" coords="1273,607,1435,634"/>
+<area shape="rect" id="node47" href="$classWidget.html#a8e61126cba34b3361e9f86d8a40b78cd" title="Widget::friendRequestsUpdate" alt="" coords="1247,455,1461,482"/>
+<area shape="rect" id="node41" href="$classWidget.html#a9e0305229bb57666c2228c49fb59ba8f" title="Widget::openDialog" alt="" coords="1558,603,1703,630"/>
+<area shape="rect" id="node42" href="$classWidget.html#a89484a541aeeccb7c8502c58cd28199f" title="Widget::newFriendMessage\lAlert" alt="" coords="1534,705,1727,747"/>
+<area shape="rect" id="node43" href="$classWidget.html#a30d465bffb67761ebae13dc9d3a1c960" title="Widget::registerContentDialog" alt="" coords="1524,654,1737,681"/>
+</map>

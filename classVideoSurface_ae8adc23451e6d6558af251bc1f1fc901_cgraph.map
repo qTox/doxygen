@@ -1,0 +1,13 @@
+<map id="VideoSurface::VideoSurface" name="VideoSurface::VideoSurface">
+<area shape="rect" id="node2" href="$classVideoSurface.html#a85db8e813d013e582228902a91f9f41f" title="Update source. " alt="" coords="253,193,433,220"/>
+<area shape="rect" id="node3" href="$classVideoSurface.html#a088414beba42524b7adc5968563e6f42" title="VideoSurface::unsubscribe" alt="" coords="481,165,673,192"/>
+<area shape="rect" id="node11" href="$classVideoSurface.html#a9e43af4b333e69d3d15af35a00cb3c64" title="VideoSurface::subscribe" alt="" coords="489,248,665,275"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#a51d3fa1945c31f659b7c944091ad6cfd" title="VideoSurface::lock" alt="" coords="1019,59,1159,85"/>
+<area shape="rect" id="node5" href="$classVideoSurface.html#a4c729f75a02c35de42df3056a030be92" title="VideoSurface::unlock" alt="" coords="1011,111,1167,137"/>
+<area shape="rect" id="node6" href="$classVideoSurface.html#a22bed2f9d881f5d3fd02e0bede564b0c" title="VideoSurface::recalulate\lBounds" alt="" coords="1000,217,1179,258"/>
+<area shape="rect" id="node7" href="$classVideoSurface.html#adf8b2f92eb2d9220ba9e9b8b5e185fbc" title="VideoSurface::onNewFrame\lAvailable" alt="" coords="737,158,936,199"/>
+<area shape="rect" id="node9" href="$classVideoSurface.html#aa2af96cdb06b97fdc0c7488add08a33d" title="VideoSurface::onSourceStopped" alt="" coords="721,275,952,301"/>
+<area shape="rect" id="node10" href="$classVideoSource.html#a742327ac44cddc93579ea8a516c59544" title="Stop emitting frameAvailable signals, and free associated resources if necessary. ..." alt="" coords="743,5,931,32"/>
+<area shape="rect" id="node8" href="$videosurface_8cpp.html#a6d8a1ee38ecb650ae3a4043b12a87008" title="getSizeRatio" alt="" coords="1038,165,1141,192"/>
+<area shape="rect" id="node12" href="$classVideoSource.html#a542481c450352c8b2a3717f5473568e5" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals. " alt="" coords="751,325,923,352"/>
+</map>

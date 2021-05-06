@@ -1,0 +1,9 @@
+<map id="FriendListWidget::updateActivityTime" name="FriendListWidget::updateActivityTime">
+<area shape="rect" id="node2" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title="getTimeBucket" alt="" coords="282,18,401,45"/>
+<area shape="rect" id="node3" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title="CategoryWidget::updateStatus" alt="" coords="232,69,451,95"/>
+<area shape="rect" id="node7" href="$classCategoryWidget.html#a651cc5af82de3dffee5e349b7e3b2cc1" title="CategoryWidget::hasChatrooms" alt="" coords="499,127,724,154"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#adde41d64421618d7be18f1f2ef8fbd52" title="FriendListLayout::friend\lOnlineCount" alt="" coords="801,5,970,47"/>
+<area shape="rect" id="node6" href="$classFriendListLayout.html#a64a34a8d7c37f187a9a2a76cb25404ed" title="FriendListLayout::friend\lTotalCount" alt="" coords="527,61,696,103"/>
+<area shape="rect" id="node5" href="$classGenericChatItemLayout.html#aeceaafbf8c2c062d1cb1dfc1171fe634" title="GenericChatItemLayout\l::getLayout" alt="" coords="1047,64,1220,105"/>
+<area shape="rect" id="node8" href="$classFriendListLayout.html#a04c5f011395ba1409145af33b64cc22d" title="FriendListLayout::hasChatrooms" alt="" coords="772,123,999,150"/>
+</map>

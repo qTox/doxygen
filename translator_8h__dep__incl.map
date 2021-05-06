@@ -1,0 +1,25 @@
+<map id="src/widget/translator.h" name="src/widget/translator.h">
+<area shape="rect" id="node2" href="$chatlog_8cpp.html" title="src/chatlog/chatlog.cpp" alt="" coords="5,87,176,114"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="200,87,304,114"/>
+<area shape="rect" id="node4" href="$chatformheader_8cpp.html" title="src/widget/chatformheader.cpp" alt="" coords="328,87,547,114"/>
+<area shape="rect" id="node5" href="$contentdialog_8cpp.html" title="src/widget/contentdialog.cpp" alt="" coords="571,87,775,114"/>
+<area shape="rect" id="node6" href="$addfriendform_8cpp.html" title="src/widget/form/addfriendform.cpp" alt="" coords="799,87,1041,114"/>
+<area shape="rect" id="node7" href="$chatform_8cpp.html" title="src/widget/form/chatform.cpp" alt="" coords="1065,87,1274,114"/>
+<area shape="rect" id="node8" href="$filesform_8cpp.html" title="src/widget/form/filesform.cpp" alt="" coords="1298,87,1505,114"/>
+<area shape="rect" id="node9" href="$genericchatform_8cpp.html" title="src/widget/form/genericchatform.cpp" alt="" coords="1529,87,1785,114"/>
+<area shape="rect" id="node10" href="$groupchatform_8cpp.html" title="src/widget/form/groupchatform.cpp" alt="" coords="1810,87,2057,114"/>
+<area shape="rect" id="node11" href="$groupinviteform_8cpp.html" title="src/widget/form/groupinviteform.cpp" alt="" coords="2081,87,2333,114"/>
+<area shape="rect" id="node12" href="$profileform_8cpp.html" title="src/widget/form/profileform.cpp" alt="" coords="2357,87,2577,114"/>
+<area shape="rect" id="node13" href="$aboutform_8cpp.html" title="src/widget/form/settings\l/aboutform.cpp" alt="" coords="2601,80,2775,121"/>
+<area shape="rect" id="node14" href="$advancedform_8cpp.html" title="src/widget/form/settings\l/advancedform.cpp" alt="" coords="2799,80,2974,121"/>
+<area shape="rect" id="node15" href="$avform_8cpp.html" title="src/widget/form/settings\l/avform.cpp" alt="" coords="2998,80,3173,121"/>
+<area shape="rect" id="node16" href="$generalform_8cpp.html" title="src/widget/form/settings\l/generalform.cpp" alt="" coords="3197,80,3371,121"/>
+<area shape="rect" id="node17" href="$privacyform_8cpp.html" title="src/widget/form/settings\l/privacyform.cpp" alt="" coords="3395,80,3570,121"/>
+<area shape="rect" id="node18" href="$userinterfaceform_8cpp.html" title="src/widget/form/settings\l/userinterfaceform.cpp" alt="" coords="3594,80,3769,121"/>
+<area shape="rect" id="node19" href="$settingswidget_8cpp.html" title="src/widget/form/settingswidget.cpp" alt="" coords="3793,87,4036,114"/>
+<area shape="rect" id="node20" href="$groupwidget_8cpp.html" title="src/widget/groupwidget.cpp" alt="" coords="4060,87,4255,114"/>
+<area shape="rect" id="node21" href="$loginscreen_8cpp.html" title="src/widget/loginscreen.cpp" alt="" coords="4279,87,4470,114"/>
+<area shape="rect" id="node22" href="$chattextedit_8cpp.html" title="src/widget/tool/chattextedit.cpp" alt="" coords="4494,87,4717,114"/>
+<area shape="rect" id="node23" href="$translator_8cpp.html" title="src/widget/translator.cpp" alt="" coords="4741,87,4920,114"/>
+<area shape="rect" id="node24" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="4945,87,5103,114"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GroupChatForm::dropEvent" name="GroupChatForm::dropEvent">
+<area shape="rect" id="node2" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="260,5,411,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title="Friend::getId" alt="" coords="285,56,385,83"/>
+<area shape="rect" id="node4" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title="Group::getId" alt="" coords="285,107,386,133"/>
+<area shape="rect" id="node5" href="$namespaceStatus.html#acc2575d6ba54803ee6618f22430faffb" title="Status::isOnline" alt="" coords="274,157,397,184"/>
+<area shape="rect" id="node6" href="$classFriend.html#ae7cd32e444646416c7de0f28ddedde01" title="Friend::getStatus" alt="" coords="270,208,401,235"/>
+<area shape="rect" id="node7" href="$classCore.html#a4758204ad50848b3030abebff4c8d363" title="Core::groupInviteFriend" alt="" coords="251,259,420,285"/>
+</map>

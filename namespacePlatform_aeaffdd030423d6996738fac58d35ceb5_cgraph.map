@@ -1,0 +1,16 @@
+<map id="Platform::getAutostartFilePath" name="Platform::getAutostartFilePath">
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance. " alt="" coords="537,107,696,133"/>
+<area shape="rect" id="node13" href="$classSettings.html#ad4a7258e16d02713188bae1c80d44544" title="Settings::getCurrentProfile" alt="" coords="283,107,473,133"/>
+<area shape="rect" id="node14" href="$namespacePlatform.html#ae9cdd6c322150ccd4e857ba94c1f77d6" title="Platform::currentCommandLine" alt="" coords="267,157,489,184"/>
+<area shape="rect" id="node15" href="$namespacePlatform.html#a0a2e54e4deb93fee257eaf9fdfea0935" title="Platform::getAutostartDirPath" alt="" coords="273,208,483,235"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="744,107,880,133"/>
+<area shape="rect" id="node4" href="$classPaths.html#a1de563f2dbf7e1df765d06c1d46433a8" title="Paths::makePaths Factory method for the Paths object. " alt="" coords="935,31,1071,57"/>
+<area shape="rect" id="node6" href="$classSettings.html#a00a742d4e37b1172b3c17bb4940b01cf" title="Settings::loadGlobal" alt="" coords="928,132,1079,159"/>
+<area shape="rect" id="node5" href="$classPaths.html#aaccca4c547d6db2b3efff973a212228f" title="Paths::Paths" alt="" coords="1174,5,1274,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist. " alt="" coords="1127,56,1321,83"/>
+<area shape="rect" id="node8" href="$classPaths.html#a33bd6a3b2c10aeae32f01c734424c88b" title="Get path to directory, where the settings files are stored. " alt="" coords="1369,81,1555,108"/>
+<area shape="rect" id="node9" href="$classSettings.html#abc948a71ac9f8c9d99d926585df2be8f" title="Settings::isToxPortable" alt="" coords="1141,157,1307,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title="Settings::makeProfileId" alt="" coords="1139,208,1309,235"/>
+<area shape="rect" id="node11" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title="Style::getFont" alt="" coords="1169,259,1279,285"/>
+<area shape="rect" id="node12" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title="appFont" alt="" coords="1425,259,1499,285"/>
+</map>

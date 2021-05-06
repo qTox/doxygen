@@ -1,0 +1,10 @@
+<map id="ScreenshotGrabber::regionChosen" name="ScreenshotGrabber::regionChosen">
+<area shape="rect" id="node2" href="$classAVForm.html#aa9450a6689adde55df0d1e86fd7c3234" title="AVForm::on_videoModescombo\lBox_currentIndexChanged" alt="" coords="208,5,431,47"/>
+<area shape="rect" id="node4" href="$classScreenshotGrabber.html#a1a70beeb7a3d1772b224ebe6714f32a1" title="ScreenshotGrabber::\lacceptRegion" alt="" coords="242,71,397,112"/>
+<area shape="rect" id="node3" href="$classAVForm.html#a7e27927a14ee078e5e69095778131db3" title="AVForm::getFormName" alt="" coords="479,13,652,39"/>
+<area shape="rect" id="node5" href="$classScreenshotGrabber.html#a581d4e1002c86ef8db9dacf06c3b8896" title="ScreenshotGrabber::\lhandleKeyPress" alt="" coords="903,125,1057,167"/>
+<area shape="rect" id="node7" href="$classScreenshotGrabber.html#a76841e5ddd9f6e3b2dd1b98579e8dba3" title="ScreenshotGrabber::\lsetupScene" alt="" coords="488,121,643,163"/>
+<area shape="rect" id="node6" href="$classScreenshotGrabber.html#a993ec9d2170e267568dd78b585d549d6" title="ScreenshotGrabber::\leventFilter" alt="" coords="1105,125,1260,167"/>
+<area shape="rect" id="node8" href="$classScreenshotGrabber.html#a6d68e0b49fac9c67439498c366120dae" title="ScreenshotGrabber::\lScreenshotGrabber" alt="" coords="700,121,855,163"/>
+<area shape="rect" id="node9" href="$classScreenshotGrabber.html#a1fc55f1bd10521095cb555ccfed65915" title="ScreenshotGrabber::\lreInit" alt="" coords="700,187,855,228"/>
+</map>

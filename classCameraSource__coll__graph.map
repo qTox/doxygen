@@ -1,0 +1,6 @@
+<map id="CameraSource" name="CameraSource">
+<area shape="rect" id="node2" href="$classVideoSource.html" title="An abstract source of video frames. " alt="" coords="5,255,144,391"/>
+<area shape="rect" id="node4" href="$structVideoMode.html" title="Describes a video mode supported by a device. " alt="" coords="168,204,301,443"/>
+<area shape="rect" id="node5" href="$classCameraDevice.html" title="{CameraDevice\n|+ devName\l+ context\l&#45; refcount\l&#45; openDeviceLock\l&#45; iformatLock\l&#45; iformat\l&#45; idesktopFormat\l|+ open()\l+ close()\l+ open()\l+ getDeviceList()\l+ getVideoModes()\l+ getPixelFormatString()\l+ betterPixelFormat()\l+ getDefaultDeviceName()\l+ isScreen()\l&#45; CameraDevice()\l&#45; open()\l&#45; getDefaultInputFormat()\l&#45; getRawDeviceListGeneric()\l&#45; getScreenModes()\l}" alt="" coords="326,145,527,501"/>
+<area shape="rect" id="node6" href="$classQHash.html" title="{QHash\&lt; QString, CameraDevice * \&gt;\n||}" alt="" coords="299,5,555,83"/>
+</map>

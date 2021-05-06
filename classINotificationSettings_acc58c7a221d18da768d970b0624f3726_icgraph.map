@@ -1,0 +1,7 @@
+<map id="INotificationSettings::getNotifyHide" name="INotificationSettings::getNotifyHide">
+<area shape="rect" id="node2" href="$classNotificationGenerator.html#a3ac5abf3f1f5e56653c20d74eee483f8" title="NotificationGenerator\l::friendMessageNotification" alt="" coords="205,5,400,47"/>
+<area shape="rect" id="node3" href="$classNotificationGenerator.html#a57a50dcd18ffcde21f207e3b423d01ed" title="NotificationGenerator\l::groupMessageNotification" alt="" coords="205,71,401,112"/>
+<area shape="rect" id="node4" href="$classNotificationGenerator.html#a7fade8ce4126958ec58a441443bd55ef" title="NotificationGenerator\l::fileTransferNotification" alt="" coords="217,136,388,177"/>
+<area shape="rect" id="node5" href="$classNotificationGenerator.html#ad21d6129834ded07b323b839ffd38fad" title="NotificationGenerator\l::groupInvitationNotification" alt="" coords="204,201,401,243"/>
+<area shape="rect" id="node6" href="$classNotificationGenerator.html#a39ad56210e040aa3136137ddbb747086" title="NotificationGenerator\l::friendRequestNotification" alt="" coords="208,267,397,308"/>
+</map>

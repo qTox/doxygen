@@ -1,0 +1,31 @@
+<map id="src/video/videosurface.cpp" name="src/video/videosurface.cpp">
+<area shape="rect" id="node2" href="$videosurface_8h.html" title="videosurface.h" alt="" coords="235,379,349,405"/>
+<area shape="rect" id="node8" href="$core_8h.html" title="src/core/core.h" alt="" coords="3388,155,3505,181"/>
+<area shape="rect" id="node29" href="$friend_8h.html" title="src/model/friend.h" alt="" coords="2758,80,2895,107"/>
+<area shape="rect" id="node32" href="$friendlist_8h.html" title="src/friendlist.h" alt="" coords="4222,155,4333,181"/>
+<area shape="rect" id="node33" href="$settings_8h.html" title="src/persistence/settings.h" alt="" coords="1647,379,1833,405"/>
+<area shape="rect" id="node45" href="$videoframe_8h.html" title="src/video/videoframe.h" alt="" coords="2561,379,2727,405"/>
+<area shape="rect" id="node46" href="$friendwidget_8h.html" title="src/widget/friendwidget.h" alt="" coords="2560,304,2739,331"/>
+<area shape="rect" id="node47" href="$style_8h.html" title="src/widget/style.h" alt="" coords="1814,155,1946,181"/>
+<area shape="rect" id="node3" href="$videosource_8h.html" title="src/video/videosource.h" alt="" coords="206,453,378,480"/>
+<area shape="rect" id="node9" href="$groupid_8h.html" title="groupid.h" alt="" coords="3381,379,3464,405"/>
+<area shape="rect" id="node14" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="4205,229,4408,256"/>
+<area shape="rect" id="node15" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="4115,304,4221,331"/>
+<area shape="rect" id="node17" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="3797,304,4001,331"/>
+<area shape="rect" id="node18" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="3408,304,3544,331"/>
+<area shape="rect" id="node19" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="3597,379,3667,405"/>
+<area shape="rect" id="node20" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="3509,229,3632,256"/>
+<area shape="rect" id="node21" href="$toxid_8h.html" title="toxid.h" alt="" coords="3670,304,3735,331"/>
+<area shape="rect" id="node22" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="2997,453,3069,480"/>
+<area shape="rect" id="node23" href="$status_8h.html" title="src/model/status.h" alt="" coords="3192,229,3333,256"/>
+<area shape="rect" id="node10" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="3305,453,3453,480"/>
+<area shape="rect" id="node30" href="$contact_8h.html" title="contact.h" alt="" coords="3048,379,3131,405"/>
+<area shape="rect" id="node31" href="$extension_8h.html" title="src/core/extension.h" alt="" coords="2865,155,3015,181"/>
+<area shape="rect" id="node35" href="$icoresettings_8h.html" title="src/core/icoresettings.h" alt="" coords="2557,453,2728,480"/>
+<area shape="rect" id="node36" href="$toxencrypt_8h.html" title="src/core/toxencrypt.h" alt="" coords="2117,453,2275,480"/>
+<area shape="rect" id="node37" href="$paths_8h.html" title="src/persistence/paths.h" alt="" coords="2752,453,2923,480"/>
+<area shape="rect" id="node38" href="$ifriendsettings_8h.html" title="src/persistence/ifriendsettings.h" alt="" coords="763,453,989,480"/>
+<area shape="rect" id="node39" href="$igroupsettings_8h.html" title="src/persistence/igroupsettings.h" alt="" coords="1251,453,1477,480"/>
+<area shape="rect" id="node40" href="$inotificationsettings_8h.html" title="src/persistence/inotificationsettings.h" alt="" coords="1501,453,1760,480"/>
+<area shape="rect" id="node41" href="$ivideosettings_8h.html" title="src/video/ivideosettings.h" alt="" coords="2350,453,2533,480"/>
+</map>

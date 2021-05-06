@@ -1,0 +1,6 @@
+<map id="src/platform/timer.h" name="src/platform/timer.h">
+<area shape="rect" id="node2" href="$timer__osx_8cpp.html" title="src/platform/timer\l_osx.cpp" alt="" coords="5,80,143,121"/>
+<area shape="rect" id="node3" href="$timer__win_8cpp.html" title="src/platform/timer\l_win.cpp" alt="" coords="167,80,304,121"/>
+<area shape="rect" id="node4" href="$timer__x11_8cpp.html" title="src/platform/timer\l_x11.cpp" alt="" coords="328,80,465,121"/>
+<area shape="rect" id="node5" href="$widget_8cpp.html" title="src/widget/widget.cpp" alt="" coords="489,87,648,114"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ToxEncrypt::ToxEncrypt" name="ToxEncrypt::ToxEncrypt">
+<area shape="rect" id="node2" href="$classToxEncrypt.html#a83619310948690d481abeddd5e49f400" title="Factory method for the ToxEncrypt object. " alt="" coords="220,31,423,57"/>
+<area shape="rect" id="node3" href="$classProfile.html#a1e8a7812502c32052924be0bfc5d69fe" title="Changes the encryption password and re&#45;saves everything with it. " alt="" coords="471,31,619,57"/>
+<area shape="rect" id="node4" href="$classProfileInfo.html#a6471aafd879998b95cbd5e7d40e4112d" title="Set a user password for profile. " alt="" coords="677,5,847,32"/>
+<area shape="rect" id="node5" href="$classProfileInfo.html#a6eeab70bf7883711677a5accfedc5935" title="Delete a user password for profile. " alt="" coords="667,56,857,83"/>
+</map>

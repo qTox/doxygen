@@ -1,0 +1,10 @@
+<map id="ChatLog::getContentFromPos" name="ChatLog::getContentFromPos">
+<area shape="rect" id="node2" href="$classChatLog.html#ae5c68df0a79106789f3c3079ac8b2896" title="ChatLog::mouseMoveEvent" alt="" coords="291,5,488,32"/>
+<area shape="rect" id="node3" href="$classChatLog.html#afcca5b2ec47fbcb608abdee38fad5868" title="ChatLog::isOverSelection" alt="" coords="298,56,481,83"/>
+<area shape="rect" id="node4" href="$classChatLog.html#ae86822cb6aa89fd3418798d4d66fb0d0" title="ChatLog::mouseDoubleClick\lEvent" alt="" coords="581,157,783,198"/>
+<area shape="rect" id="node5" href="$classChatLog.html#acebfceb09a57a7ecb039bca70e5239ce" title="Finds the chat line object at a position on screen. " alt="" coords="264,107,515,133"/>
+<area shape="rect" id="node8" href="$classChatLog.html#a11df02b62b55c46caee48f3e97f3258f" title="ChatLog::handleMultiClick\lEvent" alt="" coords="297,209,482,250"/>
+<area shape="rect" id="node6" href="$classGenericChatForm.html#afb5e75e15e1355beb01b0153042b2b60" title="GenericChatForm::onChatContext\lMenuRequested" alt="" coords="563,91,801,133"/>
+<area shape="rect" id="node7" href="$classGenericChatForm.html#ae201283b1b66725938a275a7069f7644" title="GenericChatForm::Generic\lChatForm" alt="" coords="849,91,1040,133"/>
+<area shape="rect" id="node9" href="$classChatLog.html#ae3dada37357700d6a90030eb5933549c" title="ChatLog::mousePressEvent" alt="" coords="583,223,781,249"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="OfflineMsgEngine::addSentCoreMessage" name="OfflineMsgEngine::addSentCoreMessage">
+<area shape="rect" id="node2" href="$classFriendMessageDispatcher.html#a8d60791509df22bf6ec37a928280d9d7" title="FriendMessageDispatcher\l::sendCoreProcessedMessage" alt="" coords="247,71,461,112"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#a52313ac513ae38d1bae064875688cd9a" title="FriendMessageDispatcher\l::sendProcessedMessage" alt="" coords="509,71,696,112"/>
+<area shape="rect" id="node4" href="$classFriendMessageDispatcher.html#ac3c6340d41fe54c3a934db244f115cac" title="FriendMessageDispatcher\l::sendMessage" alt="" coords="761,5,948,47"/>
+<area shape="rect" id="node5" href="$classFriendMessageDispatcher.html#a7e574fcc231a6d5d670ce9f787cca34f" title="FriendMessageDispatcher\l::sendExtendedMessage" alt="" coords="761,71,948,112"/>
+<area shape="rect" id="node6" href="$classFriendMessageDispatcher.html#ac5b79248d6d7328826b8705f4b467989" title="Handles status change for friend. " alt="" coords="744,136,965,177"/>
+<area shape="rect" id="node7" href="$classFriendMessageDispatcher.html#a759af89993bfcd1575568b14be24dc2b" title="FriendMessageDispatcher\l::FriendMessageDispatcher" alt="" coords="1013,136,1208,177"/>
+</map>

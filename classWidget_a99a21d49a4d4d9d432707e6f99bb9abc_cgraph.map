@@ -1,0 +1,9 @@
+<map id="Widget::onGroupPeerNameChanged" name="Widget::onGroupPeerNameChanged">
+<area shape="rect" id="node2" href="$classGroupList.html#a5cc346e34869028d7dba289076efefcf" title="GroupList::id2Key" alt="" coords="331,5,463,32"/>
+<area shape="rect" id="node3" href="$classGroupList.html#aaf9ef63d9f79b41f19356fa0e59255e7" title="GroupList::findGroup" alt="" coords="321,56,474,83"/>
+<area shape="rect" id="node4" href="$classFriendList.html#a07754b90161c4b8bede6bc35c4fc1e7f" title="FriendList::decideNickname" alt="" coords="536,132,732,159"/>
+<area shape="rect" id="node8" href="$classGroup.html#a685bde6450c6e075de9d41a887697840" title="Group::updateUsername" alt="" coords="307,157,488,184"/>
+<area shape="rect" id="node5" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title="FriendList::findFriend" alt="" coords="800,81,951,108"/>
+<area shape="rect" id="node6" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user. " alt="" coords="780,132,971,159"/>
+<area shape="rect" id="node7" href="$classContactId.html#a59747739547bdb8e2966993030bd7c92" title="Converts the ContactId to a uppercase hex string. " alt="" coords="804,183,947,209"/>
+</map>

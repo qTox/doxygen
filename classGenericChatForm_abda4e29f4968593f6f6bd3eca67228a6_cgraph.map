@@ -1,0 +1,10 @@
+<map id="GenericChatForm::disableSearchText" name="GenericChatForm::disableSearchText">
+<area shape="rect" id="node2" href="$classText.html#a8a69861038aa61b9cf6df1c92d4d61b8" title="Text::deselectText" alt="" coords="240,108,375,135"/>
+<area shape="rect" id="node3" href="$classText.html#a1a5e55b8fc5c67a03fa60b43253b5ac1" title="Text::regenerate" alt="" coords="423,108,549,135"/>
+<area shape="rect" id="node4" href="$classDocumentCache.html#aab295120da5a20e9b4abe1115b371b83" title="Returns the singleton instance. " alt="" coords="807,57,1019,84"/>
+<area shape="rect" id="node5" href="$classDocumentCache.html#aa8f04b81552fe72368e9a58c8d34ac5a" title="DocumentCache::pop" alt="" coords="597,32,759,59"/>
+<area shape="rect" id="node6" href="$classText.html#a8189e01ee4761059ad9da81dc79060d5" title="Text::idealSize" alt="" coords="622,83,734,109"/>
+<area shape="rect" id="node7" href="$classText.html#a1fe6ae767f84d5f2a24083fd3f0b4708" title="Text::selectText" alt="" coords="619,133,737,160"/>
+<area shape="rect" id="node8" href="$classText.html#a4605dc4e996d7608baa0c404502375b0" title="Text::freeResources" alt="" coords="605,184,751,211"/>
+<area shape="rect" id="node9" href="$classDocumentCache.html#a58069a1d20f55b4b23ee3506771541e5" title="DocumentCache::push" alt="" coords="829,184,997,211"/>
+</map>

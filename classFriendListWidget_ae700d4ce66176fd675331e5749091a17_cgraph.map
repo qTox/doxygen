@@ -1,0 +1,6 @@
+<map id="FriendListWidget::removeCircleWidget" name="FriendListWidget::removeCircleWidget">
+<area shape="rect" id="node2" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title="GenericChatItemLayout\l::removeSortedWidget" alt="" coords="236,5,409,47"/>
+<area shape="rect" id="node3" href="$classGenericChatItemLayout.html#af607166fffaf60aa0c330913a86e57ca" title="GenericChatItemLayout\l::indexOfClosestSortedWidget" alt="" coords="457,5,668,47"/>
+<area shape="rect" id="node4" href="$classGenericChatItemWidget.html#ad06eda74d645c6e6f25b11d9acca6223" title="GenericChatItemWidget\l::getName" alt="" coords="716,5,889,47"/>
+<area shape="rect" id="node5" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text. " alt="" coords="937,13,1101,39"/>
+</map>

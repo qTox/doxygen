@@ -1,0 +1,22 @@
+<map id="src/widget/gui.cpp" name="src/widget/gui.cpp">
+<area shape="rect" id="node2" href="$gui_8h.html" title="gui.h" alt="" coords="149,304,202,331"/>
+<area shape="rect" id="node4" href="$widget_8h.html" title="widget.h" alt="" coords="1330,80,1405,107"/>
+<area shape="rect" id="node42" href="$nexus_8h.html" title="src/nexus.h" alt="" coords="5,80,100,107"/>
+<area shape="rect" id="node10" href="$genericchatitemwidget_8h.html" title="genericchatitemwidget.h" alt="" coords="2125,155,2303,181"/>
+<area shape="rect" id="node15" href="$core_8h.html" title="src/core/core.h" alt="" coords="1415,304,1533,331"/>
+<area shape="rect" id="node16" href="$groupid_8h.html" title="groupid.h" alt="" coords="1613,528,1695,555"/>
+<area shape="rect" id="node27" href="$toxpk_8h.html" title="toxpk.h" alt="" coords="1429,528,1498,555"/>
+<area shape="rect" id="node29" href="$toxid_8h.html" title="toxid.h" alt="" coords="1153,453,1219,480"/>
+<area shape="rect" id="node30" href="$toxfile_8h.html" title="toxfile.h" alt="" coords="2098,379,2170,405"/>
+<area shape="rect" id="node39" href="$friendmessagedispatcher_8h.html" title="src/model/friendmessagedispatcher.h" alt="" coords="355,155,617,181"/>
+<area shape="rect" id="node41" href="$groupmessagedispatcher_8h.html" title="src/model/groupmessagedispatcher.h" alt="" coords="429,304,692,331"/>
+<area shape="rect" id="node22" href="$icorefriendmessagesender_8h.html" title="icorefriendmessagesender.h" alt="" coords="743,379,946,405"/>
+<area shape="rect" id="node23" href="$receiptnum_8h.html" title="receiptnum.h" alt="" coords="971,453,1078,480"/>
+<area shape="rect" id="node25" href="$icoregroupmessagesender_8h.html" title="icoregroupmessagesender.h" alt="" coords="515,379,719,405"/>
+<area shape="rect" id="node26" href="$icoregroupquery_8h.html" title="icoregroupquery.h" alt="" coords="1366,453,1502,480"/>
+<area shape="rect" id="node28" href="$icoreidhandler_8h.html" title="icoreidhandler.h" alt="" coords="1223,379,1346,405"/>
+<area shape="rect" id="node33" href="$status_8h.html" title="src/model/status.h" alt="" coords="298,379,439,405"/>
+<area shape="rect" id="node17" href="$contactid_8h.html" title="src/core/contactid.h" alt="" coords="1417,603,1565,629"/>
+<area shape="rect" id="node31" href="$toxfilepause_8h.html" title="src/core/toxfilepause.h" alt="" coords="2075,453,2241,480"/>
+<area shape="rect" id="node40" href="$friend_8h.html" title="src/model/friend.h" alt="" coords="524,229,661,256"/>
+</map>

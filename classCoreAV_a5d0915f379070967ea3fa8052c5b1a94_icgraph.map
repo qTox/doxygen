@@ -1,0 +1,4 @@
+<map id="CoreAV::sendCallAudio" name="CoreAV::sendCallAudio">
+<area shape="rect" id="node2" href="$classToxFriendCall.html#ae52d0d08d7af9e5e6fd863dd08edc063" title="ToxFriendCall::ToxFriendCall" alt="" coords="476,5,668,32"/>
+<area shape="rect" id="node3" href="$classToxFriendCall.html#ae19744a42b411b813a351b05220b21bb" title="ToxFriendCall::onAudioSource\lInvalidated" alt="" coords="220,27,428,69"/>
+</map>

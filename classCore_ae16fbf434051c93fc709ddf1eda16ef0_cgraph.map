@@ -1,0 +1,9 @@
+<map id="Core::process" name="Core::process">
+<area shape="rect" id="node2" href="$classCore.html#a2c4cf238a65083affe97ef1cfcdc74c4" title="Core::checkConnection" alt="" coords="169,5,338,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a31a9203e17de26471abfedf8736603d8" title="Connects us to the Tox network. " alt="" coords="181,56,326,83"/>
+<area shape="rect" id="node7" href="$classCore.html#a0d9ebd93c312600d5ac49dd3a447546d" title="Core::getCoreFile" alt="" coords="188,107,319,133"/>
+<area shape="rect" id="node8" href="$classCoreFile.html#a4b686fc92a5e26f547b4c2ac4347dafd" title="Get corefile iteration interval. " alt="" coords="164,158,343,199"/>
+<area shape="rect" id="node4" href="$classIBootstrapListGenerator.html#a0178d3d62b3111a210f2240530ecddc6" title="IBootstrapListGenerator\l::getBootstrapnodes" alt="" coords="391,19,565,61"/>
+<area shape="rect" id="node5" href="$classContactId.html#a816f052f669373dab7435769b755ad33" title="Returns a pointer to the raw id data. " alt="" coords="407,85,549,112"/>
+<area shape="rect" id="node6" href="$classContactId.html#a3c607decf796f71ba6518d262dc55648" title="Checks if the ContactId contains a id. " alt="" coords="613,85,756,112"/>
+</map>
