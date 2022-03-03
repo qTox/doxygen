@@ -1,0 +1,8 @@
+<map id="FriendWidget::setAsInactiveChatroom" name="FriendWidget::setAsInactiveChatroom">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$classFriendWidget.html#a2dd0413b35564a3068fa01b11f1ef36c" title=" " alt="" coords="257,46,435,73"/>
+<area shape="rect" id="node3" href="$classGenericChatroomWidget.html#ac2478fb461f31920a8ffbfa081dd285d" title=" " alt="" coords="483,5,665,47"/>
+<area shape="rect" id="node5" href="$classMaskablePixmapWidget.html#abd50ab88994b4f94edf52d6b2a54c500" title=" " alt="" coords="485,71,663,112"/>
+<area shape="rect" id="node4" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="745,13,860,39"/>
+<area shape="rect" id="node6" href="$classMaskablePixmapWidget.html#ac579e3985ac1f281992ab1f4772f29c7" title=" " alt="" coords="713,71,892,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GroupChatForm::onVolMuteToggle" name="GroupChatForm::onVolMuteToggle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,86,207,127"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="315,5,413,32"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#aee7a56cb253c663e5cb315c34739e584" title="Returns the group calls output (speaker) state." alt="" coords="267,57,461,98"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#a722c59f4befa5d1e0a2fdaccfcf683dc" title="Mutes or unmutes the group call&#39;s output (speaker)." alt="" coords="275,123,453,149"/>
+<area shape="rect" id="node6" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title=" " alt="" coords="255,174,473,215"/>
+<area shape="rect" id="node4" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title=" " alt="" coords="603,93,706,120"/>
+<area shape="rect" id="node7" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title=" " alt="" coords="521,181,788,208"/>
+<area shape="rect" id="node8" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="891,156,1006,183"/>
+<area shape="rect" id="node9" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title=" " alt="" coords="836,207,1061,233"/>
+</map>

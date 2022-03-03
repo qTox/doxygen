@@ -1,0 +1,11 @@
+<map id="ContentDialog::getCurrentLayout" name="ContentDialog::getCurrentLayout">
+<area shape="rect" id="node1" title="Get current layout and index of current wiget in it. Current layout – layout contains activated widge..." alt="" coords="5,98,197,139"/>
+<area shape="rect" id="node2" href="$classGenericChatItemLayout.html#a05f8aab54e6272eff56ce4d6bbaca343" title=" " alt="" coords="496,32,672,74"/>
+<area shape="rect" id="node3" href="$classFriendListLayout.html#a121fde175dcb2406519a4fba2d6f2265" title=" " alt="" coords="245,32,448,74"/>
+<area shape="rect" id="node4" href="$classFriendListLayout.html#ab38e0b898f4e9fffcffa0a983e1fa4a9" title=" " alt="" coords="245,98,448,139"/>
+<area shape="rect" id="node5" href="$classFriendListLayout.html#a3f04bd6e4c92d7fabc33f418601b250e" title=" " alt="" coords="253,163,441,204"/>
+<area shape="rect" id="node6" href="$classGenericChatItemLayout.html#afa3ecad2c41e921a51dd5bdd17846bdf" title=" " alt="" coords="496,192,672,234"/>
+<area shape="rect" id="node7" href="$classGenericChatItemLayout.html#a7d376aa70cbcbe9d8a647379724f656c" title=" " alt="" coords="720,192,937,234"/>
+<area shape="rect" id="node8" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="985,192,1164,234"/>
+<area shape="rect" id="node9" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="1212,200,1383,226"/>
+</map>

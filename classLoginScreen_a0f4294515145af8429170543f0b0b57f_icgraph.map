@@ -1,0 +1,4 @@
+<map id="LoginScreen::reset" name="LoginScreen::reset">
+<area shape="rect" id="node1" title="Resets the UI, clears all fields." alt="" coords="263,5,405,32"/>
+<area shape="rect" id="node2" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title=" " alt="" coords="5,5,215,32"/>
+</map>

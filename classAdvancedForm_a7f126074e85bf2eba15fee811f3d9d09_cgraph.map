@@ -1,0 +1,17 @@
+<map id="AdvancedForm::AdvancedForm" name="AdvancedForm::AdvancedForm">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,229,285"/>
+<area shape="rect" id="node2" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll." alt="" coords="306,5,485,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a4f022919834935eb1d5bd095bdcc9101" title=" " alt="" coords="307,56,483,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#a6ffefa70731c8b1e27c2731d1ef4e8c3" title=" " alt="" coords="277,107,513,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#a7c8c81aa265f65fcfdde03f8e6db8cc0" title=" " alt="" coords="314,157,477,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="567,288,726,315"/>
+<area shape="rect" id="node8" href="$classSettings.html#aa0eba5b3bd1aa54c52a95e950f587b5a" title=" " alt="" coords="310,259,481,285"/>
+<area shape="rect" id="node9" href="$classSettings.html#a1fedabbce788fe1a4f29362a90567be6" title=" " alt="" coords="312,309,479,336"/>
+<area shape="rect" id="node10" href="$classSettings.html#a733ea826935339156196917570941db5" title=" " alt="" coords="310,360,481,387"/>
+<area shape="rect" id="node11" href="$classAdvancedForm.html#a04651f510a708e6c1566fe768ad973ad" title=" " alt="" coords="287,411,504,453"/>
+<area shape="rect" id="node14" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated." alt="" coords="298,477,493,504"/>
+<area shape="rect" id="node15" href="$classAdvancedForm.html#a046c1e7da640fc82a2d5d4e4d62a7ce9" title="Retranslate all elements in the form." alt="" coords="289,528,501,555"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="780,288,916,315"/>
+<area shape="rect" id="node12" href="$classSettings.html#a69f9d8e0466066847849cbd614342d98" title=" " alt="" coords="561,419,732,445"/>
+<area shape="rect" id="node13" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="787,419,909,445"/>
+</map>

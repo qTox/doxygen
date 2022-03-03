@@ -1,0 +1,14 @@
+<map id="Profile::loadDatabase" name="Profile::loadDatabase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,145,167,172"/>
+<area shape="rect" id="node2" href="$classProfile.html#a028cd7240ff4bc9a4c7b57d4e9532866" title="Retrieves the path to the database file for a given profile." alt="" coords="215,95,353,121"/>
+<area shape="rect" id="node7" href="$classGUI.html#af7a20885f4bda93998e9832eeb4f8c2c" title="Show an error to the user." alt="" coords="225,171,343,197"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="415,5,574,32"/>
+<area shape="rect" id="node5" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title=" " alt="" coords="425,56,564,83"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="401,107,588,133"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="645,5,781,32"/>
+<area shape="rect" id="node8" href="$classGUI.html#a1feecde036a99e13477c786560ee641b" title=" " alt="" coords="431,157,558,184"/>
+<area shape="rect" id="node10" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="837,183,1008,209"/>
+<area shape="rect" id="node12" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="429,259,560,285"/>
+<area shape="rect" id="node9" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="636,157,789,184"/>
+<area shape="rect" id="node11" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="1056,183,1203,209"/>
+</map>

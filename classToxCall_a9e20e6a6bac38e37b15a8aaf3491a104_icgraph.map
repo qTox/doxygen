@@ -1,0 +1,6 @@
+<map id="ToxCall::setNullVideoBitrate" name="ToxCall::setNullVideoBitrate">
+<area shape="rect" id="node1" title=" " alt="" coords="505,31,709,57"/>
+<area shape="rect" id="node2" href="$classCoreAV.html#aec221aef8ba03182603a6e9c01dcd993" title=" " alt="" coords="288,5,457,32"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#aa86a2cfb2b7fa754bfd9dd09447e7e9c" title="Signal to all peers that we&#39;re not sending video anymore." alt="" coords="291,56,454,83"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title=" " alt="" coords="5,49,240,90"/>
+</map>

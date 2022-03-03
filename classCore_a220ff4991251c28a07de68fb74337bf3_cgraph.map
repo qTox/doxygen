@@ -1,0 +1,52 @@
+<map id="Core::makeToxCore" name="Core::makeToxCore">
+<area shape="rect" id="node1" title="Factory method for the Core object." alt="" coords="5,351,153,377"/>
+<area shape="rect" id="node2" href="$classCore.html#aa20a1c6129e6eaefe514c944b0619214" title=" " alt="" coords="273,119,364,145"/>
+<area shape="rect" id="node3" href="$classCoreExt.html#a2de8fc4ad9545320ce52b61c2853ee98" title="Creates a CoreExt instance. Using a pointer here makes our registrations with extensions significantl..." alt="" coords="235,169,403,196"/>
+<area shape="rect" id="node5" href="$classCoreFile.html#ae30c434b314a5985034aff0db9a6c6c1" title=" " alt="" coords="233,220,405,247"/>
+<area shape="rect" id="node12" href="$classToxOptions.html#ab07b1e032d1937f04aeb0a5499a0b427" title="Initializes a ToxOptions instance." alt="" coords="213,351,424,377"/>
+<area shape="rect" id="node21" href="$classCoreExt.html#acae2e09f69e9beafa892160e99116389" title=" " alt="" coords="201,401,436,428"/>
+<area shape="rect" id="node22" href="$classCore.html#ae4d185eaa869d82d63754e446ea45c73" title=" " alt="" coords="257,721,380,748"/>
+<area shape="rect" id="node36" href="$classCore.html#a260257ad4ee098aa767a739bdf0e724a" title="Registers all toxcore callbacks." alt="" coords="504,1279,677,1305"/>
+<area shape="rect" id="node4" href="$classCoreExt.html#a8c3369486af842a66e982838455ceead" title=" " alt="" coords="525,31,657,57"/>
+<area shape="rect" id="node6" href="$classCoreFile.html#aa07ee3f2702d6eb53b1372e4624c2f73" title=" " alt="" coords="492,81,689,108"/>
+<area shape="rect" id="node11" href="$classCoreFile.html#aba46f6c4341bbf61ff8671e7bf977c80" title=" " alt="" coords="484,133,697,174"/>
+<area shape="rect" id="node7" href="$classCoreFile.html#a7772b2dab0951438f70853c3c10365bf" title=" " alt="" coords="749,5,974,32"/>
+<area shape="rect" id="node8" href="$classCoreFile.html#afdd4e5322e21747dcc90f41d2d5aee4f" title=" " alt="" coords="757,56,966,83"/>
+<area shape="rect" id="node9" href="$classCoreFile.html#a8e4c2a707951a5a504b7ed39501f02b6" title=" " alt="" coords="746,107,977,133"/>
+<area shape="rect" id="node10" href="$classCoreFile.html#a6aaa04f6e47107fe4d45d3c10c7e82bd" title=" " alt="" coords="764,158,959,199"/>
+<area shape="rect" id="node13" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title=" " alt="" coords="485,401,696,428"/>
+<area shape="rect" id="node14" href="$classICoreSettings.html#a370b35682a55e80c5a033a65ff0a3e0d" title=" " alt="" coords="499,453,682,494"/>
+<area shape="rect" id="node15" href="$classICoreSettings.html#ae3be8c5ffd7e7777142952eadecd12e6" title=" " alt="" coords="492,519,689,545"/>
+<area shape="rect" id="node16" href="$classICoreSettings.html#a61b2800beea354c12ca78b3a9166bb91" title=" " alt="" coords="488,569,693,596"/>
+<area shape="rect" id="node17" href="$classICoreSettings.html#a52955361edce3ec22eb4e5ba384cdce1" title=" " alt="" coords="490,199,691,225"/>
+<area shape="rect" id="node18" href="$classICoreSettings.html#aea0a9da8ef5a7eedd726bf60c77f6222" title=" " alt="" coords="488,249,693,276"/>
+<area shape="rect" id="node19" href="$namespaceToxLogger.html#ac1be6782376727c4d9898bbd9b4867db" title="Log message handler for toxcore log messages." alt="" coords="494,300,687,327"/>
+<area shape="rect" id="node20" href="$classToxOptions.html#a6f45560eb1ddbecdb2fd19363526365b" title=" " alt="" coords="503,351,678,377"/>
+<area shape="rect" id="node23" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID." alt="" coords="531,620,650,647"/>
+<area shape="rect" id="node24" href="$classCore.html#a2d27726816838d9ba4d95000c305c125" title="Returns our status message, or an empty string on failure." alt="" coords="501,721,681,748"/>
+<area shape="rect" id="node26" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure." alt="" coords="517,772,665,799"/>
+<area shape="rect" id="node27" href="$classCore.html#ade915e7fc09d358c175f4ee3c9d84f5b" title=" " alt="" coords="523,823,658,849"/>
+<area shape="rect" id="node30" href="$classCore.html#ad1ebcac9f4ea64560d076f011b0b386e" title=" " alt="" coords="523,671,658,697"/>
+<area shape="rect" id="node35" href="$classCore.html#ae16fbf434051c93fc709ddf1eda16ef0" title="Processes toxcore events and ensure we stay connected, called by its own timer." alt="" coords="535,873,646,900"/>
+<area shape="rect" id="node25" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="1029,975,1188,1001"/>
+<area shape="rect" id="node28" href="$classCore.html#a07764afdb5657159786c6f353b60e30f" title=" " alt="" coords="1025,1308,1192,1335"/>
+<area shape="rect" id="node29" href="$classCore.html#a3cc7180db58b5e0ee7d82be2079fd1d8" title="Get the username of a friend." alt="" coords="767,873,955,900"/>
+<area shape="rect" id="node31" href="$classCore.html#a8e6630437852c5cfff6c259d14beac9f" title="Check, that group has audio or video stream." alt="" coords="767,519,955,545"/>
+<area shape="rect" id="node32" href="$classCore.html#a7d107c6374c41d81bde6dc1c68b62344" title=" " alt="" coords="763,468,960,495"/>
+<area shape="rect" id="node33" href="$classCoreAV.html#a755de116aa91e3b4c3a0f29fb8b6f422" title="Called from Tox API when group call receives audio data." alt="" coords="764,620,959,647"/>
+<area shape="rect" id="node34" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="1037,595,1180,621"/>
+<area shape="rect" id="node37" href="$classCore.html#ab1c0a082ae5a7cf030821a993a2e8e40" title=" " alt="" coords="766,1634,957,1675"/>
+<area shape="rect" id="node38" href="$classCore.html#a25aa9e0881363f63c92ba5f4ea7a4d98" title=" " alt="" coords="774,1177,949,1204"/>
+<area shape="rect" id="node39" href="$classCore.html#a0e13a83d93f19d3d84f0fd85b73e0317" title=" " alt="" coords="759,1380,963,1407"/>
+<area shape="rect" id="node40" href="$classCore.html#a9b7936862fd6d459e7a003498b6d3ee1" title=" " alt="" coords="777,1583,946,1609"/>
+<area shape="rect" id="node41" href="$classCore.html#a724d51a4f7b081af18e48c292f8d4aa7" title=" " alt="" coords="758,1532,965,1559"/>
+<area shape="rect" id="node42" href="$classCore.html#ac3b77f0e4a52c97ec921638b114dc62b" title=" " alt="" coords="785,1228,937,1255"/>
+<area shape="rect" id="node43" href="$classCore.html#ab4aee8083989d410925c1f7b4930294d" title=" " alt="" coords="775,924,948,951"/>
+<area shape="rect" id="node44" href="$classCore.html#aaa86c5384a5b7609e32e4017c8345af8" title=" " alt="" coords="753,1279,969,1305"/>
+<area shape="rect" id="node45" href="$classCore.html#a9091c43d29dbae1360096bd2c9176dfa" title=" " alt="" coords="745,1127,977,1153"/>
+<area shape="rect" id="node46" href="$classCore.html#a8e0bb22a5e6d460cbf303902b79b8f03" title=" " alt="" coords="765,1025,958,1052"/>
+<area shape="rect" id="node47" href="$classCore.html#ad0f44694f2365aee275e87c237c264f1" title="Handling of custom lossless packets received by toxcore. Currently only used to forward toxext packet..." alt="" coords="775,1329,948,1356"/>
+<area shape="rect" id="node48" href="$classCore.html#a4d5b6500185503cc3f0801674478586a" title=" " alt="" coords="754,1431,969,1457"/>
+<area shape="rect" id="node49" href="$classCore.html#ac31b897033396e49d82600a90971aec4" title=" " alt="" coords="745,1076,977,1103"/>
+<area shape="rect" id="node50" href="$classCore.html#a18ad28602f7a70042c53d8041348f1b5" title=" " alt="" coords="759,1481,963,1508"/>
+</map>

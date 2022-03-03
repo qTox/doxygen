@@ -1,0 +1,7 @@
+<map id="AdvancedForm::on_btnExportLog_clicked" name="AdvancedForm::on_btnExportLog_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,219,90"/>
+<area shape="rect" id="node2" href="$classPaths.html#a5a5ebdebefd62da7ea6e6da2fd99e4bf" title="Get path to directory, where the application cache are stored." alt="" coords="267,5,465,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="287,56,445,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title=" " alt="" coords="297,107,435,133"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="513,56,649,83"/>
+</map>

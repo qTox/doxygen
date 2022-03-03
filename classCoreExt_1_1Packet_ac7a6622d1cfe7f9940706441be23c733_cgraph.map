@@ -1,0 +1,5 @@
+<map id="CoreExt::Packet::addExtendedMessage" name="CoreExt::Packet::addExtendedMessage">
+<area shape="rect" id="node1" title="Adds message to packet." alt="" coords="5,23,221,65"/>
+<area shape="rect" id="node2" href="$classToxString.html#a36946ec31793baf06869c7dc583b79a0" title="Returns a pointer to the beginning of the string data." alt="" coords="269,5,388,32"/>
+<area shape="rect" id="node3" href="$classToxString.html#a4462cbd7558af2d4f66eb8ec32464dfd" title="Get the number of bytes in the string." alt="" coords="271,56,387,83"/>
+</map>

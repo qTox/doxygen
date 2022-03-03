@@ -1,0 +1,5 @@
+<map id="Core::hasFriendWithPublicKey" name="Core::hasFriendWithPublicKey">
+<area shape="rect" id="node1" title="Checks if we have a friend by public key." alt="" coords="5,31,221,57"/>
+<area shape="rect" id="node2" href="$classContactId.html#a65ddd8d606dd40af6d3b2489df54224a" title="Returns a pointer to the raw id data." alt="" coords="269,5,413,32"/>
+<area shape="rect" id="node3" href="$classContactId.html#acefde9768d99015a7028ca3fea50c852" title="Checks if the ContactId contains a id." alt="" coords="461,31,607,57"/>
+</map>

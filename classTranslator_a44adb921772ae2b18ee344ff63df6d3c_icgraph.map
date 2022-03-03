@@ -1,0 +1,17 @@
+<map id="Translator::registerHandler" name="Translator::registerHandler">
+<area shape="rect" id="node1" title="Register a function to be called when the UI needs to be retranslated." alt="" coords="1100,233,1295,260"/>
+<area shape="rect" id="node2" href="$classAboutForm.html#a1e6443305bd2fb991836489773016013" title="Constructor of AboutForm." alt="" coords="842,5,1014,32"/>
+<area shape="rect" id="node3" href="$classAdvancedForm.html#a7f126074e85bf2eba15fee811f3d9d09" title=" " alt="" coords="816,56,1040,83"/>
+<area shape="rect" id="node4" href="$classChatTextEdit.html#a7cd78075ffb125ab877b917cc20f6d71" title=" " alt="" coords="831,107,1025,133"/>
+<area shape="rect" id="node5" href="$classChatWidget.html#a0390560418b96159a24676c099b16cfe" title=" " alt="" coords="837,157,1019,184"/>
+<area shape="rect" id="node6" href="$classWidget.html#ae39309df982dbc8018ed041e39047602" title=" " alt="" coords="823,208,1033,235"/>
+<area shape="rect" id="node7" href="$classFilesForm.html#a9f90360d2d6daea6dc39d909d8d1c872" title=" " alt="" coords="850,259,1006,285"/>
+<area shape="rect" id="node8" href="$classGroupInviteForm.html#aa53ab9ae554aaf424fca0a9ea3272184" title=" " alt="" coords="804,309,1052,336"/>
+<area shape="rect" id="node9" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title=" " alt="" coords="879,360,977,387"/>
+<area shape="rect" id="node14" href="$classSettingsWidget.html#a5395e06a3da833fdb83dc20ea5ccb7a1" title=" " alt="" coords="837,411,1019,453"/>
+<area shape="rect" id="node15" href="$classUserInterfaceForm.html#a22ae235d9056d65b0a72205c54294e01" title="Constructor of UserInterfaceForm." alt="" coords="853,477,1003,518"/>
+<area shape="rect" id="node10" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title=" " alt="" coords="595,335,756,361"/>
+<area shape="rect" id="node11" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin." alt="" coords="445,335,547,361"/>
+<area shape="rect" id="node12" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title=" " alt="" coords="193,335,397,361"/>
+<area shape="rect" id="node13" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen." alt="" coords="5,360,145,387"/>
+</map>

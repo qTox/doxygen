@@ -1,0 +1,21 @@
+<map id="FileTransferWidget::onPreviewButtonClicked" name="FileTransferWidget::onPreviewButtonClicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,188,193,229"/>
+<area shape="rect" id="node2" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title=" " alt="" coords="241,188,384,229"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a9f4eda5fdb4b51cb0a4295214b73ea41" title=" " alt="" coords="476,53,619,95"/>
+<area shape="rect" id="node12" href="$classCoreFile.html#ac5a92c0510055b33d6e81ef191d6c803" title=" " alt="" coords="457,119,637,146"/>
+<area shape="rect" id="node13" href="$classCoreFile.html#a66c54cb1db593c01e6576e1de16f3c4b" title=" " alt="" coords="457,170,637,197"/>
+<area shape="rect" id="node14" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title=" " alt="" coords="432,221,663,247"/>
+<area shape="rect" id="node17" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="468,271,627,298"/>
+<area shape="rect" id="node19" href="$classCoreFile.html#aa6126719c80800e3a76f47ca4d1cfc9d" title=" " alt="" coords="448,322,647,349"/>
+<area shape="rect" id="node4" href="$classCoreFile.html#a1df491ab7c453d59aa746e41ef9018ab" title=" " alt="" coords="711,5,892,47"/>
+<area shape="rect" id="node5" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user." alt="" coords="731,71,872,98"/>
+<area shape="rect" id="node11" href="$classFileTransferWidget.html#aa40afca50a139725273ba34bca4c1ccc" title="Dangerous way to find out if a path is writable." alt="" coords="730,123,873,164"/>
+<area shape="rect" id="node6" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title=" " alt="" coords="940,71,1088,98"/>
+<area shape="rect" id="node10" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="949,135,1079,162"/>
+<area shape="rect" id="node7" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="1136,71,1289,98"/>
+<area shape="rect" id="node8" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="1337,71,1508,98"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="1556,71,1703,98"/>
+<area shape="rect" id="node15" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons." alt="" coords="734,199,869,226"/>
+<area shape="rect" id="node16" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title=" " alt="" coords="943,199,1085,226"/>
+<area shape="rect" id="node18" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="733,271,869,298"/>
+</map>

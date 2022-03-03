@@ -1,0 +1,4 @@
+<map id="ToxYUVFrame::operator bool" name="ToxYUVFrame::operator bool">
+<area shape="rect" id="node1" title="Checks if the given ToxYUVFrame is valid or not, delegates to isValid()." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#a7848cf27ff9b2369daf54ae7c2f6e835" title="Returns the validity of this VideoFrame." alt="" coords="260,5,411,32"/>
+</map>

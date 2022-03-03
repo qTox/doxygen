@@ -1,0 +1,6 @@
+<map id="SettingsSerializer::save" name="SettingsSerializer::save">
+<area shape="rect" id="node1" title="Saves the current settings back to file." alt="" coords="5,49,141,90"/>
+<area shape="rect" id="node2" href="$classToxEncrypt.html#a7894da86f4ee966c5d4da2d1dcd84797" title="Encrypts the plaintext with the stored key." alt="" coords="191,5,342,32"/>
+<area shape="rect" id="node3" href="$serialize_8cpp.html#a0ee8d15e984b44eb70752570bac9e5d4" title=" " alt="" coords="221,56,313,83"/>
+<area shape="rect" id="node4" href="$classSettingsSerializer.html#a5941a4100e1e38ad3e9045541cfbb856" title=" " alt="" coords="189,107,344,149"/>
+</map>

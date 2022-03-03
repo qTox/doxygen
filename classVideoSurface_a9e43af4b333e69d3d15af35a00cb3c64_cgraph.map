@@ -1,0 +1,10 @@
+<map id="VideoSurface::subscribe" name="VideoSurface::subscribe">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,184,171"/>
+<area shape="rect" id="node2" href="$classVideoSurface.html#adf8b2f92eb2d9220ba9e9b8b5e185fbc" title=" " alt="" coords="245,78,448,119"/>
+<area shape="rect" id="node7" href="$classVideoSurface.html#aa2af96cdb06b97fdc0c7488add08a33d" title=" " alt="" coords="232,144,461,171"/>
+<area shape="rect" id="node8" href="$classVideoSource.html#a542481c450352c8b2a3717f5473568e5" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals." alt="" coords="260,195,433,221"/>
+<area shape="rect" id="node3" href="$videosurface_8cpp.html#a6d8a1ee38ecb650ae3a4043b12a87008" title=" " alt="" coords="548,5,652,32"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#a51d3fa1945c31f659b7c944091ad6cfd" title=" " alt="" coords="529,56,671,83"/>
+<area shape="rect" id="node5" href="$classVideoSurface.html#a22bed2f9d881f5d3fd02e0bede564b0c" title=" " alt="" coords="509,107,691,149"/>
+<area shape="rect" id="node6" href="$classVideoSurface.html#a4c729f75a02c35de42df3056a030be92" title=" " alt="" coords="521,173,679,200"/>
+</map>

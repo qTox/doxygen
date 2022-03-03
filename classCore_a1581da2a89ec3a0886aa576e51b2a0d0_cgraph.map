@@ -1,0 +1,12 @@
+<map id="Core::requestFriendship" name="Core::requestFriendship">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,181,141"/>
+<area shape="rect" id="node2" href="$classToxString.html#a36946ec31793baf06869c7dc583b79a0" title="Returns a pointer to the beginning of the string data." alt="" coords="273,5,391,32"/>
+<area shape="rect" id="node3" href="$classToxId.html#af1c3d5738fdd0ddb6c199ebf6c3b9c18" title="Gets the ToxID as bytes, convenience function for toxcore interface." alt="" coords="271,56,393,83"/>
+<area shape="rect" id="node5" href="$classCore.html#ab37764d2868fab2e5288708b9c4d3dd3" title="Checks that sending friendship request is correct and returns error message accordingly." alt="" coords="229,107,435,149"/>
+<area shape="rect" id="node6" href="$classToxId.html#a4124524a75378b827fcb6b89c53acf23" title="Gets the Public Key part of the ToxID." alt="" coords="517,169,665,196"/>
+<area shape="rect" id="node10" href="$classToxString.html#a4462cbd7558af2d4f66eb8ec32464dfd" title="Get the number of bytes in the string." alt="" coords="274,224,390,251"/>
+<area shape="rect" id="node4" href="$classToxId.html#a634c79008d03313833d37a5f4e1d1218" title="Check it it&#39;s a valid Tox ID by verifying the checksum." alt="" coords="537,60,644,87"/>
+<area shape="rect" id="node7" href="$classCore.html#aaca963dfbe6a6ed48a7e0870430f8395" title="Checks if we have a friend by public key." alt="" coords="483,115,699,141"/>
+<area shape="rect" id="node8" href="$classContactId.html#a65ddd8d606dd40af6d3b2489df54224a" title="Returns a pointer to the raw id data." alt="" coords="747,89,891,116"/>
+<area shape="rect" id="node9" href="$classContactId.html#acefde9768d99015a7028ca3fea50c852" title="Checks if the ContactId contains a id." alt="" coords="939,115,1084,141"/>
+</map>

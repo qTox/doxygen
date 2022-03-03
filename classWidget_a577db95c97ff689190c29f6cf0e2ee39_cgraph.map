@@ -1,0 +1,52 @@
+<map id="Widget::onFriendDisplayedNameChanged" name="Widget::onFriendDisplayedNameChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,738,203,779"/>
+<area shape="rect" id="node2" href="$classGroupList.html#a5ffb42751599ff984fcf5c52b64e2bcf" title=" " alt="" coords="279,636,455,663"/>
+<area shape="rect" id="node3" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="290,687,445,713"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#adcafc42ee45478b08afa2e3096771451" title=" " alt="" coords="276,738,459,779"/>
+<area shape="rect" id="node5" href="$classFriendListWidget.html#a6de9d14770493e1025b5c05c90fb4500" title=" " alt="" coords="251,804,484,831"/>
+<area shape="rect" id="node46" href="$classGUI.html#a68fb4983f43f6bda71db25f7db1a93d3" title="Change the title of the main window." alt="" coords="290,973,445,1000"/>
+<area shape="rect" id="node6" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title=" " alt="" coords="532,567,749,593"/>
+<area shape="rect" id="node7" href="$classFriendListWidget.html#ac95b76edcb63ba5a1cecf69aed7d15c2" title=" " alt="" coords="812,143,1012,185"/>
+<area shape="rect" id="node10" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title=" " alt="" coords="1357,281,1539,308"/>
+<area shape="rect" id="node11" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="1369,355,1527,381"/>
+<area shape="rect" id="node16" href="$classCategoryWidget.html#a671aa4e68279bfb5b7f0017efd5c67ef" title=" " alt="" coords="1598,89,1793,116"/>
+<area shape="rect" id="node20" href="$classCategoryWidget.html#accb1ef391fc9bc2cc341b6e33977839c" title=" " alt="" coords="813,429,1011,470"/>
+<area shape="rect" id="node30" href="$classFriendListManager.html#adc8d0a0970defcadb9a5a011d74878c9" title=" " alt="" coords="837,559,987,601"/>
+<area shape="rect" id="node31" href="$classFriendListWidget.html#a5edbdc6a92e1d1f6d30639ba2d4e1d2d" title="Clears the listLayout by performing the creation and ownership inverse of sortByMode." alt="" coords="809,961,1015,1002"/>
+<area shape="rect" id="node33" href="$classSettings.html#afc100ee2fb4bb435fc62c6802f29ba08" title=" " alt="" coords="823,691,1001,717"/>
+<area shape="rect" id="node34" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title=" " alt="" coords="823,741,1001,768"/>
+<area shape="rect" id="node35" href="$classFriendListManager.html#a60f121a7ec60d467a07edd089fcc3bde" title=" " alt="" coords="1115,261,1265,302"/>
+<area shape="rect" id="node36" href="$classFriendListWidget.html#aa45e411e589444ae2a0d1c874235d458" title=" " alt="" coords="813,210,1011,251"/>
+<area shape="rect" id="node37" href="$classFriendListManager.html#a8fcd8e05688b590af01c732dd4f266e6" title=" " alt="" coords="833,793,991,834"/>
+<area shape="rect" id="node38" href="$classFriend.html#af29d8af5f6d6dc1c9e2c7117bf4efc5c" title=" " alt="" coords="846,859,978,885"/>
+<area shape="rect" id="node39" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title=" " alt="" coords="852,909,972,936"/>
+<area shape="rect" id="node40" href="$classCategoryWidget.html#aa6225f672901939177d0c4b55ccaaa06" title=" " alt="" coords="797,12,1027,39"/>
+<area shape="rect" id="node42" href="$classFriendListManager.html#a8eea95c4d7e27f9ef83bd8664b36bb14" title=" " alt="" coords="837,1026,987,1067"/>
+<area shape="rect" id="node43" href="$classFriendListManager.html#a9ba32c1449e425a823d29c4708fcf05f" title=" " alt="" coords="837,625,987,666"/>
+<area shape="rect" id="node45" href="$classFriendListManager.html#aac84a1b9b59fcef604bbdaa0025f5e50" title=" " alt="" coords="837,494,987,535"/>
+<area shape="rect" id="node8" href="$classFriendListWidget.html#a3760bbbe8256b82cf5349ad59011f89a" title=" " alt="" coords="1100,143,1280,185"/>
+<area shape="rect" id="node9" href="$classSettings.html#aba909d42ff74774ad66eeef798ad1097" title=" " alt="" coords="1376,231,1520,257"/>
+<area shape="rect" id="node13" href="$classCategoryWidget.html#a68bf5f6448eebce7c19fe77ec92534b9" title=" " alt="" coords="1591,173,1800,214"/>
+<area shape="rect" id="node15" href="$classFriendListWidget.html#a7a050d62abb59ba320f21309cb1e6266" title=" " alt="" coords="1353,114,1543,155"/>
+<area shape="rect" id="node12" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="1627,355,1763,381"/>
+<area shape="rect" id="node14" href="$classCroppingLabel.html#ae43436aa0cb89c50573c0a245fd15b44" title=" " alt="" coords="1848,173,2099,214"/>
+<area shape="rect" id="node17" href="$classGenericChatItemWidget.html#a93f4e18010e6e9ea0f2fe276f1ab54b3" title=" " alt="" coords="1884,107,2063,149"/>
+<area shape="rect" id="node18" href="$classCategoryWidget.html#ae33c837f6d11a4cd6dbd8aa9fc9890b2" title=" " alt="" coords="1868,5,2079,32"/>
+<area shape="rect" id="node19" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title=" " alt="" coords="1888,56,2059,83"/>
+<area shape="rect" id="node21" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title=" " alt="" coords="1089,611,1291,653"/>
+<area shape="rect" id="node24" href="$classCategoryWidget.html#a29f7946a53f0cdd854b6e4fdfabef616" title=" " alt="" coords="1082,429,1298,470"/>
+<area shape="rect" id="node25" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title=" " alt="" coords="1099,494,1281,535"/>
+<area shape="rect" id="node27" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title=" " alt="" coords="1079,560,1301,587"/>
+<area shape="rect" id="node22" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title=" " alt="" coords="1360,683,1536,725"/>
+<area shape="rect" id="node23" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title=" " alt="" coords="1360,618,1536,659"/>
+<area shape="rect" id="node26" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title=" " alt="" coords="1371,451,1525,477"/>
+<area shape="rect" id="node28" href="$classFriendListLayout.html#aaf37fda62dbffa565f9fe0bce478f653" title=" " alt="" coords="1608,523,1783,565"/>
+<area shape="rect" id="node29" href="$classFriendListLayout.html#a1fc3bd61f38804d66cbadd49a292a672" title=" " alt="" coords="1361,553,1535,594"/>
+<area shape="rect" id="node32" href="$classFriendListManager.html#af1ad78e764d6f24e5b4d13271e912cc8" title=" " alt="" coords="1115,961,1265,1002"/>
+<area shape="rect" id="node41" href="$classFriendListLayout.html#a1313245dab6175312c4a520f75bf0f9a" title=" " alt="" coords="1075,12,1305,39"/>
+<area shape="rect" id="node44" href="$classFriendListManager.html#a220ac0cdf789b56558a668996535c816" title=" " alt="" coords="1115,677,1265,718"/>
+<area shape="rect" id="node47" href="$classGUI.html#a79a9c847005f9008aa757fc0b462cbe6" title=" " alt="" coords="559,973,722,1000"/>
+<area shape="rect" id="node50" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="575,1024,706,1051"/>
+<area shape="rect" id="node48" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="835,1092,989,1119"/>
+<area shape="rect" id="node49" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="1105,1092,1275,1119"/>
+</map>

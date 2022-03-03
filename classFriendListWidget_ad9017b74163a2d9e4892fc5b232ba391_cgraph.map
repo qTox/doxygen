@@ -1,0 +1,52 @@
+<map id="FriendListWidget::dayTimeout" name="FriendListWidget::dayTimeout">
+<area shape="rect" id="node1" title=" " alt="" coords="5,611,223,638"/>
+<area shape="rect" id="node2" href="$classFriendListWidget.html#a6de9d14770493e1025b5c05c90fb4500" title=" " alt="" coords="271,586,504,612"/>
+<area shape="rect" id="node50" href="$friendlistwidget_8cpp.html#a4a038bb6d0af11857120c56b527f3aaa" title=" " alt="" coords="314,636,461,663"/>
+<area shape="rect" id="node3" href="$classFriendListWidget.html#a7198e40123ba3d8b74fca77eadff6f9c" title=" " alt="" coords="552,586,769,612"/>
+<area shape="rect" id="node4" href="$classFriendListWidget.html#ac95b76edcb63ba5a1cecf69aed7d15c2" title=" " alt="" coords="832,142,1032,184"/>
+<area shape="rect" id="node8" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title=" " alt="" coords="1378,260,1559,287"/>
+<area shape="rect" id="node9" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="1389,311,1548,338"/>
+<area shape="rect" id="node15" href="$classCategoryWidget.html#a671aa4e68279bfb5b7f0017efd5c67ef" title=" " alt="" coords="1639,84,1834,111"/>
+<area shape="rect" id="node20" href="$classCategoryWidget.html#accb1ef391fc9bc2cc341b6e33977839c" title=" " alt="" coords="833,428,1031,469"/>
+<area shape="rect" id="node31" href="$classFriendListManager.html#adc8d0a0970defcadb9a5a011d74878c9" title=" " alt="" coords="857,545,1007,586"/>
+<area shape="rect" id="node32" href="$classFriendListWidget.html#a5edbdc6a92e1d1f6d30639ba2d4e1d2d" title="Clears the listLayout by performing the creation and ownership inverse of sortByMode." alt="" coords="829,610,1035,652"/>
+<area shape="rect" id="node35" href="$classSettings.html#afc100ee2fb4bb435fc62c6802f29ba08" title=" " alt="" coords="843,676,1021,703"/>
+<area shape="rect" id="node36" href="$classFriendWidget.html#a83fc7e3286f1cf315c3ab91fcf7fcf24" title=" " alt="" coords="843,727,1021,754"/>
+<area shape="rect" id="node37" href="$classFriendListManager.html#a60f121a7ec60d467a07edd089fcc3bde" title=" " alt="" coords="1130,260,1281,301"/>
+<area shape="rect" id="node38" href="$classFriendListWidget.html#aa45e411e589444ae2a0d1c874235d458" title=" " alt="" coords="833,310,1031,352"/>
+<area shape="rect" id="node39" href="$classFriendListManager.html#a8fcd8e05688b590af01c732dd4f266e6" title=" " alt="" coords="853,778,1011,820"/>
+<area shape="rect" id="node40" href="$classFriend.html#af29d8af5f6d6dc1c9e2c7117bf4efc5c" title=" " alt="" coords="866,844,998,871"/>
+<area shape="rect" id="node41" href="$friendlistwidget_8cpp.html#a6e29e2947e8479ce07a1660f51b4c497" title=" " alt="" coords="872,895,992,922"/>
+<area shape="rect" id="node42" href="$classCategoryWidget.html#aa6225f672901939177d0c4b55ccaaa06" title=" " alt="" coords="817,494,1047,520"/>
+<area shape="rect" id="node44" href="$classFriendListManager.html#a8eea95c4d7e27f9ef83bd8664b36bb14" title=" " alt="" coords="857,946,1007,988"/>
+<area shape="rect" id="node45" href="$classFriendListManager.html#a9ba32c1449e425a823d29c4708fcf05f" title=" " alt="" coords="857,1012,1007,1053"/>
+<area shape="rect" id="node49" href="$classFriendListManager.html#aac84a1b9b59fcef604bbdaa0025f5e50" title=" " alt="" coords="857,1077,1007,1118"/>
+<area shape="rect" id="node5" href="$classFriendListWidget.html#a3760bbbe8256b82cf5349ad59011f89a" title=" " alt="" coords="1115,142,1295,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#aba909d42ff74774ad66eeef798ad1097" title=" " alt="" coords="1397,143,1541,170"/>
+<area shape="rect" id="node11" href="$classCategoryWidget.html#a68bf5f6448eebce7c19fe77ec92534b9" title=" " alt="" coords="1364,194,1573,236"/>
+<area shape="rect" id="node14" href="$classFriendListWidget.html#a7a050d62abb59ba320f21309cb1e6266" title=" " alt="" coords="1374,77,1563,118"/>
+<area shape="rect" id="node7" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile." alt="" coords="1651,143,1822,170"/>
+<area shape="rect" id="node10" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="1669,311,1805,338"/>
+<area shape="rect" id="node12" href="$classCroppingLabel.html#ae43436aa0cb89c50573c0a245fd15b44" title=" " alt="" coords="1900,186,2151,228"/>
+<area shape="rect" id="node13" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="1679,244,1794,271"/>
+<area shape="rect" id="node16" href="$classGenericChatItemWidget.html#a93f4e18010e6e9ea0f2fe276f1ab54b3" title=" " alt="" coords="1936,18,2115,60"/>
+<area shape="rect" id="node17" href="$classCategoryWidget.html#ae33c837f6d11a4cd6dbd8aa9fc9890b2" title=" " alt="" coords="1920,84,2131,111"/>
+<area shape="rect" id="node18" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title=" " alt="" coords="1940,135,2111,162"/>
+<area shape="rect" id="node19" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title=" " alt="" coords="2199,135,2409,162"/>
+<area shape="rect" id="node21" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title=" " alt="" coords="1105,428,1306,469"/>
+<area shape="rect" id="node24" href="$classCategoryWidget.html#a29f7946a53f0cdd854b6e4fdfabef616" title=" " alt="" coords="1097,610,1313,652"/>
+<area shape="rect" id="node25" href="$classGenericChatroomWidget.html#a4968da0f4e962cd64a8bdcb916eeab58" title=" " alt="" coords="1114,545,1297,586"/>
+<area shape="rect" id="node27" href="$classCategoryWidget.html#a85d1c290648178b6b0f39a55c0050dad" title=" " alt="" coords="1095,494,1316,520"/>
+<area shape="rect" id="node22" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title=" " alt="" coords="1381,362,1557,404"/>
+<area shape="rect" id="node23" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title=" " alt="" coords="1381,428,1557,469"/>
+<area shape="rect" id="node26" href="$classStyle.html#a0ef91fd7007fb061d38c9c82396dabd3" title=" " alt="" coords="1392,611,1545,638"/>
+<area shape="rect" id="node28" href="$classFriendListLayout.html#aaf37fda62dbffa565f9fe0bce478f653" title=" " alt="" coords="1649,505,1824,546"/>
+<area shape="rect" id="node30" href="$classFriendListLayout.html#a1fc3bd61f38804d66cbadd49a292a672" title=" " alt="" coords="1381,545,1556,586"/>
+<area shape="rect" id="node29" href="$classGenericChatItemLayout.html#a05f8aab54e6272eff56ce4d6bbaca343" title=" " alt="" coords="1937,564,2113,605"/>
+<area shape="rect" id="node33" href="$classFriendListManager.html#af1ad78e764d6f24e5b4d13271e912cc8" title=" " alt="" coords="1130,728,1281,769"/>
+<area shape="rect" id="node34" href="$classIFriendListItem.html#a467b7d9a53919b397dc0c76391e4c348" title=" " alt="" coords="1371,735,1566,762"/>
+<area shape="rect" id="node43" href="$classFriendListLayout.html#a1313245dab6175312c4a520f75bf0f9a" title=" " alt="" coords="1621,658,1852,684"/>
+<area shape="rect" id="node46" href="$classFriendListManager.html#a220ac0cdf789b56558a668996535c816" title=" " alt="" coords="1130,1044,1281,1085"/>
+<area shape="rect" id="node47" href="$classFriendListManager.html#a5ff6300d5e66a3fe56e4035da5388b33" title=" " alt="" coords="1393,1076,1544,1117"/>
+<area shape="rect" id="node48" href="$classFriendListManager.html#aad5f42f85b2e75a702d377dd0f249797" title=" " alt="" coords="1393,1010,1544,1052"/>
+</map>

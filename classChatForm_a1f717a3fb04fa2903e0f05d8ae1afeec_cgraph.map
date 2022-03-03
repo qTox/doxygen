@@ -1,0 +1,35 @@
+<map id="ChatForm::createNetcam" name="ChatForm::createNetcam">
+<area shape="rect" id="node1" title=" " alt="" coords="5,696,191,723"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="869,443,966,469"/>
+<area shape="rect" id="node3" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="1111,1067,1305,1093"/>
+<area shape="rect" id="node4" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title=" " alt="" coords="1451,493,1553,520"/>
+<area shape="rect" id="node5" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="279,1051,434,1077"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#aa0d1cde3dfaec8c776565ddc1602b282" title="Get a call&#39;s video source." alt="" coords="239,1101,475,1128"/>
+<area shape="rect" id="node7" href="$classChatForm.html#a3112589852659f68a0a36d957bc53682" title=" " alt="" coords="253,367,460,393"/>
+<area shape="rect" id="node19" href="$classChatForm.html#a0b034f543006600a69abe732764fee33" title=" " alt="" coords="526,772,757,799"/>
+<area shape="rect" id="node27" href="$classChatForm.html#a8e3859ece13f69fe8da2418db4525371" title=" " alt="" coords="255,468,459,495"/>
+<area shape="rect" id="node8" href="$classCoreAV.html#ad5835fdb4e739f7293166f7bcb4c889b" title="Toggles the mute state of the call&#39;s input (microphone)." alt="" coords="537,81,745,108"/>
+<area shape="rect" id="node11" href="$classChatForm.html#a517029cecced9e469c1f28fc2377b796" title=" " alt="" coords="523,316,760,343"/>
+<area shape="rect" id="node9" href="$classToxCall.html#a7805da0768292b771ca4f4b5de39582c" title=" " alt="" coords="840,5,995,32"/>
+<area shape="rect" id="node10" href="$classToxCall.html#a69b561163081984ebefd797b99eee2b4" title=" " alt="" coords="841,56,994,83"/>
+<area shape="rect" id="node12" href="$classCoreAV.html#a7ef33075e6e09f8709cdf667989bf9c0" title="Checks the call status for a Tox friend." alt="" coords="841,341,994,368"/>
+<area shape="rect" id="node14" href="$classCoreAV.html#af8b6f12d51b1749e4c4e0a246006c8c6" title="Returns the calls input (microphone) mute state." alt="" coords="1115,264,1301,291"/>
+<area shape="rect" id="node15" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title=" " alt="" coords="808,158,1027,199"/>
+<area shape="rect" id="node13" href="$classCoreAV.html#a0b8fac4d09e48a554aa33030af225aa8" title="Checks the call status for a Tox friend." alt="" coords="1129,696,1287,723"/>
+<area shape="rect" id="node16" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title=" " alt="" coords="1075,56,1341,83"/>
+<area shape="rect" id="node17" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="1445,31,1559,57"/>
+<area shape="rect" id="node18" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title=" " alt="" coords="1389,81,1615,108"/>
+<area shape="rect" id="node20" href="$classCoreAV.html#a50de34141a14268d5672a7e1df635e5e" title=" " alt="" coords="846,797,989,824"/>
+<area shape="rect" id="node21" href="$classCoreAV.html#a13827b66ff34b5b93a1e92aa421ecbe4" title=" " alt="" coords="817,747,1018,773"/>
+<area shape="rect" id="node22" href="$classChatForm.html#a535c3f564181af5c6a17c7f6ddcaf75a" title=" " alt="" coords="812,949,1023,976"/>
+<area shape="rect" id="node26" href="$classCoreAV.html#a63415c39f6cb6a1182e004bf2538c5f3" title=" " alt="" coords="852,848,983,875"/>
+<area shape="rect" id="node23" href="$classGenericChatForm.html#a760b2633f3394c4eb7321ee63c28618c" title=" " alt="" coords="1100,1001,1316,1042"/>
+<area shape="rect" id="node25" href="$classChatFormHeader.html#aa5863eb88909b66d436987a068d3d72a" title=" " alt="" coords="1079,949,1337,976"/>
+<area shape="rect" id="node24" href="$classIChatLog.html#ac156e63185b2645af3ca2d09f799d71d" title="Inserts a system message at the end of the chat." alt="" coords="1393,1008,1611,1035"/>
+<area shape="rect" id="node28" href="$classCoreAV.html#aeca68ddebb38382d43fe6b672e916da4" title="Toggles the mute state of the call&#39;s output (speaker)." alt="" coords="532,569,751,596"/>
+<area shape="rect" id="node31" href="$classChatForm.html#ab1b67ce405deb4fb46815d76696f3032" title=" " alt="" coords="524,367,759,393"/>
+<area shape="rect" id="node29" href="$classToxCall.html#afe739132122c57d8bb85805484881b72" title=" " alt="" coords="842,595,993,621"/>
+<area shape="rect" id="node30" href="$classToxCall.html#a3e0c9f2b4e10ea2b407c0f0257617d91" title=" " alt="" coords="842,544,993,571"/>
+<area shape="rect" id="node32" href="$classCoreAV.html#a892ddc731b3734f4aab5202b23ea18a4" title="Returns the calls output (speaker) mute state." alt="" coords="1109,417,1307,444"/>
+<area shape="rect" id="node33" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title=" " alt="" coords="808,275,1027,317"/>
+</map>

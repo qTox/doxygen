@@ -1,0 +1,12 @@
+<map id="ChatLineContent" name="ChatLineContent">
+<area shape="rect" id="node1" title=" " alt="" coords="432,131,632,384"/>
+<area shape="rect" id="node4" href="$classBroken.html" title=" " alt="" coords="5,674,141,825"/>
+<area shape="rect" id="node5" href="$classChatLineContentProxy.html" title=" " alt="" coords="165,630,357,869"/>
+<area shape="rect" id="node6" href="$classImage.html" title=" " alt="" coords="381,674,517,825"/>
+<area shape="rect" id="node7" href="$classNotificationIcon.html" title=" " alt="" coords="541,630,691,869"/>
+<area shape="rect" id="node8" href="$classSpinner.html" title=" " alt="" coords="715,623,851,876"/>
+<area shape="rect" id="node9" href="$classText.html" title=" " alt="" coords="875,432,1061,1067"/>
+<area shape="rect" id="node2" title=" " alt="" coords="435,5,509,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="534,5,653,83"/>
+<area shape="rect" id="node10" href="$classTimestamp.html" title=" " alt="" coords="907,1115,1029,1221"/>
+</map>

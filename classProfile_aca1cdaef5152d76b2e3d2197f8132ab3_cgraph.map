@@ -1,0 +1,10 @@
+<map id="Profile::setAvatar" name="Profile::setAvatar">
+<area shape="rect" id="node1" title="Sets our own avatar." alt="" coords="5,81,139,108"/>
+<area shape="rect" id="node2" href="$classContactId.html#abe47af4a3da3b4bfc53bc5a2ffa7d325" title="Get a copy of the id." alt="" coords="201,5,379,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a3510bf2203562e98bd176d90af1ce0c0" title=" " alt="" coords="187,56,393,83"/>
+<area shape="rect" id="node4" href="$classProfile.html#a4f48c9d37cb135b1cec9a25a1f996ce0" title="Save an avatar to cache." alt="" coords="218,107,362,133"/>
+<area shape="rect" id="node8" href="$classIdenticon.html#a8d41fd2b77b0077ffcbca7062c6a7dd7" title="Writes the Identicon to a QImage." alt="" coords="218,157,362,184"/>
+<area shape="rect" id="node5" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID." alt="" coords="441,132,583,159"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="631,81,817,108"/>
+<area shape="rect" id="node7" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="653,132,795,159"/>
+</map>

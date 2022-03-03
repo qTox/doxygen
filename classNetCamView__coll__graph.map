@@ -1,0 +1,10 @@
+<map id="NetCamView" name="NetCamView">
+<area shape="rect" id="node1" title=" " alt="" coords="176,984,367,1545"/>
+<area shape="rect" id="node2" title=" " alt="" coords="209,235,288,312"/>
+<area shape="rect" id="node5" href="$classVideoSurface.html" title=" " alt="" coords="287,477,474,907"/>
+<area shape="rect" id="node8" href="$classMovableWidget.html" title=" " alt="" coords="5,543,212,841"/>
+<area shape="rect" id="node3" href="$classToxPk.html" title="This class represents a Tox Public Key, which is a part of Tox ID." alt="" coords="499,617,593,767"/>
+<area shape="rect" id="node4" href="$classContactId.html" title=" " alt="" coords="479,132,613,415"/>
+<area shape="rect" id="node6" href="$classVideoSource.html" title="An abstract source of video frames." alt="" coords="313,205,451,341"/>
+<area shape="rect" id="node7" title=" " alt="" coords="345,5,419,83"/>
+</map>

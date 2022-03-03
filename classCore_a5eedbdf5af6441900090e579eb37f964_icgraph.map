@@ -1,0 +1,4 @@
+<map id="Core::getFriendList" name="Core::getFriendList">
+<area shape="rect" id="node1" title="Returns the list of friendIds in our friendlist, an empty list on error." alt="" coords="204,13,348,39"/>
+<area shape="rect" id="node2" href="$classAvatarBroadcaster.html#a8c8f0ae291842d629e73f86194747fc1" title="Set our current avatar." alt="" coords="5,5,156,47"/>
+</map>

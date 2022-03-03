@@ -1,0 +1,9 @@
+<map id="PrivacyForm::showEvent" name="PrivacyForm::showEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,188,133"/>
+<area shape="rect" id="node2" href="$classSettings.html#a9145903f3173886bf2c961cf2ea0620e" title=" " alt="" coords="265,5,428,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="267,56,426,83"/>
+<area shape="rect" id="node5" href="$classToxId.html#aea84a88bf79a6ec9f3857e8ede675cdf" title="Returns the NoSpam value converted to QString." alt="" coords="257,107,436,133"/>
+<area shape="rect" id="node6" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID." alt="" coords="287,157,406,184"/>
+<area shape="rect" id="node7" href="$classSettings.html#afb549e930e080e3c22ad5ac8bc6cc811" title=" " alt="" coords="236,208,457,235"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="505,56,641,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="VideoFrame::toToxYUVFrame" name="VideoFrame::toToxYUVFrame">
+<area shape="rect" id="node1" title="Converts this VideoFrame to a ToxAVFrame that shares this VideoFrame&#39;s buffer." alt="" coords="5,56,216,83"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#af3c3581e63cd9fae969e41d655191ed5" title="Converts this VideoFrame to a generic type T based on the given parameters and supplied converter fun..." alt="" coords="264,56,477,83"/>
+<area shape="rect" id="node3" href="$classVideoFrame.html#a5108bcbc11084327d5b49bf072ea23b2" title="Generates an AVFrame based on the given specifications." alt="" coords="525,5,749,32"/>
+<area shape="rect" id="node4" href="$classVideoFrame.html#ad9ceaa4eaec88681bc0bcca587daa95a" title="Retrieves an AVFrame derived from the source based on the given parameters without obtaining a lock." alt="" coords="529,56,746,83"/>
+<area shape="rect" id="node6" href="$classVideoFrame.html#a6e0a9c8fcff4da889a5695a3635b9b23" title="Stores a given AVFrame within the frameBuffer map." alt="" coords="538,107,737,133"/>
+<area shape="rect" id="node5" href="$classVideoFrame.html#a4235dc6d52f3cb7e12032b4e5c5c90ab" title="Generates a key object based on given parameters." alt="" coords="797,81,992,108"/>
+</map>

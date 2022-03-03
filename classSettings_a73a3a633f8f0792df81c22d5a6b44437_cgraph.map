@@ -1,0 +1,17 @@
+<map id="Settings::savePersonal" name="Settings::savePersonal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,254,176,281"/>
+<area shape="rect" id="node2" href="$classSettingsSerializer.html#a2735e383a3ad5a17e444b895d7d7c76f" title=" " alt="" coords="255,5,391,47"/>
+<area shape="rect" id="node3" href="$classSettingsSerializer.html#af982be2a95ab2857fa38c1f02594052b" title=" " alt="" coords="480,35,616,76"/>
+<area shape="rect" id="node4" href="$classSettingsSerializer.html#affd2a8a654f5a79a5937b108a9574669" title=" " alt="" coords="255,123,391,164"/>
+<area shape="rect" id="node5" href="$classSettingsSerializer.html#a3402c04efc6d12f238a3d5f949540bc5" title=" " alt="" coords="255,188,391,229"/>
+<area shape="rect" id="node6" href="$classSettings.html#a20043d9e2168266b84dd45e90a932a6a" title=" " alt="" coords="224,254,423,281"/>
+<area shape="rect" id="node7" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="230,305,417,331"/>
+<area shape="rect" id="node8" href="$classSettingsSerializer.html#a8410152c874cb74459a793b8c57af37d" title="Saves the current settings back to file." alt="" coords="255,356,391,397"/>
+<area shape="rect" id="node12" href="$classSettingsSerializer.html#a191f0f05452eaa7fe9edcaf80011a97a" title=" " alt="" coords="255,421,391,463"/>
+<area shape="rect" id="node13" href="$classSettingsSerializer.html#a03002eb33a14184949a0863af4d02cef" title=" " alt="" coords="255,487,391,528"/>
+<area shape="rect" id="node9" href="$classToxEncrypt.html#a7894da86f4ee966c5d4da2d1dcd84797" title="Encrypts the plaintext with the stored key." alt="" coords="473,313,623,339"/>
+<area shape="rect" id="node10" href="$serialize_8cpp.html#a0ee8d15e984b44eb70752570bac9e5d4" title=" " alt="" coords="502,363,594,390"/>
+<area shape="rect" id="node11" href="$classSettingsSerializer.html#a5941a4100e1e38ad3e9045541cfbb856" title=" " alt="" coords="471,415,625,456"/>
+<area shape="rect" id="node14" href="$classSettingsSerializer.html#a4940131ba6bd836337369fce04c3616f" title=" " alt="" coords="673,509,809,551"/>
+<area shape="rect" id="node15" href="$classSettingsSerializer.html#ab1b69f2c9ac9c436ec32d26de469c5a9" title=" " alt="" coords="480,539,616,580"/>
+</map>

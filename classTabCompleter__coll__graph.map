@@ -1,0 +1,12 @@
+<map id="TabCompleter" name="TabCompleter">
+<area shape="rect" id="node1" title=" " alt="" coords="349,1013,523,1193"/>
+<area shape="rect" id="node2" title=" " alt="" coords="7,108,81,185"/>
+<area shape="rect" id="node6" href="$classContact.html" title=" " alt="" coords="42,374,214,539"/>
+<area shape="rect" id="node3" href="$classChatTextEdit.html" title=" " alt="" coords="636,712,788,877"/>
+<area shape="rect" id="node4" title=" " alt="" coords="762,418,846,495"/>
+<area shape="rect" id="node5" href="$classGroup.html" title=" " alt="" coords="351,639,521,951"/>
+<area shape="rect" id="node7" href="$classICoreGroupQuery.html" title=" " alt="" coords="239,337,433,576"/>
+<area shape="rect" id="node8" href="$classICoreIdHandler.html" title=" " alt="" coords="458,359,614,554"/>
+<area shape="rect" id="node9" href="$classGroupId.html" title="This class represents a long term persistent group identifier." alt="" coords="639,389,737,525"/>
+<area shape="rect" id="node10" href="$classContactId.html" title=" " alt="" coords="621,5,755,288"/>
+</map>

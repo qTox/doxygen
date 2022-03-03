@@ -1,0 +1,12 @@
+<map id="ContentDialog::updateTitleAndStatusIcon" name="ContentDialog::updateTitleAndStatusIcon">
+<area shape="rect" id="node1" title="Update window title and icon." alt="" coords="5,129,203,171"/>
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html#a37dd36e6b22360eefcf9b25d6f1d2cf9" title=" " alt="" coords="251,5,433,47"/>
+<area shape="rect" id="node3" href="$classGenericChatroomWidget.html#af25cbf78d0498dbeecbefbae3dad440e" title=" " alt="" coords="251,71,433,112"/>
+<area shape="rect" id="node4" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title=" " alt="" coords="269,137,415,163"/>
+<area shape="rect" id="node6" href="$classFriend.html#af29d8af5f6d6dc1c9e2c7117bf4efc5c" title=" " alt="" coords="276,187,408,214"/>
+<area shape="rect" id="node7" href="$classGenericChatroomWidget.html#ae9d1639db904e894460f8184fff5480b" title=" " alt="" coords="251,239,433,280"/>
+<area shape="rect" id="node5" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title=" " alt="" coords="490,137,655,163"/>
+<area shape="rect" id="node8" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="483,213,662,255"/>
+<area shape="rect" id="node10" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title=" " alt="" coords="481,279,664,320"/>
+<area shape="rect" id="node9" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="712,221,883,247"/>
+</map>

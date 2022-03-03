@@ -1,0 +1,4 @@
+<map id="VideoFrame::isValid" name="VideoFrame::isValid">
+<area shape="rect" id="node1" title="Returns the validity of this VideoFrame." alt="" coords="260,5,411,32"/>
+<area shape="rect" id="node2" href="$structToxYUVFrame.html#a4db69bde8a469ed04708b1959280302a" title="Checks if the given ToxYUVFrame is valid or not, delegates to isValid()." alt="" coords="5,5,212,32"/>
+</map>

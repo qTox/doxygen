@@ -1,0 +1,10 @@
+<map id="GroupMessageDispatcher::onMessageReceived" name="GroupMessageDispatcher::onMessageReceived">
+<area shape="rect" id="node1" title="Processes and dispatches received message from toxcore." alt="" coords="5,78,195,119"/>
+<area shape="rect" id="node2" href="$classIGroupSettings.html#afb7ab1450a73506229ebe41adea29571" title=" " alt="" coords="257,5,464,32"/>
+<area shape="rect" id="node3" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title=" " alt="" coords="243,56,479,83"/>
+<area shape="rect" id="node4" href="$classMessageProcessor.html#a9f7e000600663929230c4c38e6dae9cb" title="Converts an incoming message into a sanitized Message." alt="" coords="260,107,461,149"/>
+<area shape="rect" id="node8" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="289,173,432,200"/>
+<area shape="rect" id="node5" href="$classMessageProcessor_1_1SharedParams.html#aa6d722f01c57b6a4915b464901371a69" title=" " alt="" coords="554,42,750,83"/>
+<area shape="rect" id="node6" href="$classMessageProcessor_1_1SharedParams.html#aee1f2575ed46aee502cb752b09419321" title=" " alt="" coords="545,107,759,149"/>
+<area shape="rect" id="node7" href="$classMessageProcessor_1_1SharedParams.html#ad05190a3aa9607eec77cb2859bd22d25" title=" " alt="" coords="527,173,777,214"/>
+</map>

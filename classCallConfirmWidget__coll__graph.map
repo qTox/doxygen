@@ -1,0 +1,4 @@
+<map id="CallConfirmWidget" name="CallConfirmWidget">
+<area shape="rect" id="node1" title="This is a widget with dialog buttons to accept/reject a call." alt="" coords="5,131,175,413"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,129,83"/>
+</map>

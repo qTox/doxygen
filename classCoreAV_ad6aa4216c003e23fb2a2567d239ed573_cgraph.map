@@ -1,0 +1,12 @@
+<map id="CoreAV::connectCallbacks" name="CoreAV::connectCallbacks">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,196,159"/>
+<area shape="rect" id="node2" href="$classCoreAV.html#a5ffd68827c233398de18e9bb97a6224d" title=" " alt="" coords="244,5,456,32"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#ab808429e714fa181e9191dcc42611dc5" title=" " alt="" coords="245,56,455,83"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#aa35cb6ba40f996fa8080da51d9e3306c" title=" " alt="" coords="273,107,427,133"/>
+<area shape="rect" id="node7" href="$classCoreAV.html#a7e1df21d4ab194a847548b2e5933a63e" title=" " alt="" coords="267,157,433,184"/>
+<area shape="rect" id="node8" href="$classCoreAV.html#af2e8b8565b9728ebc4eba772c2e167b5" title=" " alt="" coords="244,208,456,235"/>
+<area shape="rect" id="node9" href="$classCoreAV.html#a8b9fc6cf0fa6f37e622fb43546d6db50" title=" " alt="" coords="245,259,455,285"/>
+<area shape="rect" id="node4" href="$classToxCall.html#afe739132122c57d8bb85805484881b72" title=" " alt="" coords="535,27,686,53"/>
+<area shape="rect" id="node5" href="$classToxFriendCall.html#ae164eb88e13cd41fd27c50e6412156e2" title=" " alt="" coords="519,78,702,119"/>
+<area shape="rect" id="node10" href="$classCoreVideoSource.html#a874b46673e90beded7bfd7b33ad04975" title="Makes a copy of the vpx_image_t and emits it as a new VideoFrame." alt="" coords="504,259,717,285"/>
+</map>

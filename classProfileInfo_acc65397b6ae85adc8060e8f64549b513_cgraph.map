@@ -1,0 +1,9 @@
+<map id="ProfileInfo::logout" name="ProfileInfo::logout">
+<area shape="rect" id="node1" title="Log out from current profile." alt="" coords="5,56,143,83"/>
+<area shape="rect" id="node2" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="195,5,342,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="409,56,567,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings." alt="" coords="191,107,347,133"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="629,56,765,83"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="395,107,581,133"/>
+<area shape="rect" id="node7" href="$classPaths.html#aa725df5b53daf07d37eff48f0cf3b000" title="Check if qTox is running in portable mode." alt="" coords="423,157,553,184"/>
+</map>

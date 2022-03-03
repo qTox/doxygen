@@ -1,0 +1,11 @@
+<map id="ContentDialog::updateFriendWidget" name="ContentDialog::updateFriendWidget">
+<area shape="rect" id="node1" title="Update friend widget name and position." alt="" coords="5,96,213,137"/>
+<area shape="rect" id="node2" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title=" " alt="" coords="261,37,463,79"/>
+<area shape="rect" id="node8" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="283,103,441,130"/>
+<area shape="rect" id="node9" href="$classFriend.html#af29d8af5f6d6dc1c9e2c7117bf4efc5c" title=" " alt="" coords="296,154,428,181"/>
+<area shape="rect" id="node3" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title=" " alt="" coords="511,5,687,47"/>
+<area shape="rect" id="node7" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title=" " alt="" coords="511,71,687,112"/>
+<area shape="rect" id="node4" href="$classGenericChatItemLayout.html#a7d376aa70cbcbe9d8a647379724f656c" title=" " alt="" coords="735,39,952,80"/>
+<area shape="rect" id="node5" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="1000,39,1179,80"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="1227,46,1397,73"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GUI::setWindowTitle" name="GUI::setWindowTitle">
+<area shape="rect" id="node1" title="Change the title of the main window." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$classGUI.html#a79a9c847005f9008aa757fc0b462cbe6" title=" " alt="" coords="208,5,371,32"/>
+<area shape="rect" id="node6" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="224,56,355,83"/>
+<area shape="rect" id="node3" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="419,5,572,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="620,5,791,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="839,5,985,32"/>
+</map>

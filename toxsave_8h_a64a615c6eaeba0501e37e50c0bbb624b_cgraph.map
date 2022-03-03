@@ -1,0 +1,13 @@
+<map id="toxSaveEventHandler" name="toxSaveEventHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,168,108"/>
+<area shape="rect" id="node2" href="$toxsave_8cpp.html#a85b45d571c0823f0ca48c6fe7a6485e2" title="Import new profile." alt="" coords="216,81,336,108"/>
+<area shape="rect" id="node3" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="413,31,566,57"/>
+<area shape="rect" id="node6" href="$classProfileImporter.html#a496a2b3130d477be2426ed1182895cd8" title="Try to import Tox profile." alt="" coords="384,107,595,133"/>
+<area shape="rect" id="node4" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="661,5,832,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="899,5,1045,32"/>
+<area shape="rect" id="node7" href="$classProfileImporter.html#ad5eb563ac79a45600f5737019a222507" title="Asks the user a question with Yes/No choices." alt="" coords="643,56,851,83"/>
+<area shape="rect" id="node8" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="667,107,826,133"/>
+<area shape="rect" id="node10" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title=" " alt="" coords="677,157,816,184"/>
+<area shape="rect" id="node11" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="653,208,840,235"/>
+<area shape="rect" id="node9" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="904,107,1040,133"/>
+</map>

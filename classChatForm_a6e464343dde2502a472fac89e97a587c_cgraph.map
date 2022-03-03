@@ -1,0 +1,8 @@
+<map id="ChatForm::sendImageFromPreview" name="ChatForm::sendImageFromPreview">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,256,108"/>
+<area shape="rect" id="node2" href="$classCore.html#a1c9a5d16e33c55c91935033146757c9d" title=" " alt="" coords="316,5,451,32"/>
+<area shape="rect" id="node3" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title=" " alt="" coords="332,56,435,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="304,107,463,133"/>
+<area shape="rect" id="node6" href="$classCoreFile.html#a5fb9ee55a3b897ce59e92231801b8a00" title=" " alt="" coords="315,157,452,184"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="511,107,647,133"/>
+</map>

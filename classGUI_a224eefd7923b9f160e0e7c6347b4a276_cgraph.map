@@ -1,0 +1,4 @@
+<map id="GUI::reloadTheme" name="GUI::reloadTheme">
+<area shape="rect" id="node1" title="Reloads the application theme and redraw the window." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node2" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="193,5,324,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GroupChatForm::joinGroupCall" name="GroupChatForm::joinGroupCall">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,225,57"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="307,5,404,32"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#ad6d6fdf66bd3e4bdc14b429a7e667ddc" title="Starts a call in an existing AV groupchat." alt="" coords="273,56,437,83"/>
+<area shape="rect" id="node4" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title=" " alt="" coords="485,56,588,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SearchExtraFunctions::generateFilterWordsOnly" name="SearchExtraFunctions::generateFilterWordsOnly">
+<area shape="rect" id="node1" title="generateFilterWordsOnly generate string for filter &quot;Whole words only&quot; for correct search phrase conta..." alt="" coords="512,5,703,47"/>
+<area shape="rect" id="node2" href="$classHistory.html#ad104cfe24475f8a6ee23641d8c8fe8ac" title="Search phrase in chat messages." alt="" coords="267,5,464,47"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="5,13,219,39"/>
+</map>

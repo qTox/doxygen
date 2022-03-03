@@ -1,0 +1,6 @@
+<map id="GenericChatForm" name="GenericChatForm">
+<area shape="rect" id="node1" title="Parent class for all chatforms. It&#39;s provide the minimum required UI elements and methods to work wit..." alt="" coords="130,131,379,839"/>
+<area shape="rect" id="node3" href="$classChatForm.html" title=" " alt="" coords="5,887,240,1741"/>
+<area shape="rect" id="node4" href="$classGroupChatForm.html" title=" " alt="" coords="264,1063,512,1565"/>
+<area shape="rect" id="node2" title=" " alt="" coords="215,5,294,83"/>
+</map>

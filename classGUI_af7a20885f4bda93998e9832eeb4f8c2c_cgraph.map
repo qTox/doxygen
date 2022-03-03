@@ -1,0 +1,8 @@
+<map id="GUI::showError" name="GUI::showError">
+<area shape="rect" id="node1" title="Show an error to the user." alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$classGUI.html#a1feecde036a99e13477c786560ee641b" title=" " alt="" coords="174,5,301,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="552,31,723,57"/>
+<area shape="rect" id="node6" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="172,107,303,133"/>
+<area shape="rect" id="node3" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="351,5,504,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="771,31,917,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CameraSource::unsubscribe" name="CameraSource::unsubscribe">
+<area shape="rect" id="node1" title="Stop emitting frameAvailable signals, and free associated resources if necessary." alt="" coords="188,5,391,32"/>
+<area shape="rect" id="node2" href="$classToxCall.html#a685d97fbfb82dd715a6b40f25610b583" title=" " alt="" coords="5,5,140,32"/>
+</map>

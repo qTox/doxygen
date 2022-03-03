@@ -1,0 +1,9 @@
+<map id="ScreenGrabberOverlayItem" name="ScreenGrabberOverlayItem">
+<area shape="rect" id="node1" title=" " alt="" coords="5,330,240,466"/>
+<area shape="rect" id="node4" href="$classScreenshotGrabber.html" title=" " alt="" coords="170,727,385,1156"/>
+<area shape="rect" id="node2" title=" " alt="" coords="261,5,336,83"/>
+<area shape="rect" id="node5" href="$classToolBoxGraphicsItem.html" title=" " alt="" coords="315,293,511,503"/>
+<area shape="rect" id="node7" href="$classScreenGrabberChooserRectItem.html" title=" " alt="" coords="536,132,803,664"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,5,197,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="453,5,611,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="VideoFrame::retrieveAVFrame" name="VideoFrame::retrieveAVFrame">
+<area shape="rect" id="node1" title="Retrieves an AVFrame derived from the source based on the given parameters without obtaining a lock." alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#a4235dc6d52f3cb7e12032b4e5c5c90ab" title="Generates a key object based on given parameters." alt="" coords="271,5,465,32"/>
+</map>

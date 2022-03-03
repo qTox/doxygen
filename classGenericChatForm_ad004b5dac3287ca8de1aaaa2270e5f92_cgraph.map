@@ -1,0 +1,6 @@
+<map id="GenericChatForm::onEmoteButtonClicked" name="GenericChatForm::onEmoteButtonClicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,207,98"/>
+<area shape="rect" id="node2" href="$classSmileyPack.html#a7f77017891a40454236a7d84c6b34d71" title="Returns the singleton instance." alt="" coords="265,5,446,32"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#a84d79fc8174b02deddb27ce86d5ad537" title=" " alt="" coords="255,57,456,98"/>
+<area shape="rect" id="node4" href="$classEmoticonsWidget.html#ae450750ce60183bfb83e85a1439855d7" title=" " alt="" coords="257,123,454,149"/>
+</map>

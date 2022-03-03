@@ -1,0 +1,9 @@
+<map id="FriendMessageDispatcher::sendCoreProcessedMessage" name="FriendMessageDispatcher::sendCoreProcessedMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,220,171"/>
+<area shape="rect" id="node2" href="$classOfflineMsgEngine.html#a9171cb6cacf4a5f0ae20421fa7a3cfbf" title="Add a message which has been saved to history, and which has been sent to the peer." alt="" coords="277,5,474,47"/>
+<area shape="rect" id="node4" href="$classOfflineMsgEngine.html#ac9e1ea7985d1de02d21cbb70497a502b" title="Add a message which has been saved to history, but not sent yet to the peer." alt="" coords="268,71,483,112"/>
+<area shape="rect" id="node5" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title=" " alt="" coords="324,137,427,163"/>
+<area shape="rect" id="node6" href="$classICoreFriendMessageSender.html#a419e9ae92425e4695a8c7b76f7f3dd28" title=" " alt="" coords="276,188,475,229"/>
+<area shape="rect" id="node7" href="$classICoreFriendMessageSender.html#a954e938aa1e3bb0173689093e8e37f50" title=" " alt="" coords="276,253,475,295"/>
+<area shape="rect" id="node3" href="$classOfflineMsgEngine_1_1ReceiptResolver.html#acfe8e72e34a9165682389130fb394f96" title=" " alt="" coords="531,5,741,47"/>
+</map>

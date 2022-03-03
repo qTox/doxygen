@@ -1,0 +1,8 @@
+<map id="Nexus::setSettings" name="Nexus::setSettings">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,149,83"/>
+<area shape="rect" id="node2" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings." alt="" coords="197,56,353,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="415,5,574,32"/>
+<area shape="rect" id="node5" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="401,56,588,83"/>
+<area shape="rect" id="node6" href="$classPaths.html#aa725df5b53daf07d37eff48f0cf3b000" title="Check if qTox is running in portable mode." alt="" coords="429,107,560,133"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="636,5,772,32"/>
+</map>

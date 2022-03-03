@@ -1,0 +1,5 @@
+<map id="Widget::getUsername" name="Widget::getUsername">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node2" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure." alt="" coords="217,5,365,32"/>
+<area shape="rect" id="node3" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="413,5,572,32"/>
+</map>

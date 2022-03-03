@@ -1,0 +1,4 @@
+<map id="SmileyPack::smileyfied" name="SmileyPack::smileyfied">
+<area shape="rect" id="node1" title="Replaces all found text emoticons to HTML reference with its according icon filename." alt="" coords="5,5,179,32"/>
+<area shape="rect" id="node2" href="$smileypack_8cpp.html#a95863010346c26af165dcaf76771afb4" title="Wraps passed string into smiley HTML image reference." alt="" coords="227,5,341,32"/>
+</map>

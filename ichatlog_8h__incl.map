@@ -1,0 +1,52 @@
+<map id="src/model/ichatlog.h" name="src/model/ichatlog.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2364,5,2519,32"/>
+<area shape="rect" id="node2" href="$message_8h.html" title=" " alt="" coords="2877,155,2971,181"/>
+<area shape="rect" id="node16" href="$core_8h.html" title=" " alt="" coords="1303,155,1420,181"/>
+<area shape="rect" id="node22" title=" " alt="" coords="43,379,173,405"/>
+<area shape="rect" id="node25" href="$toxpk_8h.html" title=" " alt="" coords="1823,379,1894,405"/>
+<area shape="rect" id="node29" href="$toxfile_8h.html" title=" " alt="" coords="3649,229,3724,256"/>
+<area shape="rect" id="node40" href="$friendlist_8h.html" title=" " alt="" coords="7,453,121,480"/>
+<area shape="rect" id="node41" href="$grouplist_8h.html" title=" " alt="" coords="1279,80,1393,107"/>
+<area shape="rect" id="node42" href="$chatlogitem_8h.html" title=" " alt="" coords="3278,80,3458,107"/>
+<area shape="rect" id="node43" href="$systemmessage_8h.html" title=" " alt="" coords="3263,229,3473,256"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3956,229,4025,256"/>
+<area shape="rect" id="node46" href="$searchtypes_8h.html" title=" " alt="" coords="3748,229,3932,256"/>
+<area shape="rect" id="node48" href="$friend_8h.html" title=" " alt="" coords="2371,80,2511,107"/>
+<area shape="rect" id="node50" href="$group_8h.html" title=" " alt="" coords="1956,155,2095,181"/>
+<area shape="rect" id="node3" href="$coreext_8h.html" title=" " alt="" coords="2769,229,2908,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2347,528,2418,555"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3095,379,3191,405"/>
+<area shape="rect" id="node13" href="$extension_8h.html" title=" " alt="" coords="2933,229,3086,256"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3519,304,3673,331"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2682,229,2745,256"/>
+<area shape="rect" id="node4" href="$status_8h.html" title=" " alt="" coords="2471,304,2614,331"/>
+<area shape="rect" id="node6" href="$icoreextpacket_8h.html" title=" " alt="" coords="2775,304,2905,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2865,528,2943,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2271,304,2345,331"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2690,304,2750,331"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2980,304,3039,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1344,528,1411,555"/>
+<area shape="rect" id="node17" href="$groupid_8h.html" title=" " alt="" coords="1429,304,1512,331"/>
+<area shape="rect" id="node20" href="$icorefriendmessagesender_8h.html" title=" " alt="" coords="195,229,402,256"/>
+<area shape="rect" id="node21" href="$receiptnum_8h.html" title=" " alt="" coords="195,304,303,331"/>
+<area shape="rect" id="node23" href="$icoregroupmessagesender_8h.html" title=" " alt="" coords="1541,453,1747,480"/>
+<area shape="rect" id="node24" href="$icoregroupquery_8h.html" title=" " alt="" coords="1753,229,1892,256"/>
+<area shape="rect" id="node27" href="$icoreidhandler_8h.html" title=" " alt="" coords="1551,229,1678,256"/>
+<area shape="rect" id="node28" href="$toxid_8h.html" title=" " alt="" coords="1288,304,1355,331"/>
+<area shape="rect" id="node34" title=" " alt="" coords="836,229,1071,256"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1095,229,1175,256"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1199,229,1273,256"/>
+<area shape="rect" id="node37" title=" " alt="" coords="528,229,605,256"/>
+<area shape="rect" id="node38" title=" " alt="" coords="630,229,701,256"/>
+<area shape="rect" id="node39" title=" " alt="" coords="725,229,811,256"/>
+<area shape="rect" id="node18" href="$contactid_8h.html" title=" " alt="" coords="2007,453,2156,480"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1811,528,1909,555"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1900,304,1993,331"/>
+<area shape="rect" id="node30" href="$toxfilepause_8h.html" title=" " alt="" coords="3697,304,3866,331"/>
+<area shape="rect" id="node31" href="$toxfileprogress_8h.html" title=" " alt="" coords="4071,304,4257,331"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3890,304,4046,331"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3828,379,3884,405"/>
+<area shape="rect" id="node44" href="$history_8h.html" title=" " alt="" coords="3421,155,3600,181"/>
+<area shape="rect" id="node47" title=" " alt="" coords="4333,304,4395,331"/>
+<area shape="rect" id="node49" href="$contact_8h.html" title=" " alt="" coords="2169,229,2252,256"/>
+</map>

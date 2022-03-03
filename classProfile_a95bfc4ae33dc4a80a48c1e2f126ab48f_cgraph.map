@@ -1,0 +1,52 @@
+<map id="Profile::initCore" name="Profile::initCore">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1029,128,1056"/>
+<area shape="rect" id="node2" href="$classSettings.html#aec7ace9d812dde426adee179f00f1650" title=" " alt="" coords="216,81,357,108"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#ad63a6303207bd8427c151f8287ff4620" title="Factory method for CoreAV." alt="" coords="207,629,366,656"/>
+<area shape="rect" id="node7" href="$classCore.html#a220ff4991251c28a07de68fb74337bf3" title="Factory method for the Core object." alt="" coords="213,680,361,707"/>
+<area shape="rect" id="node39" href="$classProfile.html#adc15e1b472bd9f17ccd33dc625d6731a" title=" " alt="" coords="176,1029,397,1056"/>
+<area shape="rect" id="node41" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed." alt="" coords="200,1080,373,1107"/>
+<area shape="rect" id="node43" href="$classProfile.html#af01e3e49a97be92568755153c3e36086" title="Removes a cached avatar." alt="" coords="205,1281,368,1308"/>
+<area shape="rect" id="node50" href="$classProfile.html#abb03726ee7fbcb1feec31dd802128be3" title="Sets a friends avatar." alt="" coords="476,1371,649,1397"/>
+<area shape="rect" id="node3" href="$classSettings.html#aa0eba5b3bd1aa54c52a95e950f587b5a" title=" " alt="" coords="477,5,648,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#a1fedabbce788fe1a4f29362a90567be6" title=" " alt="" coords="479,56,646,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a733ea826935339156196917570941db5" title=" " alt="" coords="477,107,648,133"/>
+<area shape="rect" id="node8" href="$classCore.html#aa20a1c6129e6eaefe514c944b0619214" title=" " alt="" coords="517,629,608,656"/>
+<area shape="rect" id="node9" href="$classCoreExt.html#a2de8fc4ad9545320ce52b61c2853ee98" title="Creates a CoreExt instance. Using a pointer here makes our registrations with extensions significantl..." alt="" coords="479,680,647,707"/>
+<area shape="rect" id="node11" href="$classCoreFile.html#ae30c434b314a5985034aff0db9a6c6c1" title=" " alt="" coords="477,731,649,757"/>
+<area shape="rect" id="node14" href="$classToxOptions.html#ab07b1e032d1937f04aeb0a5499a0b427" title="Initializes a ToxOptions instance." alt="" coords="457,979,668,1005"/>
+<area shape="rect" id="node23" href="$classCoreExt.html#acae2e09f69e9beafa892160e99116389" title=" " alt="" coords="445,157,680,184"/>
+<area shape="rect" id="node24" href="$classCore.html#ae4d185eaa869d82d63754e446ea45c73" title=" " alt="" coords="501,208,624,235"/>
+<area shape="rect" id="node31" href="$classCore.html#a260257ad4ee098aa767a739bdf0e724a" title="Registers all toxcore callbacks." alt="" coords="476,491,649,517"/>
+<area shape="rect" id="node10" href="$classCoreExt.html#a8c3369486af842a66e982838455ceead" title=" " alt="" coords="769,680,901,707"/>
+<area shape="rect" id="node12" href="$classCoreFile.html#aa07ee3f2702d6eb53b1372e4624c2f73" title=" " alt="" coords="736,731,933,757"/>
+<area shape="rect" id="node13" href="$classCoreFile.html#aba46f6c4341bbf61ff8671e7bf977c80" title=" " alt="" coords="728,782,941,823"/>
+<area shape="rect" id="node15" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title=" " alt="" coords="729,949,940,976"/>
+<area shape="rect" id="node16" href="$classICoreSettings.html#a370b35682a55e80c5a033a65ff0a3e0d" title=" " alt="" coords="743,1001,926,1042"/>
+<area shape="rect" id="node17" href="$classICoreSettings.html#ae3be8c5ffd7e7777142952eadecd12e6" title=" " alt="" coords="736,1067,933,1093"/>
+<area shape="rect" id="node18" href="$classICoreSettings.html#a61b2800beea354c12ca78b3a9166bb91" title=" " alt="" coords="732,1117,937,1144"/>
+<area shape="rect" id="node19" href="$classICoreSettings.html#a52955361edce3ec22eb4e5ba384cdce1" title=" " alt="" coords="734,1168,935,1195"/>
+<area shape="rect" id="node20" href="$classICoreSettings.html#aea0a9da8ef5a7eedd726bf60c77f6222" title=" " alt="" coords="732,1219,937,1245"/>
+<area shape="rect" id="node21" href="$namespaceToxLogger.html#ac1be6782376727c4d9898bbd9b4867db" title="Log message handler for toxcore log messages." alt="" coords="738,848,931,875"/>
+<area shape="rect" id="node22" href="$classToxOptions.html#a6f45560eb1ddbecdb2fd19363526365b" title=" " alt="" coords="747,899,922,925"/>
+<area shape="rect" id="node25" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID." alt="" coords="775,107,894,133"/>
+<area shape="rect" id="node26" href="$classCore.html#a2d27726816838d9ba4d95000c305c125" title="Returns our status message, or an empty string on failure." alt="" coords="745,157,925,184"/>
+<area shape="rect" id="node27" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure." alt="" coords="761,208,909,235"/>
+<area shape="rect" id="node28" href="$classCore.html#ade915e7fc09d358c175f4ee3c9d84f5b" title=" " alt="" coords="767,259,902,285"/>
+<area shape="rect" id="node29" href="$classCore.html#ad1ebcac9f4ea64560d076f011b0b386e" title=" " alt="" coords="767,5,902,32"/>
+<area shape="rect" id="node30" href="$classCore.html#ae16fbf434051c93fc709ddf1eda16ef0" title="Processes toxcore events and ensure we stay connected, called by its own timer." alt="" coords="779,56,890,83"/>
+<area shape="rect" id="node32" href="$classCore.html#ab1c0a082ae5a7cf030821a993a2e8e40" title=" " alt="" coords="739,513,930,554"/>
+<area shape="rect" id="node33" href="$classCore.html#a25aa9e0881363f63c92ba5f4ea7a4d98" title=" " alt="" coords="747,579,922,605"/>
+<area shape="rect" id="node34" href="$classCore.html#a0e13a83d93f19d3d84f0fd85b73e0317" title=" " alt="" coords="733,629,937,656"/>
+<area shape="rect" id="node35" href="$classCore.html#a9b7936862fd6d459e7a003498b6d3ee1" title=" " alt="" coords="750,309,919,336"/>
+<area shape="rect" id="node36" href="$classCore.html#a724d51a4f7b081af18e48c292f8d4aa7" title=" " alt="" coords="731,360,938,387"/>
+<area shape="rect" id="node37" href="$classCore.html#ac3b77f0e4a52c97ec921638b114dc62b" title=" " alt="" coords="759,411,911,437"/>
+<area shape="rect" id="node38" href="$classCore.html#ab4aee8083989d410925c1f7b4930294d" title=" " alt="" coords="748,461,921,488"/>
+<area shape="rect" id="node40" href="$classProfile.html#a09f38019e3f7a49ca8ab402d29b2a87a" title="Get the tox hash of a cached avatar." alt="" coords="479,1029,646,1056"/>
+<area shape="rect" id="node42" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed." alt="" coords="485,1080,641,1107"/>
+<area shape="rect" id="node44" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID." alt="" coords="989,1320,1131,1347"/>
+<area shape="rect" id="node45" href="$classProfile.html#aca1cdaef5152d76b2e3d2197f8132ab3" title="Sets our own avatar." alt="" coords="496,1320,629,1347"/>
+<area shape="rect" id="node46" href="$classContactId.html#abe47af4a3da3b4bfc53bc5a2ffa7d325" title="Get a copy of the id." alt="" coords="745,1320,924,1347"/>
+<area shape="rect" id="node47" href="$classSettings.html#a3510bf2203562e98bd176d90af1ce0c0" title=" " alt="" coords="731,1421,938,1448"/>
+<area shape="rect" id="node48" href="$classProfile.html#a4f48c9d37cb135b1cec9a25a1f996ce0" title="Save an avatar to cache." alt="" coords="763,1371,907,1397"/>
+<area shape="rect" id="node49" href="$classIdenticon.html#a8d41fd2b77b0077ffcbca7062c6a7dd7" title="Writes the Identicon to a QImage." alt="" coords="763,1472,907,1499"/>
+</map>

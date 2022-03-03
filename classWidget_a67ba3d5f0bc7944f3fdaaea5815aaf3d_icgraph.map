@@ -1,0 +1,11 @@
+<map id="Widget::forceShow" name="Widget::forceShow">
+<area shape="rect" id="node1" title=" " alt="" coords="1439,56,1583,83"/>
+<area shape="rect" id="node2" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title=" " alt="" coords="804,31,901,57"/>
+<area shape="rect" id="node7" href="$classWidget.html#aa682f80bf47b077a97e3913a634e3dfc" title=" " alt="" coords="1223,56,1373,83"/>
+<area shape="rect" id="node9" href="$widget_8h.html#a62d9e91a2c2057b60e8832bcedf84cb4" title=" " alt="" coords="1205,107,1391,133"/>
+<area shape="rect" id="node3" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title=" " alt="" coords="595,5,756,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin." alt="" coords="445,5,547,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title=" " alt="" coords="193,5,397,32"/>
+<area shape="rect" id="node6" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node8" href="$classWidget.html#a72d7e074ec7e64460e29485d76c71412" title=" " alt="" coords="949,56,1157,83"/>
+</map>

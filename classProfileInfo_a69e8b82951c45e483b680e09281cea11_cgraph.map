@@ -1,0 +1,8 @@
+<map id="ProfileInfo::setUsername" name="ProfileInfo::setUsername">
+<area shape="rect" id="node1" title="Set self user name." alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node2" href="$classCore.html#a7327032669eb2f2a70f15d8b2ed1f201" title=" " alt="" coords="236,56,383,83"/>
+<area shape="rect" id="node3" href="$classToxString.html#a36946ec31793baf06869c7dc583b79a0" title="Returns a pointer to the beginning of the string data." alt="" coords="445,5,564,32"/>
+<area shape="rect" id="node4" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure." alt="" coords="431,56,579,83"/>
+<area shape="rect" id="node6" href="$classToxString.html#a4462cbd7558af2d4f66eb8ec32464dfd" title="Get the number of bytes in the string." alt="" coords="447,107,563,133"/>
+<area shape="rect" id="node5" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="627,56,785,83"/>
+</map>

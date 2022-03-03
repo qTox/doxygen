@@ -1,0 +1,52 @@
+<map id="src/widget/tool/profileimporter.cpp" name="src/widget/tool/profileimporter.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="347,5,592,32"/>
+<area shape="rect" id="node2" href="$profileimporter_8h.html" title=" " alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="161,80,266,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="290,80,387,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="412,80,527,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="551,80,657,107"/>
+<area shape="rect" id="node8" href="$core_8h.html" title=" " alt="" coords="3535,80,3652,107"/>
+<area shape="rect" id="node38" href="$settings_8h.html" title=" " alt="" coords="2062,304,2250,331"/>
+<area shape="rect" id="node3" title=" " alt="" coords="31,155,110,181"/>
+<area shape="rect" id="node9" href="$groupid_8h.html" title=" " alt="" coords="4199,304,4281,331"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3693,453,3771,480"/>
+<area shape="rect" id="node16" href="$icorefriendmessagesender_8h.html" title=" " alt="" coords="4275,155,4482,181"/>
+<area shape="rect" id="node17" href="$receiptnum_8h.html" title=" " alt="" coords="4466,229,4574,256"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4578,304,4707,331"/>
+<area shape="rect" id="node20" href="$icoregroupmessagesender_8h.html" title=" " alt="" coords="3263,229,3468,256"/>
+<area shape="rect" id="node21" href="$icoregroupquery_8h.html" title=" " alt="" coords="4016,229,4155,256"/>
+<area shape="rect" id="node22" href="$toxpk_8h.html" title=" " alt="" coords="4053,304,4123,331"/>
+<area shape="rect" id="node24" href="$icoreidhandler_8h.html" title=" " alt="" coords="3865,155,3991,181"/>
+<area shape="rect" id="node25" href="$toxid_8h.html" title=" " alt="" coords="3824,229,3891,256"/>
+<area shape="rect" id="node26" href="$toxfile_8h.html" title=" " alt="" coords="2515,379,2589,405"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3132,379,3367,405"/>
+<area shape="rect" id="node30" href="$status_8h.html" title=" " alt="" coords="3023,304,3166,331"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3401,155,3481,181"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2878,379,2951,405"/>
+<area shape="rect" id="node34" title=" " alt="" coords="900,453,975,480"/>
+<area shape="rect" id="node35" title=" " alt="" coords="3505,155,3583,181"/>
+<area shape="rect" id="node36" title=" " alt="" coords="3607,155,3678,181"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3702,155,3789,181"/>
+<area shape="rect" id="node10" href="$contactid_8h.html" title=" " alt="" coords="3828,379,3977,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3966,453,4063,480"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4235,453,4301,480"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3369,453,3439,480"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3833,453,3898,480"/>
+<area shape="rect" id="node19" title=" " alt="" coords="4407,304,4502,331"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1435,453,1528,480"/>
+<area shape="rect" id="node27" href="$toxfilepause_8h.html" title=" " alt="" coords="2647,453,2817,480"/>
+<area shape="rect" id="node28" href="$toxfileprogress_8h.html" title=" " alt="" coords="2436,453,2623,480"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2975,379,3057,405"/>
+<area shape="rect" id="node39" title=" " alt="" coords="733,379,899,405"/>
+<area shape="rect" id="node40" href="$icoresettings_8h.html" title=" " alt="" coords="2317,379,2491,405"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2242,453,2366,480"/>
+<area shape="rect" id="node42" href="$toxencrypt_8h.html" title=" " alt="" coords="3594,379,3753,405"/>
+<area shape="rect" id="node43" href="$paths_8h.html" title=" " alt="" coords="2070,379,2242,405"/>
+<area shape="rect" id="node44" href="$ifriendsettings_8h.html" title=" " alt="" coords="975,379,1206,405"/>
+<area shape="rect" id="node45" href="$igroupsettings_8h.html" title=" " alt="" coords="1231,379,1460,405"/>
+<area shape="rect" id="node46" href="$inotificationsettings_8h.html" title=" " alt="" coords="1485,379,1750,405"/>
+<area shape="rect" id="node47" href="$ivideosettings_8h.html" title=" " alt="" coords="2613,379,2803,405"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1775,379,1871,405"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1895,379,1961,405"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1986,379,2046,405"/>
+</map>

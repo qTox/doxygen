@@ -1,0 +1,6 @@
+<map id="Core::sendGroupMessageWithType" name="Core::sendGroupMessageWithType">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,253,83"/>
+<area shape="rect" id="node2" href="$classToxString.html#a36946ec31793baf06869c7dc583b79a0" title="Returns a pointer to the beginning of the string data." alt="" coords="339,5,458,32"/>
+<area shape="rect" id="node3" href="$classCore.html#aa2ddd3591e26ed2de3e145c3a2b71362" title=" " alt="" coords="301,56,496,83"/>
+<area shape="rect" id="node4" href="$classToxString.html#a4462cbd7558af2d4f66eb8ec32464dfd" title="Get the number of bytes in the string." alt="" coords="341,107,457,133"/>
+</map>

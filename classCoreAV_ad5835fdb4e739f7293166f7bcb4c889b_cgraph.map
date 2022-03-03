@@ -1,0 +1,6 @@
+<map id="CoreAV::toggleMuteCallInput" name="CoreAV::toggleMuteCallInput">
+<area shape="rect" id="node1" title="Toggles the mute state of the call&#39;s input (microphone)." alt="" coords="5,56,213,83"/>
+<area shape="rect" id="node2" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title=" " alt="" coords="287,5,390,32"/>
+<area shape="rect" id="node3" href="$classToxCall.html#a7805da0768292b771ca4f4b5de39582c" title=" " alt="" coords="261,56,416,83"/>
+<area shape="rect" id="node4" href="$classToxCall.html#a69b561163081984ebefd797b99eee2b4" title=" " alt="" coords="262,107,415,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ChatWidget::needsToHideName" name="ChatWidget::needsToHideName">
+<area shape="rect" id="node1" title="Determine if the name at the given idx needs to be hidden." alt="" coords="5,39,233,65"/>
+<area shape="rect" id="node2" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx." alt="" coords="335,13,435,40"/>
+<area shape="rect" id="node3" href="$classChatLogItem.html#a16a9a9036c937469a9399b957e5cfa6c" title=" " alt="" coords="281,64,489,91"/>
+<area shape="rect" id="node4" href="$classChatLogItem.html#ab95b7a16a809ae00d553dbcaea128bcd" title=" " alt="" coords="537,5,761,32"/>
+<area shape="rect" id="node5" href="$classChatLogItem.html#a3920bf552f66ac72be4b6ec8fe7947cd" title=" " alt="" coords="549,57,750,98"/>
+<area shape="rect" id="node6" href="$classChatLogItem.html#aa24088bbdb680c32b04e8f80fbaed94f" title=" " alt="" coords="549,122,750,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SessionChatLog::getDateIdxs" name="SessionChatLog::getDateIdxs">
+<area shape="rect" id="node1" title="Gets indexes for each new date starting at startDate." alt="" coords="239,5,451,32"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a7281d4a0fe8b2cbb4c7e973cf6550491" title="Gets indexes for each new date starting at startDate." alt="" coords="5,5,191,32"/>
+</map>

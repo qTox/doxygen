@@ -1,0 +1,7 @@
+<map id="Group::updateUsername" name="Group::updateUsername">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,187,83"/>
+<area shape="rect" id="node2" href="$classFriendList.html#a07754b90161c4b8bede6bc35c4fc1e7f" title=" " alt="" coords="235,56,437,83"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="504,5,661,32"/>
+<area shape="rect" id="node4" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="485,56,680,83"/>
+<area shape="rect" id="node5" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="511,107,654,133"/>
+</map>

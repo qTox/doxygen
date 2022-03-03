@@ -1,0 +1,14 @@
+<map id="Widget::onGroupPeerlistChanged" name="Widget::onGroupPeerlistChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,243,156"/>
+<area shape="rect" id="node2" href="$classGroupList.html#aaf9ef63d9f79b41f19356fa0e59255e7" title=" " alt="" coords="309,79,464,105"/>
+<area shape="rect" id="node3" href="$classGroupList.html#a5cc346e34869028d7dba289076efefcf" title=" " alt="" coords="319,129,455,156"/>
+<area shape="rect" id="node4" href="$classGroup.html#a47adacfcfe1b45201f80e5933fc41654" title=" " alt="" coords="291,180,483,207"/>
+<area shape="rect" id="node5" href="$classFriendList.html#a07754b90161c4b8bede6bc35c4fc1e7f" title=" " alt="" coords="547,56,750,83"/>
+<area shape="rect" id="node9" href="$classICoreGroupQuery.html#af69db7e64f6284cee765f973329f6435" title=" " alt="" coords="548,107,749,149"/>
+<area shape="rect" id="node10" href="$classICoreGroupQuery.html#a5c8f4ce8de04047b11042f833e096159" title=" " alt="" coords="548,173,749,214"/>
+<area shape="rect" id="node11" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title=" " alt="" coords="531,239,767,265"/>
+<area shape="rect" id="node12" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title=" " alt="" coords="541,289,756,316"/>
+<area shape="rect" id="node6" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="833,5,991,32"/>
+<area shape="rect" id="node7" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="815,56,1009,83"/>
+<area shape="rect" id="node8" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="841,107,983,133"/>
+</map>

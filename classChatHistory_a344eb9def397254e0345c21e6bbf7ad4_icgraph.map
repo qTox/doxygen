@@ -1,0 +1,5 @@
+<map id="ChatHistory::ensureIdxInSessionChatLog" name="ChatHistory::ensureIdxInSessionChatLog">
+<area shape="rect" id="node1" title="Forces the given index and all future indexes to be in the chatlog." alt="" coords="255,23,437,65"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a47c4d731377614a72939cf9aa6925ca9" title="Returns reference to item at idx." alt="" coords="47,5,165,32"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#ab2719a6a9cfa86eaa1907e4ee9d64674" title="searches forwards through the chat log until phrase is found according to parameter" alt="" coords="5,56,207,83"/>
+</map>

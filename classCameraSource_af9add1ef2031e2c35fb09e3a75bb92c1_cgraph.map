@@ -1,0 +1,11 @@
+<map id="CameraSource::setupDevice" name="CameraSource::setupDevice">
+<area shape="rect" id="node1" title="Change the device and mode." alt="" coords="5,81,212,108"/>
+<area shape="rect" id="node2" href="$classCameraSource.html#a3cbf9f978255ddaf522941d6603231f6" title="Closes the video device and stops streaming." alt="" coords="260,56,464,83"/>
+<area shape="rect" id="node5" href="$classCameraSource.html#a8feedbf91ec5c596003144d0cacd1807" title="Opens the video device and starts streaming." alt="" coords="261,107,463,133"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#a85adc6040ff8cf4d49009902a4eb309d" title="Closes the device. Never fails." alt="" coords="535,5,695,32"/>
+<area shape="rect" id="node4" href="$classVideoFrame.html#a979d1ff7ddbb8bc13a4a77143a433f7f" title="Untracks all the frames for the given VideoSource, releasing them if specified." alt="" coords="512,56,717,83"/>
+<area shape="rect" id="node6" href="$classCameraDevice.html#ada4c5ffa63328de35c7965818ffaaa4a" title="Opens a device." alt="" coords="535,107,694,133"/>
+<area shape="rect" id="node8" href="$classCameraSource.html#a64c38c6f510cf63da910f7095d4b276f" title="Blocking. Decodes video stream and emits new frames." alt="" coords="529,159,700,185"/>
+<area shape="rect" id="node7" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default." alt="" coords="765,97,960,138"/>
+<area shape="rect" id="node9" href="$classVideoFrame.html#a1bca3ccca0fe614db7474e748c263422" title="Causes the VideoFrame class to maintain an internal reference for the frame." alt="" coords="771,163,954,189"/>
+</map>

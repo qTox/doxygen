@@ -1,0 +1,5 @@
+<map id="Core::acceptFriendRequest" name="Core::acceptFriendRequest">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$classContactId.html#a65ddd8d606dd40af6d3b2489df54224a" title="Returns a pointer to the raw id data." alt="" coords="249,5,393,32"/>
+<area shape="rect" id="node3" href="$classContactId.html#acefde9768d99015a7028ca3fea50c852" title="Checks if the ContactId contains a id." alt="" coords="441,5,587,32"/>
+</map>

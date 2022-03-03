@@ -1,0 +1,6 @@
+<map id="VideoFrame::toGenericObject" name="VideoFrame::toGenericObject">
+<area shape="rect" id="node1" title="Converts this VideoFrame to a generic type T based on the given parameters and supplied converter fun..." alt="" coords="264,56,477,83"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#ab27c0722608de274c394fab28d2e5518" title="Retrieves an AVFrame derived from the source based on the given parameters." alt="" coords="17,5,204,32"/>
+<area shape="rect" id="node3" href="$classVideoFrame.html#afe4b63f9fded1217e08f979ce8f93fc4" title="Converts this VideoFrame to a QImage that shares this VideoFrame&#39;s buffer." alt="" coords="25,56,197,83"/>
+<area shape="rect" id="node4" href="$classVideoFrame.html#ab245d25973d49e1b205221e9050690a0" title="Converts this VideoFrame to a ToxAVFrame that shares this VideoFrame&#39;s buffer." alt="" coords="5,107,216,133"/>
+</map>

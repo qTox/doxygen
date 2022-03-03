@@ -1,0 +1,17 @@
+<map id="ChatHistory::onMessageReceived" name="ChatHistory::onMessageReceived">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,245,159"/>
+<area shape="rect" id="node2" href="$classHistory.html#abcce3c0e31955b6bf77b8d96a62e5b29" title="Saves a chat message in the database." alt="" coords="303,31,490,57"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#a088f7504cbfbe5348eba7024400cc176" title=" " alt="" coords="296,81,497,108"/>
+<area shape="rect" id="node9" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="299,132,494,159"/>
+<area shape="rect" id="node10" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="319,183,474,209"/>
+<area shape="rect" id="node11" href="$classSessionChatLog.html#a91e922f07ec81480eff8e43b839d7617" title="Inserts message data into the chatlog buffer." alt="" coords="293,234,500,275"/>
+<area shape="rect" id="node3" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked." alt="" coords="553,31,770,57"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="861,5,1020,32"/>
+<area shape="rect" id="node6" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="881,56,1000,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="1107,5,1243,32"/>
+<area shape="rect" id="node8" href="$classSettings.html#a20043d9e2168266b84dd45e90a932a6a" title=" " alt="" coords="562,81,761,108"/>
+<area shape="rect" id="node12" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title=" " alt="" coords="548,234,775,275"/>
+<area shape="rect" id="node13" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title=" " alt="" coords="823,191,1059,217"/>
+<area shape="rect" id="node14" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title=" " alt="" coords="833,241,1048,268"/>
+<area shape="rect" id="node15" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="869,292,1012,319"/>
+</map>

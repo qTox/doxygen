@@ -1,0 +1,9 @@
+<map id="LoginScreen::reset" name="LoginScreen::reset">
+<area shape="rect" id="node1" title="Resets the UI, clears all fields." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed." alt="" coords="196,56,392,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#aa5af7ecf29755caa4abcf2048670f22f" title="Write a default personal .ini settings file for a profile." alt="" coords="440,5,620,32"/>
+<area shape="rect" id="node5" href="$classProfile.html#aabeadb45eb2baabb1c5d257bc831f6ad" title="Lists all the files in the config dir with a given extension." alt="" coords="450,56,610,83"/>
+<area shape="rect" id="node6" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="682,81,841,108"/>
+<area shape="rect" id="node4" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="668,5,855,32"/>
+<area shape="rect" id="node7" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="903,81,1039,108"/>
+</map>

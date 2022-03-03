@@ -1,0 +1,11 @@
+<map id="UserInterfaceForm::on_themeColorCBox_currentIndexChanged" name="UserInterfaceForm::on_themeColorCBox_currentIndexChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,67,249,123"/>
+<area shape="rect" id="node2" href="$classStyle.html#ae85ffcbe48d325706ee6567810503aa3" title="Reloads some CCS." alt="" coords="317,5,461,32"/>
+<area shape="rect" id="node5" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="309,56,468,83"/>
+<area shape="rect" id="node7" href="$classStyle.html#a0b09ebd79204ab5a4f8fc50789914c21" title=" " alt="" coords="307,107,470,133"/>
+<area shape="rect" id="node8" href="$classSettings.html#aa439dc7090e16a942a07e7d252db8af3" title=" " alt="" coords="297,157,480,184"/>
+<area shape="rect" id="node3" href="$classGUI.html#a224eefd7923b9f160e0e7c6347b4a276" title="Reloads the application theme and redraw the window." alt="" coords="528,5,668,32"/>
+<area shape="rect" id="node4" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="716,5,847,32"/>
+<area shape="rect" id="node6" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="530,56,666,83"/>
+<area shape="rect" id="node9" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="537,157,659,184"/>
+</map>

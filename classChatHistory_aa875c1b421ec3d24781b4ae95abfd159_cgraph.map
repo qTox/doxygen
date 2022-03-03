@@ -1,0 +1,9 @@
+<map id="ChatHistory::onMessageBroken" name="ChatHistory::onMessageBroken">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,231,83"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a94791b3d1407d966e4a649838e07bc36" title=" " alt="" coords="281,5,483,32"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#a088f7504cbfbe5348eba7024400cc176" title=" " alt="" coords="281,56,483,83"/>
+<area shape="rect" id="node7" href="$classSessionChatLog.html#a9ecefb888407250904177a8a2dd0e9e3" title=" " alt="" coords="279,107,485,149"/>
+<area shape="rect" id="node3" href="$classHistory.html#af6a540f04cee58bf32f6ac7e3d0dc418" title=" " alt="" coords="547,5,718,32"/>
+<area shape="rect" id="node4" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="780,5,899,32"/>
+<area shape="rect" id="node6" href="$classSettings.html#a20043d9e2168266b84dd45e90a932a6a" title=" " alt="" coords="533,56,732,83"/>
+</map>

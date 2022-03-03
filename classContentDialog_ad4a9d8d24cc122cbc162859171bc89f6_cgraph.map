@@ -1,0 +1,9 @@
+<map id="ContentDialog::addFriendWidget" name="ContentDialog::addFriendWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title=" " alt="" coords="240,39,441,80"/>
+<area shape="rect" id="node3" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title=" " alt="" coords="489,5,665,47"/>
+<area shape="rect" id="node7" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title=" " alt="" coords="489,71,665,112"/>
+<area shape="rect" id="node4" href="$classGenericChatItemLayout.html#a7d376aa70cbcbe9d8a647379724f656c" title=" " alt="" coords="713,39,931,80"/>
+<area shape="rect" id="node5" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="979,39,1157,80"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="1205,46,1376,73"/>
+</map>

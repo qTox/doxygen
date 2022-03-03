@@ -1,0 +1,52 @@
+<map id="Settings::Settings" name="Settings::Settings">
+<area shape="rect" id="node1" title=" " alt="" coords="805,1320,941,1347"/>
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="599,1320,757,1347"/>
+<area shape="rect" id="node3" href="$classFriendList.html#aeca02e324803c1b2791fcd677265e2d7" title=" " alt="" coords="339,5,496,32"/>
+<area shape="rect" id="node4" href="$classContentDialog.html#ad709038596cb692e66f69f10ba620e5d" title=" " alt="" coords="324,56,511,83"/>
+<area shape="rect" id="node5" href="$classAddFriendForm.html#a21cf79acb3f2fc34de328d884b62f465" title=" " alt="" coords="321,107,513,149"/>
+<area shape="rect" id="node6" href="$classContentDialog.html#a7e0237d21270a83054b5a95f9d5e2d54" title=" " alt="" coords="324,173,511,200"/>
+<area shape="rect" id="node7" href="$classAdvancedForm.html#a7f126074e85bf2eba15fee811f3d9d09" title=" " alt="" coords="305,224,529,251"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a4b66d5e31b5dc18b314c8a68163263bd" title=" " alt="" coords="381,275,454,301"/>
+<area shape="rect" id="node9" href="$classCircleWidget.html#a5d1caa515e64e6c168e98e8b1c491b15" title=" " alt="" coords="318,326,517,367"/>
+<area shape="rect" id="node10" href="$classChatMessage.html#a504106fe71e08ef503687fade1c336d6" title="Create message placeholder while chatform restructures text." alt="" coords="284,392,551,419"/>
+<area shape="rect" id="node11" href="$classChatMessage.html#ac9742b80694ad6f91fba98fcb2bcff08" title=" " alt="" coords="310,443,525,485"/>
+<area shape="rect" id="node12" href="$classFriendListWidget.html#a3760bbbe8256b82cf5349ad59011f89a" title=" " alt="" coords="327,509,507,550"/>
+<area shape="rect" id="node13" href="$classChatMessage.html#a08c3af340e88434cdd3d8af65d05b9c9" title=" " alt="" coords="300,574,535,615"/>
+<area shape="rect" id="node14" href="$classChatMessage.html#a683dceaeb400acf609587f5dcc28fbdc" title=" " alt="" coords="317,639,518,681"/>
+<area shape="rect" id="node15" href="$classContentDialog.html#a371ae0fc6d29f7b70515ad8bd30fa519" title="Activate next/previous contact." alt="" coords="310,705,525,732"/>
+<area shape="rect" id="node16" href="$classAddFriendForm.html#a349c7276eed501e8cd4a8aa2b8ee46eb" title=" " alt="" coords="313,757,522,798"/>
+<area shape="rect" id="node17" href="$classCircleWidget.html#a1c8e76b3055133c611cfcf97e99be091" title=" " alt="" coords="328,823,507,849"/>
+<area shape="rect" id="node18" href="$classFriendListWidget.html#a888c55c77f61f95b32d3895b8c581a0a" title=" " alt="" coords="18,1960,223,1987"/>
+<area shape="rect" id="node19" href="$classEmoticonsWidget.html#acf4f5fbfb3401fc3a2028f58aee2464c" title=" " alt="" coords="311,925,523,966"/>
+<area shape="rect" id="node20" href="$classProfile.html#af6f4a8a10ccb1b5fc1c2d89e0df0d0a7" title=" " alt="" coords="362,873,473,900"/>
+<area shape="rect" id="node21" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="93,932,148,959"/>
+<area shape="rect" id="node22" href="$classGeneralForm.html#a51176d13e56ba9fd99d62bb09e93f382" title=" " alt="" coords="318,1092,517,1119"/>
+<area shape="rect" id="node23" href="$friendlistwidget_8cpp.html#aebc8015b1f38422016488c59c2a8a607" title=" " alt="" coords="339,1143,496,1169"/>
+<area shape="rect" id="node24" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed." alt="" coords="23,1117,219,1144"/>
+<area shape="rect" id="node25" href="$classFriendChatroom.html#a6821955be3506ada015cee52656764b9" title=" " alt="" coords="293,1244,541,1271"/>
+<area shape="rect" id="node26" href="$namespacePlatform.html#aeaffdd030423d6996738fac58d35ceb5" title=" " alt="" coords="308,1295,527,1321"/>
+<area shape="rect" id="node27" href="$classFriendChatroom.html#adf656f75a42095e50ce877266c7a1a60" title=" " alt="" coords="315,1396,519,1423"/>
+<area shape="rect" id="node28" href="$classFriendChatroom.html#ad011b2fa96ca09cec3b13b9004492fe3" title=" " alt="" coords="5,1367,236,1393"/>
+<area shape="rect" id="node29" href="$classFriendChatroom.html#aacb8e451cf2b7f3e6979a36c8ca93fad" title="Return sorted list of circles exclude current circle." alt="" coords="25,1429,216,1470"/>
+<area shape="rect" id="node30" href="$classProfile.html#a028cd7240ff4bc9a4c7b57d4e9532866" title="Retrieves the path to the database file for a given profile." alt="" coords="348,1497,487,1524"/>
+<area shape="rect" id="node31" href="$classCameraDevice.html#affa8877e347ad77abcce1b6bbeb9f938" title="Get the default device name." alt="" coords="320,1549,515,1590"/>
+<area shape="rect" id="node32" href="$classProfile.html#aabeadb45eb2baabb1c5d257bc831f6ad" title="Lists all the files in the config dir with a given extension." alt="" coords="337,1041,497,1068"/>
+<area shape="rect" id="node33" href="$classFriendWidget.html#adbe9bb64172ae273c5fbeb73daabe8dd" title=" " alt="" coords="310,1665,525,1692"/>
+<area shape="rect" id="node34" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title=" " alt="" coords="339,1716,496,1743"/>
+<area shape="rect" id="node35" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title=" " alt="" coords="346,1767,489,1809"/>
+<area shape="rect" id="node36" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked." alt="" coords="309,1833,526,1860"/>
+<area shape="rect" id="node37" href="$classProfileImporter.html#a496a2b3130d477be2426ed1182895cd8" title="Try to import Tox profile." alt="" coords="312,1884,523,1911"/>
+<area shape="rect" id="node38" href="$classProfile.html#aecf268db60a83dbbe1aff955999de0c4" title="Checks if profile is encrypted." alt="" coords="344,1935,491,1961"/>
+<area shape="rect" id="node39" href="$classCustomTextDocument.html#a920c438b6719ccc5f9c9d3b370933861" title=" " alt="" coords="334,1986,501,2027"/>
+<area shape="rect" id="node40" href="$classProfileLocker.html#a0f87391f38fa52a74a278ce16c85d853" title=" " alt="" coords="297,2052,537,2079"/>
+<area shape="rect" id="node41" href="$classProfileInfo.html#acc65397b6ae85adc8060e8f64549b513" title="Log out from current profile." alt="" coords="349,2103,486,2129"/>
+<area shape="rect" id="node42" href="$classChatMessage.html#ad3590b1a5996cb0766ce72d8d8d55b47" title=" " alt="" coords="302,2153,533,2180"/>
+<area shape="rect" id="node43" href="$classFriendWidget.html#a4ffc00518322e21c162ee70e85f5a3ef" title=" " alt="" coords="315,2204,519,2231"/>
+<area shape="rect" id="node44" href="$classFriendWidget.html#aa43f8d1662249a20a17c3e0d8b2dcb56" title=" " alt="" coords="301,2255,534,2281"/>
+<area shape="rect" id="node45" href="$classFriendListWidget.html#a5f7af661ea69ad90b30bfd5d209cbc68" title=" " alt="" coords="306,1615,529,1641"/>
+<area shape="rect" id="node46" href="$classGeneralForm.html#a989f014ea0e5b7470ceb85462455114c" title=" " alt="" coords="313,2357,522,2398"/>
+<area shape="rect" id="node47" href="$classGeneralForm.html#a25e5fa3437ad804792965dd2a9072fa2" title=" " alt="" coords="316,2422,519,2463"/>
+<area shape="rect" id="node48" href="$classGeneralForm.html#ac6fc7d466468485fa8731e1c2b5bf211" title=" " alt="" coords="318,2487,517,2529"/>
+<area shape="rect" id="node49" href="$classPrivacyForm.html#a4f41eab2973d3d0df82cb795be9e2583" title=" " alt="" coords="321,2553,513,2594"/>
+<area shape="rect" id="node50" href="$classAdvancedForm.html#ae3eefe8a996afccd118cf38e263e8ae5" title=" " alt="" coords="315,2618,519,2659"/>
+</map>

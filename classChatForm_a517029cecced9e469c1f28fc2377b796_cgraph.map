@@ -1,0 +1,12 @@
+<map id="ChatForm::updateMuteMicButton" name="ChatForm::updateMuteMicButton">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,243,108"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="351,5,449,32"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#a7ef33075e6e09f8709cdf667989bf9c0" title="Checks the call status for a Tox friend." alt="" coords="323,56,477,83"/>
+<area shape="rect" id="node6" href="$classCoreAV.html#af8b6f12d51b1749e4c4e0a246006c8c6" title="Returns the calls input (microphone) mute state." alt="" coords="597,107,784,133"/>
+<area shape="rect" id="node7" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title=" " alt="" coords="291,158,509,199"/>
+<area shape="rect" id="node4" href="$classFriend.html#a86c4cbc93534817df4a843b847eaa3a4" title=" " alt="" coords="933,56,1036,83"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#a0b8fac4d09e48a554aa33030af225aa8" title="Checks the call status for a Tox friend." alt="" coords="611,56,770,83"/>
+<area shape="rect" id="node8" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title=" " alt="" coords="557,165,824,192"/>
+<area shape="rect" id="node9" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="927,140,1042,167"/>
+<area shape="rect" id="node10" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title=" " alt="" coords="872,191,1097,217"/>
+</map>

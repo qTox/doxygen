@@ -1,0 +1,4 @@
+<map id="ToxId::operator==" name="ToxId::operator==">
+<area shape="rect" id="node1" title="Compares the equality of the Public Key." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$classToxId.html#a4124524a75378b827fcb6b89c53acf23" title="Gets the Public Key part of the ToxID." alt="" coords="195,5,343,32"/>
+</map>

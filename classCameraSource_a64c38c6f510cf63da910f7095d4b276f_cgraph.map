@@ -1,0 +1,4 @@
+<map id="CameraSource::stream" name="CameraSource::stream">
+<area shape="rect" id="node1" title="Blocking. Decodes video stream and emits new frames." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#a1bca3ccca0fe614db7474e748c263422" title="Causes the VideoFrame class to maintain an internal reference for the frame." alt="" coords="224,5,407,32"/>
+</map>

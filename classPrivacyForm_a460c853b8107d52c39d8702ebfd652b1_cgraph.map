@@ -1,0 +1,12 @@
+<map id="PrivacyForm::on_cbKeepHistory_stateChanged" name="PrivacyForm::on_cbKeepHistory_stateChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,233,141"/>
+<area shape="rect" id="node2" href="$classHistory.html#abe01b50ec9f5f68b8cb887da1874f61c" title="Erases all the chat history from the database." alt="" coords="301,5,460,32"/>
+<area shape="rect" id="node4" href="$classProfile.html#a86935da89fafad74f461e98d6670d7df" title="Get chat history." alt="" coords="311,56,450,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="301,107,460,133"/>
+<area shape="rect" id="node7" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="314,157,447,184"/>
+<area shape="rect" id="node9" href="$classSettings.html#a2a66cdcc9b71a4dfe03ed8f989c6525e" title=" " alt="" coords="281,208,480,235"/>
+<area shape="rect" id="node3" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="542,5,661,32"/>
+<area shape="rect" id="node6" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="533,107,669,133"/>
+<area shape="rect" id="node8" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="528,157,675,184"/>
+<area shape="rect" id="node10" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="540,208,663,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RecursiveSignalBlocker::RecursiveSignalBlocker" name="RecursiveSignalBlocker::RecursiveSignalBlocker">
+<area shape="rect" id="node1" title="Creates a QSignalBlocker recursively on the object and child objects." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$classRecursiveSignalBlocker.html#ae407226b1841f3403531e4a71f0e8c36" title="Recursively blocks all signals of the object." alt="" coords="236,5,411,47"/>
+</map>

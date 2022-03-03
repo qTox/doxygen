@@ -1,0 +1,6 @@
+<map id="Core::loadFriends" name="Core::loadFriends">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$classCore.html#a07764afdb5657159786c6f353b60e30f" title=" " alt="" coords="199,5,365,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a3cc7180db58b5e0ee7d82be2079fd1d8" title="Get the username of a friend." alt="" coords="188,56,376,83"/>
+<area shape="rect" id="node4" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="424,81,583,108"/>
+</map>

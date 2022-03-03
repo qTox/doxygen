@@ -1,0 +1,8 @@
+<map id="IPC::isCurrentOwnerNoLock" name="IPC::isCurrentOwnerNoLock">
+<area shape="rect" id="node1" title="Only called when global memory IS LOCKED." alt="" coords="399,56,599,83"/>
+<area shape="rect" id="node2" href="$classIPC.html#a7383c3f67f0b453b50797ae38ed519c5" title="Only called when global memory IS LOCKED." alt="" coords="214,5,335,32"/>
+<area shape="rect" id="node4" href="$classIPC.html#a15ca5a211e4b5345bba9e010d274d265" title=" " alt="" coords="199,56,351,83"/>
+<area shape="rect" id="node6" href="$classIPC.html#a3fb6d83264099113bd5dbe4335815d64" title=" " alt="" coords="233,107,316,133"/>
+<area shape="rect" id="node3" href="$classIPC.html#ab7c0e6429ddd9600c82a75b9245fb42a" title=" " alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="51,56,105,83"/>
+</map>

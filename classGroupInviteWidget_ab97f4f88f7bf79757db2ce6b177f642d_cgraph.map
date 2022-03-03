@@ -1,0 +1,13 @@
+<map id="GroupInviteWidget::GroupInviteWidget" name="GroupInviteWidget::GroupInviteWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,157,166"/>
+<area shape="rect" id="node2" href="$classGroupInviteWidget.html#ade74312e2f83f2f1e31dfe9222a9f29a" title="Retranslate all elements in the form." alt="" coords="205,125,357,166"/>
+<area shape="rect" id="node3" href="$classNexus.html#afb7493da9f29676c4a46a0c4adefd880" title="Get core instance." alt="" coords="441,5,564,32"/>
+<area shape="rect" id="node4" href="$classGroupInvite.html#a62e44c799af12514e19ccd5fe272024d" title=" " alt="" coords="413,56,592,83"/>
+<area shape="rect" id="node5" href="$classCore.html#a3cc7180db58b5e0ee7d82be2079fd1d8" title="Get the username of a friend." alt="" coords="409,107,597,133"/>
+<area shape="rect" id="node7" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="423,157,582,184"/>
+<area shape="rect" id="node9" href="$classGroupInvite.html#aee73e62e55ed0ff27d7c0dea8c59e826" title=" " alt="" coords="405,208,600,235"/>
+<area shape="rect" id="node10" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title=" " alt="" coords="417,259,588,285"/>
+<area shape="rect" id="node6" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="674,107,833,133"/>
+<area shape="rect" id="node8" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="685,157,821,184"/>
+<area shape="rect" id="node11" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title=" " alt="" coords="648,259,859,285"/>
+</map>

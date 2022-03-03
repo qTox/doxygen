@@ -1,0 +1,9 @@
+<map id="History::getDateWhereFindPhrase" name="History::getDateWhereFindPhrase">
+<area shape="rect" id="node1" title="Search phrase in chat messages." alt="" coords="5,64,203,105"/>
+<area shape="rect" id="node2" href="$classSearchExtraFunctions.html#a06367df4f33e128f30923230850a69b5" title="generateFilterWordsOnly generate string for filter &quot;Whole words only&quot; for correct search phrase conta..." alt="" coords="264,5,455,47"/>
+<area shape="rect" id="node3" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked." alt="" coords="251,71,468,98"/>
+<area shape="rect" id="node7" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="288,122,431,149"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="516,46,675,73"/>
+<area shape="rect" id="node6" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="536,97,655,123"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="723,46,859,73"/>
+</map>

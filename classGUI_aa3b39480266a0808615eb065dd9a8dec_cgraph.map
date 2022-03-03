@@ -1,0 +1,5 @@
+<map id="GUI::askQuestion" name="GUI::askQuestion">
+<area shape="rect" id="node1" title="Asks the user a question with Ok/Cancel or Yes/No buttons." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title=" " alt="" coords="188,5,331,32"/>
+<area shape="rect" id="node3" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="194,56,325,83"/>
+</map>

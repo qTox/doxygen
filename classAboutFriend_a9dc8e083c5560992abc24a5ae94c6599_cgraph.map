@@ -1,0 +1,9 @@
+<map id="AboutFriend::clearHistory" name="AboutFriend::clearHistory">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,192,108"/>
+<area shape="rect" id="node2" href="$classProfile.html#a86935da89fafad74f461e98d6670d7df" title="Get chat history." alt="" coords="277,5,416,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="280,56,413,83"/>
+<area shape="rect" id="node5" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="269,107,424,133"/>
+<area shape="rect" id="node6" href="$classHistory.html#a4e2f0b6c902c27a5101b618956e39023" title="Erases the chat history with one friend." alt="" coords="240,157,453,184"/>
+<area shape="rect" id="node4" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="501,56,648,83"/>
+<area shape="rect" id="node7" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="515,157,634,184"/>
+</map>

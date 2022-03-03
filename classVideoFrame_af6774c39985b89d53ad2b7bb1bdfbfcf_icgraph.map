@@ -1,0 +1,5 @@
+<map id="VideoFrame::deleteFrameBuffer" name="VideoFrame::deleteFrameBuffer">
+<area shape="rect" id="node1" title="Releases all frames within the frame buffer." alt="" coords="251,31,480,57"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#a05d1cd68bab1ac2ff633093eb45932f7" title="Releases all frames managed by this VideoFrame and invalidates it." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node3" href="$classVideoFrame.html#af3b566c39ee5878c602581cb1f196675" title="Destructor for VideoFrame." alt="" coords="5,56,203,83"/>
+</map>

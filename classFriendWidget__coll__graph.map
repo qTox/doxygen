@@ -1,0 +1,10 @@
+<map id="FriendWidget" name="FriendWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="259,1439,458,1868"/>
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html" title=" " alt="" coords="153,1033,359,1389"/>
+<area shape="rect" id="node3" href="$classGenericChatItemWidget.html" title=" " alt="" coords="5,819,208,984"/>
+<area shape="rect" id="node4" title=" " alt="" coords="59,279,133,356"/>
+<area shape="rect" id="node5" href="$classCroppingLabel.html" title=" " alt="" coords="157,132,369,503"/>
+<area shape="rect" id="node6" title=" " alt="" coords="313,5,380,83"/>
+<area shape="rect" id="node7" href="$classMaskablePixmapWidget.html" title=" " alt="" coords="335,527,550,795"/>
+<area shape="rect" id="node8" href="$classIFriendListItem.html" title=" " alt="" coords="384,1099,539,1323"/>
+</map>

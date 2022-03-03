@@ -1,0 +1,9 @@
+<map id="ToxFriendCall" name="ToxFriendCall">
+<area shape="rect" id="node1" title=" " alt="" coords="44,1712,255,1965"/>
+<area shape="rect" id="node2" href="$classToxCall.html" title=" " alt="" coords="62,1233,237,1663"/>
+<area shape="rect" id="node3" title=" " alt="" coords="98,86,172,163"/>
+<area shape="rect" id="node5" href="$classVideoSource.html" title="An abstract source of video frames." alt="" coords="70,541,208,677"/>
+<area shape="rect" id="node6" href="$classCoreAV.html" title=" " alt="" coords="232,307,430,912"/>
+<area shape="rect" id="node4" href="$classCoreVideoSource.html" title="A VideoSource that emits frames received by Core." alt="" coords="70,961,229,1171"/>
+<area shape="rect" id="node7" href="$classIGroupSettings.html" title=" " alt="" coords="197,5,468,244"/>
+</map>

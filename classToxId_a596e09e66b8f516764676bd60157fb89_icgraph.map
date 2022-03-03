@@ -1,0 +1,4 @@
+<map id="ToxId::ToxId" name="ToxId::ToxId">
+<area shape="rect" id="node1" title="The default constructor. Creates an empty Tox ID." alt="" coords="195,5,293,32"/>
+<area shape="rect" id="node2" href="$classToxId.html#a45021ac3ac1c717925d84360df2cbbcc" title="Check, that id is a valid Tox ID." alt="" coords="5,5,147,32"/>
+</map>

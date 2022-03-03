@@ -1,0 +1,6 @@
+<map id="VideoSurface" name="VideoSurface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,331,192,760"/>
+<area shape="rect" id="node2" title=" " alt="" coords="38,161,117,239"/>
+<area shape="rect" id="node3" href="$classVideoSource.html" title="An abstract source of video frames." alt="" coords="141,132,280,268"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,5,248,83"/>
+</map>

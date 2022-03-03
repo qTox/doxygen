@@ -1,0 +1,5 @@
+<map id="FriendMessageDispatcher::clearOutgoingMessages" name="FriendMessageDispatcher::clearOutgoingMessages">
+<area shape="rect" id="node1" title="Clears all currently outgoing messages." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classOfflineMsgEngine.html#a00efecfc24645f0ed4e766b72d9c9d92" title="Removes all messages which are being tracked." alt="" coords="244,5,439,47"/>
+<area shape="rect" id="node3" href="$classOfflineMsgEngine_1_1ReceiptResolver.html#a5f4e0949dafc8eb6d5836ac6f1e2fd05" title=" " alt="" coords="487,5,680,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SessionChatLog::onFileUpdated" name="SessionChatLog::onFileUpdated">
+<area shape="rect" id="node1" title="Updates file state in the chatlog." alt="" coords="5,56,232,83"/>
+<area shape="rect" id="node2" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title=" " alt="" coords="280,49,507,90"/>
+<area shape="rect" id="node3" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title=" " alt="" coords="555,5,791,32"/>
+<area shape="rect" id="node4" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title=" " alt="" coords="565,56,780,83"/>
+<area shape="rect" id="node5" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="601,107,744,133"/>
+</map>

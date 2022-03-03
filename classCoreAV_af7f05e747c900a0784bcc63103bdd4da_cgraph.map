@@ -1,0 +1,4 @@
+<map id="CoreAV::invalidateGroupCallPeerSource" name="CoreAV::invalidateGroupCallPeerSource">
+<area shape="rect" id="node1" title="Called from core to make sure the source for that peer is invalidated when they leave." alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node2" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title=" " alt="" coords="259,13,361,39"/>
+</map>

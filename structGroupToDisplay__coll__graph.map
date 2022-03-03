@@ -1,0 +1,10 @@
+<map id="GroupToDisplay" name="GroupToDisplay">
+<area shape="rect" id="node1" title=" " alt="" coords="337,1013,461,1091"/>
+<area shape="rect" id="node2" href="$classGroup.html" title=" " alt="" coords="314,639,485,951"/>
+<area shape="rect" id="node3" href="$classContact.html" title=" " alt="" coords="5,374,177,539"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,108,129,185"/>
+<area shape="rect" id="node5" href="$classICoreGroupQuery.html" title=" " alt="" coords="202,337,397,576"/>
+<area shape="rect" id="node6" href="$classICoreIdHandler.html" title=" " alt="" coords="421,359,577,554"/>
+<area shape="rect" id="node7" href="$classGroupId.html" title="This class represents a long term persistent group identifier." alt="" coords="602,389,701,525"/>
+<area shape="rect" id="node8" href="$classContactId.html" title=" " alt="" coords="585,5,718,288"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GroupMessageDispatcher::sendMessage" name="GroupMessageDispatcher::sendMessage">
+<area shape="rect" id="node1" title="Sends message to associated chat." alt="" coords="5,107,195,149"/>
+<area shape="rect" id="node2" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title=" " alt="" coords="292,5,395,32"/>
+<area shape="rect" id="node3" href="$classGroup.html#a19fa5bba1678b3f30769c4635058c206" title=" " alt="" coords="261,56,425,83"/>
+<area shape="rect" id="node4" href="$classMessageProcessor.html#a645c60c98eddd3994ae7abc5eb82b5ca" title="Converts an outgoing message into one (or many) sanitized Message(s)" alt="" coords="243,107,444,149"/>
+<area shape="rect" id="node7" href="$classICoreGroupMessageSender.html#a850b7bfb9ff72d309983d2bbcb8679a4" title=" " alt="" coords="244,173,443,214"/>
+<area shape="rect" id="node8" href="$classICoreGroupMessageSender.html#a514777b4e4343bf4923e604b249a781e" title=" " alt="" coords="244,238,443,279"/>
+<area shape="rect" id="node5" href="$classMessageProcessor_1_1SharedParams.html#a43c66fd8460016b42e9bc16eaf5c5d30" title=" " alt="" coords="507,75,750,117"/>
+<area shape="rect" id="node6" href="$classMessageProcessor_1_1SharedParams.html#a1a036ed89bd4effca413de38f04a4389" title=" " alt="" coords="492,141,765,182"/>
+</map>

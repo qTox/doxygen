@@ -1,0 +1,5 @@
+<map id="CoreFile::sendAvatarFile" name="CoreFile::sendAvatarFile">
+<area shape="rect" id="node1" title=" " alt="" coords="403,13,581,39"/>
+<area shape="rect" id="node2" href="$classAvatarBroadcaster.html#ab57ef4ffb8cdddad20d060dcd562ab72" title="Send our current avatar to this friend, if not already sent." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classAvatarBroadcaster.html#a8c8f0ae291842d629e73f86194747fc1" title="Set our current avatar." alt="" coords="5,5,156,47"/>
+</map>

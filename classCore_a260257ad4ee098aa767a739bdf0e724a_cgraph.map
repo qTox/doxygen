@@ -1,0 +1,21 @@
+<map id="Core::registerCallbacks" name="Core::registerCallbacks">
+<area shape="rect" id="node1" title="Registers all toxcore callbacks." alt="" coords="5,350,179,377"/>
+<area shape="rect" id="node2" href="$classCore.html#ab1c0a082ae5a7cf030821a993a2e8e40" title=" " alt="" coords="247,5,438,47"/>
+<area shape="rect" id="node4" href="$classCore.html#a25aa9e0881363f63c92ba5f4ea7a4d98" title=" " alt="" coords="535,122,710,149"/>
+<area shape="rect" id="node6" href="$classCore.html#a0e13a83d93f19d3d84f0fd85b73e0317" title=" " alt="" coords="521,185,725,211"/>
+<area shape="rect" id="node7" href="$classCore.html#a9b7936862fd6d459e7a003498b6d3ee1" title=" " alt="" coords="538,261,707,287"/>
+<area shape="rect" id="node8" href="$classCore.html#a724d51a4f7b081af18e48c292f8d4aa7" title=" " alt="" coords="239,223,446,250"/>
+<area shape="rect" id="node9" href="$classCore.html#ac3b77f0e4a52c97ec921638b114dc62b" title=" " alt="" coords="267,274,419,301"/>
+<area shape="rect" id="node10" href="$classCore.html#ab4aee8083989d410925c1f7b4930294d" title=" " alt="" coords="536,325,709,351"/>
+<area shape="rect" id="node11" href="$classCore.html#aaa86c5384a5b7609e32e4017c8345af8" title=" " alt="" coords="235,375,451,402"/>
+<area shape="rect" id="node12" href="$classCore.html#a9091c43d29dbae1360096bd2c9176dfa" title=" " alt="" coords="227,426,459,453"/>
+<area shape="rect" id="node14" href="$classCore.html#a8e0bb22a5e6d460cbf303902b79b8f03" title=" " alt="" coords="246,477,439,503"/>
+<area shape="rect" id="node16" href="$classCore.html#ad0f44694f2365aee275e87c237c264f1" title="Handling of custom lossless packets received by toxcore. Currently only used to forward toxext packet..." alt="" coords="256,527,429,554"/>
+<area shape="rect" id="node17" href="$classCore.html#a4d5b6500185503cc3f0801674478586a" title=" " alt="" coords="235,578,450,605"/>
+<area shape="rect" id="node18" href="$classCore.html#ac31b897033396e49d82600a90971aec4" title=" " alt="" coords="507,603,739,630"/>
+<area shape="rect" id="node19" href="$classCore.html#a18ad28602f7a70042c53d8041348f1b5" title=" " alt="" coords="241,679,445,706"/>
+<area shape="rect" id="node3" href="$classCore.html#a07764afdb5657159786c6f353b60e30f" title=" " alt="" coords="539,13,706,39"/>
+<area shape="rect" id="node5" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="787,350,945,377"/>
+<area shape="rect" id="node13" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group." alt="" coords="540,426,705,453"/>
+<area shape="rect" id="node15" href="$classCore.html#a57ab45b6c013c455e212f0244e36acdb" title="Get the name of a peer of a group." alt="" coords="529,527,717,554"/>
+</map>

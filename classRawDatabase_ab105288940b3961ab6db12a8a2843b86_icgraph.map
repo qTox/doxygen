@@ -1,0 +1,13 @@
+<map id="RawDatabase::regexp" name="RawDatabase::regexp">
+<area shape="rect" id="node1" title=" " alt="" coords="1339,115,1504,141"/>
+<area shape="rect" id="node2" href="$classRawDatabase.html#aa2da226916f4910bba867a67bb4ad12a" title="Use for create function in db for search data use regular experessions without case sensitive." alt="" coords="1055,89,1291,116"/>
+<area shape="rect" id="node11" href="$classRawDatabase.html#a17859be8b61b51e56cde1e3df7bf0b8c" title="Use for create function in db for search data use regular experessions without case sensitive." alt="" coords="1060,140,1285,167"/>
+<area shape="rect" id="node3" href="$classRawDatabase.html#a6dc2990b0d582cf1f3bcfaf294c21aec" title="Tries to open the database with the given (possibly empty) key." alt="" coords="855,115,1007,141"/>
+<area shape="rect" id="node4" href="$classRawDatabase.html#a33faa326a37de9d66691a696d7bc661a" title=" " alt="" coords="584,60,807,87"/>
+<area shape="rect" id="node10" href="$classRawDatabase.html#adcd9df8dfd9bf67cb0afadd67cf72eac" title="Moves the database file on disk to match the new path." alt="" coords="610,115,781,141"/>
+<area shape="rect" id="node5" href="$classRawDatabase.html#a1644d4bb884e5d4919a671afbd65f62f" title=" " alt="" coords="305,5,536,32"/>
+<area shape="rect" id="node7" href="$classRawDatabase.html#a1ba0ce437611f0a0269ec24993ee568d" title=" " alt="" coords="305,56,536,83"/>
+<area shape="rect" id="node8" href="$classRawDatabase.html#a16cd829c14a0eb39c80180131f8d6bd9" title="Changes stored db encryption from SQLCipher 3.x defaults to 4.x defaults." alt="" coords="318,107,523,149"/>
+<area shape="rect" id="node6" href="$classRawDatabase.html#aad13f2a1276986076a1bcaa687b299ba" title="Changes the database password, encrypting or decrypting if necessary." alt="" coords="31,41,232,68"/>
+<area shape="rect" id="node9" href="$classRawDatabase.html#abb185352f31b05643f9798e3f82dc565" title=" " alt="" coords="5,122,257,163"/>
+</map>

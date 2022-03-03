@@ -1,0 +1,3 @@
+<map id="ProfileLocker" name="ProfileLocker">
+<area shape="rect" id="node1" title="Locks a Tox profile so that multiple instances can not use the same profile. Only one lock can be acq..." alt="" coords="5,5,176,215"/>
+</map>

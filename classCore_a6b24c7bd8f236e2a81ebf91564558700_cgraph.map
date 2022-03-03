@@ -1,0 +1,4 @@
+<map id="Core::getUsername" name="Core::getUsername">
+<area shape="rect" id="node1" title="Returns our username, or an empty string on failure." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="201,5,360,32"/>
+</map>

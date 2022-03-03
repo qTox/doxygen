@@ -1,0 +1,4 @@
+<map id="CoreAV::sendNoVideo" name="CoreAV::sendNoVideo">
+<area shape="rect" id="node1" title="Signal to all peers that we&#39;re not sending video anymore." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$classToxCall.html#a9e20e6a6bac38e37b15a8aaf3491a104" title=" " alt="" coords="216,5,420,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GroupChatForm::leaveGroupCall" name="GroupChatForm::leaveGroupCall">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,237,83"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="325,5,422,32"/>
+<area shape="rect" id="node3" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title=" " alt="" coords="322,56,425,83"/>
+<area shape="rect" id="node4" href="$classCoreAV.html#a334d196a321c5727ae8a0d41f3ed5243" title="Will not leave the group, just stop the call." alt="" coords="285,107,461,133"/>
+</map>

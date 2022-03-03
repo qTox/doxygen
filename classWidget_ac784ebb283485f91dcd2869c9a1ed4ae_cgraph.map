@@ -1,0 +1,8 @@
+<map id="Widget::onStatusMessageChanged" name="Widget::onStatusMessageChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,253,83"/>
+<area shape="rect" id="node2" href="$classCore.html#aa62a61d45f460d49c5f7472f462a00d3" title=" " alt="" coords="301,56,480,83"/>
+<area shape="rect" id="node3" href="$classToxString.html#a36946ec31793baf06869c7dc583b79a0" title="Returns a pointer to the beginning of the string data." alt="" coords="559,5,677,32"/>
+<area shape="rect" id="node4" href="$classCore.html#a2d27726816838d9ba4d95000c305c125" title="Returns our status message, or an empty string on failure." alt="" coords="528,56,708,83"/>
+<area shape="rect" id="node6" href="$classToxString.html#a4462cbd7558af2d4f66eb8ec32464dfd" title="Get the number of bytes in the string." alt="" coords="560,107,676,133"/>
+<area shape="rect" id="node5" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="756,56,915,83"/>
+</map>

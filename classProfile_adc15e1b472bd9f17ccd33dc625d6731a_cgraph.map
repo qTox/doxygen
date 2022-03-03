@@ -1,0 +1,8 @@
+<map id="Profile::onAvatarOfferReceived" name="Profile::onAvatarOfferReceived">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,227,57"/>
+<area shape="rect" id="node2" href="$classProfile.html#a09f38019e3f7a49ca8ab402d29b2a87a" title="Get the tox hash of a cached avatar." alt="" coords="275,31,441,57"/>
+<area shape="rect" id="node3" href="$classProfile.html#ae8984eaa8c764e59bfa77eca55113db9" title="Get a contact&#39;s avatar from cache." alt="" coords="489,31,661,57"/>
+<area shape="rect" id="node4" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID." alt="" coords="709,31,851,57"/>
+<area shape="rect" id="node5" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="899,5,1085,32"/>
+<area shape="rect" id="node6" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="921,56,1063,83"/>
+</map>

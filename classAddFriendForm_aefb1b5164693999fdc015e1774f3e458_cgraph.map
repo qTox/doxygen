@@ -1,0 +1,12 @@
+<map id="AddFriendForm::show" name="AddFriendForm::show">
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,168,150"/>
+<area shape="rect" id="node2" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title=" " alt="" coords="217,73,409,115"/>
+<area shape="rect" id="node9" href="$classAddFriendForm.html#a8cbdadda64ff8b9bc035238c632589ac" title=" " alt="" coords="216,148,409,189"/>
+<area shape="rect" id="node3" href="$classSettings.html#accf237ab89ab4e6f6db5311f09ee60c0" title=" " alt="" coords="457,5,660,47"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="479,71,638,98"/>
+<area shape="rect" id="node6" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile." alt="" coords="473,122,644,149"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="708,71,844,98"/>
+<area shape="rect" id="node7" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="709,122,843,149"/>
+<area shape="rect" id="node8" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="892,122,1039,149"/>
+<area shape="rect" id="node10" href="$classToxId.html#a833f176a68c64f7661b370209d4b2eba" title="Check, that id is probably a valid Tox ID." alt="" coords="504,173,613,199"/>
+</map>

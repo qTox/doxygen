@@ -1,0 +1,10 @@
+<map id="SessionChatLog::getFirstIdx" name="SessionChatLog::getFirstIdx">
+<area shape="rect" id="node1" title="The underlying chat log instance may not want to start at 0." alt="" coords="968,56,1171,83"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title=" " alt="" coords="270,5,453,32"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#abc6dbab246d6fa064d84c1bae97dec25" title="The underlying chat log instance may not want to start at 0." alt="" coords="745,56,920,83"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a385c0861dc9410fcf18684d8fe8fc019" title="Unconditionally loads the given index and all future messages that are not in the session chat log in..." alt="" coords="516,57,697,98"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#a344eb9def397254e0345c21e6bbf7ad4" title="Forces the given index and all future indexes to be in the chatlog." alt="" coords="270,57,453,98"/>
+<area shape="rect" id="node8" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="255,123,468,149"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#a47c4d731377614a72939cf9aa6925ca9" title="Returns reference to item at idx." alt="" coords="47,39,165,65"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#ab2719a6a9cfa86eaa1907e4ee9d64674" title="searches forwards through the chat log until phrase is found according to parameter" alt="" coords="5,89,207,116"/>
+</map>

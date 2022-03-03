@@ -1,0 +1,5 @@
+<map id="ChatWidget::getContentFromGlobalPos" name="ChatWidget::getContentFromGlobalPos">
+<area shape="rect" id="node1" title="Finds the chat line object at a position on screen." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classChatWidget.html#a72c6ea88563b5385e04f5983df8bd638" title=" " alt="" coords="264,13,499,39"/>
+<area shape="rect" id="node3" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title=" " alt="" coords="547,5,737,47"/>
+</map>

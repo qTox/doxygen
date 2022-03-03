@@ -1,0 +1,8 @@
+<map id="CameraSource::subscribe" name="CameraSource::subscribe">
+<area shape="rect" id="node1" title="If subscribe sucessfully opens the source, it will start emitting frameAvailable signals." alt="" coords="5,42,192,69"/>
+<area shape="rect" id="node2" href="$classCameraSource.html#a8feedbf91ec5c596003144d0cacd1807" title="Opens the video device and starts streaming." alt="" coords="240,42,443,69"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#ada4c5ffa63328de35c7965818ffaaa4a" title="Opens a device." alt="" coords="497,15,655,42"/>
+<area shape="rect" id="node5" href="$classCameraSource.html#a64c38c6f510cf63da910f7095d4b276f" title="Blocking. Decodes video stream and emits new frames." alt="" coords="491,67,661,94"/>
+<area shape="rect" id="node4" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default." alt="" coords="709,5,904,47"/>
+<area shape="rect" id="node6" href="$classVideoFrame.html#a1bca3ccca0fe614db7474e748c263422" title="Causes the VideoFrame class to maintain an internal reference for the frame." alt="" coords="715,71,898,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="LoginScreen::onCreateNewProfile" name="LoginScreen::onCreateNewProfile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,203,90"/>
+<area shape="rect" id="node2" href="$classProfile.html#af6f4a8a10ccb1b5fc1c2d89e0df0d0a7" title=" " alt="" coords="251,56,361,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="423,5,582,32"/>
+<area shape="rect" id="node5" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title=" " alt="" coords="433,56,572,83"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="409,107,596,133"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="644,5,780,32"/>
+</map>

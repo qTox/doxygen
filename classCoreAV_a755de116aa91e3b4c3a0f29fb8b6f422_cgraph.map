@@ -1,0 +1,14 @@
+<map id="CoreAV::groupCallCallback" name="CoreAV::groupCallCallback">
+<area shape="rect" id="node1" title="Called from Tox API when group call receives audio data." alt="" coords="5,157,200,184"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="309,5,407,32"/>
+<area shape="rect" id="node3" href="$classIGroupSettings.html#afb7ab1450a73506229ebe41adea29571" title=" " alt="" coords="255,56,461,83"/>
+<area shape="rect" id="node4" href="$classCore.html#a0494a30690e83503808a82158afbf33b" title="Get the public key of a peer of a group." alt="" coords="275,107,441,133"/>
+<area shape="rect" id="node5" href="$classToxCall.html#afe739132122c57d8bb85805484881b72" title=" " alt="" coords="283,157,433,184"/>
+<area shape="rect" id="node6" href="$classToxCall.html#a3c33d574319adcc147ad6d678c3133ee" title=" " alt="" coords="293,208,423,235"/>
+<area shape="rect" id="node7" href="$classToxGroupCall.html#acb1de57d6a236ad6f48366fc471f0ad2" title=" " alt="" coords="248,259,468,285"/>
+<area shape="rect" id="node11" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="1229,284,1372,311"/>
+<area shape="rect" id="node8" href="$classToxGroupCall.html#a4e4ac83c18623cef27eabb6752712a9c" title=" " alt="" coords="520,208,689,235"/>
+<area shape="rect" id="node12" href="$classToxGroupCall.html#a795b16b176a6b386d6b07bfc4367827e" title=" " alt="" coords="516,259,693,285"/>
+<area shape="rect" id="node9" href="$classToxGroupCall.html#a3286dace2733f7bef27afcda751c35ab" title=" " alt="" coords="741,201,939,242"/>
+<area shape="rect" id="node10" href="$classToxGroupCall.html#aa6a7f1a687cd25e80e1b38b12df7e4af" title=" " alt="" coords="987,233,1181,260"/>
+</map>

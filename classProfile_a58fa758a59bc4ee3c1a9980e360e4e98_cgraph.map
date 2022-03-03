@@ -1,0 +1,15 @@
+<map id="Profile::~Profile" name="Profile::~Profile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,128,170"/>
+<area shape="rect" id="node2" href="$classProfileLocker.html#abd3991dc28df89388a431243f568a076" title="Check that we actually own the lock. In case the file was deleted on disk, restore it...." alt="" coords="625,17,808,43"/>
+<area shape="rect" id="node3" href="$classProfileLocker.html#a695afe4fdaa99393d1665920f6e586f9" title="Get current locked profile name." alt="" coords="604,118,829,145"/>
+<area shape="rect" id="node4" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed." alt="" coords="176,67,349,94"/>
+<area shape="rect" id="node7" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile." alt="" coords="177,169,348,195"/>
+<area shape="rect" id="node10" href="$classSettings.html#ac400a8d624512cf65be4fb918dd3b155" title="Waits for all asynchronous operations to complete." alt="" coords="206,219,319,246"/>
+<area shape="rect" id="node13" href="$classProfileLocker.html#ae87d40c397f31f1819349df653b1a70d" title="Releases the lock on the current profile." alt="" coords="185,270,341,297"/>
+<area shape="rect" id="node5" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed." alt="" coords="399,67,555,94"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="623,67,810,94"/>
+<area shape="rect" id="node8" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="410,169,543,195"/>
+<area shape="rect" id="node9" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="643,169,790,195"/>
+<area shape="rect" id="node11" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="397,219,556,246"/>
+<area shape="rect" id="node12" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="649,219,785,246"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GeneralForm::on_autoAwaySpinBox_editingFinished" name="GeneralForm::on_autoAwaySpinBox_editingFinished">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,208,65"/>
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="278,5,437,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#a9594f6a76877efe6d0db2b5e54343ee4" title="Sets how long the user may stay idle, before online status is set to &quot;away&quot;." alt="" coords="256,56,459,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="507,5,643,32"/>
+<area shape="rect" id="node5" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="513,56,636,83"/>
+</map>

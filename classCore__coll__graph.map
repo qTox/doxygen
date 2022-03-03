@@ -1,0 +1,12 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node1" title=" " alt="" coords="642,975,886,1888"/>
+<area shape="rect" id="node2" title=" " alt="" coords="21,86,96,163"/>
+<area shape="rect" id="node8" href="$classCoreAV.html" title=" " alt="" coords="96,307,293,912"/>
+<area shape="rect" id="node3" href="$classICoreFriendMessageSender.html" title=" " alt="" coords="317,519,552,699"/>
+<area shape="rect" id="node4" href="$classICoreIdHandler.html" title=" " alt="" coords="577,512,733,707"/>
+<area shape="rect" id="node5" href="$classICoreGroupMessageSender.html" title=" " alt="" coords="757,519,992,699"/>
+<area shape="rect" id="node6" href="$classICoreGroupQuery.html" title=" " alt="" coords="1016,490,1211,729"/>
+<area shape="rect" id="node7" href="$classICoreSettings.html" title=" " alt="" coords="1235,497,1381,721"/>
+<area shape="rect" id="node9" href="$classIGroupSettings.html" title=" " alt="" coords="121,5,391,244"/>
+<area shape="rect" id="node10" href="$classIBootstrapListGenerator.html" title=" " alt="" coords="1405,527,1619,692"/>
+</map>

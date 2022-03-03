@@ -1,0 +1,5 @@
+<map id="ToxEncrypt::encrypt" name="ToxEncrypt::encrypt">
+<area shape="rect" id="node1" title="Encrypts the plaintext with the stored key." alt="" coords="408,13,559,39"/>
+<area shape="rect" id="node2" href="$classSettingsSerializer.html#a8410152c874cb74459a793b8c57af37d" title="Saves the current settings back to file." alt="" coords="224,5,360,47"/>
+<area shape="rect" id="node3" href="$classSettings.html#a73a3a633f8f0792df81c22d5a6b44437" title=" " alt="" coords="5,13,176,39"/>
+</map>

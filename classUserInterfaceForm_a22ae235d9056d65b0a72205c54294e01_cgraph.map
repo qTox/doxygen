@@ -1,0 +1,42 @@
+<map id="UserInterfaceForm::UserInterfaceForm" name="UserInterfaceForm::UserInterfaceForm">
+<area shape="rect" id="node1" title="Constructor of UserInterfaceForm." alt="" coords="5,810,156,851"/>
+<area shape="rect" id="node2" href="$classGenericForm.html#af56a0a0235f4dddb77b217ed918bed9c" title="Prevent stealing mouse wheel scroll." alt="" coords="236,5,415,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#aca822c6f005a3b89a67d227cfedfcefb" title=" " alt="" coords="237,56,413,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#a8d55c13690362e77fe06d38cc9367216" title=" " alt="" coords="215,107,435,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#a92e27d36177fe0b4fa725a1456515163" title=" " alt="" coords="235,157,416,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#a8b0ce74addf5bfab6b7be07447275fb2" title=" " alt="" coords="227,208,424,235"/>
+<area shape="rect" id="node7" href="$classSettings.html#a7c7bf238c4fc86a844b640ee67e79243" title=" " alt="" coords="209,259,442,285"/>
+<area shape="rect" id="node8" href="$classSettings.html#a5e448881d347ace301b119b96978552e" title=" " alt="" coords="211,309,440,336"/>
+<area shape="rect" id="node9" href="$classSettings.html#ac23fcaf015a3665c7438a18ac18457b1" title=" " alt="" coords="232,361,419,402"/>
+<area shape="rect" id="node10" href="$classSettings.html#a867dc924c8537130f87ba7a59a3d0c24" title=" " alt="" coords="230,426,421,467"/>
+<area shape="rect" id="node11" href="$classSettings.html#a7a1a535a10a2c5342254ba11cdf9b78e" title=" " alt="" coords="214,492,437,519"/>
+<area shape="rect" id="node12" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="527,689,685,716"/>
+<area shape="rect" id="node14" href="$classSettings.html#a613bebef785a7db1e348f65cbd9022bf" title=" " alt="" coords="254,843,397,869"/>
+<area shape="rect" id="node15" href="$classSettings.html#a390072e689225b5daadcec530fcd75af" title=" " alt="" coords="239,893,412,920"/>
+<area shape="rect" id="node16" href="$classSettings.html#aecdd88599186fd0159682b6b1416f999" title=" " alt="" coords="234,944,417,971"/>
+<area shape="rect" id="node17" href="$classSettings.html#a75515d3f25346fe78304b483b984e71e" title=" " alt="" coords="218,995,433,1021"/>
+<area shape="rect" id="node18" href="$classSettings.html#a3510bf2203562e98bd176d90af1ce0c0" title=" " alt="" coords="222,1045,429,1072"/>
+<area shape="rect" id="node19" href="$classSettings.html#a66e5adbc280d3c2a477fc0355fcf9c20" title=" " alt="" coords="230,1096,421,1123"/>
+<area shape="rect" id="node20" href="$classSettings.html#ad55cf658ea31dbe231f71bdf8c67f299" title=" " alt="" coords="236,1147,415,1173"/>
+<area shape="rect" id="node21" href="$classSettings.html#adc95c002eaed529d5cae9a5c9ded92ff" title=" " alt="" coords="257,1197,394,1224"/>
+<area shape="rect" id="node22" href="$classSettings.html#a01922be1474594b3d3f28e2c475e7fb4" title=" " alt="" coords="222,1248,429,1275"/>
+<area shape="rect" id="node23" href="$classSettings.html#aeed1a19e79d7559935a80c7584ed3280" title=" " alt="" coords="234,1299,417,1325"/>
+<area shape="rect" id="node24" href="$classStyle.html#a258aeaf5161324081b141ad8f6a1a014" title=" " alt="" coords="501,767,711,793"/>
+<area shape="rect" id="node25" href="$classSettings.html#ad8df2c2b08cf2e8c527f0c8b5656fe56" title=" " alt="" coords="213,1349,437,1376"/>
+<area shape="rect" id="node26" href="$classSettings.html#aef82328a4d25a17b920de63d73670c29" title=" " alt="" coords="227,1400,424,1427"/>
+<area shape="rect" id="node27" href="$classSmileyPack.html#a5a8183638e98f1d9c3b7d233ea62a602" title="Does the same as listSmileyPaths, but with default paths." alt="" coords="222,1451,429,1477"/>
+<area shape="rect" id="node28" href="$classUserInterfaceForm.html#ad30b53e35554d0ef2701651c0b725778" title=" " alt="" coords="204,609,447,650"/>
+<area shape="rect" id="node33" href="$classUserInterfaceForm.html#a8a2dcf49c11eadf685bba3e86f0144dd" title=" " alt="" coords="209,543,441,585"/>
+<area shape="rect" id="node35" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated." alt="" coords="228,1501,423,1528"/>
+<area shape="rect" id="node36" href="$classUserInterfaceForm.html#aa7f672b41a032ba66deda2da9c165efc" title="Reload smileys and size information." alt="" coords="250,1553,401,1594"/>
+<area shape="rect" id="node40" href="$classUserInterfaceForm.html#ad7e6b787b8aff19d2b027748ea377f99" title="Retranslate all elements in the form." alt="" coords="250,726,401,767"/>
+<area shape="rect" id="node13" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="765,689,901,716"/>
+<area shape="rect" id="node29" href="$classSettings.html#ac7c3a8c8cc849664ed2df8f39932e18e" title=" " alt="" coords="519,588,693,615"/>
+<area shape="rect" id="node30" href="$classSettings.html#ac7e6d945b8d84b942f2e311b6908416f" title=" " alt="" coords="516,639,696,665"/>
+<area shape="rect" id="node32" href="$classTranslator.html#ac837c0ce19eb55fbe886be40094cef68" title="Loads the translations according to the settings or locale." alt="" coords="530,537,682,564"/>
+<area shape="rect" id="node31" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="772,563,895,589"/>
+<area shape="rect" id="node34" href="$classSettings.html#aec5cda0879d005cff1b7954009523041" title=" " alt="" coords="495,487,717,513"/>
+<area shape="rect" id="node37" href="$classSmileyPack.html#ace0311861dd061d08b28b26643ebaac0" title="Gets icon accoring to passed emoticon." alt="" coords="521,1509,691,1536"/>
+<area shape="rect" id="node38" href="$classSmileyPack.html#aba24d52a29b6fa3e4507f95ca725249a" title="Returns all emoticons that was extracted from files, grouped by according icon file." alt="" coords="509,1560,703,1587"/>
+<area shape="rect" id="node39" href="$classSmileyPack.html#a7f77017891a40454236a7d84c6b34d71" title="Returns the singleton instance." alt="" coords="515,1611,697,1637"/>
+</map>

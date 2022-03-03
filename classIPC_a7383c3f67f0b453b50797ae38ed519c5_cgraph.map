@@ -1,0 +1,5 @@
+<map id="IPC::fetchEvent" name="IPC::fetchEvent">
+<area shape="rect" id="node1" title="Only called when global memory IS LOCKED." alt="" coords="5,31,127,57"/>
+<area shape="rect" id="node2" href="$classIPC.html#a41e9dfbcf274a4cdea8411ef3245f81d" title=" " alt="" coords="229,5,320,32"/>
+<area shape="rect" id="node3" href="$classIPC.html#a2d8b7b552f76e7d01c3f07a8b0f9f330" title="Only called when global memory IS LOCKED." alt="" coords="175,56,375,83"/>
+</map>

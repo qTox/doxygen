@@ -1,0 +1,10 @@
+<map id="ChatForm::onScreenshotClicked" name="ChatForm::onScreenshotClicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,233,75"/>
+<area shape="rect" id="node2" href="$classChatForm.html#ad818082e302b100fe7ac90b12eb5ddd6" title=" " alt="" coords="281,49,463,75"/>
+<area shape="rect" id="node3" href="$classChatForm.html#ac84585933b544e7753ea5fd3ab3c8d26" title=" " alt="" coords="511,17,697,43"/>
+<area shape="rect" id="node6" href="$classScreenshotGrabber.html#a9d95a4c820e5c1dbe83b2bdeb8eb7421" title=" " alt="" coords="527,71,681,112"/>
+<area shape="rect" id="node4" href="$classImagePreviewButton.html#a5f382a86524b0f9809da1c42bd0b1448" title=" " alt="" coords="745,5,904,47"/>
+<area shape="rect" id="node5" href="$classImagePreviewButton.html#a9459c655fc8f282e02c3b8410113822e" title=" " alt="" coords="952,5,1111,47"/>
+<area shape="rect" id="node7" href="$classScreenshotGrabber.html#a28d8a9f0d5c8c28b32b719edc1249db7" title=" " alt="" coords="746,71,903,112"/>
+<area shape="rect" id="node8" href="$classScreenshotGrabber.html#adca61b007fe86428c06597bffa3ded74" title=" " alt="" coords="747,136,902,177"/>
+</map>

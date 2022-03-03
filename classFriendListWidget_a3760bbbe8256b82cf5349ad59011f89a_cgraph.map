@@ -1,0 +1,21 @@
+<map id="FriendListWidget::createCircleWidget" name="FriendListWidget::createCircleWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,185,141"/>
+<area shape="rect" id="node2" href="$classSettings.html#aba909d42ff74774ad66eeef798ad1097" title=" " alt="" coords="266,5,410,32"/>
+<area shape="rect" id="node6" href="$classCircleWidget.html#a9ed43192e107738f630f66ec9255534e" title=" " alt="" coords="247,56,429,83"/>
+<area shape="rect" id="node7" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="259,107,417,133"/>
+<area shape="rect" id="node9" href="$classCategoryWidget.html#a68bf5f6448eebce7c19fe77ec92534b9" title=" " alt="" coords="233,158,443,199"/>
+<area shape="rect" id="node13" href="$classFriendListWidget.html#a7a050d62abb59ba320f21309cb1e6266" title=" " alt="" coords="243,275,433,317"/>
+<area shape="rect" id="node3" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile." alt="" coords="503,5,673,32"/>
+<area shape="rect" id="node4" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="792,5,925,32"/>
+<area shape="rect" id="node5" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="1064,5,1211,32"/>
+<area shape="rect" id="node8" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="520,64,656,91"/>
+<area shape="rect" id="node10" href="$classCroppingLabel.html#ae43436aa0cb89c50573c0a245fd15b44" title=" " alt="" coords="733,129,984,170"/>
+<area shape="rect" id="node11" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="531,165,645,192"/>
+<area shape="rect" id="node12" href="$classGenericChatItemWidget.html#ab426d1dafe136064a14eb726a6c623d6" title=" " alt="" coords="499,217,677,258"/>
+<area shape="rect" id="node14" href="$classCategoryWidget.html#a671aa4e68279bfb5b7f0017efd5c67ef" title=" " alt="" coords="491,283,685,309"/>
+<area shape="rect" id="node19" href="$classFriendListManager.html#abb298201ae2afed0330251c08d8a200b" title=" " alt="" coords="513,334,663,375"/>
+<area shape="rect" id="node15" href="$classGenericChatItemWidget.html#a93f4e18010e6e9ea0f2fe276f1ab54b3" title=" " alt="" coords="769,217,948,258"/>
+<area shape="rect" id="node16" href="$classCategoryWidget.html#ae33c837f6d11a4cd6dbd8aa9fc9890b2" title=" " alt="" coords="753,283,964,309"/>
+<area shape="rect" id="node17" href="$classCroppingLabel.html#aa4515b48b52f077b250535c50b87b1f3" title=" " alt="" coords="773,333,944,360"/>
+<area shape="rect" id="node18" href="$classCroppingLabel.html#af9545d6b792896fc23ff5c70568a9ca4" title=" " alt="" coords="1032,333,1243,360"/>
+</map>

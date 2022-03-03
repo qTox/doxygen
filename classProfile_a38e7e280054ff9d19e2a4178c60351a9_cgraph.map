@@ -1,0 +1,7 @@
+<map id="Profile::onSaveToxSave" name="Profile::onSaveToxSave">
+<area shape="rect" id="node1" title="Saves the profile&#39;s .tox save, encrypted if needed." alt="" coords="5,56,179,83"/>
+<area shape="rect" id="node2" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed." alt="" coords="227,56,383,83"/>
+<area shape="rect" id="node3" href="$classProfileLocker.html#abd3991dc28df89388a431243f568a076" title="Check that we actually own the lock. In case the file was deleted on disk, restore it...." alt="" coords="452,5,635,32"/>
+<area shape="rect" id="node4" href="$classProfileLocker.html#a695afe4fdaa99393d1665920f6e586f9" title="Get current locked profile name." alt="" coords="431,56,656,83"/>
+<area shape="rect" id="node5" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="450,107,637,133"/>
+</map>

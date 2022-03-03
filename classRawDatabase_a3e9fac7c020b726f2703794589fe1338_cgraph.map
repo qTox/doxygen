@@ -1,0 +1,7 @@
+<map id="RawDatabase::remove" name="RawDatabase::remove">
+<area shape="rect" id="node1" title="Deletes the on disk database file after closing it." alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$classRawDatabase.html#a22304dfd64495ba3666e3098a988ea28" title="Close the database and free its associated resources." alt="" coords="224,31,379,57"/>
+<area shape="rect" id="node3" href="$classRawDatabase.html#a04a091251caf0b3a2886014b3a1c15f7" title="Implements the actual processing of pending transactions. Unqueues, compiles, binds and executes quer..." alt="" coords="427,31,597,57"/>
+<area shape="rect" id="node4" href="$classRawDatabase.html#acca559e7d15b127e4a1e434223dd1831" title="Hides public keys and timestamps in query." alt="" coords="645,5,876,32"/>
+<area shape="rect" id="node5" href="$classRawDatabase.html#a5b81c8fb582a9aa9b14fc04cf2511e03" title="Extracts a variant from one column of a result row depending on the column type." alt="" coords="662,56,859,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IChatLog::searchBackward" name="IChatLog::searchBackward">
+<area shape="rect" id="node1" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="465,5,660,32"/>
+<area shape="rect" id="node2" href="$classChatWidget.html#a9a1a0261818fb3e359fb2f17e8e65841" title=" " alt="" coords="233,5,417,32"/>
+<area shape="rect" id="node3" href="$classChatWidget.html#adfdbddac596fbbe1251e4fbcb342dc84" title=" " alt="" coords="5,5,185,32"/>
+</map>

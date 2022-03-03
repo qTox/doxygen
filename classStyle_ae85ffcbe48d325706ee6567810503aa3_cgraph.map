@@ -1,0 +1,5 @@
+<map id="Style::applyTheme" name="Style::applyTheme">
+<area shape="rect" id="node1" title="Reloads some CCS." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$classGUI.html#a224eefd7923b9f160e0e7c6347b4a276" title="Reloads the application theme and redraw the window." alt="" coords="197,5,337,32"/>
+<area shape="rect" id="node3" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="385,5,516,32"/>
+</map>

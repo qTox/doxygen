@@ -1,0 +1,4 @@
+<map id="ProfileInfo::isEncrypted" name="ProfileInfo::isEncrypted">
+<area shape="rect" id="node1" title="Check if current profile is encrypted." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$classProfile.html#ae356085035393c932017d8d073751d98" title="Checks, if profile has a password." alt="" coords="225,5,372,32"/>
+</map>

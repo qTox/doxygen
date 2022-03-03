@@ -1,0 +1,4 @@
+<map id="VideoFrame::releaseFrame" name="VideoFrame::releaseFrame">
+<area shape="rect" id="node1" title="Releases all frames managed by this VideoFrame and invalidates it." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$classVideoFrame.html#af6774c39985b89d53ad2b7bb1bdfbfcf" title="Releases all frames within the frame buffer." alt="" coords="251,5,480,32"/>
+</map>

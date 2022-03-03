@@ -1,0 +1,5 @@
+<map id="Profile::avatarPath" name="Profile::avatarPath">
+<area shape="rect" id="node1" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID." alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="195,5,381,32"/>
+<area shape="rect" id="node3" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="217,56,359,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Settings::createPersonal" name="Settings::createPersonal">
+<area shape="rect" id="node1" title="Write a default personal .ini settings file for a profile." alt="" coords="1699,56,1879,83"/>
+<area shape="rect" id="node2" href="$classProfile.html#ad70346022a584b8c1e81c79b00f212d5" title="Creates a new profile and the associated Core* instance." alt="" coords="1476,31,1629,57"/>
+<area shape="rect" id="node10" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed." alt="" coords="1455,81,1651,108"/>
+<area shape="rect" id="node3" href="$classNexus.html#ac0ec013e4903e8f1c4b4bba022be413c" title="Creates a new profile and replaces the current one." alt="" coords="1207,31,1407,57"/>
+<area shape="rect" id="node4" href="$classNexus.html#a9fcd02c45c77288f9158a9b68549d758" title=" " alt="" coords="953,31,1155,57"/>
+<area shape="rect" id="node5" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen." alt="" coords="761,31,901,57"/>
+<area shape="rect" id="node6" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title=" " alt="" coords="616,5,713,32"/>
+<area shape="rect" id="node7" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title=" " alt="" coords="407,5,568,32"/>
+<area shape="rect" id="node8" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin." alt="" coords="257,5,359,32"/>
+<area shape="rect" id="node9" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title=" " alt="" coords="5,31,209,57"/>
+<area shape="rect" id="node11" href="$classLoginScreen.html#a0f4294515145af8429170543f0b0b57f" title="Resets the UI, clears all fields." alt="" coords="1235,81,1378,108"/>
+<area shape="rect" id="node12" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title=" " alt="" coords="949,81,1159,108"/>
+</map>

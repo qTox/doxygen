@@ -1,0 +1,5 @@
+<map id="NotificationGenerator::friendRequestNotification" name="NotificationGenerator::friendRequestNotification">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,201,76"/>
+<area shape="rect" id="node2" href="$classINotificationSettings.html#acc58c7a221d18da768d970b0624f3726" title=" " alt="" coords="249,5,404,47"/>
+<area shape="rect" id="node3" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="255,71,398,98"/>
+</map>

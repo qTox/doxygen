@@ -1,0 +1,4 @@
+<map id="Friend::setAlias" name="Friend::setAlias">
+<area shape="rect" id="node1" title="Friend::setAlias sets the alias for the friend." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="176,5,371,32"/>
+</map>

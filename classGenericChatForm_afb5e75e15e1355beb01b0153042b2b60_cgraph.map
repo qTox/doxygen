@@ -1,0 +1,8 @@
+<map id="GenericChatForm::onChatContextMenuRequested" name="GenericChatForm::onChatContextMenuRequested">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,245,76"/>
+<area shape="rect" id="node2" href="$classChatWidget.html#a18a1601298db05d88b09041823e83cae" title="Finds the chat line object at a position on screen." alt="" coords="293,5,504,47"/>
+<area shape="rect" id="node5" href="$classText.html#ad2e76ad1296a3b387c1cecf5b503d4f3" title="Extracts the target of a link from the text at a given coordinate." alt="" coords="339,71,458,98"/>
+<area shape="rect" id="node3" href="$classChatWidget.html#a72c6ea88563b5385e04f5983df8bd638" title=" " alt="" coords="552,13,787,39"/>
+<area shape="rect" id="node4" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title=" " alt="" coords="835,5,1025,47"/>
+<area shape="rect" id="node6" href="$classText.html#a7c7b174a2d946218f68eff3f5396cb4b" title=" " alt="" coords="593,71,746,98"/>
+</map>

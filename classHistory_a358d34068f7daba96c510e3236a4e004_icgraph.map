@@ -1,0 +1,4 @@
+<map id="History::getNumMessagesForFriendBeforeDateBoundaries" name="History::getNumMessagesForFriendBeforeDateBoundaries">
+<area shape="rect" id="node1" title="Gets date boundaries in conversation with friendPk. History doesn&#39;t model conversation indexes,..." alt="" coords="239,5,452,47"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a7281d4a0fe8b2cbb4c7e973cf6550491" title="Gets indexes for each new date starting at startDate." alt="" coords="5,13,191,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Identicon::Identicon" name="Identicon::Identicon">
+<area shape="rect" id="node1" title="Creates an Identicon, that visualizes a hash in graphical form." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$classIdenticon.html#a4e9a059110937991d5b5a0d40898ff69" title="Converts a series of IDENTICON_COLOR_BYTES bytes to a value in the range 0.0..1.0." alt="" coords="204,5,379,32"/>
+</map>

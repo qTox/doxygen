@@ -1,0 +1,4 @@
+<map id="Settings::createSettingsDir" name="Settings::createSettingsDir">
+<area shape="rect" id="node1" title="Creates a path to the settings dir, if it doesn&#39;t already exist." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="249,5,436,32"/>
+</map>

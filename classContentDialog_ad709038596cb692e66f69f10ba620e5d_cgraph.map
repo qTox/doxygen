@@ -1,0 +1,29 @@
+<map id="ContentDialog::addFriend" name="ContentDialog::addFriend">
+<area shape="rect" id="node1" title=" " alt="" coords="5,505,192,531"/>
+<area shape="rect" id="node2" href="$classContentDialog.html#ad823b3ce8772328eef8024f61bd046e6" title="Show ContentDialog, activate chatroom widget." alt="" coords="256,238,432,265"/>
+<area shape="rect" id="node19" href="$classFriendListLayout.html#a309baf055f89d7fbe0e721e474ab3fbc" title=" " alt="" coords="496,603,697,644"/>
+<area shape="rect" id="node23" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="265,446,423,473"/>
+<area shape="rect" id="node25" href="$classContentDialog.html#aa8ee86efddba67e9b4132850b7805ce5" title=" " alt="" coords="252,563,436,604"/>
+<area shape="rect" id="node26" href="$classContentDialog.html#a8ceb9ec47bc57b9c5fb0ec3d98911bd3" title="Update friend widget name and position." alt="" coords="240,497,448,539"/>
+<area shape="rect" id="node3" href="$classContentLayout.html#a1975e7c8e9d7df7a2e9fbc6a39fd7cd1" title=" " alt="" coords="518,267,675,294"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#a193f7bae714e7bdc2fa59b8e47aff674" title=" " alt="" coords="505,319,688,360"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html#a3558f62ffc5d4f8389b02fd23f69698a" title=" " alt="" coords="505,384,688,425"/>
+<area shape="rect" id="node6" href="$classGenericChatroomWidget.html#a11206e1a3d9ce26eaea8bccc0e34e980" title=" " alt="" coords="505,5,688,47"/>
+<area shape="rect" id="node7" href="$classGenericChatroomWidget.html#a8bad475d4a08ad812ee535a03c232e74" title=" " alt="" coords="505,71,688,112"/>
+<area shape="rect" id="node8" href="$classGenericChatroomWidget.html#a396495200786e011fee6fb3eb73626f5" title=" " alt="" coords="505,136,688,177"/>
+<area shape="rect" id="node9" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon." alt="" coords="498,201,695,243"/>
+<area shape="rect" id="node10" href="$classGenericChatroomWidget.html#a37dd36e6b22360eefcf9b25d6f1d2cf9" title=" " alt="" coords="745,325,928,367"/>
+<area shape="rect" id="node11" href="$classGenericChatroomWidget.html#af25cbf78d0498dbeecbefbae3dad440e" title=" " alt="" coords="745,143,928,184"/>
+<area shape="rect" id="node12" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title=" " alt="" coords="763,209,910,235"/>
+<area shape="rect" id="node14" href="$classFriend.html#af29d8af5f6d6dc1c9e2c7117bf4efc5c" title=" " alt="" coords="771,438,903,465"/>
+<area shape="rect" id="node15" href="$classGenericChatroomWidget.html#ae9d1639db904e894460f8184fff5480b" title=" " alt="" coords="745,260,928,301"/>
+<area shape="rect" id="node13" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title=" " alt="" coords="1002,209,1167,235"/>
+<area shape="rect" id="node16" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="1241,399,1420,440"/>
+<area shape="rect" id="node18" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title=" " alt="" coords="993,319,1176,360"/>
+<area shape="rect" id="node17" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="1468,406,1639,433"/>
+<area shape="rect" id="node20" href="$classGenericChatItemLayout.html#a60332f35f1c3da8cb61acb86686a5c5b" title=" " alt="" coords="749,537,925,579"/>
+<area shape="rect" id="node22" href="$classGenericChatItemLayout.html#a599d7e0b5f64a7b7d8d977ffa4126b75" title=" " alt="" coords="749,603,925,644"/>
+<area shape="rect" id="node21" href="$classGenericChatItemLayout.html#a7d376aa70cbcbe9d8a647379724f656c" title=" " alt="" coords="976,537,1193,579"/>
+<area shape="rect" id="node24" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="529,450,665,477"/>
+<area shape="rect" id="node27" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="518,551,675,578"/>
+</map>

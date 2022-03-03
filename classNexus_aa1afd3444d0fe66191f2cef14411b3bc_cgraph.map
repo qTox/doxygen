@@ -1,0 +1,4 @@
+<map id="Nexus::getProfile" name="Nexus::getProfile">
+<area shape="rect" id="node1" title="Get current user profile." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="187,5,333,32"/>
+</map>

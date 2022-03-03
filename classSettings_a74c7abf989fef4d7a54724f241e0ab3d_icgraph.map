@@ -1,0 +1,5 @@
+<map id="Settings::getVideoDev" name="Settings::getVideoDev">
+<area shape="rect" id="node1" title=" " alt="" coords="505,13,672,39"/>
+<area shape="rect" id="node2" href="$classCameraDevice.html#affa8877e347ad77abcce1b6bbeb9f938" title="Get the default device name." alt="" coords="263,5,457,47"/>
+<area shape="rect" id="node3" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device." alt="" coords="5,13,215,39"/>
+</map>

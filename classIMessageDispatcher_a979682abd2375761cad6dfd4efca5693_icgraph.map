@@ -1,0 +1,5 @@
+<map id="IMessageDispatcher::sendExtendedMessage" name="IMessageDispatcher::sendExtendedMessage">
+<area shape="rect" id="node1" title="Sends message to associated chat ensuring that extensions are available." alt="" coords="491,5,671,47"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#ae5e2e3220f00ee68a3394388d253e366" title="Sends any unsent messages in history to the underlying message dispatcher." alt="" coords="236,5,443,47"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title=" " alt="" coords="5,13,188,39"/>
+</map>

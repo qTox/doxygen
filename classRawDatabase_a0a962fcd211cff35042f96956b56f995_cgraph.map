@@ -1,0 +1,4 @@
+<map id="RawDatabase::execNow" name="RawDatabase::execNow">
+<area shape="rect" id="node1" title="Executes a SQL transaction synchronously." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classRawDatabase.html#a3dc127e50fbb428e773ce4052d0b48c2" title="Executes a SQL transaction synchronously." alt="" coords="232,5,411,32"/>
+</map>

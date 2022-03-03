@@ -1,0 +1,6 @@
+<map id="Group::getPeersCount" name="Group::getPeersCount">
+<area shape="rect" id="node1" title=" " alt="" coords="271,56,435,83"/>
+<area shape="rect" id="node2" href="$classGroupChatForm.html#afa7e5cfbc07edea3bc4218a0ad89cf0c" title=" " alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node3" href="$classGroupWidget.html#aa9049af85f958b77f433449cc5f85540" title=" " alt="" coords="14,56,214,83"/>
+<area shape="rect" id="node4" href="$classGroupMessageDispatcher.html#a99364f021757c18fd5d1f53e6ff7047a" title="Sends message to associated chat." alt="" coords="19,107,209,149"/>
+</map>

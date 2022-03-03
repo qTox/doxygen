@@ -1,0 +1,8 @@
+<map id="History::getMessagesForFriend" name="History::getMessagesForFriend">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,228,83"/>
+<area shape="rect" id="node2" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked." alt="" coords="276,31,493,57"/>
+<area shape="rect" id="node6" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="313,81,456,108"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="541,5,700,32"/>
+<area shape="rect" id="node5" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="561,56,680,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="748,5,884,32"/>
+</map>

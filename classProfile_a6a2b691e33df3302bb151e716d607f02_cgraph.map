@@ -1,0 +1,9 @@
+<map id="Profile::rename" name="Profile::rename">
+<area shape="rect" id="node1" title="Tries to rename the profile." alt="" coords="5,107,127,133"/>
+<area shape="rect" id="node2" href="$classSettings.html#a1eedf0610bf49c962cfbacc55a07c155" title=" " alt="" coords="193,5,348,32"/>
+<area shape="rect" id="node3" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="177,56,364,83"/>
+<area shape="rect" id="node4" href="$classProfileLocker.html#a316602739a054879e833ee6808832db5" title="Tries to acquire the lock on a profile, will not block." alt="" coords="201,107,341,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#aaeda95c3b6aa6129be73ab5ca9e983a6" title=" " alt="" coords="193,157,348,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#ad8f9b7cf953cff5ada0d152a884cb809" title=" " alt="" coords="175,208,367,235"/>
+<area shape="rect" id="node7" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title=" " alt="" coords="415,208,587,235"/>
+</map>

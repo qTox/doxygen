@@ -1,0 +1,5 @@
+<map id="Core::getGroupPeerNames" name="Core::getGroupPeerNames">
+<area shape="rect" id="node1" title="Get the names of the peers of a group." alt="" coords="5,31,200,57"/>
+<area shape="rect" id="node2" href="$classCore.html#ae125b975cbcad46b222fe0f842bdb3dc" title="Get number of peers in the conference." alt="" coords="248,5,456,32"/>
+<area shape="rect" id="node3" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="273,56,431,83"/>
+</map>

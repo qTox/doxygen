@@ -1,0 +1,6 @@
+<map id="Profile::getFilesByExt" name="Profile::getFilesByExt">
+<area shape="rect" id="node1" title="Lists all the files in the config dir with a given extension." alt="" coords="697,5,857,32"/>
+<area shape="rect" id="node2" href="$classProfile.html#abe7304ed8ae9ecfc868e85e00f59a24b" title="Scan for profile, automatically importing them if needed." alt="" coords="453,5,649,32"/>
+<area shape="rect" id="node3" href="$classLoginScreen.html#a0f4294515145af8429170543f0b0b57f" title="Resets the UI, clears all fields." alt="" coords="263,5,405,32"/>
+<area shape="rect" id="node4" href="$classLoginScreen.html#abda55906cddc9fd3e8a71355304fe284" title=" " alt="" coords="5,5,215,32"/>
+</map>

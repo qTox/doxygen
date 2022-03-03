@@ -1,0 +1,12 @@
+<map id="GroupWidget" name="GroupWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="362,1569,561,1925"/>
+<area shape="rect" id="node2" href="$classGenericChatroomWidget.html" title=" " alt="" coords="153,1151,359,1507"/>
+<area shape="rect" id="node3" href="$classGenericChatItemWidget.html" title=" " alt="" coords="5,877,208,1043"/>
+<area shape="rect" id="node4" title=" " alt="" coords="59,279,133,356"/>
+<area shape="rect" id="node5" href="$classCroppingLabel.html" title=" " alt="" coords="157,132,369,503"/>
+<area shape="rect" id="node6" title=" " alt="" coords="313,5,380,83"/>
+<area shape="rect" id="node7" href="$classMaskablePixmapWidget.html" title=" " alt="" coords="335,527,550,795"/>
+<area shape="rect" id="node8" href="$classIFriendListItem.html" title=" " alt="" coords="384,1217,539,1441"/>
+<area shape="rect" id="node9" href="$classGroupId.html" title="This class represents a long term persistent group identifier." alt="" coords="563,1261,661,1397"/>
+<area shape="rect" id="node10" href="$classContactId.html" title=" " alt="" coords="545,819,679,1101"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="MessageProcessor::SharedParams::getMaxExtendedMessageSize" name="MessageProcessor::SharedParams::getMaxExtendedMessageSize">
+<area shape="rect" id="node1" title=" " alt="" coords="493,104,767,145"/>
+<area shape="rect" id="node2" href="$classMessageProcessor.html#a645c60c98eddd3994ae7abc5eb82b5ca" title="Converts an outgoing message into one (or many) sanitized Message(s)" alt="" coords="244,104,445,145"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#a7e574fcc231a6d5d670ce9f787cca34f" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node4" href="$classGroupMessageDispatcher.html#a4395ed919e586bc080ae9528dd3e98e4" title="Sends message to associated chat ensuring that extensions are available." alt="" coords="6,71,195,112"/>
+<area shape="rect" id="node5" href="$classFriendMessageDispatcher.html#ac3c6340d41fe54c3a934db244f115cac" title=" " alt="" coords="5,136,196,177"/>
+<area shape="rect" id="node6" href="$classGroupMessageDispatcher.html#a99364f021757c18fd5d1f53e6ff7047a" title="Sends message to associated chat." alt="" coords="6,201,195,243"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Widget::dispatchFile" name="Widget::dispatchFile">
+<area shape="rect" id="node1" title="Dispatches file to the appropriate chatlog and accepts the transfer if necessary." alt="" coords="5,233,160,260"/>
+<area shape="rect" id="node2" href="$classWidget.html#a9a66695095ed17cdd24860d74961ca5d" title=" " alt="" coords="230,5,425,32"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="249,56,406,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#a427c69ad6d49ba559b0ca5508eb51f48" title=" " alt="" coords="229,107,426,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab94ae85bd06cd2cc111a0f0ddce66997" title=" " alt="" coords="218,157,437,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#abf583d4671f5e817e67136b5925d0d41" title=" " alt="" coords="208,208,447,235"/>
+<area shape="rect" id="node7" href="$classSettings.html#acda1fecb9c0bc3249b8099340668c520" title=" " alt="" coords="211,259,444,285"/>
+<area shape="rect" id="node8" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="250,309,405,336"/>
+<area shape="rect" id="node9" href="$classCore.html#a6db1a3c431ef63160d3d112ac7079604" title="Gets self public key." alt="" coords="243,360,412,387"/>
+<area shape="rect" id="node10" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title=" " alt="" coords="259,411,396,437"/>
+<area shape="rect" id="node11" href="$classFilesForm.html#a68da33e715820d7084dd6888732d2be6" title=" " alt="" coords="234,461,421,488"/>
+<area shape="rect" id="node12" href="$classFileTransferList_1_1Model.html#a18825841a2a54ef3cda09af07b4f9675" title=" " alt="" coords="495,454,663,495"/>
+<area shape="rect" id="node13" href="$classFileTransferList_1_1Model.html#ae8e9b373038f41505fc9ff54d4569508" title=" " alt="" coords="711,454,879,495"/>
+</map>

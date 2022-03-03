@@ -1,0 +1,5 @@
+<map id="Settings::savePersonal" name="Settings::savePersonal">
+<area shape="rect" id="node1" title="Asynchronous, saves the current profile." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="224,5,357,32"/>
+<area shape="rect" id="node3" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="405,5,552,32"/>
+</map>

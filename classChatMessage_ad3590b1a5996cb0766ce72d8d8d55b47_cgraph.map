@@ -1,0 +1,10 @@
+<map id="ChatMessage::markAsDelivered" name="ChatMessage::markAsDelivered">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node2" href="$classSettings.html#a8d55c13690362e77fe06d38cc9367216" title=" " alt="" coords="284,5,504,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="315,56,473,83"/>
+<area shape="rect" id="node5" href="$classChatLine.html#a51f7206c23d1b6a6cc9543b1821ebdf8" title=" " alt="" coords="301,107,487,133"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="581,56,717,83"/>
+<area shape="rect" id="node6" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title=" " alt="" coords="585,107,713,133"/>
+<area shape="rect" id="node8" href="$classChatLineContent.html#ad12463fa8c9f07bbcbbcb36517dacb51" title=" " alt="" coords="552,157,747,184"/>
+<area shape="rect" id="node7" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title=" " alt="" coords="795,107,961,133"/>
+</map>

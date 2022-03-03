@@ -1,0 +1,6 @@
+<map id="MessageProcessor::SharedParams::getSanitizedNameMention" name="MessageProcessor::SharedParams::getSanitizedNameMention">
+<area shape="rect" id="node1" title=" " alt="" coords="493,39,744,80"/>
+<area shape="rect" id="node2" href="$classMessageProcessor.html#a9f7e000600663929230c4c38e6dae9cb" title="Converts an incoming message into a sanitized Message." alt="" coords="244,39,445,80"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#acb78525bd8da2e5ad5c53139037fa9a7" title="Handles received message from toxcore." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node4" href="$classGroupMessageDispatcher.html#afc7fe5e58125537c5ebfbbe44da898f6" title="Processes and dispatches received message from toxcore." alt="" coords="6,71,195,112"/>
+</map>

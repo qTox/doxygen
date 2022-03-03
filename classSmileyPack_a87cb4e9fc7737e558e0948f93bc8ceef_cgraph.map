@@ -1,0 +1,8 @@
+<map id="SmileyPack::onSmileyPackChanged" name="SmileyPack::onSmileyPackChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,201,65"/>
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="249,5,408,32"/>
+<area shape="rect" id="node4" href="$classSmileyPack.html#aac8df161b7a0d30bf166d061ee465763" title="Load smile pack." alt="" coords="262,56,395,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="491,5,627,32"/>
+<area shape="rect" id="node5" href="$classSmileyPack.html#adc96f56421f475741232244e00d21134" title="Creates the regex for replacing emoticons with the path to their pictures." alt="" coords="456,56,663,83"/>
+<area shape="rect" id="node6" href="$smileypack_8cpp.html#a2422c5f1464a4e44ae7ecc2533a52a78" title=" " alt="" coords="711,56,775,83"/>
+</map>

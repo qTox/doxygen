@@ -1,0 +1,5 @@
+<map id="Profile::onRequestSent" name="Profile::onRequestSent">
+<area shape="rect" id="node1" title="Adds history message about friendship request attempt if history is enabled." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node2" href="$classProfile.html#ac400040b6f5d5d16cd369e2b3d916d2f" title="Checks that the history is enabled in the settings, and loaded successfully for this profile." alt="" coords="223,5,404,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a20043d9e2168266b84dd45e90a932a6a" title=" " alt="" coords="452,5,651,32"/>
+</map>

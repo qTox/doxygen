@@ -1,0 +1,11 @@
+<map id="Group::regeneratePeerList" name="Group::regeneratePeerList">
+<area shape="rect" id="node1" title=" " alt="" coords="5,180,197,207"/>
+<area shape="rect" id="node2" href="$classFriendList.html#a07754b90161c4b8bede6bc35c4fc1e7f" title=" " alt="" coords="262,56,465,83"/>
+<area shape="rect" id="node6" href="$classICoreGroupQuery.html#af69db7e64f6284cee765f973329f6435" title=" " alt="" coords="263,107,464,149"/>
+<area shape="rect" id="node7" href="$classICoreGroupQuery.html#a5c8f4ce8de04047b11042f833e096159" title=" " alt="" coords="263,173,464,214"/>
+<area shape="rect" id="node8" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title=" " alt="" coords="245,239,481,265"/>
+<area shape="rect" id="node9" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title=" " alt="" coords="256,289,471,316"/>
+<area shape="rect" id="node3" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="548,5,705,32"/>
+<area shape="rect" id="node4" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="529,56,724,83"/>
+<area shape="rect" id="node5" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="555,107,698,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Settings::createPersonal" name="Settings::createPersonal">
+<area shape="rect" id="node1" title="Write a default personal .ini settings file for a profile." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node2" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="233,5,420,32"/>
+</map>

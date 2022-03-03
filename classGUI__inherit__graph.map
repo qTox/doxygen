@@ -1,0 +1,4 @@
+<map id="GUI" name="GUI">
+<area shape="rect" id="node1" title="Abstracts the GUI from the target backend (DesktopGUI, ...)" alt="" coords="5,131,155,457"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,5,117,83"/>
+</map>

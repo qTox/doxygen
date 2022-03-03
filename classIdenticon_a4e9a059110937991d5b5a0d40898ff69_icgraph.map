@@ -1,0 +1,4 @@
+<map id="Identicon::bytesToColor" name="Identicon::bytesToColor">
+<area shape="rect" id="node1" title="Converts a series of IDENTICON_COLOR_BYTES bytes to a value in the range 0.0..1.0." alt="" coords="204,5,379,32"/>
+<area shape="rect" id="node2" href="$classIdenticon.html#ae0984c4fa5a31c37c8f97688223cd1a0" title="Creates an Identicon, that visualizes a hash in graphical form." alt="" coords="5,5,156,32"/>
+</map>

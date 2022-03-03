@@ -1,0 +1,4 @@
+<map id="CoreAV::sendNoVideo" name="CoreAV::sendNoVideo">
+<area shape="rect" id="node1" title="Signal to all peers that we&#39;re not sending video anymore." alt="" coords="288,13,451,39"/>
+<area shape="rect" id="node2" href="$classAVForm.html#a8dbdf820b928b5b5bdf8381b9428dcbc" title=" " alt="" coords="5,5,240,47"/>
+</map>

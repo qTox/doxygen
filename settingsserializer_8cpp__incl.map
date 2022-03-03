@@ -1,0 +1,52 @@
+<map id="src/persistence/settingsserializer.cpp" name="src/persistence/settingsserializer.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="539,5,802,32"/>
+<area shape="rect" id="node2" href="$settingsserializer_8h.html" title=" " alt="" coords="131,155,277,181"/>
+<area shape="rect" id="node3" href="$toxencrypt_8h.html" title=" " alt="" coords="423,237,582,263"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1267,319,1344,345"/>
+<area shape="rect" id="node10" href="$serialize_8h.html" title=" " alt="" coords="519,319,609,345"/>
+<area shape="rect" id="node12" href="$profile_8h.html" title=" " alt="" coords="734,80,911,107"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1776,319,1845,345"/>
+<area shape="rect" id="node48" title=" " alt="" coords="936,80,1011,107"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1035,80,1090,107"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1114,80,1201,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2350,393,2421,420"/>
+<area shape="rect" id="node7" title=" " alt="" coords="26,237,137,263"/>
+<area shape="rect" id="node8" title=" " alt="" coords="161,237,247,263"/>
+<area shape="rect" id="node9" title=" " alt="" coords="735,319,809,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="2293,468,2390,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3509,468,3576,495"/>
+<area shape="rect" id="node13" href="$core_8h.html" title=" " alt="" coords="3683,155,3800,181"/>
+<area shape="rect" id="node26" title=" " alt="" coords="4555,319,4637,345"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2947,319,3021,345"/>
+<area shape="rect" id="node33" href="$avatarbroadcaster_8h.html" title=" " alt="" coords="2648,237,2848,263"/>
+<area shape="rect" id="node35" href="$history_8h.html" title=" " alt="" coords="1729,155,1908,181"/>
+<area shape="rect" id="node46" href="$bootstrapnodeupdater_8h.html" title=" " alt="" coords="2786,155,3011,181"/>
+<area shape="rect" id="node14" href="$groupid_8h.html" title=" " alt="" coords="3336,393,3419,420"/>
+<area shape="rect" id="node15" href="$icorefriendmessagesender_8h.html" title=" " alt="" coords="4337,237,4543,263"/>
+<area shape="rect" id="node16" href="$receiptnum_8h.html" title=" " alt="" coords="4407,319,4515,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4387,393,4517,420"/>
+<area shape="rect" id="node18" href="$icoregroupmessagesender_8h.html" title=" " alt="" coords="3045,319,3251,345"/>
+<area shape="rect" id="node19" href="$icoregroupquery_8h.html" title=" " alt="" coords="3437,319,3576,345"/>
+<area shape="rect" id="node20" href="$toxpk_8h.html" title=" " alt="" coords="3545,393,3615,420"/>
+<area shape="rect" id="node21" href="$icoreidhandler_8h.html" title=" " alt="" coords="3967,237,4094,263"/>
+<area shape="rect" id="node22" href="$toxid_8h.html" title=" " alt="" coords="3611,319,3677,345"/>
+<area shape="rect" id="node23" href="$toxfile_8h.html" title=" " alt="" coords="1997,237,2072,263"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3305,237,3540,263"/>
+<area shape="rect" id="node25" href="$status_8h.html" title=" " alt="" coords="4118,237,4261,263"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3564,237,3644,263"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2449,319,2522,345"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2597,319,2675,345"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3669,237,3739,263"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2699,319,2786,345"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2862,319,2922,345"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2227,319,2323,345"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1857,237,1922,263"/>
+<area shape="rect" id="node38" title=" " alt="" coords="861,237,939,263"/>
+<area shape="rect" id="node40" title=" " alt="" coords="963,237,1122,263"/>
+<area shape="rect" id="node41" href="$extension_8h.html" title=" " alt="" coords="1146,237,1299,263"/>
+<area shape="rect" id="node42" href="$brokenmessagereason_8h.html" title=" " alt="" coords="1323,237,1573,263"/>
+<area shape="rect" id="node43" href="$systemmessage_8h.html" title=" " alt="" coords="2313,237,2522,263"/>
+<area shape="rect" id="node44" href="$rawdatabase_8h.html" title=" " alt="" coords="2097,229,2237,271"/>
+<area shape="rect" id="node45" href="$searchtypes_8h.html" title=" " alt="" coords="1597,237,1781,263"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2871,237,2926,263"/>
+</map>

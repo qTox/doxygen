@@ -1,0 +1,11 @@
+<map id="AddFriendForm::friendRequested" name="AddFriendForm::friendRequested">
+<area shape="rect" id="node1" title=" " alt="" coords="1119,97,1353,123"/>
+<area shape="rect" id="node2" href="$classAddFriendForm.html#ad57a4223a519b32d8370af0d447e1d20" title=" " alt="" coords="879,71,1071,98"/>
+<area shape="rect" id="node5" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title=" " alt="" coords="926,122,1023,149"/>
+<area shape="rect" id="node3" href="$classAddFriendForm.html#a6b4aa62d034c5fda6dda399a1e4cb603" title=" " alt="" coords="603,5,822,47"/>
+<area shape="rect" id="node4" href="$classAddFriendForm.html#a2bcf8d6ef490913c60a0eb4f75b71886" title=" " alt="" coords="595,71,831,98"/>
+<area shape="rect" id="node6" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title=" " alt="" coords="632,122,793,149"/>
+<area shape="rect" id="node7" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin." alt="" coords="445,122,547,149"/>
+<area shape="rect" id="node8" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title=" " alt="" coords="193,122,397,149"/>
+<area shape="rect" id="node9" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen." alt="" coords="5,147,145,174"/>
+</map>

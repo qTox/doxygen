@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classContactId.html" title=" " alt="" coords="5,31,89,57"/>
+<area shape="rect" id="node2" href="$classGroupId.html" title="This class represents a long term persistent group identifier." alt="" coords="137,5,211,32"/>
+<area shape="rect" id="node3" href="$classToxPk.html" title="This class represents a Tox Public Key, which is a part of Tox ID." alt="" coords="144,56,204,83"/>
+</map>

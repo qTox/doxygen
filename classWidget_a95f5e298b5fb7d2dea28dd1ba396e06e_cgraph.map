@@ -1,0 +1,6 @@
+<map id="Widget::confirmExecutableOpen" name="Widget::confirmExecutableOpen">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,236,57"/>
+<area shape="rect" id="node2" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons." alt="" coords="284,31,419,57"/>
+<area shape="rect" id="node3" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title=" " alt="" coords="467,5,609,32"/>
+<area shape="rect" id="node4" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="473,56,603,83"/>
+</map>

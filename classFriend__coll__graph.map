@@ -1,0 +1,7 @@
+<map id="Friend" name="Friend">
+<area shape="rect" id="node1" title=" " alt="" coords="67,565,270,907"/>
+<area shape="rect" id="node2" href="$classContact.html" title=" " alt="" coords="5,337,177,503"/>
+<area shape="rect" id="node3" title=" " alt="" coords="54,108,129,185"/>
+<area shape="rect" id="node4" href="$classToxPk.html" title="This class represents a Tox Public Key, which is a part of Tox ID." alt="" coords="201,345,296,495"/>
+<area shape="rect" id="node5" href="$classContactId.html" title=" " alt="" coords="182,5,315,288"/>
+</map>

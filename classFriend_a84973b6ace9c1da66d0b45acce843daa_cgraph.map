@@ -1,0 +1,5 @@
+<map id="Friend::setName" name="Friend::setName">
+<area shape="rect" id="node1" title="Friend::setName sets a new username for the friend." alt="" coords="5,31,135,57"/>
+<area shape="rect" id="node2" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="183,5,377,32"/>
+<area shape="rect" id="node3" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="209,56,351,83"/>
+</map>

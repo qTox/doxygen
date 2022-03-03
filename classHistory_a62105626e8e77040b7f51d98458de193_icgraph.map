@@ -1,0 +1,32 @@
+<map id="History::historyAccessBlocked" name="History::historyAccessBlocked">
+<area shape="rect" id="node1" title="Determines if history access should be blocked." alt="" coords="1120,304,1337,331"/>
+<area shape="rect" id="node2" href="$classHistory.html#a45e92a551ba16cee4704458c16237a97" title=" " alt="" coords="846,5,1057,32"/>
+<area shape="rect" id="node4" href="$classHistory.html#abcce3c0e31955b6bf77b8d96a62e5b29" title="Saves a chat message in the database." alt="" coords="571,668,757,695"/>
+<area shape="rect" id="node8" href="$classHistory.html#a211bf5d2ffa4c1657b4c5f37fcebf510" title=" " alt="" coords="833,275,1069,301"/>
+<area shape="rect" id="node10" href="$classHistory.html#ad104cfe24475f8a6ee23641d8c8fe8ac" title="Search phrase in chat messages." alt="" coords="853,209,1050,250"/>
+<area shape="rect" id="node12" href="$classHistory.html#a51b715e3544228018a5a035652ae56de" title=" " alt="" coords="840,157,1063,184"/>
+<area shape="rect" id="node13" href="$classHistory.html#a857a5a2a080760ae86ecf386a1428c6e" title="Checks if a friend has chat history." alt="" coords="584,107,744,133"/>
+<area shape="rect" id="node19" href="$classHistory.html#ac44641454765cf9ce2c71ed1e17adccf" title=" " alt="" coords="557,379,771,421"/>
+<area shape="rect" id="node21" href="$classHistory.html#a889a688372db3fe48bdb1dc37e8755c2" title=" " alt="" coords="845,326,1058,367"/>
+<area shape="rect" id="node22" href="$classHistory.html#a358d34068f7daba96c510e3236a4e004" title="Gets date boundaries in conversation with friendPk. History doesn&#39;t model conversation indexes,..." alt="" coords="845,443,1058,485"/>
+<area shape="rect" id="node24" href="$classHistory.html#a3b82aa28959279e829dcd4efb4a27fa8" title=" " alt="" coords="831,509,1072,550"/>
+<area shape="rect" id="node26" href="$classHistory.html#a08022c9c5a58ddd0ccc7421042ba1e0a" title="Marks a message as delivered. Removing message from the faux&#45;offline pending messages list." alt="" coords="857,575,1046,601"/>
+<area shape="rect" id="node30" href="$classHistory.html#a74104ef2bbc6d9d387f675aadd8b7fa0" title=" " alt="" coords="865,56,1038,83"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a46049bd99919563e0b5dd16fe90f7d74" title=" " alt="" coords="564,31,764,57"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#addb5c44ae1d6e70549875bcb6636d69b" title=" " alt="" coords="256,668,496,695"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#a8c1fc9d72feb0b27fcf44f8d4fc68036" title=" " alt="" coords="271,567,481,593"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title=" " alt="" coords="15,567,197,593"/>
+<area shape="rect" id="node9" href="$classChatHistory.html#a3fb366a4aa06e95f9fa72d592076934a" title="Inserts a system message at the end of the chat." alt="" coords="545,275,783,301"/>
+<area shape="rect" id="node11" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="269,275,483,301"/>
+<area shape="rect" id="node15" href="$classChatHistory.html#a385c0861dc9410fcf18684d8fe8fc019" title="Unconditionally loads the given index and all future messages that are not in the session chat log in..." alt="" coords="573,158,755,199"/>
+<area shape="rect" id="node14" href="$classAboutFriend.html#a0d170f4e26de5f7af1fbfa2eb4f164da" title=" " alt="" coords="261,107,491,133"/>
+<area shape="rect" id="node16" href="$classChatHistory.html#a344eb9def397254e0345c21e6bbf7ad4" title="Forces the given index and all future indexes to be in the chatlog." alt="" coords="285,158,467,199"/>
+<area shape="rect" id="node17" href="$classChatHistory.html#a47c4d731377614a72939cf9aa6925ca9" title="Returns reference to item at idx." alt="" coords="47,191,165,217"/>
+<area shape="rect" id="node18" href="$classChatHistory.html#ab2719a6a9cfa86eaa1907e4ee9d64674" title="searches forwards through the chat log until phrase is found according to parameter" alt="" coords="5,140,207,167"/>
+<area shape="rect" id="node20" href="$classChatHistory.html#a5e98010471983b9890f7ef673b1e1bef" title="Gets the initial chat log index for a sessionChatLog with 0 items loaded from history...." alt="" coords="279,379,473,421"/>
+<area shape="rect" id="node23" href="$classChatHistory.html#a7281d4a0fe8b2cbb4c7e973cf6550491" title="Gets indexes for each new date starting at startDate." alt="" coords="571,449,757,476"/>
+<area shape="rect" id="node25" href="$classChatHistory.html#ae5e2e3220f00ee68a3394388d253e366" title="Sends any unsent messages in history to the underlying message dispatcher." alt="" coords="273,501,479,542"/>
+<area shape="rect" id="node27" href="$classChatHistory.html#a190a6ea7cca8337ec5f345a681de4026" title=" " alt="" coords="551,617,777,644"/>
+<area shape="rect" id="node29" href="$classChatHistory.html#a750f5d39ddd30b1f2a8c28dc0947d69f" title=" " alt="" coords="553,551,775,593"/>
+<area shape="rect" id="node28" href="$classChatHistory.html#adf4f147d415a514283964e09ef4b1231" title=" " alt="" coords="255,617,497,644"/>
+</map>

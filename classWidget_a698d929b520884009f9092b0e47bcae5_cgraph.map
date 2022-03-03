@@ -1,0 +1,5 @@
+<map id="Widget::playNotificationSound" name="Widget::playNotificationSound">
+<area shape="rect" id="node1" title="Plays a sound via the audioNotification AudioSink." alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title=" " alt="" coords="232,5,435,47"/>
+<area shape="rect" id="node3" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title=" " alt="" coords="238,71,429,112"/>
+</map>

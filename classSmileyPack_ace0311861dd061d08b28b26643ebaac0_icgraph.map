@@ -1,0 +1,8 @@
+<map id="SmileyPack::getAsIcon" name="SmileyPack::getAsIcon">
+<area shape="rect" id="node1" title="Gets icon accoring to passed emoticon." alt="" coords="485,78,655,105"/>
+<area shape="rect" id="node2" href="$classEmoticonsWidget.html#acf4f5fbfb3401fc3a2028f58aee2464c" title=" " alt="" coords="225,5,437,47"/>
+<area shape="rect" id="node3" href="$classCustomTextDocument.html#a920c438b6719ccc5f9c9d3b370933861" title=" " alt="" coords="248,71,415,112"/>
+<area shape="rect" id="node4" href="$classUserInterfaceForm.html#aa7f672b41a032ba66deda2da9c165efc" title="Reload smileys and size information." alt="" coords="256,136,407,177"/>
+<area shape="rect" id="node5" href="$classUserInterfaceForm.html#abf7b35d7007d378887053a7c12da56a1" title=" " alt="" coords="5,91,177,147"/>
+<area shape="rect" id="node6" href="$classUserInterfaceForm.html#a22ae235d9056d65b0a72205c54294e01" title="Constructor of UserInterfaceForm." alt="" coords="16,172,167,213"/>
+</map>

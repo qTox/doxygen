@@ -1,0 +1,9 @@
+<map id="History::markAsDelivered" name="History::markAsDelivered">
+<area shape="rect" id="node1" title="Marks a message as delivered. Removing message from the faux&#45;offline pending messages list." alt="" coords="800,35,989,61"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a190a6ea7cca8337ec5f345a681de4026" title=" " alt="" coords="527,5,752,32"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#a750f5d39ddd30b1f2a8c28dc0947d69f" title=" " alt="" coords="528,57,751,98"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#adf4f147d415a514283964e09ef4b1231" title=" " alt="" coords="236,5,479,32"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title=" " alt="" coords="5,64,188,91"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#ae5e2e3220f00ee68a3394388d253e366" title="Sends any unsent messages in history to the underlying message dispatcher." alt="" coords="254,57,461,98"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#a8c1fc9d72feb0b27fcf44f8d4fc68036" title=" " alt="" coords="253,123,462,149"/>
+</map>

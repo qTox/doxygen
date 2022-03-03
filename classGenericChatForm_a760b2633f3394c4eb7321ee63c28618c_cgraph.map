@@ -1,0 +1,4 @@
+<map id="GenericChatForm::addSystemInfoMessage" name="GenericChatForm::addSystemInfoMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classIChatLog.html#ac156e63185b2645af3ca2d09f799d71d" title="Inserts a system message at the end of the chat." alt="" coords="269,13,488,39"/>
+</map>

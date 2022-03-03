@@ -1,0 +1,9 @@
+<map id="Profile::getCore" name="Profile::getCore">
+<area shape="rect" id="node1" title=" " alt="" coords="949,81,1072,108"/>
+<area shape="rect" id="node2" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title=" " alt="" coords="697,31,901,57"/>
+<area shape="rect" id="node4" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title=" " alt="" coords="364,31,461,57"/>
+<area shape="rect" id="node7" href="$classChatForm.html#ad1b1a602bc355487a41966ec46e32d67" title=" " alt="" coords="721,132,877,159"/>
+<area shape="rect" id="node3" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen." alt="" coords="509,31,649,57"/>
+<area shape="rect" id="node5" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title=" " alt="" coords="155,31,316,57"/>
+<area shape="rect" id="node6" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin." alt="" coords="5,5,107,32"/>
+</map>

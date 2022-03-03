@@ -1,0 +1,15 @@
+<map id="GUI::askQuestion" name="GUI::askQuestion">
+<area shape="rect" id="node1" title="Asks the user a question with Ok/Cancel or Yes/No buttons." alt="" coords="791,261,925,287"/>
+<area shape="rect" id="node2" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title=" " alt="" coords="512,143,743,170"/>
+<area shape="rect" id="node10" href="$classAdvancedForm.html#a1b048c3e9e7a45e26fe2051a61000753" title=" " alt="" coords="514,195,741,236"/>
+<area shape="rect" id="node11" href="$classProfileForm.html#afeaf9f454a38a783d980d6b894923da8" title=" " alt="" coords="522,261,733,287"/>
+<area shape="rect" id="node12" href="$classProfileForm.html#a6f0d3552425770bfa18b6a7e6354e1c3" title=" " alt="" coords="531,312,723,353"/>
+<area shape="rect" id="node13" href="$classAboutFriendForm.html#a43f6177b8c53e0d45babb404e8122734" title=" " alt="" coords="522,377,733,419"/>
+<area shape="rect" id="node3" href="$classFileTransferWidget.html#a680e14eb859a4a908fe1daad935dcb2e" title=" " alt="" coords="281,71,424,112"/>
+<area shape="rect" id="node7" href="$classFilesForm.html#ac27a68a4501d2bfe8f4ba0508046574d" title=" " alt="" coords="257,136,449,177"/>
+<area shape="rect" id="node9" href="$classFilesForm.html#ad214f2ef45dc0a62bf35b9aa92bf6d3d" title=" " alt="" coords="241,202,464,229"/>
+<area shape="rect" id="node4" href="$classFileTransferWidget.html#a5f29ffa2ccd11672b706981e7843591a" title=" " alt="" coords="19,5,179,47"/>
+<area shape="rect" id="node5" href="$classFileTransferWidget.html#a63bb0160d22a50b91c490a836e0a5e56" title=" " alt="" coords="5,71,193,112"/>
+<area shape="rect" id="node6" href="$classFileTransferWidget.html#af88381ef5a7d2ab692b3e0b1464d24a8" title=" " alt="" coords="14,136,185,177"/>
+<area shape="rect" id="node8" href="$classFilesForm.html#a9f90360d2d6daea6dc39d909d8d1c872" title=" " alt="" coords="21,202,177,229"/>
+</map>

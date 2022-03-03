@@ -1,0 +1,4 @@
+<map id="ChatHistory::getNextIdx" name="ChatHistory::getNextIdx">
+<area shape="rect" id="node1" title=" " alt="" coords="255,5,433,32"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#ab2719a6a9cfa86eaa1907e4ee9d64674" title="searches forwards through the chat log until phrase is found according to parameter" alt="" coords="5,5,207,32"/>
+</map>

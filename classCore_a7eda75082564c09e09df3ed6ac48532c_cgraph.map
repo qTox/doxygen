@@ -1,0 +1,7 @@
+<map id="Core::changeGroupTitle" name="Core::changeGroupTitle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,180,83"/>
+<area shape="rect" id="node2" href="$classToxString.html#a36946ec31793baf06869c7dc583b79a0" title="Returns a pointer to the beginning of the string data." alt="" coords="243,5,361,32"/>
+<area shape="rect" id="node3" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure." alt="" coords="228,56,376,83"/>
+<area shape="rect" id="node5" href="$classToxString.html#a4462cbd7558af2d4f66eb8ec32464dfd" title="Get the number of bytes in the string." alt="" coords="244,107,360,133"/>
+<area shape="rect" id="node4" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="424,56,583,83"/>
+</map>

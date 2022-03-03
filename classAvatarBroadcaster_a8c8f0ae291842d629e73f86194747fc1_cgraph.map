@@ -1,0 +1,8 @@
+<map id="AvatarBroadcaster::setAvatar" name="AvatarBroadcaster::setAvatar">
+<area shape="rect" id="node1" title="Set our current avatar." alt="" coords="5,27,156,69"/>
+<area shape="rect" id="node2" href="$classCore.html#a5eedbdf5af6441900090e579eb37f964" title="Returns the list of friendIds in our friendlist, an empty list on error." alt="" coords="207,5,351,32"/>
+<area shape="rect" id="node3" href="$classAvatarBroadcaster.html#ab57ef4ffb8cdddad20d060dcd562ab72" title="Send our current avatar to this friend, if not already sent." alt="" coords="204,57,355,98"/>
+<area shape="rect" id="node4" href="$classCore.html#a1c9a5d16e33c55c91935033146757c9d" title=" " alt="" coords="425,13,559,40"/>
+<area shape="rect" id="node5" href="$classCore.html#a1fdb1d9ea0ffc25a1aaf7a4b19888d6c" title="Checks if a friend is online. Unknown friends are considered offline." alt="" coords="415,64,569,91"/>
+<area shape="rect" id="node6" href="$classCoreFile.html#a6829e228f42c5e1f14462124d38c0fbd" title=" " alt="" coords="403,115,581,141"/>
+</map>

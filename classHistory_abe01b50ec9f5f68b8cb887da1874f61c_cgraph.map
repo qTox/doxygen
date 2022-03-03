@@ -1,0 +1,4 @@
+<map id="History::eraseHistory" name="History::eraseHistory">
+<area shape="rect" id="node1" title="Erases all the chat history from the database." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="212,5,331,32"/>
+</map>

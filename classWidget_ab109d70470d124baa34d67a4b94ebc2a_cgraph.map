@@ -1,0 +1,28 @@
+<map id="Widget::closeEvent" name="Widget::closeEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,442,152,469"/>
+<area shape="rect" id="node2" href="$classWidget.html#a9eea04cbe8febd484d9bf06864a1eb8f" title=" " alt="" coords="255,270,369,297"/>
+<area shape="rect" id="node18" href="$classSettings.html#a277e872256a4388d95a7b09e9a464cac" title=" " alt="" coords="221,391,403,418"/>
+<area shape="rect" id="node19" href="$classSettings.html#a6412e0a6688bbf383298b8921614a5a8" title=" " alt="" coords="205,442,419,469"/>
+<area shape="rect" id="node20" href="$classWidget.html#a176c9772cb33ee9b0a9badc86e5f9b29" title=" " alt="" coords="203,493,421,519"/>
+<area shape="rect" id="node24" href="$classWidget.html#a0c6d86f47477beb19c48a66672164c0a" title=" " alt="" coords="200,569,424,595"/>
+<area shape="rect" id="node3" href="$classWidget.html#a316169983232860fb1d1110e2d914187" title=" " alt="" coords="495,66,669,93"/>
+<area shape="rect" id="node6" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="509,117,655,143"/>
+<area shape="rect" id="node7" href="$classGenericChatroomWidget.html#ae9d1639db904e894460f8184fff5480b" title=" " alt="" coords="491,168,673,209"/>
+<area shape="rect" id="node11" href="$classGenericChatroomWidget.html#a3558f62ffc5d4f8389b02fd23f69698a" title=" " alt="" coords="491,233,673,275"/>
+<area shape="rect" id="node12" href="$classWidget.html#ac6dac03c495a002ff0694955aff1f0f3" title="Used to reset the blinking icon." alt="" coords="514,299,650,326"/>
+<area shape="rect" id="node16" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title=" " alt="" coords="493,350,671,377"/>
+<area shape="rect" id="node17" href="$classGenericChatroomWidget.html#a396495200786e011fee6fb3eb73626f5" title=" " alt="" coords="491,401,673,443"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#a37dd36e6b22360eefcf9b25d6f1d2cf9" title=" " alt="" coords="740,5,923,47"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html#af25cbf78d0498dbeecbefbae3dad440e" title=" " alt="" coords="740,71,923,112"/>
+<area shape="rect" id="node8" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="742,157,921,199"/>
+<area shape="rect" id="node10" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title=" " alt="" coords="740,223,923,264"/>
+<area shape="rect" id="node9" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="981,165,1151,191"/>
+<area shape="rect" id="node13" href="$classWidget.html#a6c7a3d2c72dea0136164108dec6e96e6" title=" " alt="" coords="754,299,909,326"/>
+<area shape="rect" id="node14" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title=" " alt="" coords="983,274,1149,301"/>
+<area shape="rect" id="node15" href="$classSettings.html#aed0a6765b559b2d8969e2c89844c469d" title=" " alt="" coords="971,325,1161,351"/>
+<area shape="rect" id="node21" href="$classSettings.html#a75515d3f25346fe78304b483b984e71e" title=" " alt="" coords="475,467,689,494"/>
+<area shape="rect" id="node22" href="$classSettings.html#a7722ba765ccdae496ffc215f020af48e" title=" " alt="" coords="490,518,674,545"/>
+<area shape="rect" id="node23" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="770,569,893,595"/>
+<area shape="rect" id="node25" href="$classSettings.html#a2f7f9988b1225afd3f0b2c41a1e04d98" title=" " alt="" coords="472,569,692,595"/>
+<area shape="rect" id="node26" href="$classSettings.html#a40fa0f832ba925682f53aa45a5296ed4" title=" " alt="" coords="487,619,677,646"/>
+</map>

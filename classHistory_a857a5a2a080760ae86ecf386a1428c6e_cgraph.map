@@ -1,0 +1,9 @@
+<map id="History::historyExists" name="History::historyExists">
+<area shape="rect" id="node1" title="Checks if a friend has chat history." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$classHistory.html#a51b715e3544228018a5a035652ae56de" title=" " alt="" coords="213,81,436,108"/>
+<area shape="rect" id="node3" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked." alt="" coords="484,31,701,57"/>
+<area shape="rect" id="node7" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="521,81,664,108"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="749,5,908,32"/>
+<area shape="rect" id="node6" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="769,56,888,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="956,5,1092,32"/>
+</map>

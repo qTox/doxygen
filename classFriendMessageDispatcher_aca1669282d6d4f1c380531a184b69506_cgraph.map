@@ -1,0 +1,5 @@
+<map id="FriendMessageDispatcher::onReceiptReceived" name="FriendMessageDispatcher::onReceiptReceived">
+<area shape="rect" id="node1" title="Handles received receipt from toxcore." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classOfflineMsgEngine.html#a481282c0e7bad82ad07d504505917aa8" title="Notification that the message is now delivered." alt="" coords="244,5,453,47"/>
+<area shape="rect" id="node3" href="$classOfflineMsgEngine_1_1ReceiptResolver.html#a8ff606d8fdb4ad1ca5749357cdfc233b" title=" " alt="" coords="501,5,735,47"/>
+</map>

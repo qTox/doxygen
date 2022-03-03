@@ -1,0 +1,9 @@
+<map id="Settings::loadGlobal" name="Settings::loadGlobal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,159,133"/>
+<area shape="rect" id="node2" href="$classSettings.html#a5a0e4eeb37b44b665f36a7397a56b499" title="Creates a path to the settings dir, if it doesn&#39;t already exist." alt="" coords="207,5,403,32"/>
+<area shape="rect" id="node3" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="451,31,637,57"/>
+<area shape="rect" id="node4" href="$classStyle.html#acad8bd16f95c89693ab26096fd5a8320" title=" " alt="" coords="249,107,361,133"/>
+<area shape="rect" id="node6" href="$classSettings.html#a2de667124fbb18daafc8829f791c5391" title=" " alt="" coords="219,157,391,184"/>
+<area shape="rect" id="node7" href="$classPaths.html#a5f38e5f2eff3eead4edafa6a3d0b740e" title="Set paths to passed portable or system wide." alt="" coords="235,208,374,235"/>
+<area shape="rect" id="node5" href="$style_8cpp.html#a6f5a78f0296d266f207a0efb59e935aa" title=" " alt="" coords="507,107,581,133"/>
+</map>

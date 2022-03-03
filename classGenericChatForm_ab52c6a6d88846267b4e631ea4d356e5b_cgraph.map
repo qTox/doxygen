@@ -1,0 +1,10 @@
+<map id="GenericChatForm::onExportChat" name="GenericChatForm::onExportChat">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,236,108"/>
+<area shape="rect" id="node2" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx." alt="" coords="338,5,438,32"/>
+<area shape="rect" id="node3" href="$classIChatLog.html#a061b44a9023ee5d6b60603e22deeed95" title="The underlying chat log instance may not want to start at 0." alt="" coords="310,56,466,83"/>
+<area shape="rect" id="node4" href="$classIChatLog.html#a428117207ce4b942e4cdada9bf4c1663" title=" " alt="" coords="309,107,467,133"/>
+<area shape="rect" id="node5" href="$classChatLogItem.html#a16a9a9036c937469a9399b957e5cfa6c" title=" " alt="" coords="284,157,492,184"/>
+<area shape="rect" id="node6" href="$classChatLogItem.html#ab95b7a16a809ae00d553dbcaea128bcd" title=" " alt="" coords="540,99,764,125"/>
+<area shape="rect" id="node7" href="$classChatLogItem.html#a3920bf552f66ac72be4b6ec8fe7947cd" title=" " alt="" coords="551,150,753,191"/>
+<area shape="rect" id="node8" href="$classChatLogItem.html#aa24088bbdb680c32b04e8f80fbaed94f" title=" " alt="" coords="551,215,753,257"/>
+</map>

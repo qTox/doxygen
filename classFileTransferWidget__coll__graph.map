@@ -1,0 +1,10 @@
+<map id="FileTransferWidget" name="FileTransferWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="179,784,387,1316"/>
+<area shape="rect" id="node2" title=" " alt="" coords="113,483,191,560"/>
+<area shape="rect" id="node3" href="$structToxFile.html" title=" " alt="" coords="216,373,349,670"/>
+<area shape="rect" id="node4" href="$classToxFileProgress.html" title=" " alt="" coords="5,5,184,259"/>
+<area shape="rect" id="node5" href="$classToxFilePause.html" title=" " alt="" coords="209,27,383,237"/>
+<area shape="rect" id="node6" href="$classCoreFile.html" title="Manages the file transfer service of toxcore." alt="" coords="374,321,602,721"/>
+<area shape="rect" id="node7" title=" " alt="" coords="436,93,511,171"/>
+<area shape="rect" id="node8" href="$classQHash.html" title=" " alt="" coords="535,93,737,171"/>
+</map>

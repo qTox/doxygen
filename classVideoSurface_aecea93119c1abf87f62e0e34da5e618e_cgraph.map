@@ -1,0 +1,11 @@
+<map id="VideoSurface::~VideoSurface" name="VideoSurface::~VideoSurface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,219,175"/>
+<area shape="rect" id="node2" href="$classVideoSurface.html#a088414beba42524b7adc5968563e6f42" title=" " alt="" coords="267,148,461,175"/>
+<area shape="rect" id="node3" href="$classVideoSurface.html#a51d3fa1945c31f659b7c944091ad6cfd" title=" " alt="" coords="806,5,949,32"/>
+<area shape="rect" id="node4" href="$classVideoSurface.html#adf8b2f92eb2d9220ba9e9b8b5e185fbc" title=" " alt="" coords="523,57,725,98"/>
+<area shape="rect" id="node6" href="$classVideoSurface.html#a22bed2f9d881f5d3fd02e0bede564b0c" title=" " alt="" coords="787,107,968,149"/>
+<area shape="rect" id="node7" href="$classVideoSurface.html#a4c729f75a02c35de42df3056a030be92" title=" " alt="" coords="798,173,957,200"/>
+<area shape="rect" id="node8" href="$classVideoSurface.html#aa2af96cdb06b97fdc0c7488add08a33d" title=" " alt="" coords="509,224,739,251"/>
+<area shape="rect" id="node9" href="$classVideoSource.html#a742327ac44cddc93579ea8a516c59544" title="Stop emitting frameAvailable signals, and free associated resources if necessary." alt="" coords="529,275,719,301"/>
+<area shape="rect" id="node5" href="$videosurface_8cpp.html#a6d8a1ee38ecb650ae3a4043b12a87008" title=" " alt="" coords="825,56,929,83"/>
+</map>

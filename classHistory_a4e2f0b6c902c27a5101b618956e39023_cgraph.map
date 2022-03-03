@@ -1,0 +1,4 @@
+<map id="History::removeFriendHistory" name="History::removeFriendHistory">
+<area shape="rect" id="node1" title="Erases the chat history with one friend." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node2" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="267,5,385,32"/>
+</map>

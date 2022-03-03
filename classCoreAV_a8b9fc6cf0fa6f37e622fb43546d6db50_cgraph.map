@@ -1,0 +1,4 @@
+<map id="CoreAV::videoFrameCallback" name="CoreAV::videoFrameCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node2" href="$classCoreVideoSource.html#a874b46673e90beded7bfd7b33ad04975" title="Makes a copy of the vpx_image_t and emits it as a new VideoFrame." alt="" coords="263,5,476,32"/>
+</map>

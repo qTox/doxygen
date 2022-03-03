@@ -1,0 +1,4 @@
+<map id="CoreAV::muteCallOutput" name="CoreAV::muteCallOutput">
+<area shape="rect" id="node1" title="Mutes or unmutes the group call&#39;s output (speaker)." alt="" coords="255,13,433,39"/>
+<area shape="rect" id="node2" href="$classGroupChatForm.html#ac87a6743aec7d66d086fa9581674f3b5" title=" " alt="" coords="5,5,207,47"/>
+</map>

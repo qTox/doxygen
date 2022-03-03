@@ -1,0 +1,7 @@
+<map id="OfflineMsgEngine::ReceiptResolver::notifyReceiptReceived" name="OfflineMsgEngine::ReceiptResolver::notifyReceiptReceived">
+<area shape="rect" id="node1" title=" " alt="" coords="513,39,747,80"/>
+<area shape="rect" id="node2" href="$classOfflineMsgEngine.html#a643b0d4c0f05b7ca1d9d5ddf9ca13a56" title=" " alt="" coords="244,5,465,47"/>
+<area shape="rect" id="node4" href="$classOfflineMsgEngine.html#a481282c0e7bad82ad07d504505917aa8" title="Notification that the message is now delivered." alt="" coords="250,71,459,112"/>
+<area shape="rect" id="node3" href="$classFriendMessageDispatcher.html#afeadb25afafcaebc0ef62149a9556dd1" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node5" href="$classFriendMessageDispatcher.html#aca1669282d6d4f1c380531a184b69506" title="Handles received receipt from toxcore." alt="" coords="5,71,196,112"/>
+</map>

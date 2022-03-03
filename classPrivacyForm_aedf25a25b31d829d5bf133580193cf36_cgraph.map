@@ -1,0 +1,5 @@
+<map id="PrivacyForm::on_nospamLineEdit_editingFinished" name="PrivacyForm::on_nospamLineEdit_editingFinished">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node2" href="$classCore.html#a9529070928925fd9baf3a7bbbed645aa" title="Sets the NoSpam value to prevent friend request spam." alt="" coords="267,13,401,39"/>
+<area shape="rect" id="node3" href="$classCore.html#a945bb0a81775e53e6db1116a4e9783a9" title="Returns our Tox ID." alt="" coords="449,13,568,39"/>
+</map>

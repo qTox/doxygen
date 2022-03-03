@@ -1,0 +1,17 @@
+<map id="AddFriendForm::addFriend" name="AddFriendForm::addFriend">
+<area shape="rect" id="node1" title=" " alt="" coords="5,176,197,203"/>
+<area shape="rect" id="node2" href="$classAddFriendForm.html#a349c7276eed501e8cd4a8aa2b8ee46eb" title=" " alt="" coords="245,85,455,126"/>
+<area shape="rect" id="node8" href="$classAddFriendForm.html#ab869c0a381e1aa3272af99d756a42848" title=" " alt="" coords="247,151,453,177"/>
+<area shape="rect" id="node9" href="$classToxId.html#a634c79008d03313833d37a5f4e1d1218" title="Check it it&#39;s a valid Tox ID by verifying the checksum." alt="" coords="297,201,403,228"/>
+<area shape="rect" id="node10" href="$classGUI.html#ab1c1a41d742cabece0bdde6e020a80b7" title="Show a warning to the user." alt="" coords="279,252,421,279"/>
+<area shape="rect" id="node3" href="$classSettings.html#a9aae9a8af8243944c6f3977eaae66114" title=" " alt="" coords="517,5,715,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#ae18d467086c5db4426982e732c851b31" title=" " alt="" coords="504,56,728,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="537,107,695,133"/>
+<area shape="rect" id="node7" href="$classSettings.html#a9bf7be23026b81700ba7cf4395100688" title=" " alt="" coords="503,157,729,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="786,107,922,133"/>
+<area shape="rect" id="node11" href="$classGUI.html#a47c5bcbb862dd012c39a0a3aaa705d0e" title=" " alt="" coords="542,223,690,249"/>
+<area shape="rect" id="node15" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="551,273,681,300"/>
+<area shape="rect" id="node12" href="$classGUI.html#adaed0c5c3fd46e19a20c7c577e77a59d" title="Get the main widget." alt="" coords="777,223,931,249"/>
+<area shape="rect" id="node13" href="$classNexus.html#aac47891298da16dfa4d230deb34c84f3" title="Get desktop GUI widget." alt="" coords="979,223,1149,249"/>
+<area shape="rect" id="node14" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="1197,223,1344,249"/>
+</map>

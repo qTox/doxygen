@@ -1,0 +1,5 @@
+<map id="FriendListWidget::cleanMainLayout" name="FriendListWidget::cleanMainLayout">
+<area shape="rect" id="node1" title="Clears the listLayout by performing the creation and ownership inverse of sortByMode." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classFriendListManager.html#af1ad78e764d6f24e5b4d13271e912cc8" title=" " alt="" coords="260,5,411,47"/>
+<area shape="rect" id="node3" href="$classIFriendListItem.html#a467b7d9a53919b397dc0c76391e4c348" title=" " alt="" coords="459,13,653,39"/>
+</map>

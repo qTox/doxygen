@@ -1,0 +1,5 @@
+<map id="SessionChatLog::at" name="SessionChatLog::at">
+<area shape="rect" id="node1" title="Returns reference to item at idx." alt="" coords="267,31,413,57"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a47c4d731377614a72939cf9aa6925ca9" title="Returns reference to item at idx." alt="" coords="53,5,171,32"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="5,56,219,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Settings::savePersonal" name="Settings::savePersonal">
+<area shape="rect" id="node1" title="Asynchronous, saves the profile." alt="" coords="5,81,176,108"/>
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="230,5,389,32"/>
+<area shape="rect" id="node4" href="$classProfile.html#a45c222f655c138cc212cd07b59015307" title=" " alt="" coords="244,56,375,83"/>
+<area shape="rect" id="node5" href="$classProfile.html#ada2844ae8f9d24f6f78ca10b098f4e35" title=" " alt="" coords="237,107,381,133"/>
+<area shape="rect" id="node6" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile." alt="" coords="224,157,395,184"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="443,5,579,32"/>
+<area shape="rect" id="node7" href="$classNexus.html#aa1afd3444d0fe66191f2cef14411b3bc" title="Get current user profile." alt="" coords="444,157,577,184"/>
+<area shape="rect" id="node8" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="627,157,773,184"/>
+</map>

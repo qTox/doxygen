@@ -1,0 +1,11 @@
+<map id="GenericChatForm::getLatestTime" name="GenericChatForm::getLatestTime">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,243,159"/>
+<area shape="rect" id="node2" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx." alt="" coords="348,5,448,32"/>
+<area shape="rect" id="node3" href="$classChatLogItem.html#aa24088bbdb680c32b04e8f80fbaed94f" title=" " alt="" coords="565,106,766,147"/>
+<area shape="rect" id="node4" href="$classChatLogItem.html#a8f24d7341e0ae0b21fee3f9e0bae9334" title=" " alt="" coords="291,107,505,133"/>
+<area shape="rect" id="node5" href="$classIChatLog.html#a061b44a9023ee5d6b60603e22deeed95" title="The underlying chat log instance may not want to start at 0." alt="" coords="320,157,476,184"/>
+<area shape="rect" id="node6" href="$classIChatLog.html#a428117207ce4b942e4cdada9bf4c1663" title=" " alt="" coords="319,208,477,235"/>
+<area shape="rect" id="node7" href="$classChatLogItem.html#a16a9a9036c937469a9399b957e5cfa6c" title=" " alt="" coords="294,259,502,285"/>
+<area shape="rect" id="node8" href="$classChatLogItem.html#ab95b7a16a809ae00d553dbcaea128bcd" title=" " alt="" coords="553,229,777,256"/>
+<area shape="rect" id="node9" href="$classChatLogItem.html#a3920bf552f66ac72be4b6ec8fe7947cd" title=" " alt="" coords="565,281,766,322"/>
+</map>

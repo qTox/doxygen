@@ -1,0 +1,10 @@
+<map id="AdvancedForm::on_cbMakeToxPortable_stateChanged" name="AdvancedForm::on_cbMakeToxPortable_stateChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,228,65"/>
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="757,5,915,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#a5817c9fce905c15c713658935e45f84a" title=" " alt="" coords="276,56,491,83"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="977,5,1113,32"/>
+<area shape="rect" id="node5" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="743,132,929,159"/>
+<area shape="rect" id="node6" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings." alt="" coords="539,81,695,108"/>
+<area shape="rect" id="node8" href="$classPaths.html#a5f38e5f2eff3eead4edafa6a3d0b740e" title="Set paths to passed portable or system wide." alt="" coords="547,31,686,57"/>
+<area shape="rect" id="node7" href="$classPaths.html#aa725df5b53daf07d37eff48f0cf3b000" title="Check if qTox is running in portable mode." alt="" coords="771,81,901,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CameraSource::openDevice" name="CameraSource::openDevice">
+<area shape="rect" id="node1" title="Opens the video device and starts streaming." alt="" coords="5,42,208,69"/>
+<area shape="rect" id="node2" href="$classCameraDevice.html#ada4c5ffa63328de35c7965818ffaaa4a" title="Opens a device." alt="" coords="262,15,421,42"/>
+<area shape="rect" id="node4" href="$classCameraSource.html#a64c38c6f510cf63da910f7095d4b276f" title="Blocking. Decodes video stream and emits new frames." alt="" coords="256,67,427,94"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default." alt="" coords="475,5,669,47"/>
+<area shape="rect" id="node5" href="$classVideoFrame.html#a1bca3ccca0fe614db7474e748c263422" title="Causes the VideoFrame class to maintain an internal reference for the frame." alt="" coords="481,71,663,98"/>
+</map>

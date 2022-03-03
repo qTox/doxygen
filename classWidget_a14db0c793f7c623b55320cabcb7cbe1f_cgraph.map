@@ -1,0 +1,52 @@
+<map id="Widget::retranslateUi" name="Widget::retranslateUi">
+<area shape="rect" id="node1" title=" " alt="" coords="5,997,167,1024"/>
+<area shape="rect" id="node2" href="$classWidget.html#a8e61126cba34b3361e9f86d8a40b78cd" title=" " alt="" coords="215,331,436,357"/>
+<area shape="rect" id="node16" href="$classNexus.html#ac5f10b022a6deffd89fbc169d82ab1c2" title="Returns the singleton instance." alt="" coords="1815,191,1962,217"/>
+<area shape="rect" id="node17" href="$classWidget.html#a59e13f0d02281c5c228fa0f85a05cf68" title=" " alt="" coords="1800,1007,1977,1033"/>
+<area shape="rect" id="node19" href="$classSettings.html#a75515d3f25346fe78304b483b984e71e" title=" " alt="" coords="1527,576,1742,603"/>
+<area shape="rect" id="node27" href="$classWidget.html#a26da0100e884cd2f0c2d61a12f17f0fb" title=" " alt="" coords="739,896,917,923"/>
+<area shape="rect" id="node41" href="$classCore.html#a2d27726816838d9ba4d95000c305c125" title="Returns our status message, or an empty string on failure." alt="" coords="235,1048,415,1075"/>
+<area shape="rect" id="node43" href="$classCore.html#a6b24c7bd8f236e2a81ebf91564558700" title="Returns our username, or an empty string on failure." alt="" coords="251,1099,399,1125"/>
+<area shape="rect" id="node44" href="$classWidget.html#a82e5c2dd8ca0915943e7753f56d2068e" title=" " alt="" coords="223,947,427,973"/>
+<area shape="rect" id="node48" href="$classWidget.html#ab3def901c3227c462b2598a68d7dc972" title=" " alt="" coords="228,1149,423,1176"/>
+<area shape="rect" id="node49" href="$classWidget.html#a2baa3c1ff94ea61a06e2ffffc3c6a229" title=" " alt="" coords="244,1200,407,1227"/>
+<area shape="rect" id="node50" href="$classWidget.html#a76b837b46e0b985dd1b99861532e166b" title=" " alt="" coords="235,1251,416,1277"/>
+<area shape="rect" id="node3" href="$classSettings.html#a4a9a5316be03f4b6513745c2751ee98e" title=" " alt="" coords="484,265,675,306"/>
+<area shape="rect" id="node4" href="$classWidget.html#a3812458f9fce844513e6849e4a1272e1" title=" " alt="" coords="497,635,661,661"/>
+<area shape="rect" id="node40" href="$classAddFriendForm.html#ad97e48d08fa03be051d9ddbe9b070e2b" title=" " alt="" coords="487,331,671,357"/>
+<area shape="rect" id="node5" href="$classWidget.html#a7addeedd098ed7f2c728affa907ca9d3" title=" " alt="" coords="723,685,933,712"/>
+<area shape="rect" id="node28" href="$classWidget.html#a34fb1300b432b15648b041631f2cac0c" title=" " alt="" coords="740,744,916,771"/>
+<area shape="rect" id="node30" href="$classWidget.html#aa15758d6b22efcbd7e36fa71702b0811" title=" " alt="" coords="991,854,1190,895"/>
+<area shape="rect" id="node32" href="$classAddFriendForm.html#a47bea86b824c7e82e12d5ec49a4247d0" title=" " alt="" coords="737,432,919,459"/>
+<area shape="rect" id="node33" href="$classAddFriendForm.html#aefb1b5164693999fdc015e1774f3e458" title=" " alt="" coords="747,211,909,237"/>
+<area shape="rect" id="node6" href="$classWidget.html#a5f01bb180b491cc1955e764f0d54ed21" title=" " alt="" coords="981,685,1200,712"/>
+<area shape="rect" id="node7" href="$classContentDialogManager.html#aea0110f5a0e0294b5950404d276e3f4c" title=" " alt="" coords="1273,990,1445,1031"/>
+<area shape="rect" id="node10" href="$classWidget.html#ae372211b641bd400b6aa769f1333139d" title=" " alt="" coords="1267,381,1450,408"/>
+<area shape="rect" id="node18" href="$classContentDialogManager.html#adf636d0f1287a0dc33246e7287691c2e" title=" " alt="" coords="1549,627,1721,669"/>
+<area shape="rect" id="node21" href="$classWidget.html#a0eb8943737c2603a50735fd4681f11bb" title=" " alt="" coords="1268,584,1449,611"/>
+<area shape="rect" id="node22" href="$classWidget.html#a8971b12493d4a407d3142c6a609d3b53" title=" " alt="" coords="1252,736,1465,763"/>
+<area shape="rect" id="node23" href="$classWidget.html#a2c8a43d640505c8967e72ffdf8b9328d" title=" " alt="" coords="1526,740,1743,767"/>
+<area shape="rect" id="node24" href="$classWidget.html#ab74f7df9808863e1c22ed0b313fa8b6a" title=" " alt="" coords="1251,837,1467,864"/>
+<area shape="rect" id="node25" href="$classContentDialog.html#a2a7557c8a811451c2fe36d866625bb02" title="Update layouts order according to settings." alt="" coords="1248,888,1469,915"/>
+<area shape="rect" id="node26" href="$classContentDialog.html#ace9eccdb9f7c52b69dfe9ea425c77fd2" title="Update username to show in the title." alt="" coords="1253,685,1464,712"/>
+<area shape="rect" id="node8" href="$classContentDialogManager.html#a344c52e5f168f0e8c7506acfe133353f" title=" " alt="" coords="1549,1033,1721,1074"/>
+<area shape="rect" id="node9" href="$classContentDialogManager.html#ae400de6fda5c99ac27b4f76e0575116f" title=" " alt="" coords="1549,967,1721,1009"/>
+<area shape="rect" id="node11" href="$classContentDialogManager.html#aed4a9ea75acafd48747ce9ec4cfafb93" title=" " alt="" coords="1549,343,1721,385"/>
+<area shape="rect" id="node12" href="$classContentDialogManager.html#a41fc3ea7bbbe7c6273794c21977c2b34" title=" " alt="" coords="1803,293,1975,334"/>
+<area shape="rect" id="node13" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="1811,475,1966,501"/>
+<area shape="rect" id="node14" href="$classWidget.html#a696685a63ce3dbe258bea8594f015e26" title=" " alt="" coords="1517,292,1752,319"/>
+<area shape="rect" id="node15" href="$classWidget.html#a9eea04cbe8febd484d9bf06864a1eb8f" title=" " alt="" coords="1578,525,1691,552"/>
+<area shape="rect" id="node20" href="$classGenericChatroomWidget.html#a4ab5fa35cd299eb1d2efb9395161c733" title=" " alt="" coords="1543,409,1726,450"/>
+<area shape="rect" id="node29" href="$classContentLayout.html#a1975e7c8e9d7df7a2e9fbc6a39fd7cd1" title=" " alt="" coords="1012,803,1169,829"/>
+<area shape="rect" id="node31" href="$classGenericChatroomWidget.html#a8bad475d4a08ad812ee535a03c232e74" title=" " alt="" coords="999,737,1182,778"/>
+<area shape="rect" id="node34" href="$classAddFriendForm.html#a7f339759d7ae85f9054471d04b8584dc" title=" " alt="" coords="995,119,1187,161"/>
+<area shape="rect" id="node38" href="$classAddFriendForm.html#a8cbdadda64ff8b9bc035238c632589ac" title=" " alt="" coords="994,203,1187,245"/>
+<area shape="rect" id="node35" href="$classSettings.html#accf237ab89ab4e6f6db5311f09ee60c0" title=" " alt="" coords="1257,43,1460,85"/>
+<area shape="rect" id="node36" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="1279,109,1438,136"/>
+<area shape="rect" id="node37" href="$classSettings.html#a2a46de183eb4f38f55a44702c5ca15c6" title="Asynchronous, saves the current profile." alt="" coords="1273,160,1444,187"/>
+<area shape="rect" id="node39" href="$classToxId.html#a833f176a68c64f7661b370209d4b2eba" title="Check, that id is probably a valid Tox ID." alt="" coords="1304,211,1413,237"/>
+<area shape="rect" id="node42" href="$classToxString.html#aefb7e9fd3961b5529488624edbf9d9be" title="Gets the string as QString." alt="" coords="500,1073,659,1100"/>
+<area shape="rect" id="node45" href="$classWidget.html#ac17fbd5de998fad14d0711014e9ddc71" title=" " alt="" coords="490,947,669,973"/>
+<area shape="rect" id="node46" href="$classGroupInviteForm.html#a0f082af86c518feef0c266abbdd70f41" title="Detects that form is shown." alt="" coords="731,1048,925,1075"/>
+<area shape="rect" id="node47" href="$classGroupInviteForm.html#a0f6ba886812249f31488e11666a1e5cf" title="Shows the form." alt="" coords="741,997,915,1024"/>
+</map>

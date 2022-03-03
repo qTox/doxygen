@@ -1,0 +1,6 @@
+<map id="RawDatabase::close" name="RawDatabase::close">
+<area shape="rect" id="node1" title="Close the database and free its associated resources." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$classRawDatabase.html#a04a091251caf0b3a2886014b3a1c15f7" title="Implements the actual processing of pending transactions. Unqueues, compiles, binds and executes quer..." alt="" coords="208,31,379,57"/>
+<area shape="rect" id="node3" href="$classRawDatabase.html#acca559e7d15b127e4a1e434223dd1831" title="Hides public keys and timestamps in query." alt="" coords="427,5,657,32"/>
+<area shape="rect" id="node4" href="$classRawDatabase.html#a5b81c8fb582a9aa9b14fc04cf2511e03" title="Extracts a variant from one column of a result row depending on the column type." alt="" coords="443,56,641,83"/>
+</map>

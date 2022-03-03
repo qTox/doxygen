@@ -1,0 +1,5 @@
+<map id="ToxId::ToxId" name="ToxId::ToxId">
+<area shape="rect" id="node1" title="Create a Tox ID from a QByteArray." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$classToxId.html#afee2b94c38b0313e78abb44a5bbf1be6" title=" " alt="" coords="152,5,311,32"/>
+<area shape="rect" id="node3" href="$classToxId.html#a833f176a68c64f7661b370209d4b2eba" title="Check, that id is probably a valid Tox ID." alt="" coords="359,5,468,32"/>
+</map>

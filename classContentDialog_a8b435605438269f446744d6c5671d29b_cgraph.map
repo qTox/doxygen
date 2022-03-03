@@ -1,0 +1,22 @@
+<map id="ContentDialog::moveEvent" name="ContentDialog::moveEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,282,203,309"/>
+<area shape="rect" id="node2" href="$classContentDialog.html#a313b7b13cc806a1fc069248686d0a7fd" title=" " alt="" coords="269,202,429,229"/>
+<area shape="rect" id="node16" href="$classContentDialog.html#a90e66dfcd858f25364beac307d87e2d8" title="Save size of dialog window." alt="" coords="251,355,447,396"/>
+<area shape="rect" id="node3" href="$classActivateDialog.html#aa9a88e9d0bc8631a3120e1d286b2bae8" title=" " alt="" coords="519,261,681,287"/>
+<area shape="rect" id="node4" href="$classGenericChatroomWidget.html#a37dd36e6b22360eefcf9b25d6f1d2cf9" title=" " alt="" coords="753,268,936,309"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html#af25cbf78d0498dbeecbefbae3dad440e" title=" " alt="" coords="753,5,936,47"/>
+<area shape="rect" id="node6" href="$classGenericChatroomWidget.html#a3558f62ffc5d4f8389b02fd23f69698a" title=" " alt="" coords="509,129,691,171"/>
+<area shape="rect" id="node7" href="$classGenericChatroomWidget.html#a396495200786e011fee6fb3eb73626f5" title=" " alt="" coords="509,195,691,236"/>
+<area shape="rect" id="node8" href="$classContentDialog.html#afe4443a423d8d52b86018897985db75b" title="Update window title and icon." alt="" coords="501,64,699,105"/>
+<area shape="rect" id="node9" href="$namespaceStatus.html#a1a6c36386450c6140aea2a844df8ab29" title=" " alt="" coords="771,189,918,215"/>
+<area shape="rect" id="node11" href="$classFriend.html#af29d8af5f6d6dc1c9e2c7117bf4efc5c" title=" " alt="" coords="779,71,911,98"/>
+<area shape="rect" id="node12" href="$classGenericChatroomWidget.html#ae9d1639db904e894460f8184fff5480b" title=" " alt="" coords="753,123,936,164"/>
+<area shape="rect" id="node10" href="$namespaceStatus.html#abdbb12a01430dd970f440ad20a4fc68b" title=" " alt="" coords="993,189,1158,215"/>
+<area shape="rect" id="node13" href="$classGenericChatItemWidget.html#aac613ec0d4539a77a56dcfdc9736469b" title=" " alt="" coords="986,57,1165,99"/>
+<area shape="rect" id="node15" href="$classGenericChatroomWidget.html#ab013df92cbac45b1047a07754c383654" title=" " alt="" coords="984,123,1167,164"/>
+<area shape="rect" id="node14" href="$classCroppingLabel.html#ab3c6f389ffe2d6b342d20d4d96afa52d" title="Get original full text." alt="" coords="1215,65,1385,91"/>
+<area shape="rect" id="node17" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="521,362,679,389"/>
+<area shape="rect" id="node19" href="$classSettings.html#a609678b3f3c00f99ed5eb06feb9c2076" title=" " alt="" coords="495,413,705,439"/>
+<area shape="rect" id="node18" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="777,362,913,389"/>
+<area shape="rect" id="node20" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="783,413,906,439"/>
+</map>

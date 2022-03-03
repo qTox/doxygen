@@ -1,0 +1,4 @@
+<map id="Profile::isHistoryEnabled" name="Profile::isHistoryEnabled">
+<area shape="rect" id="node1" title="Checks that the history is enabled in the settings, and loaded successfully for this profile." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$classSettings.html#a20043d9e2168266b84dd45e90a932a6a" title=" " alt="" coords="235,5,433,32"/>
+</map>

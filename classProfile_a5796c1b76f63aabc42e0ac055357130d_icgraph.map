@@ -1,0 +1,4 @@
+<map id="Profile::remove" name="Profile::remove">
+<area shape="rect" id="node1" title="Removes the profile permanently. Updates the profiles vector." alt="" coords="240,5,361,32"/>
+<area shape="rect" id="node2" href="$classProfileInfo.html#a4cfc98554e732ecaac889da3e552dc81" title="Remove profile." alt="" coords="5,5,192,32"/>
+</map>

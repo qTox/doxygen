@@ -1,0 +1,9 @@
+<map id="ChatHistory::onFileTransferRemotePausedUnpaused" name="ChatHistory::onFileTransferRemotePausedUnpaused">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,203,90"/>
+<area shape="rect" id="node2" href="$classSessionChatLog.html#a1fecc026256c1c85fe70413717b78614" title=" " alt="" coords="251,49,475,90"/>
+<area shape="rect" id="node3" href="$classSessionChatLog.html#a5d3f25f92f514a87542490a5e0b6cd82" title="Updates file state in the chatlog." alt="" coords="523,56,749,83"/>
+<area shape="rect" id="node4" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title=" " alt="" coords="797,49,1024,90"/>
+<area shape="rect" id="node5" href="$classICoreIdHandler.html#a15380c37fd91dabf3399783f6361a5fd" title=" " alt="" coords="1072,5,1308,32"/>
+<area shape="rect" id="node6" href="$classICoreIdHandler.html#a54096b98ab4c67bbb7fc228a4ea8fefa" title=" " alt="" coords="1083,56,1297,83"/>
+<area shape="rect" id="node7" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="1119,107,1261,133"/>
+</map>

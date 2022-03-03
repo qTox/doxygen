@@ -1,0 +1,13 @@
+<map id="Widget::newMessageAlert" name="Widget::newMessageAlert">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,197,209"/>
+<area shape="rect" id="node2" href="$classSettings.html#aca822c6f005a3b89a67d227cfedfcefb" title=" " alt="" coords="256,5,432,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a8b0ce74addf5bfab6b7be07447275fb2" title=" " alt="" coords="245,56,443,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#a613bebef785a7db1e348f65cbd9022bf" title=" " alt="" coords="273,107,415,133"/>
+<area shape="rect" id="node5" href="$classSettings.html#aecdd88599186fd0159682b6b1416f999" title=" " alt="" coords="253,157,435,184"/>
+<area shape="rect" id="node6" href="$classSettings.html#a66e5adbc280d3c2a477fc0355fcf9c20" title=" " alt="" coords="249,208,439,235"/>
+<area shape="rect" id="node7" href="$classCore.html#a1b9caf64e5e23bf1a2923da3dde0ce24" title="Returns our user status." alt="" coords="283,259,405,285"/>
+<area shape="rect" id="node8" href="$classWidget.html#a66bd804412eeeadcb29abe47270fc566" title=" " alt="" coords="287,309,401,336"/>
+<area shape="rect" id="node9" href="$classWidget.html#a698d929b520884009f9092b0e47bcae5" title="Plays a sound via the audioNotification AudioSink." alt="" coords="255,361,433,402"/>
+<area shape="rect" id="node10" href="$classWidget.html#af8b85b1d48ed8fb3964d7c6d1a865429" title=" " alt="" coords="491,327,693,369"/>
+<area shape="rect" id="node11" href="$classSettings.html#a1dedf2e3a1e85758fc9c7a80b293ce81" title=" " alt="" coords="497,393,687,434"/>
+</map>

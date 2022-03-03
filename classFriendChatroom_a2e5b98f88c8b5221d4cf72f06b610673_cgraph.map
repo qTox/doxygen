@@ -1,0 +1,6 @@
+<map id="FriendChatroom::possibleToOpenInNewWindow" name="FriendChatroom::possibleToOpenInNewWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,193,98"/>
+<area shape="rect" id="node2" href="$classIDialogs.html#a3d68456f3c01a6d1f5ba5854b6585d69" title=" " alt="" coords="251,5,433,32"/>
+<area shape="rect" id="node3" href="$classIDialogsManager.html#a1853e347c810e20eadb5473764867512" title=" " alt="" coords="241,57,443,98"/>
+<area shape="rect" id="node4" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="265,123,419,149"/>
+</map>

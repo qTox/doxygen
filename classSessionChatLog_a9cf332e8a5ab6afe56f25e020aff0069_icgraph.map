@@ -1,0 +1,4 @@
+<map id="SessionChatLog::searchBackward" name="SessionChatLog::searchBackward">
+<area shape="rect" id="node1" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="267,5,507,32"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="5,5,219,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CameraSource::unsubscribe" name="CameraSource::unsubscribe">
+<area shape="rect" id="node1" title="Stop emitting frameAvailable signals, and free associated resources if necessary." alt="" coords="5,31,208,57"/>
+<area shape="rect" id="node2" href="$classCameraSource.html#a3cbf9f978255ddaf522941d6603231f6" title="Closes the video device and stops streaming." alt="" coords="256,31,460,57"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#a85adc6040ff8cf4d49009902a4eb309d" title="Closes the device. Never fails." alt="" coords="531,5,691,32"/>
+<area shape="rect" id="node4" href="$classVideoFrame.html#a979d1ff7ddbb8bc13a4a77143a433f7f" title="Untracks all the frames for the given VideoSource, releasing them if specified." alt="" coords="508,56,713,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ToxId::getBytes" name="ToxId::getBytes">
+<area shape="rect" id="node1" title="Gets the ToxID as bytes, convenience function for toxcore interface." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$classToxId.html#a634c79008d03313833d37a5f4e1d1218" title="Check it it&#39;s a valid Tox ID by verifying the checksum." alt="" coords="176,5,283,32"/>
+</map>

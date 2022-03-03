@@ -1,0 +1,4 @@
+<map id="History::getDateWhereFindPhrase" name="History::getDateWhereFindPhrase">
+<area shape="rect" id="node1" title="Search phrase in chat messages." alt="" coords="267,5,464,47"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="5,13,219,39"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="FilesForm::FilesForm" name="FilesForm::FilesForm">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,161,192"/>
+<area shape="rect" id="node2" href="$classCoreFile.html#ac5a92c0510055b33d6e81ef191d6c803" title=" " alt="" coords="231,5,411,32"/>
+<area shape="rect" id="node3" href="$classCoreFile.html#a66c54cb1db593c01e6576e1de16f3c4b" title=" " alt="" coords="231,56,411,83"/>
+<area shape="rect" id="node4" href="$classFilesForm.html#ac27a68a4501d2bfe8f4ba0508046574d" title=" " alt="" coords="225,158,417,199"/>
+<area shape="rect" id="node13" href="$classFilesForm.html#ad214f2ef45dc0a62bf35b9aa92bf6d3d" title=" " alt="" coords="209,107,432,133"/>
+<area shape="rect" id="node14" href="$classCoreFile.html#aa6126719c80800e3a76f47ca4d1cfc9d" title=" " alt="" coords="221,224,420,251"/>
+<area shape="rect" id="node15" href="$classTranslator.html#a44adb921772ae2b18ee344ff63df6d3c" title="Register a function to be called when the UI needs to be retranslated." alt="" coords="223,275,418,301"/>
+<area shape="rect" id="node16" href="$classFilesForm.html#a51b41b51c41dda677a8dff73fd31e0f5" title=" " alt="" coords="231,325,410,352"/>
+<area shape="rect" id="node5" href="$classWidget.html#a95f5e298b5fb7d2dea28dd1ba396e06e" title=" " alt="" coords="480,107,711,133"/>
+<area shape="rect" id="node9" href="$classFileTransferList_1_1Model.html#ad70ede80ced68ec411fc966cf2149c4f" title=" " alt="" coords="511,158,679,199"/>
+<area shape="rect" id="node6" href="$classGUI.html#aa3b39480266a0808615eb065dd9a8dec" title="Asks the user a question with Ok/Cancel or Yes/No buttons." alt="" coords="773,85,908,112"/>
+<area shape="rect" id="node7" href="$classGUI.html#af0412e2266e0138b7d9e6826e8ab7efe" title=" " alt="" coords="971,60,1113,87"/>
+<area shape="rect" id="node8" href="$classGUI.html#a78ab376fe2c917e5dc0199f634d963d8" title="Returns the singleton instance." alt="" coords="977,111,1107,137"/>
+<area shape="rect" id="node10" href="$classFriendList.html#a27843cf679f4696d66c795996a2e0784" title=" " alt="" coords="762,136,919,163"/>
+<area shape="rect" id="node11" href="$classFriendList.html#ac25b13686b4e2e450ca2b6aa9e9197fe" title=" " alt="" coords="772,187,909,213"/>
+<area shape="rect" id="node12" href="$namespaceFileTransferList.html#ad24990e9b54868e26c0484bd471cb974" title=" " alt="" coords="759,238,923,279"/>
+</map>

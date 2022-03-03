@@ -1,0 +1,6 @@
+<map id="NotificationGenerator::groupInvitationNotification" name="NotificationGenerator::groupInvitationNotification">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,209,98"/>
+<area shape="rect" id="node2" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="257,5,452,32"/>
+<area shape="rect" id="node3" href="$classINotificationSettings.html#acc58c7a221d18da768d970b0624f3726" title=" " alt="" coords="277,57,432,98"/>
+<area shape="rect" id="node4" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="277,123,432,149"/>
+</map>

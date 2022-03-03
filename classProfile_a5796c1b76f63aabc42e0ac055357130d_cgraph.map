@@ -1,0 +1,9 @@
+<map id="Profile::remove" name="Profile::remove">
+<area shape="rect" id="node1" title="Removes the profile permanently. Updates the profiles vector." alt="" coords="5,107,127,133"/>
+<area shape="rect" id="node2" href="$classProfile.html#a028cd7240ff4bc9a4c7b57d4e9532866" title="Retrieves the path to the database file for a given profile." alt="" coords="183,56,322,83"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="379,107,565,133"/>
+<area shape="rect" id="node7" href="$classProfileLocker.html#ae87d40c397f31f1819349df653b1a70d" title="Releases the lock on the current profile." alt="" coords="175,157,331,184"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="393,5,551,32"/>
+<area shape="rect" id="node5" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title=" " alt="" coords="403,56,541,83"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="613,5,749,32"/>
+</map>

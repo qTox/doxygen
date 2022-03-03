@@ -1,0 +1,10 @@
+<map id="GeneralForm::on_showSystemTray_stateChanged" name="GeneralForm::on_showSystemTray_stateChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,225,90"/>
+<area shape="rect" id="node2" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="550,5,709,32"/>
+<area shape="rect" id="node4" href="$classSettings.html#a63505c5914f7cd6b775b529c87b24e16" title="Asynchronous, saves the global settings." alt="" coords="303,56,459,83"/>
+<area shape="rect" id="node7" href="$classSettings.html#afabdfb9ca32b09a48955e0360079b4c4" title=" " alt="" coords="273,132,488,159"/>
+<area shape="rect" id="node3" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="771,5,907,32"/>
+<area shape="rect" id="node5" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="536,56,723,83"/>
+<area shape="rect" id="node6" href="$classPaths.html#aa725df5b53daf07d37eff48f0cf3b000" title="Check if qTox is running in portable mode." alt="" coords="564,107,695,133"/>
+<area shape="rect" id="node8" href="$classSettings.html#a33d46e20a9e857f47272455ca7f3081b" title=" " alt="" coords="568,157,691,184"/>
+</map>

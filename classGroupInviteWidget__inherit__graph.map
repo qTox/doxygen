@@ -1,0 +1,4 @@
+<map id="GroupInviteWidget" name="GroupInviteWidget">
+<area shape="rect" id="node1" title="This class shows information about single group invite and provides buttons to accept/reject it." alt="" coords="5,131,175,296"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,129,83"/>
+</map>

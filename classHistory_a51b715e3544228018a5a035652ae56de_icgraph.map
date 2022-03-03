@@ -1,0 +1,11 @@
+<map id="History::getMessagesForFriend" name="History::getMessagesForFriend">
+<area shape="rect" id="node1" title=" " alt="" coords="761,60,984,87"/>
+<area shape="rect" id="node2" href="$classHistory.html#a857a5a2a080760ae86ecf386a1428c6e" title="Checks if a friend has chat history." alt="" coords="543,19,703,45"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a385c0861dc9410fcf18684d8fe8fc019" title="Unconditionally loads the given index and all future messages that are not in the session chat log in..." alt="" coords="532,82,713,123"/>
+<area shape="rect" id="node3" href="$classAboutFriend.html#a0d170f4e26de5f7af1fbfa2eb4f164da" title=" " alt="" coords="255,5,484,32"/>
+<area shape="rect" id="node5" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title=" " alt="" coords="278,56,461,83"/>
+<area shape="rect" id="node6" href="$classChatHistory.html#a344eb9def397254e0345c21e6bbf7ad4" title="Forces the given index and all future indexes to be in the chatlog." alt="" coords="278,107,461,149"/>
+<area shape="rect" id="node9" href="$classChatHistory.html#ab3ea46732b21c61aaaaf7147ec2e1d12" title="searches backwards through the chat log until phrase is found according to parameter" alt="" coords="263,173,476,200"/>
+<area shape="rect" id="node7" href="$classChatHistory.html#a47c4d731377614a72939cf9aa6925ca9" title="Returns reference to item at idx." alt="" coords="47,89,165,116"/>
+<area shape="rect" id="node8" href="$classChatHistory.html#ab2719a6a9cfa86eaa1907e4ee9d64674" title="searches forwards through the chat log until phrase is found according to parameter" alt="" coords="5,140,207,167"/>
+</map>

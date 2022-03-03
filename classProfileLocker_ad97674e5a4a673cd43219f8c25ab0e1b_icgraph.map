@@ -1,0 +1,4 @@
+<map id="ProfileLocker::isLockable" name="ProfileLocker::isLockable">
+<area shape="rect" id="node1" title="Checks if a profile is currently locked by another instance. If we own the lock, we consider it locka..." alt="" coords="213,5,395,32"/>
+<area shape="rect" id="node2" href="$classLoginScreen.html#a133220005b416d6ae000d3e06e37a377" title=" " alt="" coords="5,5,165,32"/>
+</map>

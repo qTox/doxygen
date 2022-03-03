@@ -1,0 +1,13 @@
+<map id="Profile::setPassword" name="Profile::setPassword">
+<area shape="rect" id="node1" title="Changes the encryption password and re&#45;saves everything with it." alt="" coords="5,81,157,108"/>
+<area shape="rect" id="node2" href="$classProfile.html#ae8984eaa8c764e59bfa77eca55113db9" title="Get a contact&#39;s avatar from cache." alt="" coords="223,5,395,32"/>
+<area shape="rect" id="node6" href="$classToxEncrypt.html#a83619310948690d481abeddd5e49f400" title="Factory method for the ToxEncrypt object." alt="" coords="205,56,413,83"/>
+<area shape="rect" id="node7" href="$classProfile.html#a38e7e280054ff9d19e2a4178c60351a9" title="Saves the profile&#39;s .tox save, encrypted if needed." alt="" coords="223,157,396,184"/>
+<area shape="rect" id="node11" href="$classProfile.html#a4f48c9d37cb135b1cec9a25a1f996ce0" title="Save an avatar to cache." alt="" coords="237,107,381,133"/>
+<area shape="rect" id="node3" href="$classProfile.html#a4d7f0d79c7b1eb3c435c1a4ab033f2c6" title="Gets the path of the avatar file cached by this profile and corresponding to this owner ID." alt="" coords="469,56,610,83"/>
+<area shape="rect" id="node4" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="685,107,871,133"/>
+<area shape="rect" id="node5" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="707,56,849,83"/>
+<area shape="rect" id="node8" href="$classProfile.html#aa4b2d556bf92d4f7ea48564a17f79942" title="Write the .tox save, encrypted if needed." alt="" coords="461,157,617,184"/>
+<area shape="rect" id="node9" href="$classProfileLocker.html#abd3991dc28df89388a431243f568a076" title="Check that we actually own the lock. In case the file was deleted on disk, restore it...." alt="" coords="687,157,869,184"/>
+<area shape="rect" id="node10" href="$classProfileLocker.html#a695afe4fdaa99393d1665920f6e586f9" title="Get current locked profile name." alt="" coords="665,208,891,235"/>
+</map>

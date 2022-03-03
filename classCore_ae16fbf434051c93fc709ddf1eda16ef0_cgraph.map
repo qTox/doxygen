@@ -1,0 +1,9 @@
+<map id="Core::process" name="Core::process">
+<area shape="rect" id="node1" title="Processes toxcore events and ensure we stay connected, called by its own timer." alt="" coords="5,122,116,149"/>
+<area shape="rect" id="node2" href="$classCore.html#a31a9203e17de26471abfedf8736603d8" title="Connects us to the Tox network." alt="" coords="177,71,322,98"/>
+<area shape="rect" id="node6" href="$classCore.html#a2c4cf238a65083affe97ef1cfcdc74c4" title=" " alt="" coords="164,122,335,149"/>
+<area shape="rect" id="node7" href="$classCore.html#a1c9a5d16e33c55c91935033146757c9d" title=" " alt="" coords="182,173,317,199"/>
+<area shape="rect" id="node3" href="$classIBootstrapListGenerator.html#a15e1f85ec3c233e6833f1c15db4ddb94" title=" " alt="" coords="399,5,577,47"/>
+<area shape="rect" id="node4" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title=" " alt="" coords="383,71,593,98"/>
+<area shape="rect" id="node5" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="417,122,559,149"/>
+</map>

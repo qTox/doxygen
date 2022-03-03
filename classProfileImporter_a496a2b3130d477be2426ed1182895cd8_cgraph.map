@@ -1,0 +1,8 @@
+<map id="ProfileImporter::importProfile" name="ProfileImporter::importProfile">
+<area shape="rect" id="node1" title="Try to import Tox profile." alt="" coords="5,81,216,108"/>
+<area shape="rect" id="node2" href="$classProfileImporter.html#ad5eb563ac79a45600f5737019a222507" title="Asks the user a question with Yes/No choices." alt="" coords="264,5,472,32"/>
+<area shape="rect" id="node3" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="289,56,447,83"/>
+<area shape="rect" id="node5" href="$classSettings.html#a7067efdb27faaddb4bb4829d08997481" title=" " alt="" coords="299,107,437,133"/>
+<area shape="rect" id="node6" href="$classPaths.html#a87a395b9080674d05c2c41ae059558d1" title="Get path to directory, where the settings files are stored." alt="" coords="275,157,461,184"/>
+<area shape="rect" id="node4" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="520,56,656,83"/>
+</map>

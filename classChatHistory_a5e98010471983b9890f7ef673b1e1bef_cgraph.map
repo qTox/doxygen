@@ -1,0 +1,13 @@
+<map id="ChatHistory::getInitialChatLogIdx" name="ChatHistory::getInitialChatLogIdx">
+<area shape="rect" id="node1" title="Gets the initial chat log index for a sessionChatLog with 0 items loaded from history...." alt="" coords="5,57,200,98"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a088f7504cbfbe5348eba7024400cc176" title=" " alt="" coords="254,5,455,32"/>
+<area shape="rect" id="node4" href="$classHistory.html#ac44641454765cf9ce2c71ed1e17adccf" title=" " alt="" coords="248,57,461,98"/>
+<area shape="rect" id="node11" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="277,123,432,149"/>
+<area shape="rect" id="node3" href="$classSettings.html#a20043d9e2168266b84dd45e90a932a6a" title=" " alt="" coords="517,5,715,32"/>
+<area shape="rect" id="node5" href="$classHistory.html#a889a688372db3fe48bdb1dc37e8755c2" title=" " alt="" coords="509,111,723,153"/>
+<area shape="rect" id="node6" href="$classHistory.html#a62105626e8e77040b7f51d98458de193" title="Determines if history access should be blocked." alt="" coords="771,64,988,91"/>
+<area shape="rect" id="node10" href="$classContactId.html#ac7917798235c68c6112e9089ca05da27" title="Converts the ContactId to a uppercase hex string." alt="" coords="808,119,951,145"/>
+<area shape="rect" id="node7" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="1036,39,1195,65"/>
+<area shape="rect" id="node9" href="$classHistory.html#ac09cc6497d03c92ba5e1dc13e67d1730" title="Checks if the database was opened successfully." alt="" coords="1056,89,1175,116"/>
+<area shape="rect" id="node8" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="1243,39,1379,65"/>
+</map>

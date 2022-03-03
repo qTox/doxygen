@@ -1,0 +1,8 @@
+<map id="FriendMessageDispatcher::onMessageReceived" name="FriendMessageDispatcher::onMessageReceived">
+<area shape="rect" id="node1" title="Handles received message from toxcore." alt="" coords="5,41,196,83"/>
+<area shape="rect" id="node2" href="$classFriend.html#af70f411bcc1eb67da52483a63c19b01f" title=" " alt="" coords="267,19,422,46"/>
+<area shape="rect" id="node3" href="$classMessageProcessor.html#a9f7e000600663929230c4c38e6dae9cb" title="Converts an incoming message into a sanitized Message." alt="" coords="244,71,445,112"/>
+<area shape="rect" id="node4" href="$classMessageProcessor_1_1SharedParams.html#aa6d722f01c57b6a4915b464901371a69" title=" " alt="" coords="521,5,717,47"/>
+<area shape="rect" id="node5" href="$classMessageProcessor_1_1SharedParams.html#aee1f2575ed46aee502cb752b09419321" title=" " alt="" coords="511,71,726,112"/>
+<area shape="rect" id="node6" href="$classMessageProcessor_1_1SharedParams.html#ad05190a3aa9607eec77cb2859bd22d25" title=" " alt="" coords="493,136,744,177"/>
+</map>

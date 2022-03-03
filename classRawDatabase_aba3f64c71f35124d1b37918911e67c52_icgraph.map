@@ -1,0 +1,4 @@
+<map id="RawDatabase::deriveKey" name="RawDatabase::deriveKey">
+<area shape="rect" id="node1" title="Derives a 256bit key from the password and returns it hex&#45;encoded." alt="" coords="255,5,440,32"/>
+<area shape="rect" id="node2" href="$classRawDatabase.html#aad13f2a1276986076a1bcaa687b299ba" title="Changes the database password, encrypting or decrypting if necessary." alt="" coords="5,5,207,32"/>
+</map>

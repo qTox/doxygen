@@ -1,0 +1,17 @@
+<map id="GroupChatForm::onCallClicked" name="GroupChatForm::onCallClicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,225,239"/>
+<area shape="rect" id="node2" href="$classCore.html#af6cc32bf5d8bddec15e996b1083bb517" title=" " alt="" coords="638,187,735,214"/>
+<area shape="rect" id="node3" href="$classCoreAV.html#ac80a7696acb12925a3bebe1d7c923949" title="Returns the group calls input (microphone) state." alt="" coords="595,5,779,47"/>
+<area shape="rect" id="node5" href="$classCoreAV.html#aee7a56cb253c663e5cb315c34739e584" title="Returns the group calls output (speaker) state." alt="" coords="589,71,784,112"/>
+<area shape="rect" id="node6" href="$classGroupChatForm.html#a6d0486c32ee02b1102c0cf3ce765120e" title=" " alt="" coords="279,137,499,163"/>
+<area shape="rect" id="node8" href="$classGroupChatForm.html#afedc07935df8c22150c12ff5ea9563cf" title=" " alt="" coords="273,238,505,265"/>
+<area shape="rect" id="node10" href="$classChatFormHeader.html#a28326807917f923c24232ddfc235e4e9" title=" " alt="" coords="284,289,495,331"/>
+<area shape="rect" id="node14" href="$classChatFormHeader.html#a6ad01a3fd98b7f0d48ca213425936538" title=" " alt="" coords="280,355,499,396"/>
+<area shape="rect" id="node15" href="$classChatFormHeader.html#a99623829a70c9323d4b47c8c286865a3" title=" " alt="" coords="280,420,499,461"/>
+<area shape="rect" id="node4" href="$classGroup.html#a789813092374be0b1ef836a2cbd674ba" title=" " alt="" coords="929,107,1032,134"/>
+<area shape="rect" id="node7" href="$classCoreAV.html#ad6d6fdf66bd3e4bdc14b429a7e667ddc" title="Starts a call in an existing AV groupchat." alt="" coords="605,137,769,163"/>
+<area shape="rect" id="node9" href="$classCoreAV.html#a334d196a321c5727ae8a0d41f3ed5243" title="Will not leave the group, just stop the call." alt="" coords="599,238,775,265"/>
+<area shape="rect" id="node11" href="$classChatFormHeader.html#a88de3d97b00fa1a12eecd2405ab7892f" title=" " alt="" coords="553,362,820,389"/>
+<area shape="rect" id="node12" href="$classStyle.html#a6e3a12537db8ac12ea8693537976abd9" title=" " alt="" coords="923,387,1038,414"/>
+<area shape="rect" id="node13" href="$classChatFormHeader.html#a3f981ace3f2d381d447d10fcf283a8ff" title=" " alt="" coords="868,337,1093,363"/>
+</map>

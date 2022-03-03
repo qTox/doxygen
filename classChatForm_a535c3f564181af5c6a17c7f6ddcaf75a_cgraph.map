@@ -1,0 +1,7 @@
+<map id="ChatForm::showOutgoingCall" name="ChatForm::showOutgoingCall">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,216,98"/>
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a760b2633f3394c4eb7321ee63c28618c" title=" " alt="" coords="285,5,501,47"/>
+<area shape="rect" id="node4" href="$classFriend.html#a4e5ab2a6eb7e7ea04d2b01d73677a280" title="Friend::getDisplayedName Gets the name that should be displayed for a user." alt="" coords="296,71,491,98"/>
+<area shape="rect" id="node5" href="$classChatFormHeader.html#aa5863eb88909b66d436987a068d3d72a" title=" " alt="" coords="264,122,523,149"/>
+<area shape="rect" id="node3" href="$classIChatLog.html#ac156e63185b2645af3ca2d09f799d71d" title="Inserts a system message at the end of the chat." alt="" coords="571,13,789,39"/>
+</map>

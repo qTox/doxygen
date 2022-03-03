@@ -1,0 +1,4 @@
+<map id="SettingsSerializer" name="SettingsSerializer">
+<area shape="rect" id="node1" title="Serializes a QSettings&#39;s data in an (optionally) encrypted binary format. SettingsSerializer can dete..." alt="" coords="5,321,173,765"/>
+<area shape="rect" id="node2" href="$classToxEncrypt.html" title="Encapsulates the toxencrypsave API. Since key derivation is work intensive and to avoid storing plain..." alt="" coords="12,5,167,259"/>
+</map>

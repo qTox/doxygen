@@ -1,0 +1,4 @@
+<map id="ToxId::toString" name="ToxId::toString">
+<area shape="rect" id="node1" title="Returns the Tox ID converted to QString. Is equal to getPublicKey() if the Tox ID was constructed fro..." alt="" coords="192,5,307,32"/>
+<area shape="rect" id="node2" href="$classProfileInfo.html#a4c7727cde4f4f80a87732015c6abafc7" title="Copy self ToxId to clipboard." alt="" coords="5,5,144,32"/>
+</map>

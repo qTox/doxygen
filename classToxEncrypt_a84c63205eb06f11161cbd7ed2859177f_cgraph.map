@@ -1,0 +1,4 @@
+<map id="ToxEncrypt::decrypt" name="ToxEncrypt::decrypt">
+<area shape="rect" id="node1" title="Decrypts data encrypted with this module, using the stored key." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$classToxEncrypt.html#a491755ce79ebb5f73b11254dd8e28095" title="Checks if the data was encrypted by this module." alt="" coords="204,5,381,32"/>
+</map>

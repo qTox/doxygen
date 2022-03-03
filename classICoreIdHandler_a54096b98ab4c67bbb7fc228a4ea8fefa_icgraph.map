@@ -1,0 +1,26 @@
+<map id="ICoreIdHandler::getUsername" name="ICoreIdHandler::getUsername">
+<area shape="rect" id="node1" title=" " alt="" coords="2296,91,2511,118"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a46049bd99919563e0b5dd16fe90f7d74" title=" " alt="" coords="1468,346,1668,373"/>
+<area shape="rect" id="node3" href="$classChatHistory.html#a8c1fc9d72feb0b27fcf44f8d4fc68036" title=" " alt="" coords="1463,62,1673,89"/>
+<area shape="rect" id="node5" href="$classGroup.html#a47adacfcfe1b45201f80e5933fc41654" title=" " alt="" coords="2039,11,2231,38"/>
+<area shape="rect" id="node13" href="$classSessionChatLog.html#a96d11e8a95b628894fdf0b3a74f5eada" title=" " alt="" coords="2021,139,2248,180"/>
+<area shape="rect" id="node4" href="$classChatHistory.html#a4af83d592f2eaee02a8316c3393a8d52" title=" " alt="" coords="1197,62,1379,89"/>
+<area shape="rect" id="node6" href="$classWidget.html#a31a8fd9d41a45ee0f2f1c97269e71aee" title=" " alt="" coords="1736,11,1973,38"/>
+<area shape="rect" id="node7" href="$classWidget.html#ae9f7a9dab63c1933fb359e3b1f5e7b54" title=" " alt="" coords="949,113,1128,139"/>
+<area shape="rect" id="node8" href="$classNexus.html#ada5ffc7a425c219135950a097c30b6fe" title=" " alt="" coords="740,113,901,139"/>
+<area shape="rect" id="node9" href="$classNexus.html#a8599bbf3f5623654f05f888169e5d000" title="Sets up invariants and calls showLogin." alt="" coords="591,87,692,114"/>
+<area shape="rect" id="node10" href="$classNexus.html#a165e0af00d4eddec9df15e3579b3cf00" title=" " alt="" coords="339,87,543,114"/>
+<area shape="rect" id="node11" href="$classNexus.html#a9ddf4d0520e35d3e75a8f04a2d8c85f1" title="Hides the main GUI, delete the profile, and shows the login screen." alt="" coords="151,87,291,114"/>
+<area shape="rect" id="node12" href="$classWidget.html#a48a309a5ba546093347a9c3e2ce71798" title=" " alt="" coords="5,113,103,139"/>
+<area shape="rect" id="node14" href="$classSessionChatLog.html#a5d3f25f92f514a87542490a5e0b6cd82" title="Updates file state in the chatlog." alt="" coords="1741,246,1968,273"/>
+<area shape="rect" id="node19" href="$classSessionChatLog.html#a91e922f07ec81480eff8e43b839d7617" title="Inserts message data into the chatlog buffer." alt="" coords="1751,164,1958,205"/>
+<area shape="rect" id="node24" href="$classSessionChatLog.html#ab863726828d5cc1c0b756f0950ad67ef" title="Inserts message data into the chatlog buffer." alt="" coords="1737,113,1973,139"/>
+<area shape="rect" id="node15" href="$classSessionChatLog.html#a26621d3829ef2381a2d253d78995f6b1" title=" " alt="" coords="1456,280,1680,321"/>
+<area shape="rect" id="node17" href="$classSessionChatLog.html#a1fecc026256c1c85fe70413717b78614" title=" " alt="" coords="1456,215,1680,256"/>
+<area shape="rect" id="node16" href="$classChatHistory.html#abddd05bb13f8ae19010a847aba7581a3" title=" " alt="" coords="1189,280,1387,321"/>
+<area shape="rect" id="node18" href="$classChatHistory.html#a2a7accf97c9238b9c45c7949fda929b1" title=" " alt="" coords="1189,215,1387,256"/>
+<area shape="rect" id="node20" href="$classWidget.html#a01b841c4e44ac111eea0e3511716acb3" title=" " alt="" coords="1490,163,1646,190"/>
+<area shape="rect" id="node23" href="$classChatHistory.html#addb5c44ae1d6e70549875bcb6636d69b" title=" " alt="" coords="1448,113,1688,139"/>
+<area shape="rect" id="node21" href="$classWidget.html#a8934c07b4682e3db1c6ec8842eed226f" title=" " alt="" coords="1176,113,1400,139"/>
+<area shape="rect" id="node22" href="$classWidget.html#a0128f13c3f0c314995acb82ed65fad54" title=" " alt="" coords="1203,163,1373,190"/>
+</map>

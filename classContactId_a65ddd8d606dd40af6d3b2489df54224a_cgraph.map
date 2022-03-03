@@ -1,0 +1,4 @@
+<map id="ContactId::getData" name="ContactId::getData">
+<area shape="rect" id="node1" title="Returns a pointer to the raw id data." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$classContactId.html#acefde9768d99015a7028ca3fea50c852" title="Checks if the ContactId contains a id." alt="" coords="197,5,343,32"/>
+</map>

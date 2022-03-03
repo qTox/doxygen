@@ -1,0 +1,5 @@
+<map id="GroupChatForm::onTitleChanged" name="GroupChatForm::onTitleChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,240,39"/>
+<area shape="rect" id="node2" href="$classGenericChatForm.html#a760b2633f3394c4eb7321ee63c28618c" title=" " alt="" coords="288,5,504,47"/>
+<area shape="rect" id="node3" href="$classIChatLog.html#ac156e63185b2645af3ca2d09f799d71d" title="Inserts a system message at the end of the chat." alt="" coords="552,13,771,39"/>
+</map>

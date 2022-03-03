@@ -1,0 +1,9 @@
+<map id="CameraDevice::getDeviceList" name="CameraDevice::getDeviceList">
+<area shape="rect" id="node1" title="Get device list with desciption." alt="" coords="804,42,1019,69"/>
+<area shape="rect" id="node2" href="$classCameraDevice.html#affa8877e347ad77abcce1b6bbeb9f938" title="Get the default device name." alt="" coords="561,5,756,47"/>
+<area shape="rect" id="node4" href="$classAVForm.html#a3e340196a797ac7e58549be71b9e4223" title=" " alt="" coords="563,71,754,98"/>
+<area shape="rect" id="node3" href="$classCameraSource.html#af9f854f5b1394320fc2f4c58de0a2118" title="Setup default device." alt="" coords="304,13,513,39"/>
+<area shape="rect" id="node5" href="$classAVForm.html#a0e867ce7aa5ea8334ac4144c03d21c7c" title=" " alt="" coords="321,67,496,94"/>
+<area shape="rect" id="node7" href="$classAVForm.html#a91b62e4875e817bca42b129605eb26ac" title=" " alt="" coords="333,118,484,145"/>
+<area shape="rect" id="node6" href="$classAVForm.html#a6ed24426a480fd540fb2916870b3ceb0" title=" " alt="" coords="5,67,256,94"/>
+</map>

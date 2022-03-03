@@ -1,0 +1,4 @@
+<map id="SessionChatLog::addSystemMessage" name="SessionChatLog::addSystemMessage">
+<area shape="rect" id="node1" title="Inserts a system message at the end of the chat." alt="" coords="291,5,497,47"/>
+<area shape="rect" id="node2" href="$classChatHistory.html#a3fb366a4aa06e95f9fa72d592076934a" title="Inserts a system message at the end of the chat." alt="" coords="5,13,243,39"/>
+</map>

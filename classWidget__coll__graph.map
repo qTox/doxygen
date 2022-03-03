@@ -1,0 +1,52 @@
+<map id="Widget" name="Widget">
+<area shape="rect" id="node1" title=" " alt="" coords="1399,2887,1649,3844"/>
+<area shape="rect" id="node2" title=" " alt="" coords="114,2527,230,2604"/>
+<area shape="rect" id="node3" href="$classGenericChatroomWidget.html" title=" " alt="" coords="254,2387,461,2743"/>
+<area shape="rect" id="node4" href="$classGenericChatItemWidget.html" title=" " alt="" coords="5,1690,208,1855"/>
+<area shape="rect" id="node5" title=" " alt="" coords="25,739,98,817"/>
+<area shape="rect" id="node6" href="$classCroppingLabel.html" title=" " alt="" coords="122,593,334,963"/>
+<area shape="rect" id="node7" title=" " alt="" coords="117,108,184,185"/>
+<area shape="rect" id="node8" href="$classMaskablePixmapWidget.html" title=" " alt="" coords="430,1639,645,1907"/>
+<area shape="rect" id="node49" href="$classClickableTE.html" title=" " alt="" coords="559,1215,739,1292"/>
+<area shape="rect" id="node46" href="$classProfileForm.html" title=" " alt="" coords="677,2336,925,2795"/>
+<area shape="rect" id="node9" href="$classFriendListWidget.html" title=" " alt="" coords="1737,2307,1975,2824"/>
+<area shape="rect" id="node10" title=" " alt="" coords="739,739,818,817"/>
+<area shape="rect" id="node42" href="$classGroupInviteForm.html" title="This form contains all group invites you received." alt="" coords="962,1653,1129,1892"/>
+<area shape="rect" id="node47" href="$classQRWidget.html" title=" " alt="" coords="815,1683,937,1863"/>
+<area shape="rect" id="node11" href="$classFriendListManager.html" title=" " alt="" coords="3226,578,3417,978"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2824,108,2899,185"/>
+<area shape="rect" id="node14" href="$classCore.html" title=" " alt="" coords="2015,1316,2259,2229"/>
+<area shape="rect" id="node20" href="$classCoreAV.html" title=" " alt="" coords="1799,475,1996,1081"/>
+<area shape="rect" id="node23" href="$classFilesForm.html" title=" " alt="" coords="3353,2439,3556,2692"/>
+<area shape="rect" id="node27" href="$classAddFriendForm.html" title=" " alt="" coords="3859,483,4090,1073"/>
+<area shape="rect" id="node31" href="$classProfile.html" title="Handles all qTox internal paths." alt="" coords="1327,1463,1518,2083"/>
+<area shape="rect" id="node33" href="$classSettings.html" title=" " alt="" coords="1252,365,1479,1191"/>
+<area shape="rect" id="node50" href="$classProfileInfo.html" title="Implement interface, that provides invormation about self profile. Also, provide methods to work with..." alt="" coords="1434,2431,1614,2699"/>
+<area shape="rect" id="node13" href="$structFriendListManager_1_1FilterParams.html" title=" " alt="" coords="3246,79,3397,215"/>
+<area shape="rect" id="node15" href="$classICoreFriendMessageSender.html" title=" " alt="" coords="2020,688,2255,868"/>
+<area shape="rect" id="node16" href="$classICoreIdHandler.html" title=" " alt="" coords="2279,681,2435,875"/>
+<area shape="rect" id="node17" href="$classICoreGroupMessageSender.html" title=" " alt="" coords="2460,688,2695,868"/>
+<area shape="rect" id="node18" href="$classICoreGroupQuery.html" title=" " alt="" coords="2719,659,2913,897"/>
+<area shape="rect" id="node19" href="$classICoreSettings.html" title=" " alt="" coords="2037,35,2182,259"/>
+<area shape="rect" id="node21" href="$classIGroupSettings.html" title=" " alt="" coords="2206,27,2477,266"/>
+<area shape="rect" id="node22" href="$classIBootstrapListGenerator.html" title=" " alt="" coords="2937,695,3151,861"/>
+<area shape="rect" id="node24" href="$classFileTransferList_1_1Model.html" title=" " alt="" coords="3492,1683,3660,1863"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3492,739,3652,817"/>
+<area shape="rect" id="node26" href="$classQHash.html" title=" " alt="" coords="3677,732,3835,824"/>
+<area shape="rect" id="node28" href="$classToxId.html" title="This class represents a Tox ID." alt="" coords="3749,5,3883,288"/>
+<area shape="rect" id="node29" href="$classQList.html" title=" " alt="" coords="3908,108,4041,185"/>
+<area shape="rect" id="node30" href="$classQList.html" title=" " alt="" coords="4066,108,4246,185"/>
+<area shape="rect" id="node32" href="$classPaths.html" title=" " alt="" coords="209,57,399,237"/>
+<area shape="rect" id="node34" href="$classIFriendSettings.html" title=" " alt="" coords="1529,35,1690,259"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1714,108,1830,185"/>
+<area shape="rect" id="node36" href="$classIVideoSettings.html" title=" " alt="" coords="1855,35,2012,259"/>
+<area shape="rect" id="node37" href="$classINotificationSettings.html" title=" " alt="" coords="423,35,614,259"/>
+<area shape="rect" id="node38" href="$classQHash.html" title=" " alt="" coords="639,108,865,185"/>
+<area shape="rect" id="node39" href="$classQList.html" title=" " alt="" coords="890,108,1089,185"/>
+<area shape="rect" id="node40" href="$classQHash.html" title=" " alt="" coords="1113,108,1311,185"/>
+<area shape="rect" id="node41" href="$classQHash.html" title=" " alt="" coords="1335,101,1505,193"/>
+<area shape="rect" id="node43" href="$classQList.html" title=" " alt="" coords="843,739,1061,817"/>
+<area shape="rect" id="node44" href="$classContentLayout.html" title=" " alt="" coords="3813,2468,3966,2663"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3841,1734,3951,1811"/>
+<area shape="rect" id="node48" href="$classIProfileInfo.html" title=" " alt="" coords="1153,1661,1303,1885"/>
+</map>

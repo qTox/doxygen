@@ -1,0 +1,6 @@
+<map id="IChatLog::getFirstIdx" name="IChatLog::getFirstIdx">
+<area shape="rect" id="node1" title="The underlying chat log instance may not want to start at 0." alt="" coords="291,56,447,83"/>
+<area shape="rect" id="node2" href="$classGenericChatForm.html#aeed7810914324f6862213984d8c7d5f2" title=" " alt="" coords="5,5,243,32"/>
+<area shape="rect" id="node3" href="$classGenericChatForm.html#ab52c6a6d88846267b4e631ea4d356e5b" title=" " alt="" coords="9,56,239,83"/>
+<area shape="rect" id="node4" href="$classChatWidget.html#adfdbddac596fbbe1251e4fbcb342dc84" title=" " alt="" coords="34,107,214,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CameraDevice::getDefaultDeviceName" name="CameraDevice::getDefaultDeviceName">
+<area shape="rect" id="node1" title="Get the default device name." alt="" coords="5,60,200,101"/>
+<area shape="rect" id="node2" href="$classCameraDevice.html#af186ca6a5b2ca84abe754fdb6dffcda7" title="Sets CameraDevice::iformat to default." alt="" coords="511,5,705,47"/>
+<area shape="rect" id="node3" href="$classCameraDevice.html#a68fe877af30ae067d85da383c59eed7d" title="Get device list with desciption." alt="" coords="248,42,463,69"/>
+<area shape="rect" id="node4" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="276,93,435,119"/>
+<area shape="rect" id="node6" href="$classSettings.html#a74c7abf989fef4d7a54724f241e0ab3d" title=" " alt="" coords="272,143,439,170"/>
+<area shape="rect" id="node5" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="540,93,676,119"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ToxOptions::makeToxOptions" name="ToxOptions::makeToxOptions">
+<area shape="rect" id="node1" title="Initializes a ToxOptions instance." alt="" coords="5,199,216,225"/>
+<area shape="rect" id="node2" href="$classICoreSettings.html#a2e9d1b319f1be4c70be60bb146ad72c1" title=" " alt="" coords="264,5,475,32"/>
+<area shape="rect" id="node3" href="$classICoreSettings.html#a370b35682a55e80c5a033a65ff0a3e0d" title=" " alt="" coords="278,57,461,98"/>
+<area shape="rect" id="node4" href="$classICoreSettings.html#ae3be8c5ffd7e7777142952eadecd12e6" title=" " alt="" coords="271,123,468,149"/>
+<area shape="rect" id="node5" href="$classICoreSettings.html#a61b2800beea354c12ca78b3a9166bb91" title=" " alt="" coords="267,173,472,200"/>
+<area shape="rect" id="node6" href="$classICoreSettings.html#a52955361edce3ec22eb4e5ba384cdce1" title=" " alt="" coords="269,224,470,251"/>
+<area shape="rect" id="node7" href="$classICoreSettings.html#aea0a9da8ef5a7eedd726bf60c77f6222" title=" " alt="" coords="267,275,472,301"/>
+<area shape="rect" id="node8" href="$namespaceToxLogger.html#ac1be6782376727c4d9898bbd9b4867db" title="Log message handler for toxcore log messages." alt="" coords="273,325,466,352"/>
+<area shape="rect" id="node9" href="$classToxOptions.html#a6f45560eb1ddbecdb2fd19363526365b" title=" " alt="" coords="282,376,457,403"/>
+</map>

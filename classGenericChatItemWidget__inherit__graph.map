@@ -1,0 +1,9 @@
+<map id="GenericChatItemWidget" name="GenericChatItemWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="108,131,311,311"/>
+<area shape="rect" id="node3" href="$classCategoryWidget.html" title=" " alt="" coords="5,359,192,876"/>
+<area shape="rect" id="node5" href="$classGenericChatroomWidget.html" title=" " alt="" coords="217,425,423,810"/>
+<area shape="rect" id="node2" title=" " alt="" coords="173,5,246,83"/>
+<area shape="rect" id="node4" href="$classCircleWidget.html" title=" " alt="" coords="14,1005,183,1273"/>
+<area shape="rect" id="node6" href="$classFriendWidget.html" title=" " alt="" coords="214,924,413,1353"/>
+<area shape="rect" id="node7" href="$classGroupWidget.html" title=" " alt="" coords="437,953,635,1324"/>
+</map>

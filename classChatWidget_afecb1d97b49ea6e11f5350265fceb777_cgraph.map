@@ -1,0 +1,52 @@
+<map id="ChatWidget::setRenderedWindowStart" name="ChatWidget::setRenderedWindowStart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,455,245,497"/>
+<area shape="rect" id="node2" href="$classChatWidget.html#a16b499608db36c59bb77a8c69b74efa3" title=" " alt="" coords="573,41,764,68"/>
+<area shape="rect" id="node8" href="$classChatWidget.html#a83d0e4186f16cb261885d8204273f16a" title=" " alt="" coords="293,488,507,515"/>
+<area shape="rect" id="node3" href="$classChatWidget.html#a05cd794af2ea9420eb558b524dd49b29" title=" " alt="" coords="894,41,1041,68"/>
+<area shape="rect" id="node7" href="$classChatWidget.html#a238403d40cf61f5f1e6c995aa21ce262" title=" " alt="" coords="1725,143,1920,169"/>
+<area shape="rect" id="node4" href="$classChatLine.html#a212ee15c39d6a91cf73bfbafb6be8950" title=" " alt="" coords="1200,143,1328,169"/>
+<area shape="rect" id="node6" href="$classChatLine.html#aa734f999aafe766c1fa717898701f347" title=" " alt="" coords="1157,41,1371,68"/>
+<area shape="rect" id="node5" href="$classChatLine.html#abfbe0ce19f30319e51bc13393c646bca" title=" " alt="" coords="1457,143,1624,169"/>
+<area shape="rect" id="node9" href="$classIChatLog.html#a5d0bf03c78c130ddfe96c9b3d01f5317" title="Returns reference to item at idx." alt="" coords="917,513,1017,540"/>
+<area shape="rect" id="node10" href="$classChatWidget.html#a5c6691d10d8c6315597debfec3a0c7da" title=" " alt="" coords="567,336,771,363"/>
+<area shape="rect" id="node27" href="$classChatWidget.html#a8fbc6216ab29e775c596cf3c49058858" title="Determine if the name at the given idx needs to be hidden." alt="" coords="555,539,783,565"/>
+<area shape="rect" id="node28" href="$classChatWidget.html#a59dd1b2be351c6d6aa35ceb521074a10" title=" " alt="" coords="579,792,758,819"/>
+<area shape="rect" id="node11" href="$classChatWidget.html#af44ff96ce56bc6aca26e8fb9ee58f2b3" title=" " alt="" coords="867,463,1068,489"/>
+<area shape="rect" id="node15" href="$classChatLogItem.html#a16a9a9036c937469a9399b957e5cfa6c" title=" " alt="" coords="863,564,1071,591"/>
+<area shape="rect" id="node19" href="$classChatWidget.html#a6f6a7c9158c0c375b949d700f54ee364" title=" " alt="" coords="866,209,1069,236"/>
+<area shape="rect" id="node20" href="$classChatWidget.html#ad4fdac79b9ccd10d003cb5e21f661a5e" title=" " alt="" coords="1155,244,1373,271"/>
+<area shape="rect" id="node22" href="$classChatWidget.html#a0c5e95983d25817270a9179a531f443e" title=" " alt="" coords="855,311,1079,337"/>
+<area shape="rect" id="node24" href="$classChatWidget.html#a6cfc5af8bf1c3a3dbbedf024551ec079" title=" " alt="" coords="1165,357,1363,384"/>
+<area shape="rect" id="node25" href="$classChatWidget.html#aa5532b1a6a5cf1910bec4a4ac9c2c5a9" title=" " alt="" coords="831,361,1104,388"/>
+<area shape="rect" id="node26" href="$classChatWidget.html#a44be77211c42d7eadf2c0223aa04fe78" title=" " alt="" coords="871,143,1064,185"/>
+<area shape="rect" id="node12" href="$classChatWidget.html#aec736de528bde36c6ca3e1e7ecc95b0b" title=" " alt="" coords="1164,408,1364,435"/>
+<area shape="rect" id="node13" href="$classChatLine.html#ac776152d0f230b5e6b88532cabcfd7a3" title=" " alt="" coords="1169,459,1359,501"/>
+<area shape="rect" id="node14" href="$classChatLine.html#a080a3c460af527b9e4192c4783b16cba" title=" " alt="" coords="1157,525,1371,552"/>
+<area shape="rect" id="node16" href="$classChatLogItem.html#ab95b7a16a809ae00d553dbcaea128bcd" title=" " alt="" coords="1152,597,1376,624"/>
+<area shape="rect" id="node17" href="$classChatLogItem.html#a3920bf552f66ac72be4b6ec8fe7947cd" title=" " alt="" coords="1163,670,1365,711"/>
+<area shape="rect" id="node18" href="$classChatLogItem.html#aa24088bbdb680c32b04e8f80fbaed94f" title=" " alt="" coords="1163,846,1365,887"/>
+<area shape="rect" id="node21" href="$classChatWidget.html#a95d80e2ba506428047f37aac281909ff" title=" " alt="" coords="1424,244,1657,271"/>
+<area shape="rect" id="node23" href="$classChatLineContent.html#ac63a1946c645b2d29aabe8a39fc9a12f" title=" " alt="" coords="1171,307,1357,333"/>
+<area shape="rect" id="node29" href="$classChatMessage.html#ac9742b80694ad6f91fba98fcb2bcff08" title=" " alt="" coords="1715,990,1930,1031"/>
+<area shape="rect" id="node37" href="$classChatLogItem.html#a8f24d7341e0ae0b21fee3f9e0bae9334" title=" " alt="" coords="860,817,1075,844"/>
+<area shape="rect" id="node38" href="$classChatLogItem.html#a6ddd4f5984f65608fe8015892eaead5b" title=" " alt="" coords="856,868,1079,895"/>
+<area shape="rect" id="node39" href="$classCore.html#a6db1a3c431ef63160d3d112ac7079604" title="Gets self public key." alt="" coords="883,919,1052,945"/>
+<area shape="rect" id="node40" href="$classChatLogItem.html#a8bc2df6457b0de47fe824c3e9a07e7a7" title=" " alt="" coords="878,665,1057,692"/>
+<area shape="rect" id="node41" href="$classChatWidget.html#ac5ad16d12bcd29905d0d4af34914737b" title=" " alt="" coords="882,1143,1053,1169"/>
+<area shape="rect" id="node50" href="$structSystemMessage.html#a396610fd99cd695d60c47dd4526ca5fa" title=" " alt="" coords="873,767,1061,793"/>
+<area shape="rect" id="node30" href="$classSettings.html#a8d55c13690362e77fe06d38cc9367216" title=" " alt="" coords="1988,1109,2208,1136"/>
+<area shape="rect" id="node31" href="$classStyle.html#a19b3818a46f8c687c667eb71ba85f895" title=" " alt="" coords="2021,1059,2175,1085"/>
+<area shape="rect" id="node35" href="$classSettings.html#a754f11e4d7d7e9e12b5c411b42dae0fb" title="Returns the singleton instance." alt="" coords="2689,1059,2848,1085"/>
+<area shape="rect" id="node32" href="$classStyle.html#aaffda8a8e124c7f03e3123f3a8836636" title=" " alt="" coords="2256,1059,2425,1085"/>
+<area shape="rect" id="node33" href="$classStyle.html#a360962effd070cc072cd72ca3b86885d" title=" " alt="" coords="2473,1109,2641,1136"/>
+<area shape="rect" id="node34" href="$classStyle.html#a8227caf45236b684fe3ef71303ea29f6" title=" " alt="" coords="2479,1059,2636,1085"/>
+<area shape="rect" id="node36" href="$classSettings.html#ab7169a6eefce79566dd07db3b1e5e967" title=" " alt="" coords="2896,1059,3032,1085"/>
+<area shape="rect" id="node42" href="$classChatMessage.html#a08c3af340e88434cdd3d8af65d05b9c9" title=" " alt="" coords="1705,1317,1940,1358"/>
+<area shape="rect" id="node43" href="$classCore.html#a1c9a5d16e33c55c91935033146757c9d" title=" " alt="" coords="1197,1113,1331,1140"/>
+<area shape="rect" id="node44" href="$classFileTransferWidget.html#adb65516d9e96c1ebe519ed1459e88687" title=" " alt="" coords="1180,1165,1348,1206"/>
+<area shape="rect" id="node45" href="$classFileTransferWidget.html#a70ea2ed928e6b4cd22645d5c7097070c" title=" " alt="" coords="1469,1165,1612,1206"/>
+<area shape="rect" id="node46" href="$classFileTransferWidget.html#a3815efa04e818d624357a53367c3cf00" title=" " alt="" coords="1751,1055,1894,1097"/>
+<area shape="rect" id="node47" href="$classFileTransferWidget.html#a96f9543d4a9627565da5415f4f00e2c1" title=" " alt="" coords="1745,1121,1900,1162"/>
+<area shape="rect" id="node48" href="$classFileTransferWidget.html#aa9588af8c6cc80f4cf5f834ef1982f05" title=" " alt="" coords="1751,1186,1894,1227"/>
+<area shape="rect" id="node49" href="$classFileTransferWidget.html#a96100aa3c0910f178b2cda9dda4b13fa" title=" " alt="" coords="1751,1251,1894,1293"/>
+</map>
